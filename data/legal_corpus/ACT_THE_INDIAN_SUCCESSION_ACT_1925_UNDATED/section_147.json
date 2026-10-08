@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S147",
+  "section_number": "147",
+  "title": "Retention, in form, of specific bequest to several persons in succession",
+  "text": "147. Retention, in form, of specific bequest to several persons in succession.—Where property is\n\nspecifically bequeathed to two or more persons in succession, it shall be retained in the form in which the\ntestator left it, although it may be of such a nature that its value is continually decreasing.\n\n_Illustrations_\n\n(i) A, having lease of a house for a term of years, fifteen of which were unexpired at the time of his death, has\n\nbequeathed the lease to B for his life, and after B’s death to C. B is to enjoy the property as A left it, although, if B\nlives for fifteen years, C can take nothing under the bequest.\n\n(ii) A, having an annuity during the life of B, bequeaths it to C, for his life, and, after C’ s death, to D. C is to\n\nenjoy the annuity as A left it, although, if B dies before D, D can take nothing under the bequest.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d28506802800589f26fa130d8fc17ebd4b7f41c5f1879335edc0109656550aca"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MOTOR_VEHICLES_TAXAT_UNDATED",
+  "act_title": "The Delhi Motor Vehicles Taxation Act, 1962",
+  "section_id": "ACT_THE_DELHI_MOTOR_VEHICLES_TAXAT_UNDATED_S10",
+  "section_number": "10",
+  "title": "Refund of tax.",
+  "text": "10. Refund of tax.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1454/1/196257.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b34fbce53dafb80e816cd7c131d494c34b6377fc53cfa1742b8499ac706bda29"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S5",
+  "section_number": "5",
+  "title": "Omit Part I.",
+  "text": "5. Omit Part I.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3ba09760177db478b0a72713bd8d083729049a3ed2a2553002b874ab62450f50"
+  }
+}

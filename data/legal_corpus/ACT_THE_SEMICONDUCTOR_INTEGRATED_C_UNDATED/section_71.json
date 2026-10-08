@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SEMICONDUCTOR_INTEGRATED_C_UNDATED",
+  "act_title": "The Semiconductor Integrated Circuits Layout-Design Act, 2000",
+  "section_id": "ACT_THE_SEMICONDUCTOR_INTEGRATED_C_UNDATED_S71",
+  "section_number": "71",
+  "title": "Implied warranty on sale of layout-design, etc",
+  "text": "71. Implied warranty on sale of layout-design, etc.—Where a registered layout-design, or a\n\nsemiconductor integrated circuit in which a registered layout-design is incorporated, or an article\nincorporating such a semiconductor integrated circuit is sold or has been contracted for sale, the seller\nshall be deemed to warrant that the registration, of such layout-design or the layout-design so\nincorporated is genuine within the meaning of this Act unless the contrary is expressed in writing signed\nby or on behalf of the seller and delivered at the time of the sale or contract to sell of such layout-design,\nor semiconductor integrated circuit or article, as the case may be, and accepted by the buyer.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1998/1/200037.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4142d2341a7bf658e4e13743d03f194875fe1fd09b4bb44c01a65da0bb5a59bc"
+  }
+}

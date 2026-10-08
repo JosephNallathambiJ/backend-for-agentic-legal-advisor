@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MINES_ACT_1952_UNDATED",
+  "act_title": "The Mines Act, 1952",
+  "section_id": "ACT_THE_MINES_ACT_1952_UNDATED_S31",
+  "section_number": "31",
+  "title": "Hours of work below ground.",
+  "text": "31. Hours of work below ground.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2168/3/A1952-35.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "27aff9a0884671ec9ffc8a249c422c7b7c0f8a17aab066c734d3fd1f430ff435"
+  }
+}

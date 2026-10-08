@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S49",
+  "section_number": "49",
+  "title": "Service of notice of attachment",
+  "text": "49. Service of notice of attachment.—A copy of the order of attachment shall be served on the\n\ndefaulter.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5c8ec89e75fa6af183f431f088ff64b885ceb9771c531f7bef3c4b96832d3a8b"
+  }
+}

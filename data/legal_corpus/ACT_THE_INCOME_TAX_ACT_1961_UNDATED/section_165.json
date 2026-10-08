@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S165",
+  "section_number": "165",
+  "title": "Case where part of trust income is chargeable",
+  "text": "165. Case where part of trust income is chargeable.—Where part only of the income of a trust is\n\nchargeable under this Act, that proportion only of the income receivable by a beneficiary from the trust\nwhich the part so chargeable bears to the whole income of the trust shall be deemed to have been derived\nfrom that part.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ea7244c78d7f3dfb35c733c18a4b267ec7706a182be8e6a453768e048753f06c"
+  }
+}

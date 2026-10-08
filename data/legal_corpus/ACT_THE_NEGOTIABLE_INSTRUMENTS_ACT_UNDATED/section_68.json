@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S68",
+  "section_number": "68",
+  "title": "Presentment for payment of instrument payable at specified place and not elsewhere",
+  "text": "68. Presentment for payment of instrument payable at specified place and not elsewhere.—A\n\npromissory note, bill of exchange or cheque made, drawn or accepted payable at a specified place and not\nelsewhere must, in order to charge any party thereto, be presented for payment at that place.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "33c0bcac03c1983992c4077c4a53a4772191e811536b416437207d711e82d9b5"
+  }
+}

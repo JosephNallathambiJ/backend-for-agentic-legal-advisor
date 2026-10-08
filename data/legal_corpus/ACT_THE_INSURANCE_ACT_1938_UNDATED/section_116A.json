@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED",
+  "act_title": "The Insurance Act, 1938",
+  "section_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED_S116A",
+  "section_number": "116A",
+  "title": "Summary of returns to be published.",
+  "text": "116A. Summary of returns to be published.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "401f90d969943cda1e63b3ea6a2b7f2f6fbbb8b81947a2ef26c8ddfa76596fbc"
+  }
+}

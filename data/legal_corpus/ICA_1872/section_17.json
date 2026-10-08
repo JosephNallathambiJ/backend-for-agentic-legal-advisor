@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S17",
+  "section_number": "17",
+  "title": "“Fraud” defined",
+  "text": "17. “Fraud” defined.—“Fraud” means and includes any of the following acts committed by a party\n\nto a contract, or with his connivance, or by his agent, with intent to deceive another party thereto of his\nagent, or to induce him to enter into the contract:—\n\n(1) the suggestion, as a fact, of that which is not true, by one who does not believe it to be true;\n(2) the active concealment of a fact by one having knowledge or belief of the fact;\n(3) a promise made without any intention of performing it;\n(4) any other act fitted to deceive;\n(5) any such act or omission as the law specially declares to be fraudulent.\n\n_Explanation.—Mere silence as to facts likely to affect the willingness of a person to enter into a_\n\ncontract is not fraud, unless the circumstances of the case are such that, regard being had to them, it is the\nduty of the person keeping silence to speak, or unless his silence is, in itself, equivalent to speech.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "931e8be82022a1e22cd67e9a0eb2607e3a3fa7c36733a971ac709ee08b058ae2"
+  }
+}

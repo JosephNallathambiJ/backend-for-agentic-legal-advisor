@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S29",
+  "section_number": "29",
+  "title": "Valued policy",
+  "text": "29. Valued policy.—(1) A policy may be either valued or unvalued.\n\n(2) A valued policy is a policy which specifies the agreed value of the subject-matter insured.\n\n(3) Subject to the provisions of this Act, and in the absence of fraud, the value fixed by the policy is,\n\nas between the insurer and assured, conclusive of the insurable value of the subject intended to be insured,\nwhether the loss be total or partial.\n\n(4) Unless the policy otherwise provides, the value fixed by the policy is not conclusive for the\n\npurpose of determining whether there has been a constructive total loss.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d04b8b6764e24d53ce6367427a32b240ee74ef4c6bcc5458d90ebe23e67a4640"
+  }
+}

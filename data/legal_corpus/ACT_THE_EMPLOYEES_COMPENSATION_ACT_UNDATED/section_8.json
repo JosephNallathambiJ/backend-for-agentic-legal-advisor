@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S8",
+  "section_number": "8",
+  "title": "Primary epitheliomatous cancer of the skin All work involving exposure to the risk concerned.",
+  "text": "8. Primary epitheliomatous cancer of the skin All work involving exposure to the risk concerned.\ncaused by tar, pitch, bitumen, mineral oil,\nanthracene, or the compounds, products or\nresidues of these substances.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "551e641be7087cfdbb0b7f7e848599beb24a7cb7dca3cc7baccc360163a79a12"
+  }
+}

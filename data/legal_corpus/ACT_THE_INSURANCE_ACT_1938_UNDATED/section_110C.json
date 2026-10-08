@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED",
+  "act_title": "The Insurance Act, 1938",
+  "section_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED_S110C",
+  "section_number": "110C",
+  "title": "Power to call for information.",
+  "text": "110C. Power to call for information.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "596a49ea382f9a3a184fccdbc4f54f0df49cf0f76247e733dde29bb159d2b5f5"
+  }
+}

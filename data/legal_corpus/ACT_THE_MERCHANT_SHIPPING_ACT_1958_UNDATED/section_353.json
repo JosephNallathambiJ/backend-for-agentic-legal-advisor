@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S353",
+  "section_number": "353",
+  "title": "Method of giving helm orders.―No person on any Indian ship shall, when the ship is going",
+  "text": "353. Method of giving helm orders.―No person on any Indian ship shall, when the ship is going\n\nahead, give a helm or steering order containing the word “starboard” or “right” or any equivalent of\n“starboard” or “right” unless he intends that the head of the ship shall move to the “right” or give a\nhelm or steering order containing the word “port” or “left” or any equivalent of “port” or “left” unless\nhe intends that the head of the ship shall move to the left.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a9905be2e5fb595cf6a66270f2601471603607bcca03710232d22bf4c5656de0"
+  }
+}

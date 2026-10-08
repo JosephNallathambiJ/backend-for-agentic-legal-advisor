@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S20A",
+  "section_number": "20A",
+  "title": "Bar of jurisdiction",
+  "text": "20A. Bar of jurisdiction",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6c2f25c451eea829915ae92c67d64227b95b3d190a9913ae5df391849fcf0eee"
+  }
+}

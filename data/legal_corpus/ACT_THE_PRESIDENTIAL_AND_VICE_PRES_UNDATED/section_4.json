@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PRESIDENTIAL_AND_VICE_PRES_UNDATED",
+  "act_title": "The Presidential and Vice-Presidential Elections Act, 1952",
+  "section_id": "ACT_THE_PRESIDENTIAL_AND_VICE_PRES_UNDATED_S4",
+  "section_number": "4",
+  "title": "Add up the numbers so credited to all the candidates, divide the total by two, and add one to the",
+  "text": "4. Add up the numbers so credited to all the candidates, divide the total by two, and add one to the\n\nquotient disregarding any remainder. The resulting number is the quota sufficient to secure the turn of a\ncandidate at the election.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2167/1/195231.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ecd2c8aaefd46868ec1262759c21ddae58b13f12e7271fa6e5eca7e010a7a950"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S60",
+  "section_number": "60",
+  "title": "Benefit not assignable or attachable",
+  "text": "60. Benefit not assignable or attachable.—(1) The right to receive any payment of any benefit\n\nunder this Act shall not be transferable or assignable.\n\n(2) No cash benefit payable under this Act shall be liable to attachment or sale in execution of any\n\ndecree or order of any Court.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "050c5feb56819cbaaa70502b8d3cbeb74b034f22a22fb806cd8b18a8338880e1"
+  }
+}

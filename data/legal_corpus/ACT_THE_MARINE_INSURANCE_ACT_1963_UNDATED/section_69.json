@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S69",
+  "section_number": "69",
+  "title": "Partial loss of ship",
+  "text": "69. Partial loss of ship.—Where a ship is damaged, but is not totally lost, the measure of indemnity\n\nsubject to any express provision in the policy, is as follows—\n\n(1) where the ship has been repaired, the assured is entitled to the reasonable cost of the repairs,\n\nless the customary deductions, but not exceeding the sum insured in respect of any one casualty;\n\n(2) where the ship has been only partially repaired, the assured is entitled to the reasonable cost of\n\nsuch repairs, computed as above, and also to be indemnified for the reasonable depreciation, if any,\narising from the unrepaired damage, provided that the aggregate amount shall not exceed the cost of\nrepairing the whole damage, computed as above;\n\n(3) where the ship has not been repaired, and has not been sold in her damaged state during the\n\nrisk, the assured is entitled to be indemnified for the reasonable depreciation arising from the\nunrepaired damage, but not exceeding the reasonable cost of repairing such damage, computed as\nabove;\n\n(4) where the ship has not been repaired, and has been sold in her damaged state during the risk,\n\nthe assured is entitled to be indemnified for the reasonable cost of repairing the damage, computed as\nabove, but not exceeding the depreciation in value as ascertained by the sale.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3b49b4be0fe6628c780a318f4bc6b0f7c4ddd163a47c7ed0eae1257b781c95b2"
+  }
+}

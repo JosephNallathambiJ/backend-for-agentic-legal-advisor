@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S80",
+  "section_number": "80",
+  "title": "Interest when no rate specified",
+  "text": "80. Interest when no rate specified.— When no rate of interest is specified in the instrument,\n\ninterest on the amount due thereon shall, [notwithstanding any agreement relating to interest between any\nparties to the instrument], be calculated at the rate of [eighteen per centum] per annum, from the date at\nwhich the same ought to have been paid by the party charged, until tender or realization of the amount\ndue thereon, or until such date after the institution of a suit to recover such a mount as the Court directs.\n\n_Explanation.—When the party charged is the indorser of an instrument dishonoured by non-payment,_\n\nhe is liable to pay interest only from the time that he receives notice of the dishonour.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "33c2e2567059aa01b116f711a388849648987b9fdd3601f4ef1f81dbe4aea597"
+  }
+}

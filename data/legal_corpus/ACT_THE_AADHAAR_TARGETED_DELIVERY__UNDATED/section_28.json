@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AADHAAR_TARGETED_DELIVERY__UNDATED",
+  "act_title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016.",
+  "section_id": "ACT_THE_AADHAAR_TARGETED_DELIVERY__UNDATED_S28",
+  "section_number": "28",
+  "title": "Security and confidentiality of information",
+  "text": "28. Security and confidentiality of information.—(1) The Authority shall ensure the security of\n\nidentity information and authentication records of individuals.\n\n(2) Subject to the provisions of this Act, the Authority shall ensure confidentiality of identity\n\ninformation and authentication records of individuals.\n\n(3) The Authority shall take all necessary measures to ensure that the information in the possession or\n\ncontrol of the Authority, including information stored in the Central Identities Data Repository, is secured\nand protected against access, use or disclosure not permitted under this Act or regulations made\nthereunder, and against accidental or intentional destruction, loss or damage.\n\n(4) Without prejudice to sub-sections (1) and (2), the Authority shall—\n\n(a) adopt and implement appropriate technical and organisational security measures;\n\n(b) ensure that the agencies, consultants, advisors or other persons appointed or engaged for\n\nperforming any function of the Authority under this Act, have in place appropriate technical and\norganisational security measures for the information; and\n\n(c) ensure that the agreements or arrangements entered into with such agencies, consultants,\n\nadvisors or other persons, impose obligations equivalent to those imposed on the Authority under this\nAct, and require such agencies, consultants, advisors and other persons to act only on instructions\nfrom the Authority.\n\n(5) Notwithstanding anything contained in any other law for the time being in force, and save as\n\notherwise provided in this Act, the Authority or any of its officers or other employees or any agency that\nmaintains the Central Identities Data Repository shall not, whether during his service or thereafter, reveal\nany information stored in the Central Identities Data Repository or authentication record to anyone:\n\nProvided that an Aadhaar number holder may request the Authority to provide access to his identity\n\ninformation excluding his core biometric information in such manner as may be specified by regulations.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2160/5/A2016-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "443363402978022723872a1220c736b9d8332432edffdf98b3a1af2ddbbc856c"
+  }
+}

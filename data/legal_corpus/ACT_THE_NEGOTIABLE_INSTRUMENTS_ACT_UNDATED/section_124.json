@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S124",
+  "section_number": "124",
+  "title": "Cheque crossed specially",
+  "text": "124. Cheque crossed specially.—Where a cheque bears across its face an addition of the name of a\n\nbanker, either with or without the words “not negotiable,” that addition shall be deemed a crossing and\nthe cheque shall be deemed to be crossed specially, and to be crossed to that banker.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6566f9be6e40c2441873569d9847f676ae2c184da9ce27e5bc9790d66f759425"
+  }
+}

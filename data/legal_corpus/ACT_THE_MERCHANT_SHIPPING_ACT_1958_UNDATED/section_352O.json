@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S352O",
+  "section_number": "352O",
+  "title": "Acceptance of certificates issued outside India.",
+  "text": "352O. Acceptance of certificates issued outside India.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9f10366e480911ea03ef9a7f7731b6af8751e15b1880a6864cb5a6b32a346990"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S144",
+  "section_number": "144",
+  "title": "Guarantee on contract that creditor shall not act on it until co-surety joins",
+  "text": "144. Guarantee on contract that creditor shall not act on it until co-surety joins.—Where a\n\nperson gives a guarantee upon a contract that the creditor shall not act upon it until another person has\njoined in it as co-surety, the guarantee is not valid if that other person does not join.\n\n145.Implied promise to indemnify surety.—In every contract of guarantee there is an implied\n\npromise by the principal debtor to indemnify the surety, and the surety is entitled to recover from the\nprincipal debtor whatever sum he has rightfully paid under the guarantee, but, no sums which he has paid\nwrongfully.\n\n_Illustrations_\n\n(a)B is indebted to C, and A is surety for the debt. C demands payment from A, and on his refusal sues him for the amount.\n\nA defends the suit, having reasonable grounds for doing so, but is compelled to pay the amount of the debt with costs. He can\nrecover from B the amount paid by him for costs, as well as the principal debt.\n\n(b)C lends B a sum of money, and A, at the request of B, accepts a bill of exchange drawn by B upon A to secure the\n\namount. C, the holder of the bill, demands payment of it from A, and, on A’s refusal to pay, sues him upon the bill. A, not having\nreasonable grounds for so doing, defends the suit, and has to pay the amount of the bill and costs. He can recover from B the\namount of the bill, but not the sum paid for costs, as there was no real ground for defending the action.\n\n(c)A guarantees to C, to the extent of 2,000 rupees, payment for rice to be supplied by C to B. C supplies to B rice to a less\n\namount than 2,000 rupees, but obtains from A payment of the sum of 2,000 rupees in respect of the rice supplied. A cannot\nrecover from B more than the price of the rice actually supplied.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6e87c57c1cf7293274a9f602dbb8c6a990598970c3ddd1e5fba87bc8d1028d28"
+  }
+}

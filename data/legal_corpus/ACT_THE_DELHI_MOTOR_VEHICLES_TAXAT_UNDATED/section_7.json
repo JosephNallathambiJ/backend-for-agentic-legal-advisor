@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MOTOR_VEHICLES_TAXAT_UNDATED",
+  "act_title": "The Delhi Motor Vehicles Taxation Act, 1962",
+  "section_id": "ACT_THE_DELHI_MOTOR_VEHICLES_TAXAT_UNDATED_S7",
+  "section_number": "7",
+  "title": "Liability for additional tax",
+  "text": "7. Liability for additional tax.—When any motor vehicle in respect of which a tax for any period is\n\npayable or has been paid, is altered during such period, or proposed to be used during such period in such\nmanner as to cause the vehicle to become a vehicle in respect of which a higher rate of tax is payable, the\nregistered owner or the person who has possession or control of the vehicle, shall, in addition to the tax, if\nany, due from him for that period, be liable to pay for the unexpired portion of such period since the\nvehicle is altered or proposed to be used, an additional tax of a sum equal to the difference between the\namount of tax payable for such unexpired portion at the higher rate and the rate at which the tax was\npayable or paid before the alteration or use of the vehicle for that portion; and until such additional tax\nhas been paid, the taxation authority shall not grant a fresh token in respect of the vehicle so altered or\nproposed to be so used.\n\n_Explanation—In calculating the unexpired portion under this section any broken period in a month_\n\nshall be considered as a full month.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1454/1/196257.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "747cc64ea4a127347df7444f280ffd191fb0b261a79bd7811a0c29b6fae7bd16"
+  }
+}

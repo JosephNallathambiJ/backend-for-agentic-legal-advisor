@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S20",
+  "section_number": "20",
+  "title": "Certificate or survey award issued by a recognised Chamber of Commerce relating to the Quality,",
+  "text": "20. Certificate or survey award issued by a recognised Chamber of Commerce relating to the Quality,\n\nsize, weight or valuation of any goods, count of yarn or percentage of moisture in yarn and other goods.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b65294156f31620f42050660370a63d196a9589a3f7d5f3743b8cf45997cd7ab"
+  }
+}

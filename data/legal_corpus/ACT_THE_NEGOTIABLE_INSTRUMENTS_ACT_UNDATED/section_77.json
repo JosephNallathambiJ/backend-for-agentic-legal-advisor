@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S77",
+  "section_number": "77",
+  "title": "Liability of banker for negligently dealing with bill presented for payment",
+  "text": "77. Liability of banker for negligently dealing with bill presented for payment.—When a bill of\n\nexchange, accepted payable at a specified bank, has been duly presented there for payment and\ndishonoured, if the banker so negligently or improperly keeps, deals with or delivers back such bill as to\ncause loss to the holder, he must compensate the holder for such loss.\n\nCHAPTER VI\n\nOF PAYMENTAND INTEREST\n\n78. To whom payment should be made.—Subject to the provisions of section 82, clause _(c),_\n\npayment of the amount due on a promissory note, bill of exchange or cheque must, in order to discharge\nthe maker or acceptor, be made to the holder of the instrument.\n\n79. Interest when rate specified.—When interest at a specified rate is expressly made payable on a\n\npromissory note or bill of exchange, interest shall be calculated at the rate specified, on the amount of the\nprincipal money due thereon, from the date of the instrument, until tender or realization of such amount,\nor until such date after the institution of a suit to recover such amount as the Court directs.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "efe0f347769b57b78bc961864645f9b074e27465944b5085f934de15d45f5677"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S65",
+  "section_number": "65",
+  "title": "Salvage charges",
+  "text": "65. Salvage charges.—(1) Subject to any express provision in the policy, salvage charges incurred in\n\npreventing a loss by perils insured against may be recovered as a loss by those perils.\n\n(2) “Salvage charges” means the charges recoverable under maritime law by a salvor independently\n\nof contract. They do not include the expenses of services in the nature of salvage rendered by the assured\nor his agents, or any person employed for hire by them, for the purpose of averting a peril insured against.\nSuch expenses, where properly incurred, may be recovered as particular charges or as a general average\nloss, according to the circumstances under which they were incurred.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1c0405c0bf35a120ab2a9bd1df959401124b193e00f08ef1962f3b1a2e1f278d"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_FACTORIES_ACT_1948_UNDATED",
+  "act_title": "The Factories Act, 1948",
+  "section_id": "ACT_THE_FACTORIES_ACT_1948_UNDATED_S111A",
+  "section_number": "111A",
+  "title": "Right of workers, etc.",
+  "text": "111A. Right of workers, etc.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1530/1/A1948-63.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1b313bdd87c9803a3542e1e27c815a262aac0b9b134bfbc608e9920fcf2bc6a4"
+  }
+}

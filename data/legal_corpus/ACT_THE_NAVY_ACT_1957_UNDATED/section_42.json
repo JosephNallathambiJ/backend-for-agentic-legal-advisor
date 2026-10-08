@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NAVY_ACT_1957_UNDATED",
+  "act_title": "The Navy Act, 1957",
+  "section_id": "ACT_THE_NAVY_ACT_1957_UNDATED_S42",
+  "section_number": "42",
+  "title": "Mutiny defined.",
+  "text": "42. Mutiny defined.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1400/1/AAA1957____62.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "44a9b2ca2d4062fc90bc96d6f14b5cdbc29f814e6580f6344db9099462a7fea9"
+  }
+}

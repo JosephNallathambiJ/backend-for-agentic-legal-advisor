@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED",
+  "act_title": "The Government Savings Promotion Act, 1873",
+  "section_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED_S12",
+  "section_number": "12",
+  "title": "10-Year Defence Savings Certificates",
+  "text": "12. 10-Year Defence Savings Certificates",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2281/1/A1873_05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bea98cfa25ba263a60cc39d330d2874e4c18cc1df90956d2ba8b6764dcb65d96"
+  }
+}

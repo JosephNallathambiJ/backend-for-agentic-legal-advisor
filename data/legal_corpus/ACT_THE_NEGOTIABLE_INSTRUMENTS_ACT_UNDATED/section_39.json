@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S39",
+  "section_number": "39",
+  "title": "Suretyship",
+  "text": "39. Suretyship.—When the holder of an accepted bill of exchange enters into any contract with the\n\nacceptor which, under section 134 or 135 of the Indian Contract Act, 1872 (9 of 1872), would discharge\nthe other parties, the holder may expressly reserve his right to charge the other parties, and in such case\nthey are not discharged.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1c0bcd62f854fed5d80d2fdc680f6861ba1aedfd1863524f573eed7b36507cd3"
+  }
+}

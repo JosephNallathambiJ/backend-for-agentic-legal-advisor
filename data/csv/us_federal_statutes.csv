@@ -1,0 +1,3 @@
+jurisdiction,act_id,act_title,short_title,year,act_number,enactment_date,official_url,sha256
+US,US_TITLE_18,United States Code Title 18 — Crimes and Criminal Procedure,Title 18 U.S.C.,1948,N/A,1948,https://uscode.house.gov/view.xhtml?path=/prelim@title18&edition=prelim,7bffffdb85eb268a0d19e711f7bffc2e14b5f80f347b433eaa424125d6b95eb9
+US,US_UCC_ART_2,Uniform Commercial Code — Article 2: Sales,UCC Article 2,1951,N/A,1951,https://www.law.cornell.edu/ucc/2,761f0f2cba57a313c602b7fec09d529fb3809c1e2d3a33843fde8af66cf61f24

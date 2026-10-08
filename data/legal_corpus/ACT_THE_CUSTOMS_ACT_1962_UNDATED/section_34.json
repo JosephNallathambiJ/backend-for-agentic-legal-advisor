@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S34",
+  "section_number": "34",
+  "title": "Goods not to be unloaded or loaded except under supervision of customs officer.",
+  "text": "34. Goods not to be unloaded or loaded except under supervision of customs officer.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "585029fd7216755a2bd37af943fd81322cea026f3673f25ed77614711af46f33"
+  }
+}

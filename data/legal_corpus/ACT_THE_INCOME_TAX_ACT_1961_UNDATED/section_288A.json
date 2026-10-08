@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S288A",
+  "section_number": "288A",
+  "title": "Rounding off of income.",
+  "text": "288A. Rounding off of income.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "33b886cd948de60443f5ae02b3756f19de8eff273210945596ceff86208a1a81"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S104",
+  "section_number": "104",
+  "title": "Arrest by civil authorities",
+  "text": "104. Arrest by civil authorities.—Whenever any person subject to this Act, who is accused of any\n\noffence under this Act, is within the jurisdiction of any magistrate or police officer, such magistrate or\npolice officer shall aid in the apprehension and delivery to military custody of such person upon receipt of\na written application to that effect signed by his commanding officer.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "52af2486111d4a664b53452e81a51f1ae212e07d6db8a9232f2ca85e93120e77"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S133",
+  "section_number": "133",
+  "title": "Convention countries.",
+  "text": "133. Convention countries.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e60b9b9c5affc4e8d31cc2afa24423b5478d4aa22e1ab19cdafdafb4455dc85e"
+  }
+}

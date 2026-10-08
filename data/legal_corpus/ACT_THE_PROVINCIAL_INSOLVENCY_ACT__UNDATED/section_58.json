@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S58",
+  "section_number": "58",
+  "title": "Powers of Court if no receiver appointed",
+  "text": "58. Powers of Court if no receiver appointed.—Where no receiver is appointed, the Court shall\n\nhave all the rights of, and may exercise all the powers conferred on, a receiver under this Act.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "86dd39f52f7a7e16806c81578f67326cf5363a7985cc2244b7f0dd45359eced6"
+  }
+}

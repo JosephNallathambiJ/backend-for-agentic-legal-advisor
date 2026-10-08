@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S99",
+  "section_number": "99",
+  "title": "If any ship proceeds or attempts to",
+  "text": "99. If any ship proceeds or attempts to\n\nproceed to sea in contravention of section",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3dbe7636584c9bf663e0e33e70266db58333a05babfa520ef33fed1219cacf3c"
+  }
+}

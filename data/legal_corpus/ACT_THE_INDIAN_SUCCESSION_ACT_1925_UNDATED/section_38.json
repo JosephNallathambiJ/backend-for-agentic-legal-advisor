@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S38",
+  "section_number": "38",
+  "title": "Where intestate has left no child, but grandchild or grandchildren",
+  "text": "38. Where intestate has left no child, but grandchild or grandchildren.—Where the intestate has\n\nnot left surviving him any child but has left a grandchild or grandchildren and no more remote descendant\nthrough a deceased grandchild, the property shall belong to his surviving grandchild if there is one, or\nshall be equally divided among all his surviving grandchildren.\n\n_Illustrations_\n\n(i) A has three children, and no more, John, Mary and Henry. They all die before the father, John leaving two\n\nchildren, Mary three and Henry four. Afterwards A dies intestate, leaving those nine grandchildren and no\ndescendant of any decreased grandchild. Each of his grandfather will have one-ninth.\n\n(ii) But if Henry has died, leaving no child, then the whole is equally divided between the intestate's five\n\ngrandchildren, the children of John and Mary.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "78fd32dc732533db8237c1371b7d0065b3f7f04489f6c757c76580dbc9936078"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED",
+  "act_title": "The Indian Easements Act, 1882",
+  "section_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED_S21",
+  "section_number": "21",
+  "title": "Bar to use unconnected with enjoyment",
+  "text": "21. Bar to use unconnected with enjoyment.—An easement must not be used for any purpose\n\nnot connected with the enjoyment of the dominant heritage.\n\n_Illustrations_\n\n(a) A, as owner of a farm Y, has a right of way over B’s land to Y. Lying beyond Y, A has another farm Z,\n\nthe beneficial enjoyment of which is not necessary for the beneficial enjoyment of Y. He must not use the\neasement for the purpose of passing to and from Z.\n\n(b) A, as owner of a certain house, has a right of way to and from it. For the purpose of passing to and from\n\nthe house, the right may be used, not only by A, but by the members of his family, his guests, lodgers, servants,\nworkmen, visitors and customers; for this is a purpose connected with the enjoyment of the dominant heritage.\nSo, if A lets the house, he may use the right of way for the purpose of collecting the rent and seeing that the\nhouse is kept in repair.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2349/1/A1882-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0fec30b152a28dab7767d7b87c60b7472ba4f30f4fb55503a6e0ff108b06f23d"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S147",
+  "section_number": "147",
+  "title": "Evidence as to matters in writing",
+  "text": "147. Evidence as to matters in writing.—Any witness may be asked, while under examination,\n\nwhether any contract, grant or other disposition of property, as to which he is giving evidence, was not\ncontained in a document, and if he says that it was, or if he is about to make any statement as to the\ncontents of any document, which, in the opinion of the Court, ought to be produced, the adverse party\nmay object to such evidence being given until such document is produced, or until facts have been proved\nwhich entitle the party who called the witness to give secondary evidence of it.\n\n_Explanation.—A witness may give oral evidence of statements made by other persons about the_\n\ncontents of documents if such statements are in themselves relevant facts.\n\n_Illustration._\n\nThe question is, whether A assaulted B. C deposes that he heard A say to D— “B wrote a letter\n\naccusing me of theft, and I will be revenged on him”. This statement is relevant, as showing A's motive\nfor the assault, and evidence may be given of it, though no other evidence is given about the letter.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2ab4d2108ca00c726c13bde23ee5dce713e52c02b26b3adb66dfc5a9009b7838"
+  }
+}

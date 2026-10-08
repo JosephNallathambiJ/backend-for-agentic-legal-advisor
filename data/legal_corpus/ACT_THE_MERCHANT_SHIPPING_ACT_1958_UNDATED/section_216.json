@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S216",
+  "section_number": "216",
+  "title": "Delivery of official logs to shipping masters.―The master of every ship for which an",
+  "text": "216. Delivery of official logs to shipping masters.―The master of every ship for which an\n\nofficial log book is required to be kept under this Act shall, within forty-eight hours after the ships's\narrival at her final port of destination in India or upon the discharge of the crew, whichever first\nhappens, deliver the official log book of the voyage to the shipping master before whom the crew is\ndischarged.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "45b53048574b2ad5bec7b579d027b87c3d9fe27f45403f6ca5e447f24683d8e0"
+  }
+}

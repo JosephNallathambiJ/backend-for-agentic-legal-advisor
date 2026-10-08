@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S142A",
+  "section_number": "142A",
+  "title": "Validation for transfer of pending cases.",
+  "text": "142A. Validation for transfer of pending cases.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "30815748a335745156b012b64e3f6b6f165911d4f537d7c4f4619ce49c5787d7"
+  }
+}

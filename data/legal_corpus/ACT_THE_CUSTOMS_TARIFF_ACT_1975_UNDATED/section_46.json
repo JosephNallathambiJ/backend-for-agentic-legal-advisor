@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S46",
+  "section_number": "46",
+  "title": "Rosemery 0.5%",
+  "text": "46. Rosemery 0.5%",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fe76d589041e0b4ef8376ac37820443bc9e575435f6f5b84d7d4c1ec8b461de1"
+  }
+}

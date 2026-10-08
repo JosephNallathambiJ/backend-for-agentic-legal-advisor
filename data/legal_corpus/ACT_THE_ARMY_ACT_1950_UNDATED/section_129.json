@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S129",
+  "section_number": "129",
+  "title": "Judge advocate",
+  "text": "129. Judge advocate.—Every general court-martial shall, and every district or summary general\n\ncourt-martial may, be attended by a judge advocate, who shall be either an officer belonging to the\ndepartment of the Judge Advocate General, or if no such officer is available, an officer approved of by the\nJudge Advocate General or any of his deputies.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8739e01ed044d1a62ba7ec5bf3be326c5b60ca89e393c6411e1d25c88c27e539"
+  }
+}

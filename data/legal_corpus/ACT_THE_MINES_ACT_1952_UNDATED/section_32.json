@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MINES_ACT_1952_UNDATED",
+  "act_title": "The Mines Act, 1952",
+  "section_id": "ACT_THE_MINES_ACT_1952_UNDATED_S32",
+  "section_number": "32",
+  "title": "Night shift.",
+  "text": "32. Night shift.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2168/3/A1952-35.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "208437c84c654f145dbc57f5386acf1bd580cf4c490e799db04d668db42d9844"
+  }
+}

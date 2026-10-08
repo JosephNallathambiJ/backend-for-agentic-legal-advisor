@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MOTOR_VEHICLES_ACT_1988_UNDATED",
+  "act_title": "The Motor Vehicles Act, 1988",
+  "section_id": "ACT_THE_MOTOR_VEHICLES_ACT_1988_UNDATED_S97",
+  "section_number": "97",
+  "title": "Definition",
+  "text": "97. Definition.—In this Chapter, unless the context otherwise requires, “road transport service”\n\nmeans a service of motor vehicles carrying passengers or goods or both by road for hire or reward.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1798/1/198859.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ebf36d2e6701c6dcdf63e81ebc92c86d4bc4ec5af1298e68c0e4d034eb2e18b2"
+  }
+}

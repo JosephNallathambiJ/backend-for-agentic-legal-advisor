@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S210",
+  "section_number": "210",
+  "title": "Termination of sub-agent’s authority",
+  "text": "210. Termination of sub-agent’s authority.—The termination of the authority of an agent causes\n\nthe termination (subject to the rules herein contained regarding the termination of an agent’s authority) of\nthe authority of all sub-agents appointed by him.\n\n_Agent’s duty to principal_\n\n211.Agent’s duty in conducting principal’s business.—An agent is bound to conduct the business\n\nof his principal according to the directions given by the principal, or, in the absence of any such\ndirections, according to the custom which prevails in doing business of the same kind at the place where\nthe agent conducts such business. When the agent acts otherwise, if any loss be sustained, he must make it\ngood to his principal, and if any profit accrues, he must account for it.\n\n_Illustrations_\n\n(a) A, an agent engaged in carrying on for B a business, in which it is the custom to invest from time to time, at interest, the\n\nmoneys which may be in hand, omits to make such investment. A must make good to B the interest usually obtained by such\ninvestments.\n\n(b) B, a broker, in whose business it is not the custom to sell on credit, sells goods of A on credit to C, whose credit at the\n\ntime was very high. C, before payment, becomes insolvent. B must make good the loss to A.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "713a82dff6f4a37af3aba327fb9c0d302b020128050619c2cec5a73e6cc33cc9"
+  }
+}

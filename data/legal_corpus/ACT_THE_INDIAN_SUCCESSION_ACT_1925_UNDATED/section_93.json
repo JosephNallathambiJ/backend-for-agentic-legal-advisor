@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S93",
+  "section_number": "93",
+  "title": "Bequest to “heirs,” etc., of particular person without qualifying terms",
+  "text": "93. Bequest to “heirs,” etc., of particular person without qualifying terms.—Where a bequest is\n\nmade to the “heirs” or “right heirs” or “relations” or “nearest relations” or “family” or “kindred” or\n“nearest of kin” or “next-of-kin” of a particular person without any qualifying terms, and the class so\ndesignated forms the direct and independent object of the bequest, the property bequeathed shall\nbe distributed as if it had belonged to such person and he had died intestate in respect of it, leaving assets\nfor the payment of his debts independently of such property.\n\n-----\n\n_Illustrations_\n\n(i) A leaves his property “to my own nearest relations”. The property goes to those who would be entitled to it if\n\nA had died intestate, leaving assets for the payment of his debts independently of such property.\n\n(ii) A bequeaths 10,000 rupees “to B for his life, and, after the death of B, to my own right heirs”. The legacy\n\nafter B’s death belongs to those who would be entitled to it if it had formed part of A’s unbequeathed property.\n\n(iii) A leaves his property to B; but if B dies before him, to B’s next-of kin; B dies before A; the property\n\ndevolves as if it had belonged to B, and he had died intestate, leaving assets for the payment of his debts\nindependently of such property.\n\n(iv) A leaves 10,000 rupees “to B for his life, and after his decease to the heirs of C”. The legacy goes as if it\n\nhad belonged to C, and he had died intestate, leaving assets for the payment of his debt independently of the legacy.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1e4197704bcf0fe71e099d200ea1fd01a958fb8103b4e9c74a087e46531db0e9"
+  }
+}

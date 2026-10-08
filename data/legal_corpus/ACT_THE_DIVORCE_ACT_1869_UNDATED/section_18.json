@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DIVORCE_ACT_1869_UNDATED",
+  "act_title": "The Divorce Act, 1869",
+  "section_id": "ACT_THE_DIVORCE_ACT_1869_UNDATED_S18",
+  "section_number": "18",
+  "title": "Petition for decree of nullity",
+  "text": "18. Petition for decree of nullity.—Any husband or wife may present a petition to the District\n\nCourt , praying that his or her marriage may be declared null and void.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2280/1/A1869-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cad76352acc78e7e0aaaaa448804d149956f54f4f1d56c5415de128b7c72120e"
+  }
+}

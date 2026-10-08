@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_LIMITED_LIABILITY_PARTNERS_UNDATED",
+  "act_title": "The Limited Liability Partnership Act, 2008",
+  "section_id": "ACT_THE_LIMITED_LIABILITY_PARTNERS_UNDATED_S68A",
+  "section_number": "68A",
+  "title": "Registration offices.",
+  "text": "68A. Registration offices.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2023/1/A2009-06.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2b12b382d1fd5b3dd5b0904e1e25dd7d2d867facc48a758ea5086a28e7d65395"
+  }
+}

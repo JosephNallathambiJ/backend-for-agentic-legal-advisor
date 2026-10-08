@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED",
+  "act_title": "The New Delhi Municipal Council Act, 1994",
+  "section_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED_S172",
+  "section_number": "172",
+  "title": "Control of drains and sewage collection works.",
+  "text": "172. Control of drains and sewage collection works.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1986/1/199444.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "379016633f80e6fd7be819795eff995e76165d910fa33446f4be7cc1d292eac5"
+  }
+}

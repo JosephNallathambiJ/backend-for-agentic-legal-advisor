@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S70",
+  "section_number": "70",
+  "title": "to decide disputes among shareholders regarding management of mahal.",
+  "text": "70. to decide disputes among shareholders regarding management of mahal.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "089fa1b789300741d06c3de9f0edb579625f7ceb5afbcc2ea0e092728ba28be4"
+  }
+}

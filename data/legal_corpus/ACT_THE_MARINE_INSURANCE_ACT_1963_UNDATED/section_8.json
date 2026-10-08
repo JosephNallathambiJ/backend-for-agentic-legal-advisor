@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S8",
+  "section_number": "8",
+  "title": "Pirates",
+  "text": "8. Pirates.—The term “pirates” includes passengers who mutiny and rioters who attack the ship from\n\nthe shore.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a14fc1550fd9adbbf618ceff5143192a2c51f3d46b3432b1b3d77a6b3356f132"
+  }
+}

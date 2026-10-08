@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S27",
+  "section_number": "27",
+  "title": "Contravention by companies.",
+  "text": "27. Contravention by companies.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bf98b0779810f50a57380e68d0e0401d840aa7d62365552708bd1002bd808647"
+  }
+}

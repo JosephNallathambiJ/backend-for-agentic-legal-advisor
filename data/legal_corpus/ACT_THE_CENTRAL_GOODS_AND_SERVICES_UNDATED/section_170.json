@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED",
+  "act_title": "The Central Goods and Services Tax Act, 2017",
+  "section_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED_S170",
+  "section_number": "170",
+  "title": "Rounding off of tax, etc",
+  "text": "170. Rounding off of tax, etc.—The amount of tax, interest, penalty, fine or any other sum payable,\n\nand the amount of refund or any other sum due, under the provisions of this Act shall be rounded off to\nthe nearest rupee and, for this purpose, where such amount contains a part of a rupee consisting of paise,\nthen, if such part is fifty paise or more, it shall be increased to one rupee and if such part is less than fifty\npaise it shall be ignored.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "669d55915f6b0516439a70ecaa698cabb3e9b8fa937588b32671707e345611e7"
+  }
+}

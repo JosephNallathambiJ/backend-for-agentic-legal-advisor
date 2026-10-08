@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S91A",
+  "section_number": "91A",
+  "title": "Exemptions to be either prospective or retrospective.",
+  "text": "91A. Exemptions to be either prospective or retrospective.\n91AA. Central Government to be appropriate Government.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "995580e31bbdd7480874e8e8812292b0ad7828e350046f2c461990200bcf09e2"
+  }
+}

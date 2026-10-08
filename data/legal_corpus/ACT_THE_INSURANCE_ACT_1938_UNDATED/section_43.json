@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED",
+  "act_title": "The Insurance Act, 1938",
+  "section_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED_S43",
+  "section_number": "43",
+  "title": "Register of insurance agents.",
+  "text": "43. Register of insurance agents.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "68bcbe8e26a1a16f464335631320edd4e0b641978dfbd73c1466af7c19b3f733"
+  }
+}

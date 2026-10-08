@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S33",
+  "section_number": "33",
+  "title": "Inventory",
+  "text": "33. Inventory.—In the case of attachment of movable property by actual seizure, the officer shall,\n\nafter attachment of the property, prepare an inventory of all the property attached, specifying in it the\nplace where it is lodged or kept, and shall forward the same to the Tax Recovery Officer and a copy of the\ninventory shall be delivered by the officer to the defaulter.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a1d6e23c2eecf8cdc899a67cae6db4f5e85c3aad53358c9854cc5593c02d24ba"
+  }
+}

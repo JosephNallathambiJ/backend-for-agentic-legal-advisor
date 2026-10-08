@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S16",
+  "section_number": "16",
+  "title": "Implied conditions as to quality or fitness",
+  "text": "16. Implied conditions as to quality or fitness.—Subject to the provisions of this Act and of any\n\nother law for the time being in force, there is no implied warranty or condition as to the quality or fitness\nfor any particular purpose of goods supplied under a contract of sale, except as follows:—\n\n(1) Where the buyer, expressly or by implication, makes known to the seller the particular\n\npurpose for which the goods are required, so as to show that the buyer relies on the seller’s skill or\njudgment, and the goods are of a description which it is in the course of the seller’s business to supply\n(whether he is the manufacturer or producer or not), there is an implied condition that the goods shall\nbe reasonably fit for such purpose:\n\nProvided that, in the case of a contract for the sale of a specified article under its patent or other\n\ntrade name, there is no implied condition as to its fitness for any particular purpose.\n\n(2) Where goods are bought by description from a seller who deals in goods of that description\n\n(whether he is the manufacturer or producer or not), there is an implied condition that the goods shall\nbe of merchantable quality:\n\nProvided that, if the buyer has examined the goods, there shall be no implied condition as regards\n\ndefects which such examination ought to have revealed.\n\n(3) An implied warranty or condition as to quality or fitness for a particular purpose may be\n\nannexed by the usage of trade.\n\n(4) An express warranty or condition does not negative a warranty or condition implied by this\n\nAct unless inconsistent therewith.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e59c037685318f9f16eea659f7c1b3ea2ac994ff4c1d53d2f4ec6f1f6dff4bf0"
+  }
+}

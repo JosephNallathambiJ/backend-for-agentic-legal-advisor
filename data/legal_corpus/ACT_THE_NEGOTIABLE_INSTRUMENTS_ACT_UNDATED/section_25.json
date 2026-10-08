@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S25",
+  "section_number": "25",
+  "title": "When day of maturity is a holiday",
+  "text": "25. When day of maturity is a holiday.—When the day on which a promissory note or bill of\n\nexchange is at maturity is a public holiday, the instrument shall be deemed to be due on the next\npreceding, business day.\n\n_Explanation.—The expression “public holiday” includes Sundays: and any other day declared by_\n\nthe [Central Government], by notification in the Official Gazette, to be a public holiday.\n\nCHAPTER III\n\nPARTIES TO NOTES, BILLS AND CHEQUES.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cef615b3a88fb5a943c9a99513f8b3f8340734ffa05226c15dc6e04605729df6"
+  }
+}

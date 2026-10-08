@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S282A",
+  "section_number": "282A",
+  "title": "Authentication of notices and other documents.",
+  "text": "282A. Authentication of notices and other documents.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5f3eb6f5aec9e11fe84d7ce8e02d43a7142deb6a54e764e3c7eedccf277d3a35"
+  }
+}

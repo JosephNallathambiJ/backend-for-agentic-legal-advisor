@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED",
+  "act_title": "The Industries (Development and Regulation)  Act, 1951",
+  "section_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED_S33",
+  "section_number": "33",
+  "title": "GLASS:",
+  "text": "33. GLASS:\n\n(1) Hollow ware.\n\n(2) Sheet and plate glass.\n\n(3) Optical glass.\n\n(4) Glass wool.\n\n(5) Laboratory ware.\n\n(6) Miscellaneous ware.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2118/3/A1951-65.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2705464d148370acff19972bb69647d917f385793e683d8d981c605f51035c33"
+  }
+}

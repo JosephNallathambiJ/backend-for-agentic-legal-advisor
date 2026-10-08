@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_CONTRACTS_REGUL_UNDATED",
+  "act_title": "The Securities Contracts (Regulation) Act, 1956",
+  "section_id": "ACT_THE_SECURITIES_CONTRACTS_REGUL_UNDATED_S13A",
+  "section_number": "13A",
+  "title": "Additional trading floor.",
+  "text": "13A. Additional trading floor.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1644/1/A195642.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8fdfb9f5e1fcf7a9f060a0ab439de932ca45b6ef2abcac683b1f5b2dbe1d6a4f"
+  }
+}

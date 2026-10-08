@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S197",
+  "section_number": "197",
+  "title": "Certificate for deduction at lower rate.",
+  "text": "197. Certificate for deduction at lower rate.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3adf5be26f679c6ce780779bb261002a06562abf64e8b0f062d1c8e80b0e3847"
+  }
+}

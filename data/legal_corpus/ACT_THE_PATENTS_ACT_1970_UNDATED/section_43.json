@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S43",
+  "section_number": "43",
+  "title": "Grant of patents.",
+  "text": "43. Grant of patents.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f9275921b61b5341655050a73b96bf327d0afbdc75710ae83666b46fcad9bfe5"
+  }
+}

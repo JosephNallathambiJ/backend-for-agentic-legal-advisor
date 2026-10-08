@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S203",
+  "section_number": "203",
+  "title": "Certificate for tax deducted.",
+  "text": "203. Certificate for tax deducted.\n\n203A.Tax deduction and collection account number.\n\n203AA. Furnishing of statement of tax deducted.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6c3bac8f321ae07869ceb13b3588ef0926774ca7ba8a66a03780415b3685e086"
+  }
+}

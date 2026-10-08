@@ -1,0 +1,14 @@
+{
+  "act_id": "BNSS_2023",
+  "act_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+  "section_id": "BNSS_2023_S161",
+  "section_number": "161",
+  "title": "Injunction pending inquiry.",
+  "text": "161. Injunction pending inquiry.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20099/3/A2023-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c1d20440a1e45ccc27a78ac1a755c2cead1db7a771d33c6b94cc18e4af3108f3"
+  }
+}

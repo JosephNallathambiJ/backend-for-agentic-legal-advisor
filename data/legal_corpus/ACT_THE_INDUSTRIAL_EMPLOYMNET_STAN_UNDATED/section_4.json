@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIAL_EMPLOYMNET_STAN_UNDATED",
+  "act_title": "The Industrial Employmnet (Standing Orders) Act, 1946",
+  "section_id": "ACT_THE_INDUSTRIAL_EMPLOYMNET_STAN_UNDATED_S4",
+  "section_number": "4",
+  "title": "Attendance and late coming.",
+  "text": "4. Attendance and late coming.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2257/1/AAA1946Em__20.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "35d2f931c38eda77126e321dfdec773b0b746da033efd0b5ddee6797a9d1dd33"
+  }
+}

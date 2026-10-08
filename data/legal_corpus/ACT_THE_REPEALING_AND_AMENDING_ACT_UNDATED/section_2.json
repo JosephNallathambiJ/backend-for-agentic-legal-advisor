@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_REPEALING_AND_AMENDING_ACT_UNDATED",
+  "act_title": "The Repealing and Amending Act, 2023",
+  "section_id": "ACT_THE_REPEALING_AND_AMENDING_ACT_UNDATED_S2",
+  "section_number": "2",
+  "title": "Repeal of certain enactments.",
+  "text": "2. Repeal of certain enactments. —The enactments specified in the First Schedule and the Second\nSchedule are hereby repealed.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19719/1/A202337.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "685c92e75854af2e7ce3a9816aec97b90dbbe89eb7369ea458557ca19a0a5d51"
+  }
+}

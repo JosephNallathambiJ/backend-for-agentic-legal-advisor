@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S23",
+  "section_number": "23",
+  "title": "Calculating maturity of bill or note payable so many months after date or sight",
+  "text": "23. Calculating maturity of bill or note payable so many months after date or sight.—In\n\ncalculating the date at which a promissary note or bill of exchange, made payable a stated number of\nmonths after date or after sight, or after a certain event, is at maturity, the period stated shall be held to\nterminate on the day of the month which corresponds with the day on which the instrument is dated, or\npresented for acceptance or sight, or noted for non-acceptance, or protested for non-acceptance, or the\nevent happens, or, where the instrument is a bill of exchange made payable a stated number of months after\nsight and has been accepted for honour, with the day on which it was so accepted. If the month in which\nthe period would terminate has no corresponding day, the period shall be held to terminate on the last\nday of such month.\n\n_Illustrations_\n\n(a) A negotiable instrument, dated 29th January, 1878, it made payable at one month after date. The instrument is at\n\nmaturity on the third day after the 28th February, 1878.\n\n(b) A negotiable instrument, dated 30th August, 1878, it made payable three months after date. The instrument is at maturity\n\non the 3rd December, 1878.\n\n(c) A promissory note or bill of exchange, dated 31st August, 1878, is made payable three months after date. The instrument\n\nis at maturity on the 3rd December, 1878.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a372c915c51181008f8a69b43203f2840c9046d26cbb24af8fc225a6e19ef45a"
+  }
+}

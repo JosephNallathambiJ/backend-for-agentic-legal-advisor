@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S72",
+  "section_number": "72",
+  "title": "Apportionment of valuation",
+  "text": "72. Apportionment of valuation.—(1) Where different species of property are insured under a single\n\nvaluation, the valuation must be apportioned over the different species in proportion to their respective\ninsurable values, as in the case of an unvalued policy. The insured value of any part of a species is such\nproportion of the total insured value of the same as the insurable value of the part bears to the insurable\nvalue of the whole, ascertained in both cases as provided by this Act.\n\n15\n\n-----\n\n(2) Where a valuation has to be apportioned, and particulars of the prime cost of each separate\n\nspecies, quality, or description of goods cannot be ascertained, the division of the valuation may be made\nover the net arrived sound values of the different species, qualities, or descriptions of goods.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f780cb1e9d5fadf1cc14deff5c17627bb74e17cda6ef4cae349bb9d3f1d4586f"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S17",
+  "section_number": "17",
+  "title": "Continuance of proceedings on death of debtor",
+  "text": "17. Continuance of proceedings on death of debtor.—If a debtor by or against whom an insolvency\n\npetition has been presented dies, the proceedings in the matter shall, unless the Court otherwise orders, be\ncontinued so far as may be necessary for the realisation and distribution of the property of the debtor.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3ccf0825ce0737e6baf121b52d61c96fca422d9b47b3fdbccaf5906557b299c5"
+  }
+}

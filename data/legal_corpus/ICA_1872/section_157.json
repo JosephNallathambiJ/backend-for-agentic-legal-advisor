@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S157",
+  "section_number": "157",
+  "title": "Effect of mixture, without bailor’s consent, when the goods cannot be separated",
+  "text": "157. Effect of mixture, without bailor’s consent, when the goods cannot be separated.—If the\n\nbailee, without the consent of the bailor, mixes the goods of the bailor with his own goods, in such a\nmanner that it is impossible to separate the goods bailed from the other goods, and deliver them back, the\nbailor is entitled to be compensated by the bailee for the loss of the goods.\n\n_Illustration_\n\nA bails a barrel of Cape flour worth Rs. 45 to B. B, without A’s consent, mixes the flour with country flour of his own,\n\nworth only Rs. 25 a barrel. B must compensate A for the loss of his flour.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "78c26df816386872349740863cce8205bf5fcdc188a40188139e9c832d568239"
+  }
+}

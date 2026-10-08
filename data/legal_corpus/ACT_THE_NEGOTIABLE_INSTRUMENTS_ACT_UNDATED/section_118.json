@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S118",
+  "section_number": "118",
+  "title": "Presumptions as to negotiable instruments",
+  "text": "118. Presumptions as to negotiable instruments.—Until the contrary is proved, the following\n\npresumptions shall be made:—\n\n(a) of consideration:—that every negotiable instrument was made or drawn for consideration,\n\nand that every such instrument, when it has been accepted, indorsed, negotiated or transferred, was\naccepted, indorsed, negotiated or transferred for consideration;\n\n(b) as to date:—that every negotiable instrument bearing a date was made or drawn on such date;\n\n(c) as to time of acceptance:—that every accepted bill of exchange was accepted within a\n\nreasonable time after its date and before its maturity;\n\n(d) as to time of transfer:—that every transfer of a negotiable instrument was made before its\n\nnaturity;\n\n(e) as to order of indorsements:—that the indorsements appearing upon a negotiable instrument\n\nwere made in the order in which they appear then on;\n\n(f) as to stamp:— that a lost promissory note, bill of exchange or cheque was duly stamped;\n\n(g) that holder is a holder in due course:—that the holder of a negotiable instrument is a holder\n\nin due course: provided that, where the instrutment has been obtained from its lawful owner, or from\nany person in lawful custody thereof, by means of an offence or fraud, or has been obtained from the\nmaker or acceptor thereof by means of an offence or fraud, or for unlawful consideration, the burden\nof proving that the holder is a holder in due course lies upon him.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "702ec76cbffe1fae23d07b30be84672192ae068b0987a6ea8699373dc4f5bea8"
+  }
+}

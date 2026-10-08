@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S82",
+  "section_number": "82",
+  "title": "Discharge from liability",
+  "text": "82. Discharge from liability.—The maker, acceptor or indorser respectively of a negotiable\n\ninstrument is discharged from liability thereon—\n\n(a) by cancellation.—to a holder thereof who cancels such acceptor's or indorser’s name with\n\nintent to discharge him, and to all parties claiming under such holder;\n\n(b) by release.—to a holder thereof who otherwise discharges such maker, acceptor or indorser,\n\nand to all parties deriving title under such holder after notice of such discharge;\n\n(c) by payment.—to all parties thereto, if the instrument is payable to bearer, or has been\n\nindorsed in blank, and such maker, acceptor or indorser makes payment in due course of the amount\ndue thereon.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8c3b0824e470e571ad565a29f93c65edc279a1db0b43dff176288dd6bd159549"
+  }
+}

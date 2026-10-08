@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S310",
+  "section_number": "310",
+  "title": "Purchase by executor or administrator of deceased’s property",
+  "text": "310. Purchase by executor or administrator of deceased’s property.—If any executor or\n\nadministrator purchases, either directly or indirectly, any part of the property of the deceased, the sale is\nvoidable at the instance of any other person interested in the property sold.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9e26f15ee99aef371e0a9d6ce8b0d6b6496187e75cac43d51185dc399f5bebf4"
+  }
+}

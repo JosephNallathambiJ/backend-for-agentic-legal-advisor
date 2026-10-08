@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S149",
+  "section_number": "149",
+  "title": "Delivery to bailee how made",
+  "text": "149. Delivery to bailee how made.—The delivery to the bailee may be made by doing anything\n\nwhich has the effect of putting the goods in the possession of the intended bailee or of any person\nauthorized to hold them on his behalf.\n\n150.Bailor’s duty to disclose faults in goods bailed.—The bailor is bound to disclose to the bailee\n\nfaults in the goods bailed, of which the bailor is aware, and which materially interfere with the use of\nthem, or expose the bailee to extraordinary risks; and if he does not make such disclosure, he is\nresponsible for damage arising to the bailee directly from such faults.\n\nIf the goods are bailed for hire, the bailor is responsible for such damage, whether he was or was not\n\naware of the existence of such faults in the goods bailed.\n\n_Illustrations_\n\n(a)A lends a horse, which he knows to be vicious, to B. He does not disclose the fact that the horse is vicious. The horse\n\nruns away. B is thrown and injured. A is responsible to B for damage sustained.\n\n(b)A hires a carriage of B. The carriage is unsafe, though B is not aware of it, and A is injured. B is responsible to A for the\n\ninjury.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e181b35c9963e9bc249c6e1776d99327259a44d28a9eab63c886cecf9974751d"
+  }
+}

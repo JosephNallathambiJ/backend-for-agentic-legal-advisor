@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S75",
+  "section_number": "75",
+  "title": "Time from which orders under sections 73 and 74 take effect",
+  "text": "75. Time from which orders under sections 73 and 74 take effect.—When the Settlement-officer\n\ndecides, under section seventy-three or section seventy-four, that land which has been held free from\nrevenue, or at less than a full assessment, is liable to pay revenue, or to pay the same at enhanced rates,\nsuch decision shall take effect from the first day of the agricultural year next ensuing; unless the Chief\nCommissioner directs that the amount payable in respect of such land on account of the revenue accruing\ndue within anyone or more of the last preceding twelve years shall be realized.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f4bbd118e762e2a8e7cecee9347c023b0f5f5f950c50c6f8257bc9118aebaaaa"
+  }
+}

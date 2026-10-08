@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SECURITIES_ACT__UNDATED",
+  "act_title": "The Government Securities Act, 2006",
+  "section_id": "ACT_THE_GOVERNMENT_SECURITIES_ACT__UNDATED_S19",
+  "section_number": "19",
+  "title": "Stay of proceedings on order of Court",
+  "text": "19. Stay of proceedings on order of Court.—Where the Bank contemplates making with reference\n\nto any Government security any order which it is empowered to make under this Act, and before the order\nis made the Bank receives from a Court in India an order to stay the making of such order, the Bank shall\neither—\n\n(a) hold the security together with any interest unpaid or accruing thereon until further orders of\n\nthe Court are received; or\n\n(b) apply to the Court to have the security transferred to the Official Trustees appointed for the\n\nState in which such Court is situated, pending the disposal of the proceedings before the Court.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2059/4/a2006-38.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6c14f5bd35e0e9ef3731232b33a9603dcce65dccac5465758b56d762d26047ce"
+  }
+}

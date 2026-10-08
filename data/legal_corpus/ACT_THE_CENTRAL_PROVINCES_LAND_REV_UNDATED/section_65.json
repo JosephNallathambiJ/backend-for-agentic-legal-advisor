@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S65",
+  "section_number": "65",
+  "title": "Revenue payable under sub-settlement to be first charge on land",
+  "text": "65. Revenue payable under sub-settlement to be first charge on land.—The amount of revenue\n\npayable under a sub-settlement shall be a first charge upon all the land comprised in such sub-settlement.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c8507b3971f1fdcfec6085a46a131ee15df16e7c15cc6721e75be1e9da8f155f"
+  }
+}

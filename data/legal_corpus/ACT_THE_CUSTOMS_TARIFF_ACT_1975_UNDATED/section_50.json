@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S50",
+  "section_number": "50",
+  "title": "Oregano 0.5%",
+  "text": "50. Oregano 0.5%",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "38201e6dec1fef34fe87d5de052f88eff3d0c0d2d576d2ac452524b58b673a5f"
+  }
+}

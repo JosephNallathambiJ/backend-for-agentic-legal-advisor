@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S66",
+  "section_number": "66",
+  "title": "Settlement-officer to apportion assessment over lands held in severalty;",
+  "text": "66. Settlement-officer to apportion assessment over lands held in severalty;—When the whole of\n\nthe land comprised in a mahal is held in severalty, the Settlement-officer shall apportion to the several\nholdings the amount with which such land is assessed under a settlement or sub-settlement.\n\nWhen only part of the land comprised in a mahal is held in severalty, the Settlement-officer shall\napportion such amount to the part held in common and the part held in severalty, and shall further apportion\nto the several holdings the amount to which they are liable under the former apportionment.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "62da9577dffe7a1e08471822e54262a36c76391d6ebf7b39700ee0649dee8360"
+  }
+}

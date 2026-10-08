@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DENTISTS_ACT_1948_UNDATED",
+  "act_title": "The Dentists Act, 1948",
+  "section_id": "ACT_THE_DENTISTS_ACT_1948_UNDATED_S71",
+  "section_number": "71",
+  "title": "Moscow Medical",
+  "text": "71. Moscow Medical\n\nStomatological Institute,\nMoscow (U.S.S.R.)",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1463/1/AAAA1948____16.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ab314abdc5099e457852e9402d14b2c6c06921a92d93755a7feb603c84c5f606"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S113",
+  "section_number": "113",
+  "title": "Payment for honour",
+  "text": "113. Payment for honour.—When a bill of exchange has been noted or protested for non-payment,\n\nany person may pay the same for the honour of any party liable to pay the same: provided that the person\nso paying [or his agent in that behalf] has previously declared before a notary public the party for whose\nhonour he pays, and that such declaration has been recorded by such notary public.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8f39cb15b48b07b11623f6bf3ca4be3bcc080e21737ffe24afdf0ac9c5f672ec"
+  }
+}

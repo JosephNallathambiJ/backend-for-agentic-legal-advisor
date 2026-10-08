@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED",
+  "act_title": "The Payment and Settlement Systems Act, 2007",
+  "section_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED_S22",
+  "section_number": "22",
+  "title": "Duty to keep documents in the payment system confidential",
+  "text": "22. Duty to keep documents in the payment system confidential.—(1) A system provider shall not\n\ndisclose to any other person the existence or contents of any document or part thereof or other\ninformation given to him by a system participant, except where such disclosure is required under the\nprovisions of this Act or the disclosure is made with the express or implied consent of the system\nparticipant concerned or where such disclosure is in obedience to the orders passed by a court of\ncompetent jurisdiction or a statutory authority in exercise of the powers conferred by a statute.\n\n(2) The provisions of the Bankers’ Book Evidence Act, 1891(18 of 1991) shall apply in relation to the\n\ninformation or documents or other books in whatever form maintained by the system provider.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2082/4/a2007-51.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "314fd5fc28b10834d8eccde3d16c6f09ebcf11f15d1f8d242676dd5f829dc82c"
+  }
+}

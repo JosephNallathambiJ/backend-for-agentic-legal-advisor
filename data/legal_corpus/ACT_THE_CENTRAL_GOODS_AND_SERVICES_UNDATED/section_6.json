@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED",
+  "act_title": "The Central Goods and Services Tax Act, 2017",
+  "section_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED_S6",
+  "section_number": "6",
+  "title": "Actionable claims, other than [1][specified actionable claims].",
+  "text": "6. Actionable claims, other than [specified actionable claims].\n\n2[7. Supply of goods from a place in the non-taxable territory to another place in the non-taxable\n\nterritory without such goods entering into India.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "495f4bd9d567778b59ff404e9dd30252e565f93f201dc56d0a72108df9c9d31b"
+  }
+}

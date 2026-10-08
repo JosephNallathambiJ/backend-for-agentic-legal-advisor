@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PRESIDENTIAL_AND_VICE_PRES_UNDATED",
+  "act_title": "The Presidential and Vice-Presidential Elections Act, 1952",
+  "section_id": "ACT_THE_PRESIDENTIAL_AND_VICE_PRES_UNDATED_S30",
+  "section_number": "30",
+  "title": "Statement showing the number of votes of each elector at the Presidential election",
+  "text": "30. Statement showing the number of votes of each elector at the Presidential election.—For the\n\npurposes of every Presidential election, the Election Commission shall furnish the Returning Officer\nwith a statement showing the number of votes which every elector has under the provisions of clause (2)\nof article 55; and every ballot paper put in by an elector at that election shall be deemed to represent as\nmany votes as that elector is shown as having in that statement.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2167/1/195231.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f86fbb6041ae9c1dc7641fa1be9ec2644e16388b6cd3b6d0fafea38bc1598010"
+  }
+}

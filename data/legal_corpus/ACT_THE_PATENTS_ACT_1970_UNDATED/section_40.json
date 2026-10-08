@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S40",
+  "section_number": "40",
+  "title": "Liability for contravention of section 35 or section 39",
+  "text": "40. Liability for contravention of section 35 or section 39.—Without prejudice to the provisions\n\ncontained in Chapter XX, if in respect of an application for a patent any person contravenes any direction\nas to secrecy given by the Controller under section 35 [or makes or causes to be made an application for\ngrant of a patent outside India in contravention of section 39], or the application for patent under this Act\nshall be deemed to have been abandoned and the patent granted, if any, shall be liable to be revoked under\nsection 64.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7531986d8aa2968138870aa7035642d3b5be44cf15d649bc3a3dc1492b4058e3"
+  }
+}

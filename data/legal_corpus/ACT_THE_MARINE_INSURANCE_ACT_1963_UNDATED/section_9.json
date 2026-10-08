@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S9",
+  "section_number": "9",
+  "title": "Thieves",
+  "text": "9. Thieves.—The term “thieves” does not cover clandestine theft or a theft committed by any one of\n\nthe ship’s company, whether crew or passengers.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5c82d80511655c5123c64bb4a18944323b9bd29e34324842d42e86a9cd5b0cb0"
+  }
+}

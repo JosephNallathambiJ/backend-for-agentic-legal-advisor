@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED",
+  "act_title": "The Central Goods and Services Tax Act, 2017",
+  "section_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED_S31A",
+  "section_number": "31A",
+  "title": "Facility of digital payment to recipient.",
+  "text": "31A. Facility of digital payment to recipient.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "18500d74b262849f30db7fcf16e73ea746a661cee23157b93e0568fb2acfb0f5"
+  }
+}

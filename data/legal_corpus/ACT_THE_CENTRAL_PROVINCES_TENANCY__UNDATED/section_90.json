@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED",
+  "act_title": "The Central Provinces Tenancy Act, 1898",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED_S90",
+  "section_number": "90",
+  "title": "In suits for arrears all claims between landlord and tenant to be determined",
+  "text": "90. In suits for arrears all claims between landlord and tenant to be determined.—In all suits for\narrears of rent, the Court shall inquire into and determine all claims under this Act by the landlord against\nthe tenant as such, or by the tenant against the landlord as such.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19250/1/A1898-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e31e7ec4933c50f12ee22f55e64b9c13eb95025be7f9c76c02e47ee1b46b7641"
+  }
+}

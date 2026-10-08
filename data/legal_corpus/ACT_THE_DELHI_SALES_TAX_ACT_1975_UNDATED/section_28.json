@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED",
+  "act_title": "The Delhi Sales Tax Act, 1975",
+  "section_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED_S28",
+  "section_number": "28",
+  "title": "Plant protection machines.",
+  "text": "28. Plant protection machines.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1637/1/197543.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "14a93af2cb824b176264209b59eecfe3bd687626080be7754479d7197d0a633e"
+  }
+}

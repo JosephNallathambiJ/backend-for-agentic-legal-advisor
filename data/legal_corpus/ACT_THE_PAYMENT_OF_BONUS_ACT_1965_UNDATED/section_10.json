@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PAYMENT_OF_BONUS_ACT_1965_UNDATED",
+  "act_title": "The Payment of Bonus Act, 1965",
+  "section_id": "ACT_THE_PAYMENT_OF_BONUS_ACT_1965_UNDATED_S10",
+  "section_number": "10",
+  "title": "Payment of minimum bonus.",
+  "text": "10. Payment of minimum bonus.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1548/1/a1965-21.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fce0711a3d387ccad96027ea62b98f46c67d80e70d55686e4bdb4fbca242325e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S37",
+  "section_number": "37",
+  "title": "Suspension of Digital Signature Certificate.–(1) Subject to the provisions of sub-section (2), the",
+  "text": "37. Suspension of Digital Signature Certificate.–(1) Subject to the provisions of sub-section (2), the\n\nCertifying Authority which has issued a Digital Signature Certificate may suspend such Digital Signature\nCertificate,–\n\n(a) on receipt of a request to that effect from–\n\n(i) the subscriber listed in the Digital Signature Certificate; or\n\n(ii) any person duly authorised to act on behalf of that subscriber;\n\n(b) if it is of opinion that the Digital Signature Certificate should be suspended in public interest.\n\n(2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen days unless\n\nthe subscriber has been given an opportunity of being heard in the matter.\n\n(3) On suspension of a Digital Signature Certificate under this section, the Certifying Authority shall\n\ncommunicate the same to the subscriber.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ed4e64f22109fe7c4f4e06df6f33e82a3d1ecfdd4c952c4c1f21caf9d4c2d1a8"
+  }
+}

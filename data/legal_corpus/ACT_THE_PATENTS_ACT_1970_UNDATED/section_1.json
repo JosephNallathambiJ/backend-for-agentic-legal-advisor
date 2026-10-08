@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S1",
+  "section_number": "1",
+  "title": "Long title",
+  "text": "1. Long title—Omit “Inventions and”.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c303e1d6d75a2bfdffb7625f4310ae031bc5912e57f7b802bb1cfad7ebf557ad"
+  }
+}

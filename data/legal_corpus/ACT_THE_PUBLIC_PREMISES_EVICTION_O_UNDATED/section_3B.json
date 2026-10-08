@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUBLIC_PREMISES_EVICTION_O_UNDATED",
+  "act_title": "The Public Premises (Eviction of Unauthorised Occupants) Act, 1971",
+  "section_id": "ACT_THE_PUBLIC_PREMISES_EVICTION_O_UNDATED_S3B",
+  "section_number": "3B",
+  "title": "Eviction from residential accommodation.",
+  "text": "3B. Eviction from residential accommodation.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1609/1/A1971-40%202.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7673019ee69bf53fdad5b5e43c1ae2161a09cc83b9db8ca55084397a7abb5f77"
+  }
+}

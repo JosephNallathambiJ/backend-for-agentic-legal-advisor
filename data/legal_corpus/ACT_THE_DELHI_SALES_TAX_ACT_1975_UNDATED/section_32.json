@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED",
+  "act_title": "The Delhi Sales Tax Act, 1975",
+  "section_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED_S32",
+  "section_number": "32",
+  "title": "Handspun yarn.",
+  "text": "32. Handspun yarn.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1637/1/197543.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b3903eff432d772be2806812910821dd740edf8091a1866a2682f20850f4404f"
+  }
+}

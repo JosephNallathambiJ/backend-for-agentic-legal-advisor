@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S31",
+  "section_number": "31",
+  "title": "Liability of drawee of cheque",
+  "text": "31. Liability of drawee of cheque.—The drawee of a cheque having sufficient funds of the drawer in his\n\nhands properly applicable to the payment of such cheque must pay the cheque when duly required so to do,\nand, in default of such payment, must compensate the drawer for any loss or damage caused by such default.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "890e0ada47b3bc653165b304d91113d59a8e52af1878c0c576c1be350b68c449"
+  }
+}

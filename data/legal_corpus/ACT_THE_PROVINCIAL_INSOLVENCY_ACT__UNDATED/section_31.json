@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S31",
+  "section_number": "31",
+  "title": "Protection order",
+  "text": "31. Protection order.—(1) Any insolvent in respect of whom an order of adjudication has been made\n\nmay apply to the Court for protection, and the Court may on such application make an order for the\nprotection of the insolvent from arrest or detention.\n\n(2) A protection order may apply either to all the debts of the debtor, or to any of them as the Court\n\nmay think proper, and may commence and take effect at and for such time as the Court may direct, and\nmay be revoked or renewed as the Court may think fit.\n\n(3) A protection order shall protect the insolvent from being arrested or detained in prison for any\n\ndebt to which such order applies, and any insolvent arrested or detained contrary to the terms of such an\norder shall be entitled to his release:\n\nProvided that no such order shall operate to prejudice the rights of any creditor in the event of such\n\norder being revoked or the adjudication annulled.\n\n(4) Any creditor shall be entitled to appear and oppose the grant of a protection order.\n\n32. Power to arrest after adjudication.—At any time after an order of adjudication has been made,\n\nthe Court may, if it has reason to believe on the application of any creditor or the receiver that the debtor\nhas absconded or departed from the local limits of its jurisdiction with intent to avoid any obligation\nwhich has been, or might be, imposed on him by or under this Act, order a warrant to issue for his arrest,\nand on his appearing or being brought before it, may, if satisfied that he was absconding or had departed\nwith such intent, order his release on such terms as to security as may be reasonable or necessary, or if\nsuch security is not furnished, direct that he shall be detained in the civil prison for a period which may\nextend to three months.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9e1565375da3a61e9bea77f9c81b958cab2ff1161c51adcbf8e0caaf4f1fc6a1"
+  }
+}

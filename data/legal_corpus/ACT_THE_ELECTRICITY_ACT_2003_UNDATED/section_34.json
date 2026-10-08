@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ELECTRICITY_ACT_2003_UNDATED",
+  "act_title": "The Electricity Act, 2003",
+  "section_id": "ACT_THE_ELECTRICITY_ACT_2003_UNDATED_S34",
+  "section_number": "34",
+  "title": "Grid Standards",
+  "text": "34. Grid Standards.—Every transmission licensee shall comply with such technical standards, of\n\noperation and maintenance of transmission lines, in accordance with the Grid Standards, as may be\nspecified by the Authority.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2058/1/A2003-36.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b42d948dff3e62e3008d24c6eebad0b98c9536323707c3de6d4a30af41231e11"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S22",
+  "section_number": "22",
+  "title": "Diseases caused by asphyxiants: carbon All work involving exposure to the risk concerned.",
+  "text": "22. Diseases caused by asphyxiants: carbon All work involving exposure to the risk concerned.\nmonoxide, and its toxic derivatives,\nhydrogen sulfide.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7a1c49b8739323313dcea9cfec4b8d5e9951a78a55fd0ae4b3aa59bdf45a21ca"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_KING_OF_OUDH_S_ESTATE_VALI_UNDATED",
+  "act_title": "The King of Oudh's Estate Validation Act, 1917",
+  "section_id": "ACT_THE_KING_OF_OUDH_S_ESTATE_VALI_UNDATED_S3",
+  "section_number": "3",
+  "title": "The minimum depth of a grave shall be eight feet.",
+  "text": "3. The minimum depth of a grave shall be eight feet.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19249/1/a1917-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "18e5b0e88fd7eb52216e77f2abb6111d127b6d3439ee1589f673b13f32d00686"
+  }
+}

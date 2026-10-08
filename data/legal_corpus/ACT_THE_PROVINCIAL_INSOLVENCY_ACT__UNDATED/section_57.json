@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S57",
+  "section_number": "57",
+  "title": "Power to appoint Official Receivers",
+  "text": "57. Power to appoint Official Receivers.—(1) The State Government may appoint such persons as it\n\nthinks fit (to be called \"Official Receivers\") to be receivers under this Act within such local limits as it\nmay prescribe.\n\n(2) Where any Official Receiver has been so appointed for the local limits of the jurisdiction of any\n\nCourt having jurisdiction under this Act, he shall be the receiver for the purpose of every order appointing\na receiver or an interim receiver issued by any such Court, unless the Court for special reasons otherwise\ndirects.\n\n(3) Any sum payable under clause (b) of sub-section (2) of section 56 in respect of the services of an\n\nOfficial Receiver shall be credited to such fund as the State Government may direct.\n\n(4) Every Official Receiver shall receive such remuneration out of the said fund or otherwise as the\n\nState Government may fix in this behalf, and no remuneration whatever beyond that so fixed shall be\nreceived by the Official Receiver as such.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0d98c927f79e237e9c74ca307e09153c2ee52ce8e78a172402e9ac899c6f5161"
+  }
+}

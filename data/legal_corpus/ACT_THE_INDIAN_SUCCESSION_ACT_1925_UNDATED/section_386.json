@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S386",
+  "section_number": "386",
+  "title": "Validation of certain payments made in good faith to holder of invalid certificate",
+  "text": "386. Validation of certain payments made in good faith to holder of invalid certificate.—\n\nWhere a certificate under this Part has been superseded or is invalid by reason of the certificate having\nbeen revoked under section 383,or by reason of the grant of a certificate to a person named in an appellate\norder under section 384, or by reason of a certificate having been previously granted, or for any other\ncause, all payments made or dealings had, as regards debts and securities specified in the superseded or\ninvalid certificate, to or with the holder of that certificate in ignorance of its super session or invalidity,\nshall be held good against claims under any other certificate.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cb7045f8b40475719ee1ed86a8cda4df3910637fd4d35c1c87845aec012859b1"
+  }
+}

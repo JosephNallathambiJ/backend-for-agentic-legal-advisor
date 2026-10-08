@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED",
+  "act_title": "The New Delhi Municipal Council Act, 1994",
+  "section_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED_S4",
+  "section_number": "4",
+  "title": "Bidi leaves.",
+  "text": "4. Bidi leaves.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1986/1/199444.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "65cf963d33751ad59bcc4c5491186616bc9381d6b82f59adedef60a4ed9fe83b"
+  }
+}

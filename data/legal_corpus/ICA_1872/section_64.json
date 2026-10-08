@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S64",
+  "section_number": "64",
+  "title": "Consequences of rescission of voidable contract",
+  "text": "64. Consequences of rescission of voidable contract.—When a person at whose option a contract is\n\nvoidable rescinds it, the other party thereto need not perform any promise therein contained in which he is\npromisor. The party rescinding a voidable contract shall, if he have received any benefit thereunder from\nanother party to such contract, restore such benefit, so far as may be, to the person from whom it was\nreceived.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e46ee6e31b3b21e8f2226b92715716d42812438d3c61a7ac8d3df8d9ed6afba8"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED",
+  "act_title": "The Payment and Settlement Systems Act, 2007",
+  "section_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED_S23",
+  "section_number": "23",
+  "title": "Settlement and netting",
+  "text": "23. Settlement and netting.—(1) The payment obligations and settlement instructions among the\n\nsystem participants shall be determined in accordance with the gross or netting procedure, as the case\nmaybe, approved by the Reserve Bank while issuing authorisation to a payment system [under section 7,\nor, such gross or netting procedure as may be approved by it under any other provisions of this Act].\n\n(2) Where the rules providing for the operation of a payment system indicates a procedure for the\n\ndistribution of losses between the system participants and the payment system, such procedure shall have\neffect notwithstanding anything to the contrary contained in any other law for the time being in force.\n\n(3) A settlement effected under such procedure shall be final and irrevocable.\n\n2[(4) Where, by an order of a court, Tribunal or authority––\n\n(a) a system participant is declared as insolvent or is dissolved or wound up; or\n\n(b) a liquidator or receiver or assignee (by whatever name called), whether provisional or\n\notherwise, is appointed in a proceeding relating to insolvency or dissolution or winding up of a\nsystem participant,\n\nthen, notwithstanding anything contained in the Banking Regulation Act, 1949 (10 of 1949) or the\nCompanies Act, 1956 (1 of 1956) or the Companies Act, 2013 (18 of 2013) [or the Insolvency and\nBankruptcy Code, 2016] or any other law for the time being in force, such order shall not affect any\nsettlement that has become final and irrevocable prior to such order or immediately thereafter, and the\nright of the system provider to appropriate any collaterals contributed by the system participants towards\nits settlement or other obligations in accordance with the rules, regulations or bye-laws relating to such\nsystem provider.]\n\n4[(5) Where an order referred to in sub-section (4) is made with respect to a central counter party,\n\nthen, notwithstanding such order or anything contained in the Banking Regulation Act, 1949 (10 of 1949)\nor the Companies Act, 1956 (1 of 1956) or the Companies Act, 2013 (18 of 2013) [or the Insolvency and\nBankruptcy Code, 2016] or any other law for the time being in force, the payment obligations and",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2082/4/a2007-51.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "71fdc16e36f016e4d6eb19d36d21f46d327013dd398981a7c2baa01874d06f49"
+  }
+}

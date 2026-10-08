@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S87",
+  "section_number": "87",
+  "title": "Presumption as to Electronic Signature Certificates",
+  "text": "87. Presumption as to Electronic Signature Certificates.—The Court shall presume, unless\n\ncontrary is proved, that the information listed in an Electronic Signature Certificate is correct, except for\ninformation specified as subscriber information which has not been verified, if the certificate was\naccepted by the subscriber.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5a9fa2b76d90989442318cec97c1f023ef2a46b88dbfa08fab6028b6841f8438"
+  }
+}

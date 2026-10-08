@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S301",
+  "section_number": "301",
+  "title": "Power to make new public streets",
+  "text": "301. Power to make new public streets.—The Commissioner may at any time with the previous\n\nsanction of [[the Corporation]]:—\n\n(a) lay out and make new public streets;\n\n(b) construct bridges and sub-ways;\n\n(c) turn or divert any existing public street; and\n\n(d) lay down and determine the position and direction of a street or streets in any part of [ [Delhi]]\n\nnotwithstanding that no proposal for the erection of any building in the vicinity has been received.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "983cec6f24f833c806ef1019d70122b1d79b5bf3874ca9346becde17d2dc5011"
+  }
+}

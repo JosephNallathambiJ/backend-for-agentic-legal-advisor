@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S54",
+  "section_number": "54",
+  "title": "Instrument indorsed in blank",
+  "text": "54. Instrument indorsed in blank.—Subject to the provisions hereinafter contained as to crossed\n\ncheques, a negotiable instrument indorsed in blank is payable to the bearer thereof even although\noriginally payable to order.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "355b846dc7df8dd41f666ce3f78cd4a66fee84eb2d4bb2da7db25a9c9b780f26"
+  }
+}

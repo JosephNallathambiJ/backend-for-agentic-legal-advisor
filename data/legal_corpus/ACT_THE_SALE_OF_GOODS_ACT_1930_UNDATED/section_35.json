@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S35",
+  "section_number": "35",
+  "title": "Buyer to apply for delivery",
+  "text": "35. Buyer to apply for delivery.— Apart from any express contract, the seller of goods is not bound\n\nto delivery them until the buyer applies for delivery.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0e3f26738d63c7a84f86da9616ff85b9818ec4f21e9d385bf3114b7a2e13bb08"
+  }
+}

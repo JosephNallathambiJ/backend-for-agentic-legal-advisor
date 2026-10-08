@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S8",
+  "section_number": "8",
+  "title": "“Holder”",
+  "text": "8. “Holder”.—The “holder” of a promissory note, bill of exchange or cheque means any person\n\nentitled in his own name to the possession thereof and to receive or recover the amount due thereon from\nthe parties thereto.\n\nWhere the note, bill or cheque is lost or destroyed, its holder is the person so entitled at the time of\n\nsuch loss or destruction.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "afcb96fbf4420ad477c02f372064c1b681b9f42932e21f6121c959b0393bd9ef"
+  }
+}

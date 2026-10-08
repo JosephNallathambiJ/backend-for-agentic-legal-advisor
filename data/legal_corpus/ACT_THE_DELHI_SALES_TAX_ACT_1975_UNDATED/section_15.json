@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED",
+  "act_title": "The Delhi Sales Tax Act, 1975",
+  "section_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED_S15",
+  "section_number": "15",
+  "title": "Fuel wood and charcoal.",
+  "text": "15. Fuel wood and charcoal.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1637/1/197543.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6e3eba6ef6da8baef1d97cc4669efb379a2ded21e25263c264f191d2ec07e04a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S99",
+  "section_number": "99",
+  "title": "Noting",
+  "text": "99. Noting.—When a promissory note or bill of exchange has been dishonoured by non-acceptance\n\nor non-payment, the holder may cause such dishonour to be noted by a notary public upon the instrument,\nor upon a paper attached thereto, or partly upon each.\n\nSuch note must be made within a reasonable time after dishonour, and must specify the date of\n\ndishonour, the reason, if any, assigned for such dishonour, or, if the instrument has not been expressly\ndishonoured, the reason why the holder treats it as dishonoured, and the notary's charges.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "21df554de4fe157bd5a358c68a9799fa3202f8e0b0f3132e088a34c7a70d4dba"
+  }
+}

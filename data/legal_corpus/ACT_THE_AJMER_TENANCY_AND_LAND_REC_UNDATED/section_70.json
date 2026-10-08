@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AJMER_TENANCY_AND_LAND_REC_UNDATED",
+  "act_title": "The Ajmer Tenancy and Land Records Act, 1950",
+  "section_id": "ACT_THE_AJMER_TENANCY_AND_LAND_REC_UNDATED_S70",
+  "section_number": "70",
+  "title": "Kanai Kalan.",
+  "text": "70. Kanai Kalan.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1796/3/A1950-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1449c08fa824ea2239861eb7c0822882cfc9a2223a2598749fd0a5d822f7988b"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PRISONERS_ACT_1900_UNDATED",
+  "act_title": "The Prisoners Act, 1900",
+  "section_id": "ACT_THE_PRISONERS_ACT_1900_UNDATED_S29",
+  "section_number": "29",
+  "title": "Removal of prisoners.",
+  "text": "29. Removal of prisoners.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2334/1/AAA1900____03.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "60bdda3a3ba293d2241d22a7502b5beba91bba60ddb46d62ea06ed2c804f7d7e"
+  }
+}

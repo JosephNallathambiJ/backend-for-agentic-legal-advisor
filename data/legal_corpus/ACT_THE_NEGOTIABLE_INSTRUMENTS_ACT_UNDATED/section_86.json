@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S86",
+  "section_number": "86",
+  "title": "Parties not consenting discharged by qualified or limited acceptance",
+  "text": "86. Parties not consenting discharged by qualified or limited acceptance.—If the holder of a\n\nbill of exchange acquiesces in a qualified acceptance, or one limited to part of the sum mentioned in\nthe bill, or which substitutes a different place or time for payment, or which, where the drawees are\nnot partners, is not signed by all the drawees, all previous parties whose consent is not obtained to\nsuch acceptance are discharged as against the holder and those claiming under him, unless on notice\ngiven by the holder they assent to such acceptance.\n\n_Explanation.—An acceptance is qualified_\n\n(a) where it is conditional, declaring the payment to be dependent on the happening of an event\n\ntherein stated;\n\n(b) where it undertakes the payment of part only of the sum ordered to be paid;",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "51c398ac9239e49bdba9a94bc3b29012863aff28ac09d94336f021bf94580cd9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S24",
+  "section_number": "24",
+  "title": "Vijay Vihar",
+  "text": "24. Vijay Vihar",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0e481e3e1564f30122a47a0efe4f745e735964dd001dbe1b0da1a39e0c135b30"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED",
+  "act_title": "The Payment and Settlement Systems Act, 2007",
+  "section_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED_S24",
+  "section_number": "24",
+  "title": "Settlement of disputes",
+  "text": "24. Settlement of disputes.—(1) The system provider shall make provision in its rules or regulations\n\nfor creation of panel consisting of not less than three system participants other than the system\nparticipants who are parties to the dispute to decide the disputes between system participants in respect of\nany matter connected with the operation of the payment system.\n\n(2) Where any dispute in respect of any matter connected with the operation of the payment system\n\narises between two or more system participants, the system provider shall refer the dispute to the panel\nreferred to in sub-section (1).\n\n(3) Where any dispute arises between any system participant and the system provider or between\n\nsystem providers or where any of the system participants is not satisfied with the decision of the panel\nreferred to in sub-section (1), the dispute shall be referred to the Reserve Bank.\n\n(4) The dispute referred to the Reserve Bank for adjudication under sub-section (3) shall be disposed\n\nof by an officer of the Reserve Bank generally or specially authorised in this behalf and the decision of\nthe Reserve Bank shall be final and binding.\n\n(5) Where a dispute arises between the Reserve Bank, while acting in its capacity as system provider\n\nor as system participant, and another system provider or system participant, the matter shall be referred to\nthe Central Government which may authorise an officer not below the rank of Joint Secretary for\nsettlement of the dispute and the decision of such officer shall be final.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2082/4/a2007-51.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5c46af5af1189cc98efe1c4159b9b19a33b6ca3972d1a7f4d94ac7bb7e4f7d6b"
+  }
+}

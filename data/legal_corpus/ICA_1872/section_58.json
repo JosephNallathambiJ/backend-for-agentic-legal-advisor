@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S58",
+  "section_number": "58",
+  "title": "Alternative promise, one branch being illegal",
+  "text": "58. Alternative promise, one branch being illegal.—In the case of an alternative promise, one\n\nbranch of which is legal and the other illegal, the legal branch alone can be enforced.\n\n_Illustration_\n\nA and B agree that A shall pay B 1,000 rupees, for which B shall afterwards deliver to A either rice or smuggled opium.\n\nThis is a valid contract to deliver rice, and a void agreement as to the opium.\n\n_Appropriation of payments_\n\n59.Application of payment where debt to be discharged is indicated.—Where a debtor, owing\n\nseveral distinct debts to one person, makes a payment to him, either with express intimation, or under\ncircumstances implying, that the payment is to be applied to the discharge of some particular debt, the\npayment, if accepted, must be applied accordingly.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "570b2243767250a1b2f9862e4ae761fa6ce2fcc41ec3da3fcdc2dd1024689d23"
+  }
+}

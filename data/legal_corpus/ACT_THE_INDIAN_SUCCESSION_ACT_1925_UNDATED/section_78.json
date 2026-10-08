@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S78",
+  "section_number": "78",
+  "title": "Rejection of erroneous particulars in description of subject",
+  "text": "78. Rejection of erroneous particulars in description of subject.—If the thing which the testator\n\nintended to bequeath can be sufficiently identified from the description of it given in the will, but some\nparts of the description do not apply, such parts of the description shall be rejected as erroneous, and the\nbequest shall take effect.\n\n_Illustrations_\n\n(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands\n\nlying in L but had no marsh-lands in the occupation of X. The words “in the occupation of X” shall be rejected as\nerroneous, and the marshlands of the testator lying in L will pass by the bequest.\n\n(ii) The testator bequeaths to A “my zamindari of Rampur”. He had an estate at Rampur but it was a taluq and\n\nnot a zamindari. The taluq passes by this bequest.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "40661994fb34f5427621bed3185027ddb5833b9f9c576f9dab14e1950a517063"
+  }
+}

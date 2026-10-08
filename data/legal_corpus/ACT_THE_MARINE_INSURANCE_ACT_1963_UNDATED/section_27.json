@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S27",
+  "section_number": "27",
+  "title": "Voyage and time policies",
+  "text": "27. Voyage and time policies.—(1) Where the contract is to insure the subject-matter at and from, or\n\nfrom one place to another or others, the policy is called a “voyage policy”, and, where the contract is to\ninsure the subject-matter for a definite period of time, the policy is called a “time policy”. A contract for\nboth voyage and time may be included in the same policy.\n\n(2) A time policy which is made for any time exceeding twelve months is invalid.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d5b530c985c94166770d9bfc778793640328156e9f6c73bd0891b2f6ffa1b366"
+  }
+}

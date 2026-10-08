@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AADHAAR_TARGETED_DELIVERY__UNDATED",
+  "act_title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016.",
+  "section_id": "ACT_THE_AADHAAR_TARGETED_DELIVERY__UNDATED_S8",
+  "section_number": "8",
+  "title": "Authentication of Aadhaar number",
+  "text": "8. Authentication of Aadhaar number.—(1) The Authority shall perform authentication of the\n\nAadhaar number of an Aadhaar number holder submitted by any requesting entity, in relation to his\nbiometric information or demographic information, subject to such conditions and on payment of such\nfees and in such manner as may be specified by regulations.\n\n(2) A requesting entity shall—\n\n(a) unless otherwise provided in this Act, obtain the consent of an individual [or in the case of a\n\nchild obtain the consent of his parent or guardian] before collecting his identity information for the\npurposes of authentication in such manner as may be specified by regulations; and\n\n(b) ensure that the identity information of an individual is only used for submission to the Central\n\nIdentities Data Repository for authentication.\n\n2[Provided that the requesting entity shall, in case of failure to authenticate due to illness, injury\n\nor infirmity owing to old age or otherwise or any technical or other reasons, provide such alternate and\nviable means of identification of the individual, as may be specified by regulations.]\n\n(3) A requesting entity shall inform, in such manner as may be specified by regulations, the individual\n\nsubmitting his identity information for authentication [or in the case of a child, his parent or guardian],\nthe following details with respect to authentication, namely:—\n\n(a) the nature of information that may be shared upon authentication;\n\n(b) the uses to which the information received during authentication may be put by the requesting\n\nentity; and\n\n(c) alternatives to submission of identity information to the requesting entity.\n\n(4) The Authority shall respond to an authentication query with a positive, negative or any other\n\nappropriate response sharing such identity information excluding any core biometric information.\n\n3 [8A. Offline verification of Aadhaar number.—(1) Every offline verification of an Aadhaar\n\nnumber holder shall be performed in accordance with the provisions of this section.\n\n(2) Every offline verification-seeking entity shall, —\n\n(a) before performing offline verification, obtain the consent of an individual, or in the case of a\n\nchild, his parent or guardian, in such manner as may be specified by regulations; and",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2160/5/A2016-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fc18879b610f5dd43a9f202648052c7c50f5633958ce81dd59f751f67527f7bb"
+  }
+}

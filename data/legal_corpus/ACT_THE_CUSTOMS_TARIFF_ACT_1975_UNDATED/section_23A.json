@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S23A",
+  "section_number": "23A",
+  "title": "2606 00 10 Bauxite (natural), not calcined 30%",
+  "text": "23A. 2606 00 10 Bauxite (natural), not calcined 30%",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e17df0263cad735e3674e6b1f75848a8f263ec0f1c4b2b5eaf674dd093082f4d"
+  }
+}

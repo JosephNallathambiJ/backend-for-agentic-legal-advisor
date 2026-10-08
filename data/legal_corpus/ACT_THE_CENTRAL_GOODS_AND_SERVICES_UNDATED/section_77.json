@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED",
+  "act_title": "The Central Goods and Services Tax Act, 2017",
+  "section_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED_S77",
+  "section_number": "77",
+  "title": "Tax wrongfully collected and paid to Central Government or State Government",
+  "text": "77. Tax wrongfully collected and paid to Central Government or State Government.—(1) A\n\nregistered person who has paid the Central tax and State tax or, as the case may be, the central tax and the\nUnion territory tax on a transaction considered by him to be an intra-State supply, but which is\nsubsequently held to be an inter-State supply, shall be refunded the amount of taxes so paid in such\nmanner and subject to such conditions as may be prescribed.\n\n(2) A registered person who has paid integrated tax on a transaction considered by him to be an\n\ninter-State supply, but which is subsequently held to be an intra-State supply, shall not be required to pay\nany interest on the amount of central tax and State tax or, as the case may be, the Central tax and the\nUnion territory tax payable.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fe44258e26ebaf20e51f74b0bb89d80bb3af7a3e7e22442caf7c243c627e3e93"
+  }
+}

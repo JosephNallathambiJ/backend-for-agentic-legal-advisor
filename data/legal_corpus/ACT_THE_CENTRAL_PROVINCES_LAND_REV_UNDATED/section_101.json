@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S101",
+  "section_number": "101",
+  "title": "Attachment when to cease",
+  "text": "101. Attachment when to cease.—The attachment shall continue until the arrear is paid or realized\n\nfrom the profits of the land attached, or the Deputy Commissioner reinstates the defaulters in possession:\n\nProvided that no attachment shall continue beyond five years from the first day of the agricultural year\n\nnext following its commencement.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "928f349d932cb2158e86b257d0c89df75842fb3b7763d09b38dfc1e8d75392ac"
+  }
+}

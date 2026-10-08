@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S25",
+  "section_number": "25",
+  "title": "Dismissal of petition.",
+  "text": "25. Dismissal of petition.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c7318559127873756b241d033c2bf73cb38adb34786e5fc2f82e80a39e4d82eb"
+  }
+}

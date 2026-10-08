@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S187",
+  "section_number": "187",
+  "title": "Definitions of express and implied authority",
+  "text": "187. Definitions of express and implied authority.—An authority is said to be express when it is\n\ngiven by words spoken or written. An authority is said to be implied when it is to be inferred from the\ncircumstances of the case; and things spoken or written, or the ordinary course of dealing, may be\naccounted circumstances of the case.\n\n_Illustration_\n\nA owns a shop in Serampore, living himself in Calcutta, and visiting the shop occasionally. The shop is managed by B, and\n\nhe is in the habit of ordering goods from C in the name of A for the purposes of the shop, and of paying for them out of A’s funds\nwith A’s knowledge. B has an implied authority from A to order goods from C in the name of A for the purposes of the shop.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6a4683bba2d52dd574e881af4c7f275a7bae111336fcc6ecaf47b59754eeddb7"
+  }
+}

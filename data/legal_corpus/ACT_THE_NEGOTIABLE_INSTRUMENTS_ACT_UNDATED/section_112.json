@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S112",
+  "section_number": "112",
+  "title": "When acceptor for honour may be charged",
+  "text": "112. When acceptor for honour may be charged.—An acceptor for honour cannot be charged\n\nunless the bill has at its maturity been presented to the drawee for payment, and has been dishonoured by\nhim, and noted or protested for such dishonour.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e00e910e7dae711cf342cb148d4e0af0ed1cec8ae6ab8da2970b0d44efc643b5"
+  }
+}

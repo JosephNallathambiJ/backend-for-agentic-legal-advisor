@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S11C",
+  "section_number": "11C",
+  "title": "Investigation.",
+  "text": "11C. Investigation.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "34b7b44ada8b4524265273027cb320e7d1c813039a842fea543f7d3e2d81f389"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S12",
+  "section_number": "12",
+  "title": "Acknowledgment of receipt.–(1) Where the originator has not** 3[stipulated] that the",
+  "text": "12. Acknowledgment of receipt.–(1) Where the originator has not 3[stipulated] that the\n\nacknowledgment of receipt of electronic record be given in a particular form or by a particular method, an\nacknowledgment may be given by–\n\n(a) any communication by the addressee, automated or otherwise; or\n\n(b) any conduct of the addressee, sufficient to indicate to the originator that the electronic record\n\nhas been received.\n\n(2) Where the originator has stipulated that the electronic record shall be binding only on receipt of an\n\nacknowledgment of such electronic record by him, then unless acknowledgment has been so received, the\nelectronic record shall he deemed to have been never sent by the originator.\n\n(3) Where the originator has not stipulated that the electronic record shall be binding only on receipt\n\nof such acknowledgment, and the acknowledgment has not been received by the originator within the\ntime specified or agreed or, if no time has been specified or agreed to within a reasonable time, then the\noriginator may give notice to the addressee stating that no acknowledgment has been received by him and\nspecifying a reasonable time by which the acknowledgement must be received by him and if no\nacknowledgment is received within the aforesaid time limit he may after giving notice to the addressee,\ntreat the electronic record as though it has never been sent.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e5811879fd5e5e9cc5f4272702c872a4ee3ab4679ad70c909c00e7bc78f49101"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S15",
+  "section_number": "15",
+  "title": "Consolidation of petitions.",
+  "text": "15. Consolidation of petitions.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "521f81bf416484491f0149ecb91f92ac7ebf980a5ab71ab6846e5b366fdb8c64"
+  }
+}

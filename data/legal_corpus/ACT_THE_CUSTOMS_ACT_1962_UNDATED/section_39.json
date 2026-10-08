@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S39",
+  "section_number": "39",
+  "title": "Export goods not to be loaded on vessel until entry-outwards granted.",
+  "text": "39. Export goods not to be loaded on vessel until entry-outwards granted.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "85bed105bdfdd3b44f8c6f347446eb75da1166060f1d9dbedf240e0d97f026ba"
+  }
+}

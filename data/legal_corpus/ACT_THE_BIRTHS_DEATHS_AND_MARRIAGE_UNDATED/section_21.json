@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_BIRTHS_DEATHS_AND_MARRIAGE_UNDATED",
+  "act_title": "The Births, Deaths and Marriages Registration Act, 1886",
+  "section_id": "ACT_THE_BIRTHS_DEATHS_AND_MARRIAGE_UNDATED_S21",
+  "section_number": "21",
+  "title": "Persons authorised to give notice of death",
+  "text": "21. Persons authorised to give notice of death.—Any of the following persons may give notice of a\n\ndeath, namely:—\n\n(a) any relative of the deceased having knowledge of any of the particulars required to be\n\nregistered concerning the death;\n\n(b) any person present at the death;\n\n(c) any person occupying, at the time of the death, any part of the house wherein the death\n\noccurred and having knowledge of the deceased having died in the house;\n\n(d) any person in attendance during the last illness of the deceased:\n\n(e) any person who has seen the body of the deceased after death.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2309/1/A1886-6.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cf2807d6d0c64a806405d340ffb7a1ee8be56430424b902d785a97ad860c2cbb"
+  }
+}

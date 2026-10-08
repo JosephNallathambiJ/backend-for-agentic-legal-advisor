@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PENSION_FUND_REGULATORY_AN_UNDATED",
+  "act_title": "The Pension Fund Regulatory and Development Authority Act, 2013",
+  "section_id": "ACT_THE_PENSION_FUND_REGULATORY_AN_UNDATED_S25",
+  "section_number": "25",
+  "title": "Prohibition of investment of funds of subscribers outside India",
+  "text": "25. Prohibition of investment of funds of subscribers outside India.—No pension fund shall,\n\ndirectly or indirectly invest outside India, the funds of subscribers.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2117/1/a2013-23.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6265a24fde5e0490d12f788ae35fbbe6cec0dc06658b8f6b09749a5a585e304e"
+  }
+}

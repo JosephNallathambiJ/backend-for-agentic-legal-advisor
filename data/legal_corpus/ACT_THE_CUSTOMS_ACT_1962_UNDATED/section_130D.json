@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S130D",
+  "section_number": "130D",
+  "title": "Decision of High Court or Supreme Court on the case stated.",
+  "text": "130D. Decision of High Court or Supreme Court on the case stated.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "72589114b13d1ac8d4134a5d6f0fed6628853c746de212123159b27c1ed8805d"
+  }
+}

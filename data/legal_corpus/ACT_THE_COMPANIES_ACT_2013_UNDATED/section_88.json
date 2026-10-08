@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMPANIES_ACT_2013_UNDATED",
+  "act_title": "The Companies Act, 2013",
+  "section_id": "ACT_THE_COMPANIES_ACT_2013_UNDATED_S88",
+  "section_number": "88",
+  "title": "No dividend shall bear interest against the company.",
+  "text": "88. No dividend shall bear interest against the company.\n\n_Accounts_",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "74727c27cffe75bf5503fa5485a3e1e3585463970d94348888f152ab820cf925"
+  }
+}

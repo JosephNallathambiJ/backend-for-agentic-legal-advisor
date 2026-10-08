@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S106A",
+  "section_number": "106A",
+  "title": "Power to inspect.",
+  "text": "106A. Power to inspect.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "29c074e2267c2d2e9b273b17085228cdacdf2c06f374e3d5ae00cddd70068b18"
+  }
+}

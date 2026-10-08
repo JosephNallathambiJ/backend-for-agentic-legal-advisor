@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GENERAL_INSURANCE_BUSINESS_UNDATED",
+  "act_title": "The General Insurance Business (Nationalisation) Act, 1972",
+  "section_id": "ACT_THE_GENERAL_INSURANCE_BUSINESS_UNDATED_S32",
+  "section_number": "32",
+  "title": "New Hampshire Insurance",
+  "text": "32. New Hampshire Insurance\ncompany",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1710/1/AA1972___57.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ee3e4009a4ec2ebc1ecaf04a2b5c0a4b9492386086f5044f97bbc71bf826a5c8"
+  }
+}

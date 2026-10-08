@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S114A",
+  "section_number": "114A",
+  "title": "Building tax",
+  "text": "114A. Building tax.—For any building, the building tax shall be equal to the rate of building tax as\n\nmay be prescribed by [ [a Corporation]] under section 114D multiplied by the annual value of the\ncovered space of building determined under sub-section (1) of section 116E or section 116F.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bbebf50bdaf0d87f90a56091ee4818af88a90e9617b75b307396ecebc3f3463d"
+  }
+}

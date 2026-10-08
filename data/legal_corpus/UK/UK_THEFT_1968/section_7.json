@@ -1,0 +1,15 @@
+{
+  "jurisdiction": "UK",
+  "act_id": "UK_THEFT_1968",
+  "act_title": "Theft Act 1968 (c. 60)",
+  "section_id": "UK_THEFT_1968_S7",
+  "section_number": "7",
+  "title": "Theft penalty",
+  "text": "A person guilty of theft shall on conviction on indictment be liable to imprisonment for a term not exceeding seven years.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.legislation.gov.uk/ukpga/1968/60/contents",
+    "version": "1968_official_edition",
+    "sha256": "93e4af61643e905cfa9a79d9465713e98d977c4926b99e53ff03e13f783bb6ac"
+  }
+}

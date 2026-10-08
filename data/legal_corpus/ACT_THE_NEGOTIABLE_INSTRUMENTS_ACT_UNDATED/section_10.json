@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S10",
+  "section_number": "10",
+  "title": "“Payment in due course”",
+  "text": "10. “Payment in due course”.—“Payment in due course” means payment in accordance with the\n\napparent tenor of the instrument in good faith and without negligence to any person in possession thereof\nunder circumstances which do not afford a reasonable ground for believing that he is not entitled to\nreceive payment of the amount therein mentioned.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "01ab1f155f0fd5769a9d70304c61a57ed90c6c64733c3da5a48282138f37d01a"
+  }
+}

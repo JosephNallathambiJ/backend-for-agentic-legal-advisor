@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S12",
+  "section_number": "12",
+  "title": "Diseases caused by manganese or its toxic All work involving exposure to the risk concerned.",
+  "text": "12. Diseases caused by manganese or its toxic All work involving exposure to the risk concerned.\ncompounds.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b3d36bd9c0b8be3e128664fb23067e310b71b3a626533e738dbf9eea4234ac70"
+  }
+}

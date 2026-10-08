@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S145",
+  "section_number": "145",
+  "title": "Publication of official journal.",
+  "text": "145. Publication of official journal.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fa7ae2c8f241344fcc3cf23e38c4bfec3bdf359b78d42fc95e6da837ed82ad76"
+  }
+}

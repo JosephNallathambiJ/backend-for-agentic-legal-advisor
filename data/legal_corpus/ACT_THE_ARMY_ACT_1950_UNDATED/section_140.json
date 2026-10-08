@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S140",
+  "section_number": "140",
+  "title": "Presumption as to signatures",
+  "text": "140. Presumption as to signatures.—In any proceeding under this Act, any application, certificate,\n\nwarrant, reply or other document purporting to be signed by an officer in the service of the Government\nshall, on production, be presumed to have been duly signed by the person by whom and in the character in\nwhich it purports to have been signed, until the contrary is shown.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f8f1f6e7bf74cdd2aa5d5d7f58187e6435cd3d3e3e5f1c64ab901bbd2256e2be"
+  }
+}

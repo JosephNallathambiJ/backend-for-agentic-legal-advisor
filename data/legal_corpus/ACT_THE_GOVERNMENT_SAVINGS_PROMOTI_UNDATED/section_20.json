@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED",
+  "act_title": "The Government Savings Promotion Act, 1873",
+  "section_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED_S20",
+  "section_number": "20",
+  "title": "12-Year National Plan Savings Certificates",
+  "text": "20. 12-Year National Plan Savings Certificates",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2281/1/A1873_05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "805a0300712db7e164c2cd5e7b0b32ee7d8b784a13b89b4290b717a3a3622759"
+  }
+}

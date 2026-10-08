@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S110",
+  "section_number": "110",
+  "title": "Acceptance not specifying for whose honour it is made",
+  "text": "110. Acceptance not specifying for whose honour it is made.—Where the acceptance does not\n\nexpress for whose honour it is made it shall be deemed to be made for the honour of the drawer.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "af94018f14359f47690d5c45c75e0b43b944052f8ece3543206be1e1bf214217"
+  }
+}

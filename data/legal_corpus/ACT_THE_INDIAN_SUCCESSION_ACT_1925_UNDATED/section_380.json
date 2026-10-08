@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S380",
+  "section_number": "380",
+  "title": "Local extent of certificate.",
+  "text": "380. Local extent of certificate.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "671ba312604ef7cce39537c0ca7dda3fb10511dc94560ab8cc9d8e4ff02477d3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PAYMENT_OF_GRATUITY_ACT_19_UNDATED",
+  "act_title": "The Payment of Gratuity Act, 1972",
+  "section_id": "ACT_THE_PAYMENT_OF_GRATUITY_ACT_19_UNDATED_S2A",
+  "section_number": "2A",
+  "title": "Continuous service.",
+  "text": "2A. Continuous service.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1703/1/A1972-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "18a0bea28e94a122da6b835b613d78ae0c55e0df60e507202df16e37adaa8619"
+  }
+}

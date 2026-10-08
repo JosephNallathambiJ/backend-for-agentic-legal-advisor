@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S28",
+  "section_number": "28",
+  "title": "[Omitted.].",
+  "text": "28. [Omitted.].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b26d828098ddf75eb6456eeca7b37d5f9c1f99d1e73936fa9d4c17aa45731f98"
+  }
+}

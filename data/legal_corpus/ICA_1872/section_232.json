@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S232",
+  "section_number": "232",
+  "title": "Performance of contract with agent supposed to be principal",
+  "text": "232. Performance of contract with agent supposed to be principal.—Where one man makes a\n\ncontract with another, neither knowing nor having reasonable ground to suspect that the other is an agent,\nthe principal, if he requires the performance of the contract, can only obtain such performance subject to\nthe rights and obligations subsisting between the agent and the other party to the contract.\n\n_Illustration_\n\nA, who owes 500 rupees to B, sells 1,000 rupees worth of rice to B. A is acting as agent for C in the transaction, but B has\n\nno knowledge nor reasonable ground of suspicion that such is the case. C cannot compel B to take the rice without allowing him\nto set-off A’s debt.\n\n233.Right of person dealing with agent personally liable.—In cases where the agent is personally\n\nliable, a person dealing with him may hold either him or his principal, or both of them, liable.\n\n_Illustration_\n\nA enters into a contract with B to sell him 100 bales of cotton, and afterwards discovers that B was acting as agent for C. A\n\nmay sue either B or C, or both, for the price of the cotton.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6bea60428a4d61b0a9785e25d0a22b2da4627e675f0d9dc86d86482d32362fa2"
+  }
+}

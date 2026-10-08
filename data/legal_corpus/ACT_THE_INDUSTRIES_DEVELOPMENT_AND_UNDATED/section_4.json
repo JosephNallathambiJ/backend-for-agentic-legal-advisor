@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED",
+  "act_title": "The Industries (Development and Regulation)  Act, 1951",
+  "section_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED_S4",
+  "section_number": "4",
+  "title": "PRIME MOVERS (OTHER THAN ELECTRICAL GENERATORS):",
+  "text": "4. PRIME MOVERS (OTHER THAN ELECTRICAL GENERATORS):\n\n(1) Steam engines and turbines.\n\n(2) Internal combustion engines.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2118/3/A1951-65.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ed9dbd8ce3d954302621f8888f457dc4297ce1b8e2d792e1433533cd95ba4f2e"
+  }
+}

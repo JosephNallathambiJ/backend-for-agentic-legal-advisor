@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S193A",
+  "section_number": "193A",
+  "title": "Rules and regulations to be laid before Parliament.",
+  "text": "193A. Rules and regulations to be laid before Parliament.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3f61c8ff40eb96c0290fc21105e0c3f110761cb5191a141cf21b8f53b4872314"
+  }
+}

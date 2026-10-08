@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S269",
+  "section_number": "269",
+  "title": "[Omitted.].",
+  "text": "269. [Omitted.].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "42045e79611cce139c7d47edd8c107bc2aebea49d92d929c7d477a786bb69a00"
+  }
+}

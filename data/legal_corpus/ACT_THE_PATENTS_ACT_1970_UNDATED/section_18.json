@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S18",
+  "section_number": "18",
+  "title": "Section 71A",
+  "text": "18. Section 71A—Omit “or from patents, specifications and other.”.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5d54424cbae8e8515081fd9a91469e84576b53578dc0bbf1a6076d6fca04a7fe"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S92",
+  "section_number": "92",
+  "title": "Implied gift to objects of power in default of appointment",
+  "text": "92. Implied gift to objects of power in default of appointment.—Where property is bequeathed to\n\nor for the benefit of certain objects as a specified person may appoint or for the benefit of certain objects\nin such proportions as a specified person may appoint, and the will does not provide for the event of no\nappointment being made; if the power given by the will is not exercised, the property belongs to all the\nobjects of the power in equal shares.\n\n_Illustration_\n\nA, by his will bequeaths a fund to his wife, for her life, and directs that at her death it shall be divided among\n\nhis children in such proportions as she shall appoint. The widow dies without having made any appointment. The\nfund will be divided equally among the children.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "47c1bb0e3e5a6504abb4ee7d468596f17296b005ae02a0f00ca3c99a94c7732d"
+  }
+}

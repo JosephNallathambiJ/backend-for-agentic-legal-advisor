@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S352",
+  "section_number": "352",
+  "title": "Interest when time fixed",
+  "text": "352. Interest when time fixed.—Where a time has been fixed for the payment of a general legacy,\n\ninterest begins to run from the time so fixed. The interest up to such time forms part of the residue of the\ntestator's estate.\n\n_Exception.—Where the testator was a parent or a more remote ancestor of the legatee, or has put_\n\nhimself in the place of a parent of the legatee and the legatee is a minor, the legacy shall bear interest\nfrom the death of the testator, unless a specific sum is given by the will for maintenance, or unless the\nwill contains a direction to the contrary.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0e6d73d62ea0cba5af4a97daf243c54d2ca6ec343d780dc2faa2d5941f83190a"
+  }
+}

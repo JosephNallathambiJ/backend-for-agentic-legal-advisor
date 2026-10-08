@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S146",
+  "section_number": "146",
+  "title": "Bank’s slip prima facie evidence of certain facts",
+  "text": "146. Bank’s slip prima facie evidence of certain facts.—The Court shall, in respect of every\n\nproceeding under this Chapter, on production of Bank's slip or memo having thereon the official mark\ndenoting that the cheque has been dishonoured, presume the fact of dishonour of such cheque, unless and\nuntil such fact is disproved.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "abe0670e4c2d2222018b363a445f3d792b4199056b6701dd11254e06322d6464"
+  }
+}

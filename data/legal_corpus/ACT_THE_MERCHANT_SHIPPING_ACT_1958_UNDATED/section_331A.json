@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S331A",
+  "section_number": "331A",
+  "title": "Grain loading plan.",
+  "text": "331A. Grain loading plan.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e2c9f5851e2ee8363a54b91b37046397861a62eb672de897dbfe4ef34ce32aac"
+  }
+}

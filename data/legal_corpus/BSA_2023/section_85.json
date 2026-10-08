@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S85",
+  "section_number": "85",
+  "title": "Presumption as to electronic agreements",
+  "text": "85. Presumption as to electronic agreements.—The Court shall presume that every electronic\n\nrecord purporting to be an agreement containing the electronic or digital signature of the parties was so\nconcluded by affixing the electronic or digital signature of the parties.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f789c0de920b404ce4022e8c0975c99f3aaeaf68ce5e2887f1f5c1a8dbf7e9ec"
+  }
+}

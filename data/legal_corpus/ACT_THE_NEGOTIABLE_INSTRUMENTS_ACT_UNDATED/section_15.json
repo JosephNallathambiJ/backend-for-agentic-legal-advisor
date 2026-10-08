@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S15",
+  "section_number": "15",
+  "title": "Indorsement",
+  "text": "15. Indorsement.—When the maker or holder of a negotiable instrument signs the same, otherwise\n\nthan as such maker, for the purpose of negotiation, on the back or face thereof or on a slip of paper\nannexed thereto, or so signs for the same purpose a stamped paper intended to be completed as a\nnegotiable instrument, he is said to indorse the same, and is called the “indorser”.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "dbdedd0539d4039ab2bb306dac0078805a9ec52cd2221e3b15e840346df7cd9c"
+  }
+}

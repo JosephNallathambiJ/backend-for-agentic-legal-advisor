@@ -1,0 +1,14 @@
+{
+  "act_id": "CONSUMER_2019",
+  "act_title": "The Consumer Protection Act, 2019",
+  "section_id": "CONSUMER_2019_S24",
+  "section_number": "24",
+  "title": "Appeal",
+  "text": "24. Appeal.—A person aggrieved by any order passed by the Central Authority under sections 20 and\n\n21 may file an appeal to the National Commission within a period of thirty days from the date of receipt\nof such order.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15256/5/A2019-35.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "523884dd57521a557ebb9158ee512aa142ca8c3e2bc248f097da44863f8fc628"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S10A",
+  "section_number": "10A",
+  "title": "Power to require from employers statements regarding fatal accidents.",
+  "text": "10A. Power to require from employers statements regarding fatal accidents.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "dfe07e339988c1dd3fa115433b789db3ee3551cc3d4159d9ac1d9560aeb10f5e"
+  }
+}

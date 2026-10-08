@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S28B",
+  "section_number": "28B",
+  "title": "Continuance of proceedings.",
+  "text": "28B. Continuance of proceedings.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "361507704fab70a5f04381b6a45852266d651b09aed02f3938b817a460fa63a1"
+  }
+}

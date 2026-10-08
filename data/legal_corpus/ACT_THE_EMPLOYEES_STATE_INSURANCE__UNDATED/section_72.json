@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S72",
+  "section_number": "72",
+  "title": "Employer not to reduce wages, etc",
+  "text": "72. Employer not to reduce wages, etc.—No employer by reason only of his liability for any\n\ncontributions payable under this Act shall, directly or indirectly reduce the wages of any employee, or\nexcept as provided by the regulations, discontinue or reduce benefits payable to him under the conditions\nof his service which are similar to the benefits conferred by this Act.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6000fc7037d0506c5e536290ae8dd4db1b1bca3298864f4a1788f4f7cb05b0f9"
+  }
+}

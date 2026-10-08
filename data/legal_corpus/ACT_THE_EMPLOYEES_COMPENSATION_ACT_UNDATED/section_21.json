@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S21",
+  "section_number": "21",
+  "title": "Diseases caused by alcohols and All work involving exposure to the risk concerned.",
+  "text": "21. Diseases caused by alcohols and All work involving exposure to the risk concerned.\nketones.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b86bfe559a0a4a91cd2d8dfc532c372193bd35a2cf3ac70fb0f107f6c4466708"
+  }
+}

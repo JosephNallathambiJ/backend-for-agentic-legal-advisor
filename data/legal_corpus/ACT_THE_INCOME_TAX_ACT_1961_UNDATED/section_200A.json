@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S200A",
+  "section_number": "200A",
+  "title": "Processing of statements of tax deducted at source.",
+  "text": "200A. Processing of statements of tax deducted at source.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "96445f7d1283eaf4e3e004f5bb33417e51c34b32a7b20e7fc0f47acac57400ae"
+  }
+}

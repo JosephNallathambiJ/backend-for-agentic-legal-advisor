@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TEA_ACT_1953_UNDATED",
+  "act_title": "The Tea Act, 1953",
+  "section_id": "ACT_THE_TEA_ACT_1953_UNDATED_S25",
+  "section_number": "25",
+  "title": "Imposition of cess on tea produced In India.",
+  "text": "25. Imposition of cess on tea produced In India.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2175/5/A1953-29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "109cf087d592b374c5b59d8d058e25a755d8c86e7f788b9e6a2ded64ef84166a"
+  }
+}

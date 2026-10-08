@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DIPLOMATIC_RELATIONS_VIENN_UNDATED",
+  "act_title": "The Diplomatic Relations (Vienna Convention) Act, 1972",
+  "section_id": "ACT_THE_DIPLOMATIC_RELATIONS_VIENN_UNDATED_S9",
+  "section_number": "9",
+  "title": "Evidence",
+  "text": "9. Evidence.—If in any proceedings any question arises whether or not any person is entitled to any\n\nprivilege or immunity under this Act, a certificate issued by or under the authority of the Secretary to the\nGovernment of India in the Ministry of External Affairs stating any fact relating to that question shall be\nconclusive evidence of that fact.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1721/3/A1972-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "36233fd4af742327ae2fb3a7fdfb93fbd4e452ada47c23571d9efee72b8d7607"
+  }
+}

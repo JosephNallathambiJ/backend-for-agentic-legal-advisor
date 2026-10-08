@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S40",
+  "section_number": "40",
+  "title": "Discharge of indorser's liability",
+  "text": "40. Discharge of indorser's liability.—Where the holder of a negotiable instrument, without the\n\nconsent of the indorser, destroys or impairs the indorser’s remedy against a prior party, the indorser is\ndischarged from liability to the holder to the same extent as if the instrument had been paid at maturity.\n\n_Illustration_\n\nA is the holder of a bill of exchange made payable to the order of B, which contains the following indorsements in\n\nblank:—\n\nFirst indorsement, “B”.\n\nSecond indorsement, “Peter Williams”.\n\nThird indorsement, “Wright & Co.”\n\nFourth indorsement. “John Rozario”.\n\nThis bill A puts in suit against John Rozario and strikes out, without John Rozario's consent, the indorsements by Peter\n\nWilliams and Wright & Co. A is not entitled to recover anything from John Rozario.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "807aa84071b268825c61bac003c816589dcec3f9b7e79b5fa28ffc92c30402fc"
+  }
+}

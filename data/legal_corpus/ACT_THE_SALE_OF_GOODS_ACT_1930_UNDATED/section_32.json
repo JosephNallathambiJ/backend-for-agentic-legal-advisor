@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S32",
+  "section_number": "32",
+  "title": "Payment and delivery are concurrent conditions",
+  "text": "32. Payment and delivery are concurrent conditions.—Unless otherwise agreed, delivery of the\n\ngoods and payment of the price are concurrent conditions, that is to say, the seller shall be ready and\nwilling to give possession of the goods to the buyer in exchange for the price, and the buyer shall be ready\nand willing to pay the price in exchange for possession of the goods.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "becd9af340592d6ecae69a9834d941524ee16f534d074c512bf07a31cfc4cd64"
+  }
+}

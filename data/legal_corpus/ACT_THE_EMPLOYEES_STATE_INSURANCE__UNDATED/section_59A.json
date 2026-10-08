@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S59A",
+  "section_number": "59A",
+  "title": "Provision of medical benefit by the Corporation in lieu of State Government.",
+  "text": "59A. Provision of medical benefit by the Corporation in lieu of State Government.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "02a3b9ab76e224c847de865cdd16dc32c32dfbc473e2f1b9e1a52eec7c2fce0a"
+  }
+}

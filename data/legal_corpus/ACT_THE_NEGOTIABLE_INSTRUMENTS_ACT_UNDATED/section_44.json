@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S44",
+  "section_number": "44",
+  "title": "Partial absence or failure of money-consideration",
+  "text": "44. Partial absence or failure of money-consideration.—When the consideration for which a\n\nperson signed a promissory note, bill of exchange or cheque consisted of money, and was originally\nabsent in part or has subsequently failed in part, the sum which a holder standing in immediate relation\nwith such signer is entitled to receive from him is proportionally reduced.\n\n_Explanation.—The drawer of a bill of exchange stands in immediate relation with the acceptor. The_\n\nmaker of a promissory note, bill of exchange or cheque stands in immediate relation with the payee, and\nthe indorser with his indorsee. Other signers may by agreement stand in immediate relation with a holder.\n\n_Illustration_\n\nA draws a bill on B for Rs. 500 payable to the order of A, B accepts the bill, but subsequently dishonours, it by\n\nnon-payment. A sues B on the bill, B proves that it was accepted for value as to Rs. 400, and as an accommodation to\nthe plaintiff as to the residue. A can only recover Rs. 400.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1658c05baf0018592de9189489f1455f8cac2327b2b6102b31bcf8757c281cfc"
+  }
+}

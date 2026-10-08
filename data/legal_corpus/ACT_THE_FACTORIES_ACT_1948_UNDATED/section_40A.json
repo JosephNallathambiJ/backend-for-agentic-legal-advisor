@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_FACTORIES_ACT_1948_UNDATED",
+  "act_title": "The Factories Act, 1948",
+  "section_id": "ACT_THE_FACTORIES_ACT_1948_UNDATED_S40A",
+  "section_number": "40A",
+  "title": "Maintenance of buildings.",
+  "text": "40A. Maintenance of buildings.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1530/1/A1948-63.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2bb0da7c63f5febe15f4afe2914abfaed2c7990ac13f4a4bf31622014ef1969e"
+  }
+}

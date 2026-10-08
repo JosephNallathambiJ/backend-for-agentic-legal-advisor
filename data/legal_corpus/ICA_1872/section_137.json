@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S137",
+  "section_number": "137",
+  "title": "Creditor’s forbearance to sue does not discharge surety",
+  "text": "137. Creditor’s forbearance to sue does not discharge surety.—Mere forbearance on the part of\n\nthe creditor to sue the principal debtor or to enforce any other remedy against him does not, in the absence\nof any provision in the guarantee to the contrary, discharge the surety.\n\n_Illustration_\n\nB owes to C a debt guaranteed by A. The debt becomes payable. C does not sue B for a year after the debt has become\n\npayable. A is not discharged from his suretyship.\n\n36\n\n-----\n\n138.Release of one co-surety does not discharge others.—Where there are co-sureties, a release by\n\nthe creditor of one of them does not discharge the others; neither does it free the surety so released from\nhis responsibility to the other sureties.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b00e4843e8ce8dd36a819d6b84e0fbe39336e4630055b2f2ab1dd5cb145c3339"
+  }
+}

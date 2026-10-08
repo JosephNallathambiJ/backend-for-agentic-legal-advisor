@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S73",
+  "section_number": "73",
+  "title": "Penalty for publishing** [2][electronic signature] Certificate false in certain particulars.–(1) No",
+  "text": "73. Penalty for publishing [electronic signature] Certificate false in certain particulars.–(1) No\n\nperson shall publish a [electronic signature] Certificate or otherwise make it available to any other person\nwith the knowledge that–\n\n(a) the Certifying Authority listed in the certificate has not issued it; or\n\n(b) the subscriber listed in the certificate has not accepted it; or\n\n(c) the certificate has been revoked or suspended,\n\nunless such publication is for the purpose of verifying a [electronic signature] created prior to such\nsuspension or revocation.\n\n(2) Any person who contravenes the provisions of sub-section (1) shall be punished with\n\nimprisonment for a term which may extend to two years, or with fine which may extend to one lakh\nrupees, or with both.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ade74738841ae9bd19c6e1b6b246c09b562a5665f64175a46597935ea764bd51"
+  }
+}

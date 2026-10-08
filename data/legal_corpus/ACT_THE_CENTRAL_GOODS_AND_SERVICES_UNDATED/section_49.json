@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED",
+  "act_title": "The Central Goods and Services Tax Act, 2017",
+  "section_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED_S49",
+  "section_number": "49",
+  "title": "Payment of tax, interest, penalty and other amounts",
+  "text": "49. Payment of tax, interest, penalty and other amounts.—(1) Every deposit made towards tax,\n\ninterest, penalty, fee or any other amount by a person by internet banking or by using credit or debit cards\nor National Electronic Fund Transfer or Real Time Gross Settlement or by such other mode and subject to\nsuch conditions and restrictions as may be prescribed, shall be credited to the electronic cash ledger of\nsuch person to be maintained in such manner as may be prescribed.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "21b99b951db3584b646ddb39d3fe2c438cfa92ab9fb511f8450288071b354b73"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED",
+  "act_title": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+  "section_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED_S10",
+  "section_number": "10",
+  "title": "There shall be no limit on the number of days of employment for which a person may apply,",
+  "text": "10. There shall be no limit on the number of days of employment for which a person may apply,\n\nor on the number of days of employment actually provided to him subject to the aggregate entitlement\n\nof the household.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2014/5/a2005-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3da0783f163e312e22fd58b0efe71f20c8e62514daa11ee720cfb5ed2d7d9a9b"
+  }
+}

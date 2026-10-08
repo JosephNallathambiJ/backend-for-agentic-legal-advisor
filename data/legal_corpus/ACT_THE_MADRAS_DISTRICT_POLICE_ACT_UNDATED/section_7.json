@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MADRAS_DISTRICT_POLICE_ACT_UNDATED",
+  "act_title": "The Madras District Police Act, 1859",
+  "section_id": "ACT_THE_MADRAS_DISTRICT_POLICE_ACT_UNDATED_S7",
+  "section_number": "7",
+  "title": "Persons escaping from legal custody",
+  "text": "7. Persons escaping from legal custody.—All persons who, having been in legal custody, shall\n\nhave escaped therefrom.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19099/1/a1859-24.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "60c24a8a30ab9df63509e09362faff05bc0d90ef4e605dacae4f355c870d1959"
+  }
+}

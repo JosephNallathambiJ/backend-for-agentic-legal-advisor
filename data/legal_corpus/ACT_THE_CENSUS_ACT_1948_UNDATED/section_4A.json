@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENSUS_ACT_1948_UNDATED",
+  "act_title": "The Census Act, 1948",
+  "section_id": "ACT_THE_CENSUS_ACT_1948_UNDATED_S4A",
+  "section_number": "4A",
+  "title": "Staff of every local authority to be made available for taking census.",
+  "text": "4A. Staff of every local authority to be made available for taking census.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1519/1/AAA1948___37.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "919c5b4c67aca2a8d9312f77d7ea8b3f6a0c19ce097d7ad75736edfbf0b2cdb7"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S21",
+  "section_number": "21",
+  "title": "Contingent interest",
+  "text": "21. Contingent interest.—Where, on a transfer of property, an interest therein is created in\n\nfavour of a person to take effect only on the happening of a specified uncertain event, or if a\nspecified uncertain event shall not happen, such person thereby acquires a contingent interest in\nthe property. Such interest becomes a vested interest, in the former case, on the happening of the\nevent, in the latter, when the happening of the event becomes impossible.\n\n_Exception.—Where, under a transfer of property, a person becomes entitled to an interest_\n\ntherein upon attaining a particular age, and the transferor also gives to him absolutely the income\nto arise from such interest before he reaches that age, or directs the income or so much thereof as\nmay be necessary to be applied for his benefit, such interest is not contingent.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "62f386999f56406d8766f33810378ad27be8dfcc77aa619763b87f4f9dfaa6a0"
+  }
+}

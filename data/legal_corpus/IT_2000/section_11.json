@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S11",
+  "section_number": "11",
+  "title": "Attribution of electronic records.–An electronic record shall be attributed to the originator–",
+  "text": "11. Attribution of electronic records.–An electronic record shall be attributed to the originator–\n\n(a) if it was sent by the originator himself;\n\n(b) by a person who had the authority to act on behalf of the originator in respect of that\n\nelectronic record; or\n\n(c) by an information system programmed by or on behalf of the originator to operate\n\nautomatically.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d0b3a55b4aca68344181402f9aeb89d848266aa1951f550a91fc52cab5b00d7e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S20",
+  "section_number": "20",
+  "title": "Inchoate stamped instruments",
+  "text": "20. Inchoate stamped instruments.—Where one person signs and delivers to another a paper\n\nstamped in accordance with the law relating to negotiable instruments then in force in [India], and\neither wholly blank or having written thereon an incomplete negotiable instrument, he thereby gives\n_prima facie_ authority to the holder thereof to make or complete, as the case may be, upon it a\nnegotiable instrument, for any amount specified therein and not exceeding the amount covered by the\nstamp. The person so signing shall be liable upon such instrument, in the capacity in which he signed\nthe same, to any holder in due course for such amount: provided that no person other than a holder in\ndue course shall recover from the person delivering the instrument anything in excess of the amount\nintended by him to be paid thereunder.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "89bb725024b74bff323bc74392150442807659933d0007a139aa8be7cea71b22"
+  }
+}

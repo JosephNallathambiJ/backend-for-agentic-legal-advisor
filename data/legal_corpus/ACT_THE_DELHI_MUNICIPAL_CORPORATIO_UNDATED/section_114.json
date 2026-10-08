@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S114",
+  "section_number": "114",
+  "title": "Components of property tax.",
+  "text": "114. Components of property tax.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "62b66a35893909589c79f9183c44f1482ac83ae713f19cd144885ff0492b7195"
+  }
+}

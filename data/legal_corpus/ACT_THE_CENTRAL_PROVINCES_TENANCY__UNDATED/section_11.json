@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED",
+  "act_title": "The Central Provinces Tenancy Act, 1898",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED_S11",
+  "section_number": "11",
+  "title": "Presumption as to payments by tenant to landlord",
+  "text": "11. Presumption as to payments by tenant to landlord.—Where rent is due, every payment by a\ntenant to his landlord shall, unless the tenant otherwise agrees, be presumed to be a payment on account\nof rent.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19250/1/A1898-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ce1e59f43ad5fb08a5feacb31df49af1299e236a8227f8a21c17000d974898a1"
+  }
+}

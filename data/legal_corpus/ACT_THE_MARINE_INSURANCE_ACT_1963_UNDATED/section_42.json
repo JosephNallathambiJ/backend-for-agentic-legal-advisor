@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S42",
+  "section_number": "42",
+  "title": "No implied warranty that goods are seaworthy",
+  "text": "42. No implied warranty that goods are seaworthy.—(1) In a policy on goods or other moveable\n\nthere is no implied warranty that the goods or movables are seaworthy.\n\n(2) In a voyage policy on goods or other movables there is an implied warranty that at the\n\ncommencement of the voyage the ship is not only seaworthy as a ship, but also that she is reasonably fit\nto carry the goods or other movables to the destination contemplated by the policy.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3f1649dc949ac0358dcc4116548f67e6758c2ac266486b48f1e593522981d24e"
+  }
+}

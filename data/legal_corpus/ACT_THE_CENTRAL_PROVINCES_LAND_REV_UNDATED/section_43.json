@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S43",
+  "section_number": "43",
+  "title": "Power to form mahals",
+  "text": "43. Power to form mahals.—The Settlement-officer may declare any local area to be a mahal.\n\n_Excluded Lands._",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "80c138f171dcc7c866fe79628c7741ed9deb8b343a8cee44e4d5cb1e9e59252e"
+  }
+}

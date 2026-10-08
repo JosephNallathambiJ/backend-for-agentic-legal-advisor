@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED",
+  "act_title": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+  "section_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED_S18",
+  "section_number": "18",
+  "title": "As far as possible, the employment shall be provided within a radius of five kilometers of the",
+  "text": "18. As far as possible, the employment shall be provided within a radius of five kilometers of the\n\nvillage where the applicant resides at the time of applying.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2014/5/a2005-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "08f14af4569f561af4f1a93466b11693cc2a2548385aa9723241b6bcdfb0961b"
+  }
+}

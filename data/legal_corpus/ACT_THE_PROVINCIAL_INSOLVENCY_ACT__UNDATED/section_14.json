@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S14",
+  "section_number": "14",
+  "title": "Withdrawal of petitions.",
+  "text": "14. Withdrawal of petitions.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2e69fa616e61f44e66f7a3d98d723dbb8934958ac1d5799d76b1100896fc1b52"
+  }
+}

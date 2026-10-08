@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED",
+  "act_title": "The Government Savings Promotion Act, 1873",
+  "section_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED_S23",
+  "section_number": "23",
+  "title": "12-Year National Defence Certificates",
+  "text": "23. 12-Year National Defence Certificates",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2281/1/A1873_05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a62038c5d620ad1ed0804315cfb9f910007171107ad7391047cf5703f913b6b5"
+  }
+}

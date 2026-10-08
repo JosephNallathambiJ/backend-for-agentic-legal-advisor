@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S112",
+  "section_number": "112",
+  "title": "Bequest to person by particular description, who is not in existence at testator’s death",
+  "text": "112. Bequest to person by particular description, who is not in existence at testator’s death.—\n\nWhere a bequest is made to a person by a particular description, and there is no person in existence at the\ntestator's death who answers the description, the bequest is void.\n\n_Exception.—If property is bequeathed to a person described as standing in a particular degree of_\n\nkindred to a specified individual, but his possession of it is deferred until a time later than the deathofthe\ntestator, by reason of a prior bequest or otherwise; and if a person answering the description isalive at the\ndeath of the testator, or comes into existence between that event and such later time, the property shall, at\nsuch later time, go to that person, or, if he is dead, to his representatives.\n\n-----\n\n_Illustrations_\n\n(i) A bequeaths 1,000 rupees to the eldest son of B. At the death of the testator, B has no son. The bequest is\n\nvoid.\n\n(ii) A bequeaths 1,000 rupees to B for life, and after his death to the eldest son of C. At the death of the testator,\n\nC had no son. Afterwards, during the life of B, a son is born to C. Upon B’s death the legacy goes to .C's son.\n\n(iii) A bequeaths 1,000 rupees to B for life, and after his death to the eldest son of C. At the death of the testator,\n\nC had no son. Afterwards, during the life of B, a son, named D, is born to C. D dies, then B dies. The legacy goes to\nthe representative of D.\n\n(iv) A bequeaths his estate of Green Acre to be for life, and at his decease, to the eldest son of C. Up to the\n\ndeath of B, C has had no son. The bequest to C’s eldest son is void.\n\n(v) A bequeaths 1,000 rupees to the eldest son of C, to be paid to him after the death of B. At the death of the\n\ntestator C has no son, but a son is afterwards born to him during the life of B and is alive at B’s death. C’s son is\nentitled to the 1,000 rupees.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "db8048ffff0bad45f323d22bd0b696fce503e71bce2159a37a98a9e9108fce7d"
+  }
+}

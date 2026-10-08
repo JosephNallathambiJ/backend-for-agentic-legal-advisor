@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED",
+  "act_title": "The Insurance Act, 1938",
+  "section_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED_S38",
+  "section_number": "38",
+  "title": "Assignment and transfer of insurance policies.",
+  "text": "38. Assignment and transfer of insurance policies.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ed8cfe8a44730f140b465fc80466a1a76653c73e76b28234122d8789d599408c"
+  }
+}

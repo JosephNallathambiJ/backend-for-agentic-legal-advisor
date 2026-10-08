@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_FOREIGN_CONTRIBUTION_REGUL_UNDATED",
+  "act_title": "The Foreign Contribution (Regulation) Act, 2010",
+  "section_id": "ACT_THE_FOREIGN_CONTRIBUTION_REGUL_UNDATED_S14A",
+  "section_number": "14A",
+  "title": "Surrender of certificate.",
+  "text": "14A. Surrender of certificate.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2098/1/a2010-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "709c21e84ee4da448927d03765b92c50f1897a8572181ab856fa1d00dd57dd20"
+  }
+}

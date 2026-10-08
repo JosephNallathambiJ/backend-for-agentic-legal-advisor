@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S281",
+  "section_number": "281",
+  "title": "Certain transfers to be void.",
+  "text": "281. Certain transfers to be void.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d118c2415b41e1cc75d39851662d7be50638b8d205f3440857673004b8ada05e"
+  }
+}

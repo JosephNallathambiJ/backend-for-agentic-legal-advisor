@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S23",
+  "section_number": "23",
+  "title": "Transfer contingent on happening of specified uncertain event",
+  "text": "23. Transfer contingent on happening of specified uncertain event.—Where, on a transfer of\n\nproperty, an interest therein is to accrue to a specified person if a specified uncertain event shall\nhappen, and no time is mentioned for the occurrence of that event, the interest fails unless such\nevent happens before, or at the same time as, the intermediate or precedent interest ceases to exist.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c93a94ee16a3202d5b49e73a29cfc9948106f60b01de67190aa9ef0399d530ab"
+  }
+}

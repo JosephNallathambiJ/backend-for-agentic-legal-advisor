@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ELECTRICITY_ACT_2003_UNDATED",
+  "act_title": "The Electricity Act, 2003",
+  "section_id": "ACT_THE_ELECTRICITY_ACT_2003_UNDATED_S151A",
+  "section_number": "151A",
+  "title": "Power of police to investigate.",
+  "text": "151A. Power of police to investigate.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2058/1/A2003-36.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6868f2b77012214a233bdb5d6e2deddf076315bfa733fdc262ecd7e26163ad6a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S10",
+  "section_number": "10",
+  "title": "Commission and appointment",
+  "text": "10. Commission and appointment.—The President may grant, to such person as he thinks fit, a\n\ncommission as an officer, or as a junior commissioned officer or appoint any person as a warrant officer\nof the regular Army.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e5bc6646d03b1a68e21376f3bfb206ea37a71eac1a20712f56b5f69b2314aacd"
+  }
+}

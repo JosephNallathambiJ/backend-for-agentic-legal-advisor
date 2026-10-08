@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_SALES_TAX_ACT_1956_UNDATED",
+  "act_title": "The Central Sales Tax Act, 1956",
+  "section_id": "ACT_THE_CENTRAL_SALES_TAX_ACT_1956_UNDATED_S9B",
+  "section_number": "9B",
+  "title": "Rounding off of tax, etc.",
+  "text": "9B. Rounding off of tax, etc.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2484/1/a1956-74.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "476575f1270beaf72832c52e667f0dc90c5c38c1e7a797e98351f7d6d0c187e2"
+  }
+}

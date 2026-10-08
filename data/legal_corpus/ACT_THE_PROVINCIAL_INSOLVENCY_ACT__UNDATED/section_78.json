@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S78",
+  "section_number": "78",
+  "title": "Limitation",
+  "text": "78. Limitation.—(1) The provisions of sections 5 and 12 of the Indian Limitation Act, 1908\n\n(9 of 1908), shall apply to appeals and applications under this Act, and for the purpose of the said section\n12, a decision under section 4 shall be deemed to be a decree.\n\n(2) Where an order of adjudication has been annulled under this Act, in computing the period of\n\nlimitation prescribed for any suit or application for the execution of a decree (other than a suit or\napplication in respect of which the leave of the Court was obtained under sub-section (2) of section 28)\nwhich might have been brought or made but for the making of an order of adjudication under this Act, the\nperiod from the date of the order of adjudication to the date of the order of annulment shall be excluded:\n\nProvided that nothing in this section shall apply to a suit or application in respect of a debt provable\n\nbut not proved under this Act.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a94affd87cf6109a1672d622f3972b04665768ae1f2cb48b26566a7f7b336791"
+  }
+}

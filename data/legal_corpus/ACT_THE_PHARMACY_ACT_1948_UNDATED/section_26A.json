@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PHARMACY_ACT_1948_UNDATED",
+  "act_title": "The Pharmacy Act, 1948",
+  "section_id": "ACT_THE_PHARMACY_ACT_1948_UNDATED_S26A",
+  "section_number": "26A",
+  "title": "Inspection.",
+  "text": "26A. Inspection.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1364/1/1948-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2952f8e43778b13e1c2edf3e9d92df93e97c0eabf689d9a15b4891b300ea5926"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_STAMP_ACT_1899_UNDATED",
+  "act_title": "The Indian Stamp Act, 1899",
+  "section_id": "ACT_THE_INDIAN_STAMP_ACT_1899_UNDATED_S54A",
+  "section_number": "54A",
+  "title": "Allowances for stamps in denominations of annas.",
+  "text": "54A. Allowances for stamps in denominations of annas.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15510/1/a1899-2%20.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c0035d2cf41020df3efd0325d02d480a5588527415a06c3ce968cc6d499d532f"
+  }
+}

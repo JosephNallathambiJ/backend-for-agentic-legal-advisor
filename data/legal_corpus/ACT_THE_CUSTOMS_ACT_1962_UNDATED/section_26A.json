@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S26A",
+  "section_number": "26A",
+  "title": "Refund of import duty in certain cases.",
+  "text": "26A. Refund of import duty in certain cases.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "08947b2fe0e0b23c62b8a4a32b1e644cd149eaa0d8a51e17920b387cb6b117ba"
+  }
+}

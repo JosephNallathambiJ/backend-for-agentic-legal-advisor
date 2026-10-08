@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S29",
+  "section_number": "29",
+  "title": "Agreements void for uncertainty",
+  "text": "29. Agreements void for uncertainty.—Agreements, the meaning of which is not certain, or capable\n\nof being made certain, are void.\n\n_Illustrations_\n\n(a) A agrees to sell to B “a hundred tons of oil”. There is nothing whatever to show what kind of oil was intended. The\n\nagreement is void for uncertainty.\n\n(b) A agrees to sell to B one hundred tons of oil of a specified description, known as an article of commerce. There is no\n\nuncertainty here to make the agreement void.\n\n(c) A, who is a dealer in cocoanut-oil only, agrees to sell to B “one hundred tons of oil”. The nature of A’s trade affords an\n\nindication of the meaning of the words, and A has entered into a contract for the sale of one hundred tons of cocoanut-oil.\n\n(d) A agrees to sell to B “all the grain in my granary at Ramnagar”. There is no uncertainty here to make the agreement void.\n\n(e) A agrees to sell B “one thousand maunds of rice at a price to be fixed by C”. As the price is capable of being made\n\ncertain, there is no uncertainty here to make the agreement void.\n\n(f) A agrees to sell to B “my white horse for rupees five hundred or rupees one thousand”. There is nothing to show which of\n\nthe two prices was to be given. The agreement is void.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "50bc96c97aebeea783990c36d920f049162e2c786a800c07f072685ce6977880"
+  }
+}

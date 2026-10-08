@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SCHEDULED_SECURITIES_HYDER_UNDATED",
+  "act_title": "The Scheduled Securities (Hyderabad) Act,1949",
+  "section_id": "ACT_THE_SCHEDULED_SECURITIES_HYDER_UNDATED_S3",
+  "section_number": "3",
+  "title": "Title to scheduled security not affected by previous transfers.",
+  "text": "3. Title to scheduled security not affected by previous transfers.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/18940/1/a1949-7.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b8b2cf1c7a25831365c02bfdac61a91483ff46985b988f486594626b3d20cac5"
+  }
+}

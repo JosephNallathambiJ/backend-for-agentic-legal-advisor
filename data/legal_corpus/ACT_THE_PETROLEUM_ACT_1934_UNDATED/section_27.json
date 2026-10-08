@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PETROLEUM_ACT_1934_UNDATED",
+  "act_title": "The Petroleum Act, 1934",
+  "section_id": "ACT_THE_PETROLEUM_ACT_1934_UNDATED_S27",
+  "section_number": "27",
+  "title": "Notice of accidents with petroleum.",
+  "text": "27. Notice of accidents with petroleum.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2401/1/A1934-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "28288b715344c27aca37360137b6a0f25b98f8c4205c0ad793c078e7f4118b5b"
+  }
+}

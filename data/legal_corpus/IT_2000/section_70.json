@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S70",
+  "section_number": "70",
+  "title": "Protected system.–[2][(1) The appropriate Government may, by notification in the Official",
+  "text": "70. Protected system.–[(1) The appropriate Government may, by notification in the Official\n\nGazette, declare any computer resource which directly or indirectly affects the facility of Critical\nInformation Infrastructure, to be a protected system.\n\n_Explanation.–For the purposes of this section, “Critical Information Infrastructure” means the_\n\ncomputer resource, the incapacitation or destruction of which, shall have debilitating impact on national\nsecurity, economy, public health or safety.]\n\n(2) The appropriate Government may, by order in writing, authorise the persons who are authorised to\n\naccess protected systems notified under sub-section (1).\n\n(3) Any person who secures access or attempts to secure access to a protected system in contravention\n\nof the provisions of this section shall be punished with imprisonment of either description for a term\nwhich may extend to ten years and shall also be liable to fine.\n\n3[(4) The Central Government shall prescribe the information security practices and procedures for\n\nsuch protected system.]\n\n4[70A. National nodal agency.–(1) The Central Government may, by notification published in the\n\nOfficial Gazette, designate any organisation of the Government as the national nodal agency in respect of\nCritical Information Infrastructure Protection.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "869d2954394eadbecdaa86db81a7e0758c5e5865b0a68d76ae65d5bd91c87ad8"
+  }
+}

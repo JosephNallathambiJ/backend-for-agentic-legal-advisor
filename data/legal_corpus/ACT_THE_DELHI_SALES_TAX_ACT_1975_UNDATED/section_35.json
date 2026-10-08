@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED",
+  "act_title": "The Delhi Sales Tax Act, 1975",
+  "section_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED_S35",
+  "section_number": "35",
+  "title": "Livestock including poultry.",
+  "text": "35. Livestock including poultry.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1637/1/197543.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2aca55c7e0be20c9df8f203eb042739918ee9c67ba5f0ad9b5c6250c9ec1b26a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED",
+  "act_title": "The Government Savings Promotion Act, 1873",
+  "section_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED_S8",
+  "section_number": "8",
+  "title": "5-year Premium Prize Bonds",
+  "text": "8. 5-year Premium Prize Bonds",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2281/1/A1873_05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d84539e8270317716c27f6421fb10d8660458c84676f4486748c81e232deada3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S18",
+  "section_number": "18",
+  "title": "Receipt of a Railway or Steamship company granted to a consignor in acknowledgment of goods",
+  "text": "18. Receipt of a Railway or Steamship company granted to a consignor in acknowledgment of goods\n\nentrusted to the company for transport.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cfa84510047d0ed7ff748032c8d6181a8a757ca537a5981b4e12e4c74524184e"
+  }
+}

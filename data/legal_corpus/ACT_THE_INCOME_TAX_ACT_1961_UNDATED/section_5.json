@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S5",
+  "section_number": "5",
+  "title": "Food Processing",
+  "text": "5. Food Processing\n\nIndustry excluding those\nincluded in the\n\nThirteenth Schedule",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "163b05f10570334cd5076469a22788bb3e773f49eadf1e619ba9443eaee124fc"
+  }
+}

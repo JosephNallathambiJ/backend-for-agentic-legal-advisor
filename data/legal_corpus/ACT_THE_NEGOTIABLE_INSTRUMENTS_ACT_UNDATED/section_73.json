@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S73",
+  "section_number": "73",
+  "title": "Presentment of cheque to charge any other person",
+  "text": "73. Presentment of cheque to charge any other person.—A cheque must, in order to charge any\n\nperson except the drawer, be presented within a reasonable time after delivery thereof by such person.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "482abbdcd7ee89d2b6c0a651b3fb3d5a7f8c8aa8b7d43e6516029fc62b7714ef"
+  }
+}

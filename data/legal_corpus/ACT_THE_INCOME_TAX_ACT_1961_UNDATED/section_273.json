@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S273",
+  "section_number": "273",
+  "title": "False estimate of, or failure to pay, advance tax.",
+  "text": "273. False estimate of, or failure to pay, advance tax.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1d1a851d5416c1b8829482cb6b022d66489e57effda4eceffa14776c30add914"
+  }
+}

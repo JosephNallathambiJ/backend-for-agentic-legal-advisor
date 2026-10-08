@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S111",
+  "section_number": "111",
+  "title": "Restriction on power of court to grant damages or account of profits for",
+  "text": "111. Restriction on power of court to grant damages or account of profits for\n\ninfringement.—(1) In a suit for infringement of a patent, damages or an account of profits shall not be\ngranted against the defendant who proves that at the date of the infringement he was not aware and had no\nreasonable grounds for believing that the patent existed.\n\n_Explanation.—A person shall not be deemed to have been aware or to have had reasonable grounds_\n\nfor believing that a patent exists by reason only of the application to an article of the word “patent”,\n“patented” or any word or words expressing or implying that a patent has been obtained for the article,\nunless the number of the patent accompanies the word or words in question.\n\n(2) In any suit for infringement of a patent the court may, if it thinks fit, refuse to grant any damages\n\nor an account of profits in respect of any infringement committed after a failure to pay any renewal fee\nwithin the prescribed period and before any extension of that period.\n\n(3) Where an amendment of a specification by way of disclaimer, correction or explanation has been\n\nallowed under this Act after the publication of the specification, no damages or account of profits shall be\ngranted in any proceedings in respect of the use of the invention before the date of the decision allowing\nthe amendment, unless the court is satisfied that the specification as originally published was framed in\ngood faith and with reasonable skill and knowledge.\n\n(4) Nothing in this section shall affect the power of the court to grant an injunction in any suit for\n\ninfringement of a patent.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c265b21b3846d43b3626e699ec23b82b49616501f9a454d412f593b35e0be4b3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S55",
+  "section_number": "55",
+  "title": "Conversion of indorsement in blank into indorsement in full",
+  "text": "55. Conversion of indorsement in blank into indorsement in full.—If a negotiable instrument,\n\nafter having been indorsed in blank, is indorsed in full, the amount of it cannot be claimed from the\nindorser in full, except by the person to whom it has been indorsed in full, or by one who derives title\nthrough such person.\n\n56. Indorsement for part of sum due.—No writing on a negotiable instrument is valid for the\n\npurpose of negotiation if such writing purports to transfer only a part of the amount appearing to be due\non the instrument; but where such amount has been partly paid, a note to that effect may be indorsed on\nthe instrument, which may then be negotiated for the balance.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "58710f64116975bf23f1c6cdd92e055bdc3e3a366dfb735818b5c7ba46564632"
+  }
+}

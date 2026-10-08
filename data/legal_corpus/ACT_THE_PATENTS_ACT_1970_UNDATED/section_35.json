@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S35",
+  "section_number": "35",
+  "title": "Secrecy directions relating to inventions relevant for defence purposes",
+  "text": "35. Secrecy directions relating to inventions relevant for defence purposes.—(1) Where, in\n\nrespect of an application made before or after the commencement of this Act for a patent, it appears to the\nController that the invention is one of a class notified to him by the Central Government as relevant for\ndefence purposes, or, where otherwise the invention appears to him to be so relevant, he may give\ndirections for prohibiting or restricting the publication of information with respect to the invention or the\ncommunication of such information .\n\n(2) Where the Controller gives any such directions as are referred to in sub-section (1), he shall give\n\nnotice of the application and of the directions to the Central Government, and the Central Government\nshall, upon receipt of such notice, consider whether the publication of the invention would be prejudicial\nto the defence of India, and if upon such consideration, it appears to it that the publication of the invention\nwould not so prejudice, give notice to the Controller to that effect, who shall thereupon revoke the\ndirections and notify the applicant accordingly.\n\n(3) Without prejudice to the provisions contained in sub-section (1), where the Central Government\n\nis of opinion that an invention in respect of which the Controller has not given any directions under\nsub-section (1), is relevant for defence purposes, it may at any time before [grant of patent] notify the\nController to that effect, and thereupon the provisions of that sub-section shall apply as if the invention\nwere one of the class notified by the Central Government, and accordingly the Controller shall give notice\nto the Central Government of the directions issued by him.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b0f4397cb8b49b72732a914e8a5a6971a2fd0e108645be86ce39e2e6cd2457b7"
+  }
+}

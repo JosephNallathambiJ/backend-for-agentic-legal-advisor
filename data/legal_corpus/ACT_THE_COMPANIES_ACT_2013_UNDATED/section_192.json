@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMPANIES_ACT_2013_UNDATED",
+  "act_title": "The Companies Act, 2013",
+  "section_id": "ACT_THE_COMPANIES_ACT_2013_UNDATED_S192",
+  "section_number": "192",
+  "title": "Restriction on non-cash transactions involving directors",
+  "text": "192. Restriction on non-cash transactions involving directors.—(1) No company shall enter into an\n\narrangement by which—\n\n(a) a director of the company or its holding, subsidiary or associate company or a person connected\n\nwith him acquires or is to acquire assets for consideration other than cash, from the company; or\n\n(b) the company acquires or is to acquire assets for consideration other than cash, from such director\n\nor person so connected,\n\nunless prior approval for such arrangement is accorded by a resolution of the company in general meeting\nand if the director or connected person is a director of its holding company, approval under this subsection shall also be required to be obtained by passing a resolution in general meeting of the holding\ncompany.\n\n(2) The notice for approval of the resolution by the company or holding company in general meeting\n\nunder sub-section (1) shall include the particulars of the arrangement along with the value of the assets\ninvolved in such arrangement duly calculated by a registered valuer.\n\n(3) Any arrangement entered into by a company or its holding company in contravention of the\n\nprovisions of this section shall be voidable at the instance of the company unless—\n\n(a) the restitution of any money or other consideration which is the subject matter of the\n\narrangement is no longer possible and the company has been indemnified by any other person for any\nloss or damage caused to it; or\n\n(b) any rights are acquired _bona fide_ for value and without notice of the contravention of the\n\nprovisions of this section by any other person.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a8d439543b635022526e0cde5bfde0efbbdcd0b8ba761fbaaaecded5a088cfd9"
+  }
+}

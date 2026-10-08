@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S29",
+  "section_number": "29",
+  "title": "Liability of legal representative signing",
+  "text": "29. Liability of legal representative signing.—A legal representative of a deceased person who\n\nsigns his name to a promissory note, bill of exchange or cheque is liable personally thereon unless he\nexpressly limits his liability to the extent of the assets received by him as such.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "600d147f3584c6d70c5b015b48782f12b3a0d5dbaa8433124fd32a2fb369d497"
+  }
+}

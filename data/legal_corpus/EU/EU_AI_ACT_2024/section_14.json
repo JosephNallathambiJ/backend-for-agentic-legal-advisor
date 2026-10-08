@@ -1,0 +1,15 @@
+{
+  "jurisdiction": "EU",
+  "act_id": "EU_AI_ACT_2024",
+  "act_title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (EU AI Act)",
+  "section_id": "EU_AI_ACT_2024_S14",
+  "section_number": "14",
+  "title": "Human oversight of high-risk AI systems",
+  "text": "High-risk AI systems shall be designed and developed in such a way, including with appropriate human-machine interface tools, that they can be effectively overseen by natural persons during the period in which they are in use. Human oversight shall aim to prevent or minimise the risks to health, safety or fundamental rights.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+    "version": "2024_official_edition",
+    "sha256": "b5c37f0ebb64e877fc69eaf4d64b01e3438f5f74007759a0af03d3094159cb90"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S132",
+  "section_number": "132",
+  "title": "Set of bills",
+  "text": "132. Set of bills.—Bills of exchange may be drawn in parts, each part being numbered and containing\n\na provision that it shall continue payable only so long as the others remain unpaid. All the parts together\nmake a set; but the whole set constitutes only one bill, and is extinguished when one of the parts, if a\nseparate bill, would be extinguished.\n\n_Exception.—When a person accepts or indorses different parts of the bill in favour of different_\n\npersons, he and the subsequent endorsers of each part are liable on such part as if it were a separate bill.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "456012c35f159eeaeade9428ef11ec8aae82f3e3e05c37ea83f0105e9c6be193"
+  }
+}

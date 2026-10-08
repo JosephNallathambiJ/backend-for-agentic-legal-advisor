@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NATIONAL_MEDICAL_COMMISSIO_UNDATED",
+  "act_title": "The National Medical Commission Act, 2019",
+  "section_id": "ACT_THE_NATIONAL_MEDICAL_COMMISSIO_UNDATED_S1",
+  "section_number": "1",
+  "title": "All medical qualifications granted by the Jawaharlal Institute of Postgraduate",
+  "text": "1. All medical qualifications granted by the Jawaharlal Institute of Postgraduate\nMedicalEducation and Research, Puducherry.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/11820/1/A2019_30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b0cf8c32459ae2932afadab8d0b66fc1461e0b2ae0436b49e53da9881af445e6"
+  }
+}

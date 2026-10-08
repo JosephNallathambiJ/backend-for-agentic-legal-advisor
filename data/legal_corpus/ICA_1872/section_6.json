@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S6",
+  "section_number": "6",
+  "title": "Revocation how made",
+  "text": "6. Revocation how made.—A proposal is revoked—\n\n(1) by the communication of notice of revocation by the proposer to the other party;\n\n(2) by the lapse of the time prescribed in such proposal for its acceptance, or, if no time is so\n\nprescribed, by the lapse of a reasonable time, without communication of the acceptance;\n\n(3) by the failure of the acceptor to fulfil a condition precedent to acceptance; or\n\n(4) by the death or insanity of the proposer, if the fact of his death or insanity comes to the\n\nknowledge of the acceptor before acceptance.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "38f2c9b62185675ebe81135ac951d40f6d8159a1712cd80ab34512f0c9de4cea"
+  }
+}

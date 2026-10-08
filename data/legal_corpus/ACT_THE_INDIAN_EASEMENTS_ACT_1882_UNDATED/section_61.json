@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED",
+  "act_title": "The Indian Easements Act, 1882",
+  "section_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED_S61",
+  "section_number": "61",
+  "title": "Revocation express or implied",
+  "text": "61. Revocation express or implied.—The revocation of a license may be express or implied.\n\n_Illustrations_\n\n(a) A, the owner of a field, grants a license to B to use a path across it. A, with intent to revoke the\n\nlicense, locks a gate across the path. The license is revoked.\n\n(b) A, the owner of a field, grants a license to B to stack hay on the field. A lets or sells the field to C.\n\nThe license is revoked.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2349/1/A1882-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fdb452a42caf71d6c2f2fffa7e3cedc190cceed44c6f685df12565cf444d520d"
+  }
+}

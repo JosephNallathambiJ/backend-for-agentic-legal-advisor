@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S42",
+  "section_number": "42",
+  "title": "Acceptance of bill drawn in fictitious name",
+  "text": "42. Acceptance of bill drawn in fictitious name.—An acceptor of a bill of exchange drawn in a\n\nfictitious name and payable to the drawer's order is not, by reason that such name is fictitious, relieved\nfrom liability to any holder in due course claiming under an indorsement by the same hand as the drawer's\nsignature, and purporting to be made by the drawer.\n\n-----",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cce37e858094bacb2ab6d4b95413657f7d2ce7f2396663a564d333d3928fa9a5"
+  }
+}

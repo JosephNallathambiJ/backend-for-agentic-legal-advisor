@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NORTHERN_INDIAN_FERRIES_AC_UNDATED",
+  "act_title": "The Northern Indian Ferries Act, 1878",
+  "section_id": "ACT_THE_NORTHERN_INDIAN_FERRIES_AC_UNDATED_S8",
+  "section_number": "8",
+  "title": "Letting ferry tolls by auction.",
+  "text": "8. Letting ferry tolls by auction.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2287/1/a1878-17.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "89d9a81f90998cd16127d905b668fcd028a73e5827934f23975b3c0bcd88433c"
+  }
+}

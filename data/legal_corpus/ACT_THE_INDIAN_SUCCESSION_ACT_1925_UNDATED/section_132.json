@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S132",
+  "section_number": "132",
+  "title": "Condition must be strictly fulfilled",
+  "text": "132. Condition must be strictly fulfilled.—An ulterior bequest of the kind contemplated by section\n\n131 cannot take effect, unless the condition is strictly fulfilled.\n\n_Illustrations_\n\n(i) A legacy is bequeathed to A, with a proviso that, if he marries without the consent of B, C and D, the legacy\n\nshall go to E. E' dies. Even if A marries without the consent of B and C, the gift to E does not take effect.\n\n(ii) A legacy is bequeathed to A, with a proviso that, if he marries without the consent of B, the legacy shall go\n\nto C. A marries with the consent of B. He afterwards becomes a widower and marries again without the consent of\nB. The bequest to C does not take effect.\n\n(iii) A legacy is bequeathed to A, to be paid at 18, or marriage, with a proviso that, if A dies under 18 or marries\n\nwithout the consent of B, the legacy shall go to C. A marries under 18, without the consent of B. The bequest to C\ntakes effect.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f3c2991d1266e959df937dbf161399b799aabde9af471c9617cea213cd44fe9f"
+  }
+}

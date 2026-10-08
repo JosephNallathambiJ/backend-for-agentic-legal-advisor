@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED",
+  "act_title": "The Payment and Settlement Systems Act, 2007",
+  "section_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED_S8",
+  "section_number": "8",
+  "title": "Revocation of authorisation",
+  "text": "8. Revocation of authorisation.—(1) If a system provider,—\n\n(i) contravenes any provisions of this Act, or\n\n(ii) does not comply with the regulations, or\n\n(iii) fails to comply with the orders or directions issued by the designated authority, or\n\n(iv) operates the payment system contrary to the conditions subject to which the authorisation was\n\nissued,\n\nthe Reserve Bank may, by order, revoke the authorisation given to such system provider under this Act:\n\nProvided that no order of revocation under sub-section (1) shall be made—\n\n(i) except after giving the system provider a reasonable opportunity of being heard; and\n\n(ii) without prejudice to the direction of the Reserve Bank to the system provider that the\n\noperation of the payment system shall not be carried out till the order of revocation is issued.\n\n(2) Nothing contained in sub-section (1) shall apply to a case where the Reserve Bank considers it\n\nnecessary to revoke the authorisation given to a payment system in the interest of the monetary policy of\nthe country or for any other reasons to be specified by it in the order.\n\n(3) The order of revocation issued under sub-section (1) shall include necessary provisions to protect\n\nand safeguard the interests of persons affected by such order of revocation.\n\n(4) Where a system provider becomes insolvent or dissolved or wound up, such system provider shall\n\ninform that fact to the Reserve Bank and thereupon the Reserve Bank shall take such steps as deemed\nnecessary to revoke the authorisation issued to such system provider to operate the payment system.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2082/4/a2007-51.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3d8e9fb26a937a9266cdb455f9c12d04957daa70655b0bb2e889e4704b69788e"
+  }
+}

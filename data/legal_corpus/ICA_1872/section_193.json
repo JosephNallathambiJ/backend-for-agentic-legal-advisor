@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S193",
+  "section_number": "193",
+  "title": "Agent’s responsibility for sub-agent appointed without authority",
+  "text": "193. Agent’s responsibility for sub-agent appointed without authority.—Where an agent, without\n\nhaving authority to do so, has appointed a person to act as a sub-agent, the agent stands towards such\nperson in the relation of a principal to an agent, and is responsible for his acts both to the principal and to\nthird persons; the principal is not represented, by or responsible for the acts of the person so employed,\nnor is that person responsible to the principal.\n\n194.Relation between principal and person duly appointed by agent to act in business of\n\nagency.—Where an agent, holding an express or implied authority to name another person to act for the\nprincipal in the business of the agency, has named another person accordingly, such person is not a\nsub-agent, but an agent of the principal for such part of the business of the agency as is entrusted to him.\n\n_Illustrations_\n\n(a)A directs B, his solicitor, to sell his estate by auction, and to employ an auctioneer for the purpose. B names C, an\n\nauctioneer, to conduct the sale. C is not a sub-agent, but is A’s agent for the conduct of the sale.\n\n(b)A authorizes B, a merchant in Calcutta, to recover the moneys due to A from C & Co. B instructs D, a solicitor, to take\n\nlegal proceedings against C & Co. for the recovery of the money. D is not a sub-agent, but is solicitor for A.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "67c7cd46fff64750dbbe5499244949b9e2f3065e6e270b0b1a49493db3d51de7"
+  }
+}

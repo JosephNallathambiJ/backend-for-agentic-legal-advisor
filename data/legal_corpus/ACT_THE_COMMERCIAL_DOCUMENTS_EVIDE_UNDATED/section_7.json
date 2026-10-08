@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S7",
+  "section_number": "7",
+  "title": "Reports and publications issued by a port authority showing the movement of vessels and",
+  "text": "7. Reports and publications issued by a port authority showing the movement of vessels and\n\ncertificates issued by such authority relating to such movements.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "769617d92a520976f091c0b9a2a49ddb33cb923d031c5a2ebe9cff1ce3676bf3"
+  }
+}

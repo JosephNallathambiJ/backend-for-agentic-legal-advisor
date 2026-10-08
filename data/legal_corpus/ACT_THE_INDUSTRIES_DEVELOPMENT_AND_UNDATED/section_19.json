@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED",
+  "act_title": "The Industries (Development and Regulation)  Act, 1951",
+  "section_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED_S19",
+  "section_number": "19",
+  "title": "CHEMICALS (OTHER THAN FERTILISERS):",
+  "text": "19. CHEMICALS (OTHER THAN FERTILISERS):\n\n(1) Inorganic heavy chemicals.\n\n(2) Organic heavy chemicals.\n\n(3) Fine chemicals including photographic chemicals.\n\n(4) Synthetic resins and plastics.\n\n(5) Paints, varnishes and enamels.\n\n(6) Synthetic rubbers.\n\n(7) Man-made fibers including regenerated cellulose-rayon, nylon and the like.\n\n(8) Coke oven by-products.\n\n(9) Coal tar distillation products like naphthalene, anthracene and the like.\n\n(10) Explosives including gunpowder and safety fuses.\n\n(11) Insecticides, fungicides, weedicides and the like.\n\n(12) Textile auxiliaries.\n\n(13) Sizing materials including starch.\n\n(14) Miscellaneous chemicals.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2118/3/A1951-65.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4f23d49c9a839b206d59478d6c15ab94b9457e50dd845f6cdd551e5e734c58c0"
+  }
+}

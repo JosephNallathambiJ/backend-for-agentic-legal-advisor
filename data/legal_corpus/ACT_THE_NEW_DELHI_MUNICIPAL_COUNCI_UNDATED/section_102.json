@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED",
+  "act_title": "The New Delhi Municipal Council Act, 1994",
+  "section_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED_S102",
+  "section_number": "102",
+  "title": "Recovery of tax.",
+  "text": "102. Recovery of tax.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1986/1/199444.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cfe938bdf30794bcfd451ceeb2f2642d81c314bf44882080b9d9d1702192e07f"
+  }
+}

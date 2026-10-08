@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DIPLOMATIC_RELATIONS_VIENN_UNDATED",
+  "act_title": "The Diplomatic Relations (Vienna Convention) Act, 1972",
+  "section_id": "ACT_THE_DIPLOMATIC_RELATIONS_VIENN_UNDATED_S3",
+  "section_number": "3",
+  "title": "Third States shall accord to official correspondence and other official communications in transit,",
+  "text": "3. Third States shall accord to official correspondence and other official communications in transit,\n\nincluding messages in code or cipher, the same freedom and protection as is accorded by the receiving\nState. They shall accord to diplomatic couriers, who have been granted a passport/visa if such visa was\nnecessary, and diplomatic bags in transit the same inviolability and protection as the receiving State is\nbound to accord.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1721/3/A1972-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c64a4b357d0f9af812ae32d631f46018c44305a5c6dd82e1e41c9f438f808a69"
+  }
+}

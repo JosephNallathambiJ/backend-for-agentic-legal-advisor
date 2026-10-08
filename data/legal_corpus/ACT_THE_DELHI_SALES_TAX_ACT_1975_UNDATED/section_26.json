@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED",
+  "act_title": "The Delhi Sales Tax Act, 1975",
+  "section_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED_S26",
+  "section_number": "26",
+  "title": "Betel leaves including prepared pans.",
+  "text": "26. Betel leaves including prepared pans.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1637/1/197543.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0feecc52382b1e247b94ea615d32320adc85fa23fcd077c6eede8112a75b4acf"
+  }
+}

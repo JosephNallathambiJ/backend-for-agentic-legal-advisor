@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_LIMITATION_ACT_1963_UNDATED",
+  "act_title": "The Limitation Act, 1963",
+  "section_id": "ACT_THE_LIMITATION_ACT_1963_UNDATED_S62",
+  "section_number": "62",
+  "title": "To enforce payment of money",
+  "text": "62. To enforce payment of money\n\nsecured by a mortgage or\n\notherwise charged upon\n\nimmovable property.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1565/5/A1963-36.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "827bcdfe0c058de58a5ef2aabc54d3ccf154aa5cc80f5cab002483206ab07539"
+  }
+}

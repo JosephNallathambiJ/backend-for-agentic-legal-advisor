@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S46",
+  "section_number": "46",
+  "title": "Mutual dealings and setoff",
+  "text": "46. Mutual dealings and setoff.—Where there have been mutual dealings between an insolvent and\n\na creditor proving or claiming to prove a debt under this Act, an account shall be taken of what is due\nfrom the one party to the other in respect of such mutual dealings, and the sum due from the one party\nshall be set off against any sum due from the other party, and the balance of the account, and no more,\nshall be claimed or paid on either side respectively.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a6dc56cb3c278d686d23daac8f89c1cb0c13dbce8093fac48bd4554c8a2a6c4d"
+  }
+}

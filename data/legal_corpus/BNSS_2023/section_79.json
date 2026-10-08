@@ -1,0 +1,14 @@
+{
+  "act_id": "BNSS_2023",
+  "act_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+  "section_id": "BNSS_2023_S79",
+  "section_number": "79",
+  "title": "Where warrant may be executed",
+  "text": "79. Where warrant may be executed.—A warrant of arrest may be executed at any place in India.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20099/3/A2023-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "035061c0d98198145fc2188ed4d6682b8ba31211d2412828043ffd124df7e85a"
+  }
+}

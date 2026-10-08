@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_REGISTRATION_OF_BIRTHS_AND_UNDATED",
+  "act_title": "The Registration of Births and Deaths Act, 1969",
+  "section_id": "ACT_THE_REGISTRATION_OF_BIRTHS_AND_UNDATED_S11",
+  "section_number": "11",
+  "title": "Informant to sign the register",
+  "text": "11. Informant to sign the register.—Every person who has orally given to the Registrar any\n\ninformation required under this Act shall write in the register maintained in this behalf, his name,\ndescription and [place of abode and put his signature thereto, and, if he cannot write], shall put his thumb\nmark in the register against his name, description and place of abode, the particulars being in such a case\nentered by the Registrar.\n\n3[12. Certificate of registration of births or deaths.—The Registrar shall, as soon as the registration\n\nof a birth or death has been completed, but not later than seven days, give, free of charge, electronically or\notherwise under his signature, to the person who gives information under section 8 or section 9, a\ncertificate extracted from the register relating to such birth or death in such form and manner as may be\nprescribed.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1682/3/A1969-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c9fd4116acb3eacc3eb6d61ebf370a4cd186aa95ddef30c25fdc009d8d398c43"
+  }
+}

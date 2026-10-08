@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GIFT_TAX_ACT_1958_UNDATED",
+  "act_title": "The Gift-tax Act, 1958",
+  "section_id": "ACT_THE_GIFT_TAX_ACT_1958_UNDATED_S14B",
+  "section_number": "14B",
+  "title": "Self-assessment.",
+  "text": "14B. Self-assessment.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2483/1/a1958-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f7faf2d873b31d1a66f735455d2bb6dc301a801ac87f37db3ca6e5a8dc043c4a"
+  }
+}

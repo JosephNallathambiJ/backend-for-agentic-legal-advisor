@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S116",
+  "section_number": "116",
+  "title": "Effect of holding over",
+  "text": "116. Effect of holding over.—If a lessee or under-lessee of property remains in possession\n\nthereof after the determination of the lease granted to the lessee, and the lessor or his legal\nrepresentative accepts rent from the lessee or under-lessee, or otherwise assents to his continuing in\npossession, the lease is, in the absence of an agreement to the contrary, renewed from year to year, or\nfrom month to month, according to the purpose for which the property is leased, as specified in\nsection 106.\n\n_Illustrations_\n\n(a) A lets a house to B for five years. B underlets the house to C at a monthly rent of Rs. 100. The five years\n\nexpire, but C continues in possession of the house and pays the rent to A. C's lease is renewed from month to\nmonth.\n\n(b) A lets a farm to B for the life of C. C dies, but B continues in possession with A's assent. B's lease is renewed from\n\nyear to year.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6fed6ce0166483f3b10ee81b3b5a9735ee5c1301d87cae0d840626c5e10bde1a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S73",
+  "section_number": "73",
+  "title": "Proof as to verification of digital signature",
+  "text": "73. Proof as to verification of digital signature.—In order to ascertain whether a digital signature is\n\nthat of the person by whom it purports to have been affixed, the Court may direct—\n\n(a) that person or the Controller or the Certifying Authority to produce the Digital Signature\n\nCertificate;\n\n(b) any other person to apply the public key listed in the Digital Signature Certificate and verify\n\nthe digital signature purported to have been affixed by that person.\n\n_Public documents_",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4ca1a076b86f3eec1222ad2b08ddb1dc74371e07ed74838e4211b3528b005fb4"
+  }
+}

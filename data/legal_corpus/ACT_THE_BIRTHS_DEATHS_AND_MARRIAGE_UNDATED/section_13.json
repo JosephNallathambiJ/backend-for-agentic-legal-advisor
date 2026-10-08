@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_BIRTHS_DEATHS_AND_MARRIAGE_UNDATED",
+  "act_title": "The Births, Deaths and Marriages Registration Act, 1886",
+  "section_id": "ACT_THE_BIRTHS_DEATHS_AND_MARRIAGE_UNDATED_S13",
+  "section_number": "13",
+  "title": "[Omitted.].",
+  "text": "13. [Omitted.].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2309/1/A1886-6.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "66700d2d61b59139a157abc778567879650654e92b0de5ca8d67fa6dd954658c"
+  }
+}

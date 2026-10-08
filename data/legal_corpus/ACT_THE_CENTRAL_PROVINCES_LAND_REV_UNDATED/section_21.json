@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S21",
+  "section_number": "21",
+  "title": "Legal practitioner’s or agent’s fees not allowed unless for special reasons",
+  "text": "21. Legal practitioner’s or agent’s fees not allowed unless for special reasons.—The fees of a legal\n\npractitioner or recognized agent shall not be allowed as costs before any Revenue-officer unless such officer\nconsiders, for reasons to be recorded by him in writing, that such fees should be allowed.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "080d504e3a2695e1ce4c86100600e50a71342f1308739ac3f67e58f08e14bd97"
+  }
+}

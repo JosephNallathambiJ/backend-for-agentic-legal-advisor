@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED",
+  "act_title": "The Government Savings Promotion Act, 1873",
+  "section_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED_S33",
+  "section_number": "33",
+  "title": "10-Year Social Security Certificates",
+  "text": "33. 10-Year Social Security Certificates",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2281/1/A1873_05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "521abd09030ee39b54c7278e9a4ae797e95d088397745535a34bc26a273bd526"
+  }
+}

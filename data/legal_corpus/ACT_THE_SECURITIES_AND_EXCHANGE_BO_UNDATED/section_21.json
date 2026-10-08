@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S21",
+  "section_number": "21",
+  "title": "Savings",
+  "text": "21. Savings.—Nothing in this Act shall exempt any person from any suit or other proceedings which\n\nmight, apart from this Act, be brought against him.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ab37b0f4a662977679f466df74c19778bb1f644ff71040d2aa68c74736cf5fe1"
+  }
+}

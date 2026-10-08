@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S12",
+  "section_number": "12",
+  "title": "Diseases caused by manganese or its toxic compounds All work involving",
+  "text": "12. Diseases caused by manganese or its toxic compounds All work involving\n\nexposure to the risk\nconcerned.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "84ce44ccc8de2ac422de2089aa8329d7e770d2a1319d3deac0e760d98e71232d"
+  }
+}

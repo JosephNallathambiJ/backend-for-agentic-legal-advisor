@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AGRICULTURAL_PRODUCE_GRADI_UNDATED",
+  "act_title": "The Agricultural Produce (Grading and Marking) Act, 1937",
+  "section_id": "ACT_THE_AGRICULTURAL_PRODUCE_GRADI_UNDATED_S53",
+  "section_number": "53",
+  "title": "Poppy seed.",
+  "text": "53. Poppy seed.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2403/5/A1937-1.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "daffcbe41e5ceeb60400401da1a34571b33ec304f8b40dfc505e02ce6e6a999a"
+  }
+}

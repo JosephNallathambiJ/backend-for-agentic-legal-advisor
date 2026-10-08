@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S65",
+  "section_number": "65",
+  "title": "No suit for dividend",
+  "text": "65. No suit for dividend.—No suit for a dividend shall lie against the receiver; but where the\n\nreceiver refuses to pay any dividend, the Court may, on the application of any creditor who is entered in\nthe schedule, order him to pay it, and also to pay out of his own money interest thereon for the time that it\nis withheld, and the costs of the application.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0d1ddcc395812370b9a2944da04432a5e1ee4f941d3a03b937466b6e3504b0d5"
+  }
+}

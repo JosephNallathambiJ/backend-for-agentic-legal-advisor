@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AIR_FORCE_ACT_1950_UNDATED",
+  "act_title": "The Air Force Act, 1950",
+  "section_id": "ACT_THE_AIR_FORCE_ACT_1950_UNDATED_S123",
+  "section_number": "123",
+  "title": "Place of trial",
+  "text": "123. Place of trial.—Any person subject to this Act who commits any offence against it may be tried\n\nand punished for such offence in any place whatever.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1819/5/A1950-45.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "aac1a01bfc5935039658480ad133e4f35f03171de8db31b18a5af7def973f797"
+  }
+}

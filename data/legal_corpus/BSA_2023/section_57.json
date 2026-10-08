@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S57",
+  "section_number": "57",
+  "title": "Primary evidence",
+  "text": "57. Primary evidence.—Primary evidence means the document itself produced for the inspection of\n\nthe Court.\n\n25\n\n-----\n\n_Explanation 1.—Where a document is executed in several parts, each part is primary evidence of_\n\nthe document.\n\n_Explanation 2.—Where a document is executed in counterpart, each counterpart being executed_\n\nby one or some of the parties only, each counterpart is primary evidence as against the parties\nexecuting it.\n\n_Explanation 3.—Where a number of documents are all made by one uniform process, as in the_\n\ncase of printing, lithography or photography, each is primary evidence of the contents of the rest; but,\nwhere they are all copies of a common original, they are not primary evidence of the contents of the\noriginal.\n\n_Explanation 4.—Where an electronic or digital record is created or stored, and such storage_\n\noccurs simultaneously or sequentially in multiple files, each such file is primary evidence.\n\n_Explanation 5.—Where an electronic or digital record is produced from proper custody, such_\n\nelectronic and digital record is primary evidence unless it is disputed.\n\n_Explanation 6.—Where a video recording is simultaneously stored in electronic form and_\n\ntransmitted or broadcast or transferred to another, each of the stored recordings is primary evidence.\n\n_Explanation 7.—Where an electronic or digital record is stored in multiple storage spaces in a_\n\ncomputer resource, each such automated storage, including temporary files, is primary evidence.\n\n_Illustration._\n\nA person is shown to have been in possession of a number of placards, all printed at one time from\n\none original. Any one of the placards is primary evidence of the contents of any other, but no one of them\nis primary evidence of the contents of the original.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "329aa4bb86041e88f918fa1be4ec2254427730bbf6cddaaa582b7736a4a18371"
+  }
+}

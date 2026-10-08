@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S108A",
+  "section_number": "108A",
+  "title": "Obligation to furnish information.",
+  "text": "108A. Obligation to furnish information.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6345cd92e5abae931c386f0d7a5a5d3f16b9df8f86f766c5ec230dbd4e97ef35"
+  }
+}

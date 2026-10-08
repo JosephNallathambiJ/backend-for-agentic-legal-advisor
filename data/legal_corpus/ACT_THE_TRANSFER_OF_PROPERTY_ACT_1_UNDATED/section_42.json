@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S42",
+  "section_number": "42",
+  "title": "Transfer by person having authority to revoke former transfer",
+  "text": "42. Transfer by person having authority to revoke former transfer.—Where a person transfers\n\nany immoveable property, reserving power to revoke the transfer, and subsequently transfers the property\nfor consideration to another transferee, such transfer operates in favour of such transferee (subject to any\ncondition attached to the exercise of the power) as a revocation of the former transfer to the extent of the\npower.\n\n_Illustration_\n\nA lets a house to B, and reserves power to revoke the lease if, in the opinion of a specified surveyor, B should make a use of\n\nit detrimental to its value. Afterwards A, thinking that such a use has been made, lets the house to C. This operates as a\nrevocation of B's lease subject to the opinion of the surveyor as to B's use of the house having been detrimental to its value.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e1f8e58b59b8430c82eeb82c575e3dd2ee93cdb554d561c52d280fd200b9cfaf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S26A",
+  "section_number": "26A",
+  "title": "Establishment of Special Courts.",
+  "text": "26A. Establishment of Special Courts.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8fb891547e22eadd2853045e12d18cf8e16991d87ded77ee45a15c247920c50c"
+  }
+}

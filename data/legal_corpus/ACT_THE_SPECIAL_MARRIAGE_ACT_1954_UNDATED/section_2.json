@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SPECIAL_MARRIAGE_ACT_1954_UNDATED",
+  "act_title": "The Special Marriage Act, 1954",
+  "section_id": "ACT_THE_SPECIAL_MARRIAGE_ACT_1954_UNDATED_S2",
+  "section_number": "2",
+  "title": "I have completed ....years of age.",
+  "text": "2. I have completed ....years of age.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1387/1/A195443.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ea7abb902fec3fe1904a3fd27fc716ad0c548dd0f0bd9502eecb0aefc8c33a76"
+  }
+}

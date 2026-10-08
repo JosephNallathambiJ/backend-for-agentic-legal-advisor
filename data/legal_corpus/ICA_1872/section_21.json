@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S21",
+  "section_number": "21",
+  "title": "Effect of mistakes as to law",
+  "text": "21. Effect of mistakes as to law.—A contract is not voidable because it was caused by a mistake as\n\nto any law in force in [India]; but a mistake as to a law not in force in [India] has the same effect as a\nmistake of fact.\n\n2 - - - \n_Illustration_\n\nA and B make a contract grounded on the erroneous belief that a particular debt is barred by the Indian Law of Limitation:\n\nthe contract is not voidable.\n\n3 - - -",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d69cd36f9572e0bc61776421e47dee2502a4e571e9d7eeaf51505b63dff8dfba"
+  }
+}

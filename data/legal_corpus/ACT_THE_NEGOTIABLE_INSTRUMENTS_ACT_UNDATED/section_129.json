@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S129",
+  "section_number": "129",
+  "title": "Payment of crossed cheque out of due course",
+  "text": "129. Payment of crossed cheque out of due course.—Any banker paying a cheque crossed\n\ngenerally otherwise than to a banker, or a cheque crossed specially otherwise than to the banker to whom\nthe same is crossed, or his agent for collection, being a banker, shall be liable to the true owner of the\ncheque for any loss he may sustain owing to the cheque having been so paid.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0a0a6113a35ced13e5d64e883b9aa5e43b9c246ee197fd22e2e0734897dab602"
+  }
+}

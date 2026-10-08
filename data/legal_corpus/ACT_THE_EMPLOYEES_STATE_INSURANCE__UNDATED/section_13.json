@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S13",
+  "section_number": "13",
+  "title": "Skin diseases caused by physical, chemical or biological agents not",
+  "text": "13. Skin diseases caused by physical, chemical or biological agents not\nincluded in other items\n\nAll work involving\n\nexposure to the risk\nconcerned.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b0ed84989be4a126c399ffc9cca841043fc3c89a213754a06874f5cbb6558da8"
+  }
+}

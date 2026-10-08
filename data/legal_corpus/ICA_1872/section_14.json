@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S14",
+  "section_number": "14",
+  "title": "“Free consent” defined",
+  "text": "14. “Free consent” defined.—Consent is said to be free when it is not caused by—\n\n(1) coercion, as defined in section 15, or\n\n(2) undue influence, as defined in section 16, or\n\n(3) fraud, as defined in section 17, or\n\n(4) misrepresentation, as defined in section 18, or\n\n(5) mistake, subject to the provisions of sections 20, 21 and 22.\n\nConsent is said to be so caused when it would not have been given but for the existence of such\n\ncoercion, undue influence, fraud, misrepresentation or mistake.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "571d54483cf558fcf476fa51ae636409b4b36c0b178f34c3f808ca906e4c9f9e"
+  }
+}

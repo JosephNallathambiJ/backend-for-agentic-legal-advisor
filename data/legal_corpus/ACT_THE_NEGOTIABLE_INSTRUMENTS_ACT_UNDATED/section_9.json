@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S9",
+  "section_number": "9",
+  "title": "“Holder in due course”",
+  "text": "9. “Holder in due course”.—“Holder in due course” means any person who for consideration\n\nbecame the possessor of a promissory note, bill of exchange or cheque if payable to bearer,\n\nor the payee or indorsee thereof, if [payable to order,]\n\nbefore the amount mentioned in it became payable, and without having sufficient cause to believe that\n\nany defect existed in the title of the person from whom he derived his title.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4e3d1dd912a147a4872a10c1799045d8bab09d498f83c3812136f5984e84984d"
+  }
+}

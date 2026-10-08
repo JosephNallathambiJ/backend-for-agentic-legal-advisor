@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S49",
+  "section_number": "49",
+  "title": "Storage of imported goods in warehouse pending clearance.",
+  "text": "49. Storage of imported goods in warehouse pending clearance.\n\n_Clearance of export goods_",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8546d91505f28111c775053dc0ae8339c00105917cac89e93ddebc490d23a9e0"
+  }
+}

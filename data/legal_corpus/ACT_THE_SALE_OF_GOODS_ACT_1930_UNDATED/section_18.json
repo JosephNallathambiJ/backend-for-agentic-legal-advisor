@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S18",
+  "section_number": "18",
+  "title": "Goods must be ascertained",
+  "text": "18. Goods must be ascertained.— Where there is a contract for the sale of unascertained goods, no\n\nproperty in the goods is transferred to the buyer unless and until the goods are ascertained.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6d86e7d392752d6ee23f3644b3d7308439234a87438f808dc71e458f577a8c2b"
+  }
+}

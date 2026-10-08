@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_FOOD_SAFETY_AND_STANDARDS__UNDATED",
+  "act_title": "The Food Safety and Standards Act, 2006",
+  "section_id": "ACT_THE_FOOD_SAFETY_AND_STANDARDS__UNDATED_S21",
+  "section_number": "21",
+  "title": "Pesticides, veterinary drugs residues, antibiotic residues and microbiological counts",
+  "text": "21. Pesticides, veterinary drugs residues, antibiotic residues and microbiological counts.—(1)\n\nNo article of food shall contain insecticides or pesticides residues, veterinary drugs residues, antibiotic\nresidues, solvent residues, pharmacological active substances and micro-biological counts in excess of\nsuch tolerance limit as may be specified by regulations.\n\n(2) No insecticide shall be used directly on article of food except fumigants registered and approved\n\nunder the Insecticides Act, 1968 (46 of 1968).\n\n_Explanation.–For the purposes of this section,–_\n\n(1) “pesticide residue” means any specified substance in food resulting from the use of a pesticide\n\nand includes any derivatives of a pesticide, such as conversion products, metabolites, reaction\nproducts and impurities considered to be of toxicological significance and also includes such residues\ncoming into food from environment;\n\n(2) “residues of veterinary drugs” include the parent compounds or their metabolites or both in\n\nany edible portion of any animal product and include residues of associated impurities of the\nveterinary drugs concerned.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2027/1/AFOOD.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "60b22e5a85b01ac78790f61db72da7b0a2f5275e3b1a7d3e8f73d67ef5536ee4"
+  }
+}

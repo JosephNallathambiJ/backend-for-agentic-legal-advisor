@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S76",
+  "section_number": "76",
+  "title": "When presentment unnecessary",
+  "text": "76. When presentment unnecessary.—No presentment for payment is necessary, and the instrument\n\nis dishonoured at the due date for presentment, in any of the following cases:—\n\n(a) if the maker, drawee or acceptor intentionally prevents the presentment of the instrument,\n\nor,\n\nif the instrument being payable at his place of business, he closes such place on a business day\n\nduring the usual business hours, or,\n\nif the instrument being payable at some other specified place, neither he nor any person\n\nauthorized to pay it attends at such place during the usual business hours, or,\n\nif the instrument not being payable at any specified place, he cannot after due search be\n\nfound;\n\n(b) as against any party sought to be charged therewith, if he has engaged to pay notwithstanding\n\nnon-presentment;\n\n(c) as against any party if, after maturity, with knowledge that the instrument has not been\n\npresented—\n\nhe makes a part payment on account of the amount due on the instrument,\n\nor promises to pay the amount due thereon in whole or in part,",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "df73157ccabcef0aba5b7d77b10f84539daa74d4893d9cebc58ffbec093f8f6e"
+  }
+}

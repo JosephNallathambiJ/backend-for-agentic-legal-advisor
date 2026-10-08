@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S35",
+  "section_number": "35",
+  "title": "Liability of indorser",
+  "text": "35. Liability of indorser.—In the absence of a contract to the contrary, whoever indorses and delivers a\n\nnegotiable instrument before maturity without, in such it indorsement, expressly excluding or making\nconditional his own liability, is bound thereby to every subsequent holder, in case of dishonour by the\ndrawee, acceptor or maker, to compensate such holder for any loss or damage caused to him by such\ndishonour, provided due notice of dishonour has been given to, or received by, such indorser as hereinafter\nprovided.\n\nEvery indorser after dishonour is liable as upon an instrument payable on demand.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "efd3499019ad578b230e85566ba17612f1786938ae389d5429e150f749b76982"
+  }
+}

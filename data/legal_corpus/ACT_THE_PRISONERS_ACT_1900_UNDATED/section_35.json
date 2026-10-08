@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PRISONERS_ACT_1900_UNDATED",
+  "act_title": "The Prisoners Act, 1900",
+  "section_id": "ACT_THE_PRISONERS_ACT_1900_UNDATED_S35",
+  "section_number": "35",
+  "title": "[Repealed.].",
+  "text": "35. [Repealed.].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2334/1/AAA1900____03.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7859af46f7b4f539a4525485a5dc91a868c1d971c0b4b349acf4a115855f7835"
+  }
+}

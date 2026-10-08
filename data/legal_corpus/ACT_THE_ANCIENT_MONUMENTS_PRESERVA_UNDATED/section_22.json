@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ANCIENT_MONUMENTS_PRESERVA_UNDATED",
+  "act_title": "The Ancient Monuments Preservation Act, 1904",
+  "section_id": "ACT_THE_ANCIENT_MONUMENTS_PRESERVA_UNDATED_S22",
+  "section_number": "22",
+  "title": "Jurisdiction",
+  "text": "22. Jurisdiction.—A Magistrate of the third class shall not have jurisdiction to try any person charged\n\nwith an offence against this Act.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2339/1/A1904-7.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2091f8222dce95666d70d408a6cacd83441b42497d70456f00f4c068f929b882"
+  }
+}

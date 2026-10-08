@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S150",
+  "section_number": "150",
+  "title": "Security for costs",
+  "text": "150. Security for costs.—If any party by whom notice of any opposition is given under this Act or by\n\nwhom application is made to the Controller for the grant of a licence under a patent neither resides nor\ncarries on business in India, the Controller may require him to give security for the costs of the\nproceedings, and in default of such security being given may treat the opposition or application as\nabandoned.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b7dcefd036330bc1f4a6583fd003f674fb33df059919ce1d9f0ac1531a22c2fe"
+  }
+}

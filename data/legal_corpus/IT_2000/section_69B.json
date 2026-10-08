@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S69B",
+  "section_number": "69B",
+  "title": "Power to authorise to monitor and collect traffic data or information through any",
+  "text": "69B. Power to authorise to monitor and collect traffic data or information through any\n\ncomputer resource for cyber security.–(1) The Central Government may, to enhance cyber security and\nfor identification, analysis and prevention of intrusion or spread of computer contaminant in the country,\nby notification in the Official Gazette, authorise any agency of the Government to monitor and collect\ntraffic data or information generated, transmitted, received or stored in any computer resource.\n\n(2) The intermediary or any person in-charge or the computer resource shall, when called upon by the\n\nagency which has been authorised under sub-section (1), provide technical assistance and extend all\nfacilities to such agency to enable online access or to secure and provide online access to the computer\nresource generating, transmitting, receiving or storing such traffic data or information.\n\n(3) The procedure and safeguards for monitoring and collecting traffic data or information, shall be\n\nsuch as may be prescribed.\n\n(4) Any intermediary who intentionally or knowingly contravenes the provisions of sub-section (2)\n\nshall be punished with an imprisonment for a term which any extend to [one year or shall be liable to fine\nwhich may extend to one crore rupees, or with both].\n\n_Explanation.–For the purposes of this section,–_\n\n(i) “computer contaminant” shall have the meaning assigned to it in section 43;\n\n(ii) “traffic data” means any data identifying or purporting to identify any person, computer\n\nsystem or computer network or location to or from which the communication is or may be\ntransmitted and includes communications origin, destination, route, time, data, size, duration or\ntype of underlying service and any other information.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "08f5e55bb31bf2560d7534ffaa8b34ab3648d8426c84c60142d5a05a2e2c361d"
+  }
+}

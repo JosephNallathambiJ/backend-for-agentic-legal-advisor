@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S29",
+  "section_number": "29",
+  "title": "Sale by person in possession under voidable contract",
+  "text": "29. Sale by person in possession under voidable contract.—When the seller of goods has obtained\n\npossession thereof under a contract voidable under section 19 or section 19A of the Indian Contract Act,\n1872 (9 of 1872), but the contract has not been rescinded at the time of the sale, the buyer acquires a good\ntitle to the goods, provided he buys them in good faith and without notice of the seller’s defect of title.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1998df459de2ab5a0ffa74e382e162e8803d7ace079ccc11c78da878d8cc5189"
+  }
+}

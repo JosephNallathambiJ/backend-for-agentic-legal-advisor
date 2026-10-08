@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_LIMITATION_ACT_1963_UNDATED",
+  "act_title": "The Limitation Act, 1963",
+  "section_id": "ACT_THE_LIMITATION_ACT_1963_UNDATED_S125",
+  "section_number": "125",
+  "title": "To record an adjustment or",
+  "text": "125. To record an adjustment or\n\nsatisfaction of a decree.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1565/5/A1963-36.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b772afbc4e78e4c125fd8a5b26859029d8fb73da3b831bb9abe162db69b27707"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AIRCRAFT_ACT_1934_UNDATED",
+  "act_title": "The Aircraft Act, 1934",
+  "section_id": "ACT_THE_AIRCRAFT_ACT_1934_UNDATED_S11A",
+  "section_number": "11A",
+  "title": "Penalty for failure to comply with directions issued under section 5A.",
+  "text": "11A. Penalty for failure to comply with directions issued under section 5A.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2400/1/AAA1934____22.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1b2184ba29b15d398f2327cb749f5145d8111a27cf17ea5beb89ee9921d091d2"
+  }
+}

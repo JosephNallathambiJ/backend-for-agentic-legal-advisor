@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED",
+  "act_title": "The Oilfields (Regulation and Development) Act, 1948",
+  "section_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED_S8",
+  "section_number": "8",
+  "title": "Narmada Basin",
+  "text": "8. Narmada Basin",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1397/3/1948-53.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f8bc9251c9b7d7ea8ded415eaa8c031486e50321d28186776200d448c12690cd"
+  }
+}

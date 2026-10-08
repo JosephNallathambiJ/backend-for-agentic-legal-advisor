@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S34A",
+  "section_number": "34A",
+  "title": "Validation of certain acts.",
+  "text": "34A. Validation of certain acts.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d662f2e7928568a22a8ad7d00e7a741f098833d70f7d4ecc0b94d2b6d789f063"
+  }
+}

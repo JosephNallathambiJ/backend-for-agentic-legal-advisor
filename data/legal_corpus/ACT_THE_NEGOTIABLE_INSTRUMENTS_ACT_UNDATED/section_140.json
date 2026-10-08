@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S140",
+  "section_number": "140",
+  "title": "Defence which may not be allowed in any prosecution under section 138",
+  "text": "140. Defence which may not be allowed in any prosecution under section 138.—Itshall not be a\n\ndefence in a prosecution for an offence under section 138 that the drawer had no reason to believe when\nhe issued the cheque that the cheque may be dishonoured on presentment for the reasons stated in that\nsection.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3bc0e299756093b81bf96760847c03c4bd6e7e6bbd5aafb3f75bbd07072331ed"
+  }
+}

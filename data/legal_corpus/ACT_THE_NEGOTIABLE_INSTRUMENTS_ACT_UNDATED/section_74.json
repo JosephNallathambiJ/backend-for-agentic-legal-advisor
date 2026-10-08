@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S74",
+  "section_number": "74",
+  "title": "Presentment of instrument payable on demand",
+  "text": "74. Presentment of instrument payable on demand.—Subject to the provisions of section 31, a\n\nnegotiable instrument payable on demand must be presented for payment within a reasonable time after it\nis received by the holder.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1230f7a8c364fe62e5d8f5609c7edcc2d70762df3d3e610ce97ace054ade02f9"
+  }
+}

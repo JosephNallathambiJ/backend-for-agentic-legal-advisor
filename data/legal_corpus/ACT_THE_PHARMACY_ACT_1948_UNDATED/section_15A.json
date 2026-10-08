@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PHARMACY_ACT_1948_UNDATED",
+  "act_title": "The Pharmacy Act, 1948",
+  "section_id": "ACT_THE_PHARMACY_ACT_1948_UNDATED_S15A",
+  "section_number": "15A",
+  "title": "The Central Register.",
+  "text": "15A. The Central Register.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1364/1/1948-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "166b095deda52a62c942153b8ab36b1706f8ca8909fd5bcc64161c458fa92f77"
+  }
+}

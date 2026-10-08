@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S164",
+  "section_number": "164",
+  "title": "Change of subject without testator’s knowledge",
+  "text": "164. Change of subject without testator’s knowledge.—Where a thing specifically bequeathed\n\nundergoes a change between the date of the will and the testator’s death, and the change takes place\nwithout the knowledge or sanction of the testator, the legacy is not adeemed.\n\n_Illustration_\n\nA bequeaths to B “all my 3 per cent. Consols”. The Consols are, without A’s knowledge, sold by his\n\nagent, and the proceeds converted into East India Stock. This legacy is not adeemed.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b1c221184497f0ee16a44363c04638d2410f215be00a9a1f8da0ba5d6b313130"
+  }
+}

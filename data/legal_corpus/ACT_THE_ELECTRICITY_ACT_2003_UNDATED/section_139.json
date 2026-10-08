@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ELECTRICITY_ACT_2003_UNDATED",
+  "act_title": "The Electricity Act, 2003",
+  "section_id": "ACT_THE_ELECTRICITY_ACT_2003_UNDATED_S139",
+  "section_number": "139",
+  "title": "Negligently breaking or damaging works.",
+  "text": "139. Negligently breaking or damaging works.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2058/1/A2003-36.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "68d44e642e8e12aaa9d34e268a12c53f81767fb31f4bc91a5d7c36a1037f9ae1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S141",
+  "section_number": "141",
+  "title": "Judge to decide as to admissibility of evidence",
+  "text": "141. Judge to decide as to admissibility of evidence.—(1) When either party proposes to give\n\nevidence of any fact, the Judge may ask the party proposing to give the evidence in what manner the\nalleged fact, if proved, would be relevant; and the Judge shall admit the evidence if he thinks that the fact,\nif proved, would be relevant, and not otherwise.\n\n(2) If the fact proposed to be proved is one of which evidence is admissible only upon proof of some\n\nother fact, such last mentioned fact must be proved before evidence is given of the fact first mentioned,\nunless the party undertakes to give proof of such fact, and the Court is satisfied with such undertaking.\n\n(3) If the relevancy of one alleged fact depends upon another alleged fact being first proved, the\n\nJudge may, in his discretion, either permit evidence of the first fact to be given before the second fact is\nproved, or require evidence to be given of the second fact before evidence is given of the first fact.\n\n_Illustrations._\n\n(a) It is proposed to prove a statement about a relevant fact by a person alleged to be dead, which\n\nstatement is relevant under section 26. The fact that the person is dead must be proved by the person\nproposing to prove the statement, before evidence is given of the statement.\n\n(b) It is proposed to prove, by a copy, the contents of a document said to be lost. The fact that the\n\noriginal is lost must be proved by the person proposing to produce the copy, before the copy is produced.\n\n(c) A is accused of receiving stolen property knowing it to have been stolen. It is proposed to prove\n\nthat he denied the possession of the property. The relevancy of the denial depends on the identity of the\nproperty. The Court may, in its discretion, either require the property to be identified before the denial of\nthe possession is proved, or permit the denial of the possession to be proved before the property is\nidentified.\n\n(d) It is proposed to prove a fact A which is said to have been the cause or effect of a fact in issue.\n\nThere are several intermediate facts B, C and D which must be shown to exist before the fact A can be\nregarded as the cause or effect of the fact in issue. The Court may either permit A to be proved before B,\nC or D is proved, or may require proof of B, C and D before permitting proof of A.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0726894bf95be9ebea4337395827588fa48b8448517d425e4c6b093bdade02ce"
+  }
+}

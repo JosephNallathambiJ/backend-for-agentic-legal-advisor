@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED",
+  "act_title": "The Oilfields (Regulation and Development) Act, 1948",
+  "section_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED_S12",
+  "section_number": "12",
+  "title": "Karewa Basin",
+  "text": "12. Karewa Basin",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1397/3/1948-53.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fd3ebd3b55632d6c3ec5f37b798315a69a98582926f92d531a2a6f7bdfba4cba"
+  }
+}

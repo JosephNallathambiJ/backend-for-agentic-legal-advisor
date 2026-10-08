@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S30",
+  "section_number": "30",
+  "title": "Certifying Authority to follow certain procedures.–Every Certifying Authority shall,–",
+  "text": "30. Certifying Authority to follow certain procedures.–Every Certifying Authority shall,–\n\n(a) make use of hardware, software and procedures that are secure from intrusion and misuse;\n\n(b) provide a reasonable level of reliability in its services which are reasonably suited to the\n\nperformance of intended functions;\n\n(c) adhere to security procedures to ensure that the secrecy and privacy of the [electronic\n\nsignatures] are assured; \n\n4[(ca) be the repository of all electronic signature Certificates issued under this Act;\n\n(cb) publish information regarding its practices, electronic signature Certificates and current\n\nstatus of such certificates; and ]\n\n(d) observe such other standards as may be specified by regulations.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "043b2b63e2727c9d14e64a6c6cc0e5ae80064015c63a2bd97c853e514b13912f"
+  }
+}

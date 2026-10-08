@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED",
+  "act_title": "The Oilfields (Regulation and Development) Act, 1948",
+  "section_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED_S9",
+  "section_number": "9",
+  "title": "Spiti-Zankar Basin",
+  "text": "9. Spiti-Zankar Basin",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1397/3/1948-53.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cfa01f05f05aa450792e7cb5624dbb04550ff43d3792f346834ef282cce6a8d5"
+  }
+}

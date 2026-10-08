@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S245Q",
+  "section_number": "245Q",
+  "title": "Application for advance ruling.",
+  "text": "245Q. Application for advance ruling.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b1f68ae519ead77b3fe316e266f1cc94e3caa7fb6e2562ce4ac77ba291bb5fd9"
+  }
+}

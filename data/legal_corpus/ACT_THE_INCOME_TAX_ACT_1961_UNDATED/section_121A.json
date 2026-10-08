@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S121A",
+  "section_number": "121A",
+  "title": "[Omitted.].",
+  "text": "121A. [Omitted.].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d2c79fbb04702e96f0b2e44e3954bb4e9bab48ed52c10f5fa3d5cdd8af1d7079"
+  }
+}

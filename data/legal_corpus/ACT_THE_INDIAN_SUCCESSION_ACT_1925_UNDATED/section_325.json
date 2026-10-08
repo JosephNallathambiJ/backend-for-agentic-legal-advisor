@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S325",
+  "section_number": "325",
+  "title": "Debts to be paid before legacies",
+  "text": "325. Debts to be paid before legacies.—Debts of every description must be paid before any legacy.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "34988faa157ccc09c4f2f7b109ac65d085a6c9e522342c61b458c7d65d8e2c19"
+  }
+}

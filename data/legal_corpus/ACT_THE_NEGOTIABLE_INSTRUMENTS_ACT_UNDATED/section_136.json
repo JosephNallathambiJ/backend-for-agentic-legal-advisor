@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S136",
+  "section_number": "136",
+  "title": "Instrument made, etc., out of India, but in accordance with the law of India",
+  "text": "136. Instrument made, etc., out of India, but in accordance with the law of India.—If a\n\nnegotiable instrument is made, drawn, accepted or indorsed [outside India], but in accordance with the\n5[law of India], the circumstances that any agreement evidenced by such instrument is invalid according\nto the law of the country wherein it was entered into does not invalidate any subsequent acceptance or\nindorsement made thereon [within India].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "218107484691868d99769fce272ffeed6ae1ce41ef7722398dd7f718947aa5eb"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S41",
+  "section_number": "41",
+  "title": "Warranty of seaworthiness of ship",
+  "text": "41. Warranty of seaworthiness of ship.—(1) In a voyage policy there is an implied warranty that at\n\nthe commencement of the voyage the ship shall be seaworthy for the purpose of the particular adventure\ninsured.\n\n(2) Where the policy attaches while the ship is in port, there is also an implied warranty that she shall,\n\nat the commencement of the risk, be reasonably fit to encounter the ordinary perils of the port.\n\n(3) Where the policy relates to a voyage which is performed in different stages, during which the ship\n\nrequires different kinds of or further preparation or equipment, there is an implied warranty that at the\ncommencement of each stage the ship is seaworthy in respect of such preparation or equipment for the\npurposes of that stage.\n\n(4) A ship is deemed to be seaworthy when she is reasonably fit in all respects to encounter the\n\nordinary perils of the seas of the adventure insured.\n\n(5) In a time policy there is no implied warranty that the ship shall be seaworthy at any stage of the\n\nadventure, but where, with the privity of the assured, the ship is sent to sea in an unseaworthy state, the\ninsurer is not liable for any loss attributable to unseaworthiness.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b5b55d41d90840b3fe6c76bee583f394e29ee2e4e00e34fedd61f266b9528163"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_BIRTHS_DEATHS_AND_MARRIAGE_UNDATED",
+  "act_title": "The Births, Deaths and Marriages Registration Act, 1886",
+  "section_id": "ACT_THE_BIRTHS_DEATHS_AND_MARRIAGE_UNDATED_S23",
+  "section_number": "23",
+  "title": "Grant of certificate of registration of birth or death",
+  "text": "23. Grant of certificate of registration of birth or death.—The Registrar of Births and Deaths\n\nshall, on application made at the time of registering any birth or death by the person giving notice of the\nbirth or death, and on payment by him of the prescribed fee, give to the applicant a certificate in the\nprescribed form signed by the Registrar, of having registered the birth or death.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2309/1/A1886-6.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "457fce9c01c5302d345e08c5754575227561999826a227a84455edb70d661533"
+  }
+}

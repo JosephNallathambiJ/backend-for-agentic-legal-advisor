@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSECTICIDES_ACT_1968_UNDATED",
+  "act_title": "The Insecticides Act, 1968",
+  "section_id": "ACT_THE_INSECTICIDES_ACT_1968_UNDATED_S38",
+  "section_number": "38",
+  "title": "Exemption",
+  "text": "38. Exemption.—(1) Nothing in this Act shall apply to—\n\n(a) the use of any insecticide by any person for his own household purposes or for kitchen garden\n\nor in respect of any land under his cultivation;\n\n(b) any substance specified or included in the Schedule or any preparation containing any one or\n\nmore such substances, if such substance or preparation is intended for purposes other than preventing,\ndestroying, repelling or mitigating any insects, rodents, fungi, weeds and other forms of plant or\nanimal life not useful to human beings.\n\n(2) The Central Government may, by notification in the Official Gazette, and subject to such\n\nconditions, if any, as it may specify therein, exempt from all or any of the provisions of this Act or the\nrules made thereunder, any educational, scientific or research organisation engaged in carrying out\nexperiments with insecticides.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1551/1/A1968-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ce3a377954434597858c421de4758566e069267e61b7fef16db5e0aa58ededf1"
+  }
+}

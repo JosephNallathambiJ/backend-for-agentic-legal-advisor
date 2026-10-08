@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S4A",
+  "section_number": "4A",
+  "title": "Compensation to be paid when due and penalty for default.",
+  "text": "4A. Compensation to be paid when due and penalty for default.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a036e2855c98b0729eb3d984307e17b84fbd48aea1cb0fcf073c918d30e39ce6"
+  }
+}

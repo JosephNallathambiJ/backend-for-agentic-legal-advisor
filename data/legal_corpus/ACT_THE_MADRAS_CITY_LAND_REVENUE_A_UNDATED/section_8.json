@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MADRAS_CITY_LAND_REVENUE_A_UNDATED",
+  "act_title": "The Madras City Land Revenue Act, 1851",
+  "section_id": "ACT_THE_MADRAS_CITY_LAND_REVENUE_A_UNDATED_S8",
+  "section_number": "8",
+  "title": "Rent paid to East India Company by under tenant may be deducted by him from his own rent.",
+  "text": "8. Rent paid to East India Company by under tenant may be deducted by him from his own rent.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19032/1/a1851-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d1d655b2fa94d70669008edf08849017ce4acf2f73dc716a7312e0cd2306f874"
+  }
+}

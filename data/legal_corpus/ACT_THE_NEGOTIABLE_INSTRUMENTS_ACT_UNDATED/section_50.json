@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S50",
+  "section_number": "50",
+  "title": "Effect of indorsement",
+  "text": "50. Effect of indorsement.—The indorsement of a negotiable instrument followed by delivery\n\ntransfers to the indorsee the property therein with the right of further negotiation; but the indorsement\nmay, by express words, restrict or exclude such right, or may merely constitute the indorsee an agent to\nindorse the instrument, or to receive its contents for the indorser, or for some other specified person.\n\n_Illustrations_\n\nB signs the following indorsements on different negotiable instruments payable to bearer.—\n\n(a) “Pay the contents to C only”.\n\n(b) “Pay C for my use.”\n\n(c) “Pay C or order for the account of B.”\n\n(d) “the within must be credited to C.”\n\nThese indorsements exclude the right of further negotiation by C.\n\n( _e_ ) “Pay C.”\n\n(f) “Pay C value in account with the Oriental Bank.”\n\n(g) “Pay the contents to C, being part of the consideration in a certain deed of assignment executed by C to the indorser\n\nand others.”\n\nThese indorsements do not exclude the right of further negotiation by C.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e5f64d3e4700d761d33103fc2c2aafbd589c8848aadcdba3d94c258800f39ae4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AIRCRAFT_ACT_1934_UNDATED",
+  "act_title": "The Aircraft Act, 1934",
+  "section_id": "ACT_THE_AIRCRAFT_ACT_1934_UNDATED_S17",
+  "section_number": "17",
+  "title": "Bar of certain suits",
+  "text": "17. Bar of certain suits—No suit shall be brought in any Civil Court in respect of trespass or in\n\nrespect of nuisance by reason only of the flight of aircraft over any property at a height above the ground\nwhich having regard to wind, weather and all the circumstances of the case is reasonable, or by reason\nonly of the ordinary incidents of such flight.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2400/1/AAA1934____22.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ff7fdc0f0488afd6a6d4882178ae1fbd0d46c4799e0bb1293d3065b96e5d76a9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S97",
+  "section_number": "97",
+  "title": "When party to whom notice given is dead",
+  "text": "97. When party to whom notice given is dead.—when the party to whom notice of dishonour is\n\ndispatched is dead, but the party dispatching the notice is ignorant of his death, the notice is sufficient.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "71a62d8384d33eb8c54eecba49685983f613de65fedaf17fd01d721bf552898e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_WILD_LIFE_PROTECTION_ACT_1_UNDATED",
+  "act_title": "The Wild Life (Protection) Act, 1972",
+  "section_id": "ACT_THE_WILD_LIFE_PROTECTION_ACT_1_UNDATED_S999",
+  "section_number": "999",
+  "title": "Red-rumped Swallow _Cecropis daurica",
+  "text": "999. Red-rumped Swallow _Cecropis daurica_",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-53.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "402d5a36d3b512a355b4cbe67f904c0f3d7e3ab7e6a0202b6ba0081814cba8e6"
+  }
+}

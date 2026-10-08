@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S59",
+  "section_number": "59",
+  "title": "Instrument acquired after dishonour or when overdue",
+  "text": "59. Instrument acquired after dishonour or when overdue.—The holder of a negotiable\n\ninstrument, who has acquired it after dishonour, whether by non-acceptance or non-payment, with notice\nthereof, or after maturity, has only, as against the other parties, the rights thereon of his transferor:\n\nAccommodation note or bill.—Provided that any person who, in good faith and for consideration,\n\nbecomes the holder, after maturity, of a promissory note or bill of exchange made, drawn or accepted\nwithout consideration, for the purpose of enabling some party thereto to raise money thereon, may\nrecover the amount of the note or bill from any prior party.\n\n_Illustration_\n\nThe acceptor of a bill of exchange, when he accepted it, deposited with the drawer certain goods as a collateral security for\n\nthe payment of the bill, with power to the drawer to sell the goods and apply the proceeds in discharge of the bill if it were not\npaid at maturity. The bill not having been paid at maturity, the drawer sold the goods and retained the proceeds, but indorsed the\nbill to A. A's title is subject to the same objection as the drawer's title.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c340787f72ea629e458170c0f75371d33e94aea2afe6600baa52cb75839abec2"
+  }
+}

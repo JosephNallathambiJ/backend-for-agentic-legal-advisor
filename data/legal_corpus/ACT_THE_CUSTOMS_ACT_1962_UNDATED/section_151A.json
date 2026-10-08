@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S151A",
+  "section_number": "151A",
+  "title": "Instructions to officers of customs.",
+  "text": "151A. Instructions to officers of customs.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1b619d46654042fe58090fa30ab9ebbda45f4d656df7b9ff99bf50797605c9a4"
+  }
+}

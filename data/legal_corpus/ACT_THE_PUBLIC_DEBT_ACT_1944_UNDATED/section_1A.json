@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUBLIC_DEBT_ACT_1944_UNDATED",
+  "act_title": "The Public Debt Act, 1944",
+  "section_id": "ACT_THE_PUBLIC_DEBT_ACT_1944_UNDATED_S1A",
+  "section_number": "1A",
+  "title": "Securities to which this Act applies.",
+  "text": "1A. Securities to which this Act applies.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2405/5/A1944-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d81593f520bb01b7751fde3dd0e7348dcbbf81b9f2c39a94ffc80ef9cdd0dc5d"
+  }
+}

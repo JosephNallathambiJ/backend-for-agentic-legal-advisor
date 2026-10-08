@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S47",
+  "section_number": "47",
+  "title": "Where intestate has left neither lineal descendant, nor father, nor mother",
+  "text": "47. Where intestate has left neither lineal descendant, nor father, nor mother.—Where the\n\nintestate has left neither lineal descendant, nor father, nor mother, the property shall be divided equally\nbetween his brothers and sisters and the child or children of such of them as may have died before him,\nsuch children (if more than one) taking in equal shares only the shares which their respective parents\nwould have taken if living at the intestate’s death.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1a5be7107ae2701bab13bf4159b2304b840c65d6b346a089122c1ced19c87d69"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S192A",
+  "section_number": "192A",
+  "title": "Payment of accumulated balance due to an employee.",
+  "text": "192A. Payment of accumulated balance due to an employee.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e05d64de21ce35675a83ecdbc27d3d66e92be727503c2d1cd5eabf6fc447e3ab"
+  }
+}

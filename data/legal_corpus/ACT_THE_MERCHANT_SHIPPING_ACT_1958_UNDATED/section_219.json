@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S219",
+  "section_number": "219",
+  "title": "Application of Part.―This Part applies only to sea-going passenger ships fitted with",
+  "text": "219. Application of Part.―This Part applies only to sea-going passenger ships fitted with\n\nmechanical means of propulsion, but the provisions of this Part relating to [special trade passenger\nships] shall not apply ―\n\n(a) to any such ship not carrying more than thirty [special trade passengers]; or\n\n(b) to any such ship not intended to carry [special trade passengers] to or from any port or\n\nplace in India.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "20af2efef55fc2d62f59c6aeee670eb32be5807f15f17030e549c6e310779ab8"
+  }
+}

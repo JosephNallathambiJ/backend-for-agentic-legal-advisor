@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S66",
+  "section_number": "66",
+  "title": "Presentment for payment of instrument payable after date or sight",
+  "text": "66. Presentment for payment of instrument payable after date or sight—A promissory note or\n\nbill of exchange, made payable at a specified period after date or sight thereof, must be presented for\npayment at maturity.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "92ef85b15dbfb74c192435e45494b1f8ae5aa2907b0771fd10c19c9713314c8c"
+  }
+}

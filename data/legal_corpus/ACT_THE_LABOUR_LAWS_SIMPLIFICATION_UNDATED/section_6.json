@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_LABOUR_LAWS_SIMPLIFICATION_UNDATED",
+  "act_title": "The Labour Laws (Simplification of Procedure for Furnishing Returns and Maintaining Registers by certain Establishments) Act, 1988",
+  "section_id": "ACT_THE_LABOUR_LAWS_SIMPLIFICATION_UNDATED_S6",
+  "section_number": "6",
+  "title": "Date of Birth/Age",
+  "text": "6. Date of Birth/Age_____________________________________________________________________",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1687/1/a1988-------51.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9dc70ff6c28a14465fd3f84d77cce498a975741154f62040e8f399e8a36edb0e"
+  }
+}

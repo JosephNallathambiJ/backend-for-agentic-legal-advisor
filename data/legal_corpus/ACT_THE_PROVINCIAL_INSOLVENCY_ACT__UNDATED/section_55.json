@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S55",
+  "section_number": "55",
+  "title": "Protection of bona fide transactions",
+  "text": "55. Protection of bona fide transactions.—Subject to the foregoing provisions of this Act with\n\nrespect to the effect of insolvency on an execution, and with respect to the avoidance of certain transfers\nand preferences, nothing in this Act shall invalidate in the case of an insolvency—\n\n(a) any payment by the insolvent to any of his creditors;\n\n(b) any payment or delivery to the insolvent;\n\n(c) any transfer by the insolvent for valuable consideration; or\n\n(d) any contract or dealing by or with the insolvent for valuable consideration:\n\nProvided that any such transaction takes place before the date of the order of adjudication, and that\n\nthe person with whom such transaction takes place has not at the time notice of the presentation of any\ninsolvency petition by or against the debtor.\n\n56. Appointment of Receiver.—(1) The Court may, at the time of the order of adjudication, or at any\n\ntime afterwards, appoint a receiver for the property of the insolvent, and such property shall thereupon\nvest in such receiver.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c51a7f3a09d1504e42b7e12e48eb530a555cb9a9b83ba10eb32b4f5e33a0f001"
+  }
+}

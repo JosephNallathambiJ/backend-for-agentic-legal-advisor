@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S65",
+  "section_number": "65",
+  "title": "Benefits not to be combined",
+  "text": "65. Benefits not to be combined.—(1) An insured person shall not be entitled to receive for the same\n\nperiod—\n\n(a) both sickness benefit and maternity benefit; or\n\n(b) both sickness benefit and disablement benefit for temporary disablement; or\n\n(c) both maternity benefit and disablement benefit for temporary disablement.\n\n(2) Where a person is entitled to more than one of the benefits mentioned in sub-section (1), he shall\n\nbe entitled to choose which benefit he shall receive.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "dd4c55b6c3fc93195f1069a5663143299a0f8e4fba6a7c0069c254f37e402ebd"
+  }
+}

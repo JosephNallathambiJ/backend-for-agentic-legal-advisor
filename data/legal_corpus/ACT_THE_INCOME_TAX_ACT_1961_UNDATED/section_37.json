@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S37",
+  "section_number": "37",
+  "title": "Sale",
+  "text": "37. Sale.—The Tax Recovery Officer may direct that any movable property attached under this\n\nSchedule or such portion thereof as may seem necessary to satisfy the certificate shall be sold.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1bd415f504bbdfeae91fecf36c190ebebca896c95aaf87f4bfce4836029a5f9d"
+  }
+}

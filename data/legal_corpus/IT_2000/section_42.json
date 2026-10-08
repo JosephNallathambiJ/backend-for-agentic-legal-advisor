@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S42",
+  "section_number": "42",
+  "title": "Control of private key.–(1) Every subscriber shall exercise reasonable care to retain control of",
+  "text": "42. Control of private key.–(1) Every subscriber shall exercise reasonable care to retain control of\n\nthe private key corresponding to the public key listed in his Digital Signature Certificate and take all steps\nto prevent its disclosure .\n\n(2) If the private key corresponding to the public key listed in the Digital Signature Certificate has\n\nbeen compromised, then, the subscriber shall communicate the same without any delay to the Certifying\nAuthority in such manner as may be specified by the regulations.\n\n_Explanation.–For the removal of doubts, it is hereby declared that the subscriber shall be liable till he_\n\nhas informed the Certifying Authority that the private key has been compromised.\n\nCHAPTER IX\n\n5[PENALTIES, COMPENSATION AND ADJUDICATION]\n\n43. [Penalty and compensation] for damage to computer, computer system, etc.–If any person\n\nwithout permission of the owner or any other person who is in charge of a computer, computer system or\ncomputer network,–\n\n(a) accesses or secures access to such computer, computer system or computer network\n\n7[or computer resource];",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6a59a5aa445d88e46ad090d84b2163aa2494cd6ad6003e151d76f735df69b3d8"
+  }
+}

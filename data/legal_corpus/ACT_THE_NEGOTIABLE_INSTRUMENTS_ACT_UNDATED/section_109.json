@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S109",
+  "section_number": "109",
+  "title": "How acceptance for honour must be made",
+  "text": "109. How acceptance for honour must be made.—A person desiring to accept for honour must,\n\n2[by writing on the bill under his hand,] declare that he accepts under protest the protested bill for the\nhonour of the drawer or of a particular indorser whom he names, or generally for honour.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9e781b384710b85d864f82342f73c35b909318d074a918982325735739e47808"
+  }
+}

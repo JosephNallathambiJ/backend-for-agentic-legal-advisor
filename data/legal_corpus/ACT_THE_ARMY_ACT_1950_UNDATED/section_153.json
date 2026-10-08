@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S153",
+  "section_number": "153",
+  "title": "Finding and sentence not valid, unless confirmed",
+  "text": "153. Finding and sentence not valid, unless confirmed.—No finding or sentence of a general,\n\ndistrict or summary general, court-martial shall be valid except so far as it may be confirmed as provided\nby this Act.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "23e2d70ee5b2c30930cefc1fce8a88405dd9aca47cc88017b4ca42577731a3f0"
+  }
+}

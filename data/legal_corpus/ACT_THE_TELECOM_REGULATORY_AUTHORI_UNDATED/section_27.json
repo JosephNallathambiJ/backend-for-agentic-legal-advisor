@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOM_REGULATORY_AUTHORI_UNDATED",
+  "act_title": "The Telecom Regulatory Authority of India Act, 1997",
+  "section_id": "ACT_THE_TELECOM_REGULATORY_AUTHORI_UNDATED_S27",
+  "section_number": "27",
+  "title": "Bar of jurisdiction",
+  "text": "27. Bar of jurisdiction.—No civil court shall have jurisdiction in respect of any matter which the\n\nAuthority is empowered by or under this Act to determine.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1929/5/a1997-24.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "367cd2c6c665f1ff56bb5c9181c55eb4635afefba188bfc44b1f1a576a9af352"
+  }
+}

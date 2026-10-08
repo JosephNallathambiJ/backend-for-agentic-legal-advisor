@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S290",
+  "section_number": "290",
+  "title": "Indemnity",
+  "text": "290. Indemnity.—Every person deducting, retaining, or paying any tax in pursuance of this Act in\n\nrespect of income belonging to another person is hereby indemnified for the deduction, retention, or\npayment thereof.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "12c69a89ca7ca41ca5c4d6b3559470f007d78ecf445b2e2641009f1420d4262b"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S126",
+  "section_number": "126",
+  "title": "Payment of cheque crossed generally",
+  "text": "126. Payment of cheque crossed generally.—Where a cheque is crossed generally, the banker on\n\nwhom it is drawn shall not pay it otherwise than to a banker.\n\nPayment of cheque crossed specially.—Where a cheque is crossed specially, the banker on whom it\n\nis drawn shall not pay it otherwise than to the banker to whom it is crossed, or his agent for collection.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e739f2a14689d8252730fdc742c3ef0542cc7bdc9f979a9c9943b923f5f1cfb8"
+  }
+}

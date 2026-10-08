@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED",
+  "act_title": "The Government Savings Promotion Act, 1873",
+  "section_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED_S19",
+  "section_number": "19",
+  "title": "10-Year Treasury Savings Deposits Certificates",
+  "text": "19. 10-Year Treasury Savings Deposits Certificates",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2281/1/A1873_05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6acc5c3d2864acdea18b96cd5f0d3a0bfe92ee756bce091e9c68aac5bdbcb727"
+  }
+}

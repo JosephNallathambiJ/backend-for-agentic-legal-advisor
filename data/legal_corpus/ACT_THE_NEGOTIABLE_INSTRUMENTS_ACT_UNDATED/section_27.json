@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S27",
+  "section_number": "27",
+  "title": "Agency",
+  "text": "27. Agency.— Every person capable of binding himself or of being bound, as mentioned in section\n\n26, may so bind himself or be bound by a duly authorized agent acting in his name.\n\nA general authority to transact business and to receive and discharge debts does not confer upon an\n\nagent the power of accepting or indorsing bills of exchange so as to bind his principal.\n\nAn authority to draw bills of exchange does not of itself import an authority to indorse.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "478ecb385b30580edc2364ee2ee80fe28b709a9d7afb40d68fc231d5b83c88d3"
+  }
+}

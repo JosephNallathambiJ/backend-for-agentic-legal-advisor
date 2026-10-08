@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S42",
+  "section_number": "42",
+  "title": "Cases in which Court must refuse an absolute discharge",
+  "text": "42. Cases in which Court must refuse an absolute discharge.—(1) The Court shall refuse to grant\n\nan absolute order of discharge under section 41 on proof of any of the following facts, namely:—\n\n(a) that the insolvent's assets are not of a value equal to eight annas in the rupee on the amount of\n\nhis unsecured liabilities, unless he satisfies the Court that the fact that the assets are not of a value\nequal to eight annas in the rupee on the amount of his unsecured liabilities has arisen from\ncircumstances for which he cannot justly be held responsible;\n\n(b) that the insolvent has omitted to keep such books of account as are usual and proper in the\n\nbusiness carried on by him and as sufficiently disclose his business transactions and financial position\nwithin the three years immediately preceding his insolvency;\n\n(c) that the insolvent has continued to trade after knowing himself to be insolvent;\n\n(d) that the insolvent has contracted any debt provable under this Act without having at the time\n\nof contracting it any reasonable or probable ground of expectation (the- burden of proving which\nshall lie on him) that he would be able to pay it;\n\n(e) that the insolvent has failed to account satisfactorily for any loss of assets or for any\n\ndeficiency of assets to meet his liabilities;",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6151b04caaea7da63aec8114654dfbdb6a0f57bd59af8f7cbc852c1620aab5a5"
+  }
+}

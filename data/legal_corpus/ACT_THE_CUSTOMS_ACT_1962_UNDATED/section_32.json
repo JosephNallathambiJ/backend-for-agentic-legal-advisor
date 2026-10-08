@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S32",
+  "section_number": "32",
+  "title": "Imported goods not to be unloaded unless mentioned in arrival manifest or import manifest or",
+  "text": "32. Imported goods not to be unloaded unless mentioned in arrival manifest or import manifest or\n\nimport report.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "85366d19d369074f5dd3f3389fa84cf090767179946fd9d8197a897caeb585d3"
+  }
+}

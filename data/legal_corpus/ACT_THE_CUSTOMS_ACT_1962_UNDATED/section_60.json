@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S60",
+  "section_number": "60",
+  "title": "Permission for removal of goods for deposit in warehouse.",
+  "text": "60. Permission for removal of goods for deposit in warehouse.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c810a1de5fb7c90ba2409a9c600484e377d4001444058cab6650cf9fef04254b"
+  }
+}

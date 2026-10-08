@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S37",
+  "section_number": "37",
+  "title": "Maker, drawer and acceptor principals",
+  "text": "37. Maker, drawer and acceptor principals.—The maker of a promissory note or cheque, the drawer of\n\na bill of exchange until acceptance, and the acceptor are, in the absence of a contract to the contrary,\nrespectively liable thereon as principal debtors, and the other parties thereto are liable thereon as sureties for\nthe maker, drawer or acceptor, as the case may be.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a35a37832f1b44041032750375315b305f03b488d986c10f07a8f694b17fc45a"
+  }
+}

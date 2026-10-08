@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S6",
+  "section_number": "6",
+  "title": "Coriander 0.5%",
+  "text": "6. Coriander 0.5%",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "64f318c846bc37191bc5c5186e41e716b38a0f6742573dac177130b613c6fa67"
+  }
+}

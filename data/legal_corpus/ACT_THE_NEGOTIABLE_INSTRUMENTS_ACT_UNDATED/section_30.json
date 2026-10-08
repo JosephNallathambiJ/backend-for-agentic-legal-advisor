@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S30",
+  "section_number": "30",
+  "title": "Liability of drawer",
+  "text": "30. Liability of drawer.—The drawer of a bill of exchange or cheque is bound, in case of dishonour\n\nby the drawee or acceptor thereof, to compensate the holder, provided due notice of dishonour has been\ngiven to, or received by, the drawer as hereinafter provided.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f45cf87f95e155b0f85ac1187100cbdf2c7122b1917a4bf718a29ef148a964a3"
+  }
+}

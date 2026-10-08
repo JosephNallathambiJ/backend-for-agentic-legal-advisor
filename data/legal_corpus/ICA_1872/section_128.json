@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S128",
+  "section_number": "128",
+  "title": "Surety’s liability",
+  "text": "128. Surety’s liability.—The liability of the surety is co- extensive with that of the principal debtor,\n\nunless it is otherwise provided by the contract.\n\n_Illustration_\n\nA guarantees to B the payment of a bill of exchange by C, the acceptor. The bill is dishonoured by C. A is liable, not only\n\nfor the amount of the bill, but also for any interest and charges which may have become due on it.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "88c4a38f5364f5b3dc642654f5f6a6834179165c8079878eb196ee2418acfbb1"
+  }
+}

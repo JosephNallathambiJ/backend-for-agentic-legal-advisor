@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S344C",
+  "section_number": "344C",
+  "title": "Prohibition of proceeding to sea without certificates.―(1) No Indian nuclear ship shall",
+  "text": "344C. Prohibition of proceeding to sea without certificates.―(1) No Indian nuclear ship shall\n\nproceed on a voyage from any port or place in India to any port or place outside India unless there is\nin force in respect of the ship―\n\n(a) a nuclear passenger ship safety certificate, if she is a passenger ship;\n\n(b) a nuclear cargo ship safety certificate, if she is a cargo ship.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0d059bf9ab4bac53cb92bfdf84b8c42b7d70ebac8ef924376776fc7345c32070"
+  }
+}

@@ -1,0 +1,43 @@
+# HNX26EPS01: Offline Agentic Legal Assistant Configuration
+# Fully Local, Evidence-First, Zero External Network Calls
+
+runtime:
+  network: "DISABLED" # Zero outbound network calls
+  target_ram_mb: 3584 # Maximum resident RAM target <= 3.5 GB
+  device: "cpu"
+  cpu_threads: 4
+
+legal_corpus:
+  registry_path: "./data/registry/registry_index.json"
+  sqlite_cache: "./data/cache/legal_cache.sqlite"
+  corpus_dir: "./data/legal_corpus"
+  auto_reindex: false
+
+llm:
+  engine: "local"
+  model_path: "./models/llm/qwen2.5-1.5b-instruct-q4_k_m.gguf"
+  context_size: 2048
+  max_tokens: 256
+  temperature: 0.1
+  top_p: 0.9
+
+nli:
+  engine: "calibrated_gate"
+  model_dir: "./models/nli"
+  entailment_threshold: 0.50
+  lazy_load: true
+
+voice:
+  enabled: false
+  asr_model: "tiny.en"
+  device: "cpu"
+
+security:
+  max_upload_mb: 25
+  sanitize_prompt_injection: true
+  allowed_extensions: [".pdf", ".txt", ".json", ".md"]
+
+telemetry:
+  track_ram: true
+  track_latency: true
+  enforce_zero_outbound: true

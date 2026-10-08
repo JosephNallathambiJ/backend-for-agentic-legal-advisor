@@ -1,0 +1,15 @@
+{
+  "jurisdiction": "US",
+  "act_id": "US_TITLE_18",
+  "act_title": "United States Code Title 18 — Crimes and Criminal Procedure",
+  "section_id": "US_TITLE_18_S1341",
+  "section_number": "1341",
+  "title": "Frauds and swindles (Mail Fraud)",
+  "text": "Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises... places in any post office or authorized depository for mail matter, any matter or thing whatever to be sent or delivered by the Postal Service... shall be fined under this title or imprisoned not more than 20 years, or both.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title18&edition=prelim",
+    "version": "1948_official_edition",
+    "sha256": "11449e6f6aa6c2ee52e4b5f57e4472f22facbcccf12681e0c3ee4bf48acddd60"
+  }
+}

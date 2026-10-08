@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S11",
+  "section_number": "11",
+  "title": "Passenger ticket issued by a steamship company or air transport company.",
+  "text": "11. Passenger ticket issued by a steamship company or air transport company.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "06770bd08a9c016554ae4fcb2c4e975af719b5208abc70ee3160ffa740e70c86"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S102",
+  "section_number": "102",
+  "title": "Notice of protest",
+  "text": "102. Notice of protest.—When a promissory note or bill of exchange is required by law to be\n\nprotested, notice of such protest must be given instead of notice of dishonour, in the same manner and\nsubject to the same conditions; but the notice may be given by the notary public who makes the protest.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "16a221a1328da3982d92ee681c0773782cb708d9f1f3696fd8b011917ee13592"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S29",
+  "section_number": "29",
+  "title": "Fulfilment of condition subsequent",
+  "text": "29. Fulfilment of condition subsequent.—An ulterior disposition of the kind contemplated by the\n\nlast preceding section cannot take effect unless the condition is strictly fulfilled.\n\n_Illustration_\n\nA transfers Rs. 500 to B, to be paid to him on his attaining his majority or marrying, with a proviso that, if B dies a\n\nminor or marries without C's consent, the Rs. 500 shall go to D. B marries when only 17 years of age, without C's consent.\nThe transfer to D takes effect.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fa53aa8ae9ef368f54680ab5d0d4c7a3a71b1e5f3ab5b211e907475e2852be4e"
+  }
+}

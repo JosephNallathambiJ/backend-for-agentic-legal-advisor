@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S93A",
+  "section_number": "93A",
+  "title": "Liability in case of transfer of establishment.",
+  "text": "93A. Liability in case of transfer of establishment.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4194b1fc1f167b8e52dbfa52d37bf7d0e33e0640ab53418873784e8ae9d4b93a"
+  }
+}

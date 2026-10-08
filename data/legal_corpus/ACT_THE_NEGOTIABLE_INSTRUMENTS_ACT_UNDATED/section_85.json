@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S85",
+  "section_number": "85",
+  "title": "Cheque payable to order",
+  "text": "85. Cheque payable to order.—[(1)] Where a cheque payable to order purports to be endorsed by or\n\non behalf of the payee, the drawee is discharged by payment in due course.\n\n4[(2) Where a cheque is originally expressed to be payable to bearer, the drawee is discharged\n\nby payment in due course to the bearer thereof, notwithstanding any endorsement whether in full or\nin blank appearing thereon, and notwithstanding that any such endorsement purports to restrict or\nexclude further negotiation.]\n\n5[85A. Drafts drawn by one branch of a bank on another payable to order.—where any draft, that\n\nis an order to pay money, drawn by one office of a bank upon another office of the same bank for a sum\nof money payable to order on demand, purports to be endorsed by or on behalf of the payee, the bank is\ndischarged by payment in due course.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9af0830c8c684b4c441225442ce9c3b0c027c51a4efa7bd1bb68d9d8a889abe5"
+  }
+}

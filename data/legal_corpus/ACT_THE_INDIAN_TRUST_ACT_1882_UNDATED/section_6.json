@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_TRUST_ACT_1882_UNDATED",
+  "act_title": "The Indian Trust Act, 1882",
+  "section_id": "ACT_THE_INDIAN_TRUST_ACT_1882_UNDATED_S6",
+  "section_number": "6",
+  "title": "Creation of trust",
+  "text": "6. Creation of trust.—Subject to the provisions of section 5, a trust is created when the author of the\n\ntrust indicates with reasonable certainty by any words or acts (a) an intention on his part to create thereby\na trust, (b) the purpose of the trust, (c) the beneficiary, and (d) the trust-property, and (unless the trust is\ndeclared by will or the author of the trust is himself to be the trustee) transfers the trust-property to the\ntrustee.\n\n_Illustrations_\n\n(a) A bequeaths certain property to B, “having the fullest confidence that he will dispose of it for the benefit of C”. This\n\ncreates a trust so far as regards A and C.\n\n(b) A bequeaths certain property to B “hoping he will continue it in the family”. This does not create a trust, as the\n\nbeneficiary is not indicated with reasonable certainty.\n\n(c) A bequeaths certain property to B, requesting him to distribute it amongst such members of C’s family as B should\n\nthink most deserving. This does not create a trust, for the beneficiaries are not indicated with reasonable certainty.\n\n(d) A bequeaths certain property to B, desiring him to divide the bulk of it among C’s children. This does not create a trust,\n\nfor the trust-property is not indicated with sufficient certainty.\n\n6\n\n-----\n\n(e) A bequeaths a shop and stock-in-trade to B, on condition that he pays A’s debts and a legacy to C. This is a condition,\n\nnot a trust for A’s creditors and C.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2327/3/A1882-02.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "90bc4ff312298540b0b4adb950afb56d1cb97375c2c9a803f1ea2e8c9fd546c6"
+  }
+}

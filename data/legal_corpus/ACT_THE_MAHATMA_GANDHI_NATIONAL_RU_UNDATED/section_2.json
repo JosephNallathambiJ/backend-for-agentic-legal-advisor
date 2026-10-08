@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED",
+  "act_title": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+  "section_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED_S2",
+  "section_number": "2",
+  "title": "It shall be the duty of the Gram Panchayat, after making such enquiry, as it deems fit, to issue a job",
+  "text": "2. It shall be the duty of the Gram Panchayat, after making such enquiry, as it deems fit, to issue a job\n\ncard within fifteen days from the date of receipt of such application, containing therein a unique job card\n\nnumber with details of the registered adult members of the household, their photos, Bank or Post office\n\naccount number, insurance policy number and the Aadhaar numbers if any.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2014/5/a2005-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a7e2f07693bbdddb5340c6ca660f45479598e9a449a9ff697662f23a225a30d5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S85A",
+  "section_number": "85A",
+  "title": "Enhanced punishment in certain cases after previous conviction.",
+  "text": "85A. Enhanced punishment in certain cases after previous conviction.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "33489de588f67c4e1e933b72c2d76c1dc9bc776aaf8e61af78194efbf34104c3"
+  }
+}

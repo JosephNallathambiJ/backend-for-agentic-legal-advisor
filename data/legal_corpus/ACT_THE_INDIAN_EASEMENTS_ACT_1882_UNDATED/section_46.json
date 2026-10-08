@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED",
+  "act_title": "The Indian Easements Act, 1882",
+  "section_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED_S46",
+  "section_number": "46",
+  "title": "Extinction by unity of ownership",
+  "text": "46. Extinction by unity of ownership.—An easement is extinguished when the same person\n\nbecomes entitled to the absolute ownership of the whole of the dominant and servient heritages.\n\n_Illustrations_\n\n(a) A, as the owner of a house has a right of way over B’s field. A mortgages his house, and B mortgages his\n\nfield to C. Then C forecloses both mortgages and becomes thereby absolute owner of both house and field. The\nright of way is extinguished.\n\n(b) The dominant owner acquires only part of the servient heritage: the easement is not extinguished, except\n\nin the case illustrated in section 41.\n\n(c) The servient owner acquires the dominant heritage in connection with a third person: the easement is not\n\nextinguished.\n\n(d) The separate owners of two separate dominant heritages jointly acquire the heritage which is servient to\n\nthe two separate heritages: the easements are not extinguished.\n\n(e) The joint owners of the dominant heritage jointly acquire the servient heritage: the easement is\n\nextinguished.\n\n(f) A single right of way exists over two servient heritages for the beneficial enjoyment of a single dominant\n\nheritage. The dominant owner acquires one only of the servient heritages. The easement is not extinguished.\n\n(g) A has a right of way over B’s road. B dedicates the road to the public. A’s right of way is not\n\nextinguished.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2349/1/A1882-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6e5fc392a25800510a0183514cc191015d9c509d3e0b554b1a0cbdfdcd4371c1"
+  }
+}

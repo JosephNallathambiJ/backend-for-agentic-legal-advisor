@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED",
+  "act_title": "The New Delhi Municipal Council Act, 1994",
+  "section_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED_S410",
+  "section_number": "410",
+  "title": "Annual administration report.",
+  "text": "410. Annual administration report.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1986/1/199444.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "993a2675816f4757fa56d89155c3b3a3829342217daa5b3697eccbc5ca0f1221"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIAL_EMPLOYMNET_STAN_UNDATED",
+  "act_title": "The Industrial Employmnet (Standing Orders) Act, 1946",
+  "section_id": "ACT_THE_INDUSTRIAL_EMPLOYMNET_STAN_UNDATED_S12A",
+  "section_number": "12A",
+  "title": "Temporary application of model standing orders.",
+  "text": "12A. Temporary application of model standing orders.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2257/1/AAA1946Em__20.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bdc2df0e4e7dc81190837c97fbad60336334784ff687e8ce13ddcc92abf75056"
+  }
+}

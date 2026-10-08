@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S68",
+  "section_number": "68",
+  "title": "Settlement-officer to as certain proprietors;",
+  "text": "68. Settlement-officer to as certain proprietors;—The Settlement-officer shall ascertain the persons\n\nwho are in possession as proprietors of the land comprised in each mahal.\n\n69. to determine extent of sir-land;—The Settlement-officer shall ascertain the situation and\n\ndetermine the extent of all the land held as sir in each malal.\n\n70. to decide disputes among shareholders regarding management of mahal.—The\n\nSettlement-officer shall ascertain the customs or rules by which the proprietors in each mahal are mutually\nbound as to the granting of pattas, the ejectment of tenants, the realization and distribution of rents and\nother profits, the payment of land revenue, village-expenses and other charges, and generally as to the\ncontrol and management of the mahal; and shall decide all disputes and record all agreements regarding the\nmatters mentioned in this section.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "60b8abbadb196e50c2094e3b5852eea5f7488c1c723d0e1e8a293f88eb8d8bd6"
+  }
+}

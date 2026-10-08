@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED",
+  "act_title": "The Insurance Act, 1938",
+  "section_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED_S119",
+  "section_number": "119",
+  "title": "Inspection and supply of copies of published prospectus, etc.",
+  "text": "119. Inspection and supply of copies of published prospectus, etc.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a5f8fb703e3cf54eaac2d5e38cae92729b96e110192553e41f99e5f989e599cc"
+  }
+}

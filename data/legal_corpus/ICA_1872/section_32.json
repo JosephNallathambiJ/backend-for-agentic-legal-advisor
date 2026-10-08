@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S32",
+  "section_number": "32",
+  "title": "Enforcement of contracts contingent on an event happening",
+  "text": "32. Enforcement of contracts contingent on an event happening.—Contingent contracts to do or\n\nnot to do anything if an uncertain future event happens cannot be enforced by law unless and until that\nevent has happened.\n\nIf the event becomes impossible, such contracts become void.\n\n_Illustrations_\n\n(a) A makes a contract with B to buy B’s horse if A survives C. This contract cannot be enforced by law unless and until C\n\ndies in A’s lifetime.\n\n(b) A makes a contract with B to sell a horse to B at a specified price, if C, to whom the horse has been offered, refuses to\n\nbuy him. The contract cannot be enforced by law unless and until C refuses to buy the horse.\n\n(c) A contracts to pay B a sum of money when B marries C. C dies without being married to B. The contract becomes void.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "26bd57ab00f11271c839866504f92aef5a83a0c10184cb14047ca2258c894b54"
+  }
+}

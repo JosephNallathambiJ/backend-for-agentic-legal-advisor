@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S22",
+  "section_number": "22",
+  "title": "Specific goods in a deliverable state, when the seller has to do anything thereto in order to",
+  "text": "22. Specific goods in a deliverable state, when the seller has to do anything thereto in order to\n\nascertain price.—Where there is a contract for the sale of specific goods in a deliverable state, but the\nseller is bound to weigh, measure, test or do some other act or thing with reference to the goods for the\npurpose of ascertaining the price, the property does not pass until such act or thing is done and the buyer\nhas notice thereof.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bcd69565827af3280498fec1afa1c596fe6a5010637a59a597d2b5695a55befc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S66",
+  "section_number": "66",
+  "title": "Proof as to electronic signature",
+  "text": "66. Proof as to electronic signature.—Except in the case of a secure electronic signature, if the\n\nelectronic signature of any subscriber is alleged to have been affixed to an electronic record, the fact that\nsuch electronic signature is the electronic signature of the subscriber must be proved.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "24dcc717518251552e01434f3c6269d16f21252446a663071e08de6e5e6497c9"
+  }
+}

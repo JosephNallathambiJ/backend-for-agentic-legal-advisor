@@ -1,0 +1,4 @@
+jurisdiction,act_id,act_title,short_title,year,act_number,enactment_date,official_url,sha256
+UK,UK_THEFT_1968,Theft Act 1968 (c. 60),Theft Act 1968,1968,N/A,1968,https://www.legislation.gov.uk/ukpga/1968/60/contents,d6c22c09fee5efcc6d71b932330371f27ab2ce32c39f98e12ab7d940f5da1d88
+UK,UK_CONTRACTS_1999,Contracts (Rights of Third Parties) Act 1999 (c. 31),Contracts Rights of Third Parties Act 1999,1999,N/A,1999,https://www.legislation.gov.uk/ukpga/1999/31/contents,d6aa36bc34933a4b9575c5ab807b7d88193d8fa4b4011eaa985cb03313dcdff6
+UK,UK_CONSUMER_2015,Consumer Rights Act 2015 (c. 15),Consumer Rights Act 2015,2015,N/A,2015,https://www.legislation.gov.uk/ukpga/2015/15/contents,e71f6a3d553404efea78c31314b2eaa757b164cdd69520940cf259d6a3bdf193

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S100",
+  "section_number": "100",
+  "title": "Profits of land how applied",
+  "text": "100. Profits of land how applied.—The surplus profits of such land, after defraying the cost of\n\nattachment and management, shall be applied, first, to the payment of any revenue becoming due in respect\nof such land during the attachment; and next, to discharging the arrear for the recovery of which the\nattachment was made.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7d58d73d368c2f04b406334fa0e23236ec435fbce4b1c324be91d02bc11fe6f3"
+  }
+}

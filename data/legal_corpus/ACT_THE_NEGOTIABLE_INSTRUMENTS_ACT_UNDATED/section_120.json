@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S120",
+  "section_number": "120",
+  "title": "Estoppel against denying original validity of instrument",
+  "text": "120. Estoppel against denying original validity of instrument.—No maker of a promissory note,\n\nand no drawer of a bill of exchange or cheque, and no acceptor of a bill of exchange for the honour of the\ndrawer shall, in a suit thereon by a holder in due course, be permitted to deny the validity of the\ninstrument as originally made or drawn.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f6b45153031691e45cc8dfd3bdc5e6e7fe80e033b89fb0bf5525f079ba9890a4"
+  }
+}

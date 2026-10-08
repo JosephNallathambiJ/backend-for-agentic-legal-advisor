@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NORTHERN_INDIAN_FERRIES_AC_UNDATED",
+  "act_title": "The Northern Indian Ferries Act, 1878",
+  "section_id": "ACT_THE_NORTHERN_INDIAN_FERRIES_AC_UNDATED_S26",
+  "section_number": "26",
+  "title": "Penalty for maintaining private ferry within prohibited limits.",
+  "text": "26. Penalty for maintaining private ferry within prohibited limits.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2287/1/a1878-17.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b5381b406f983c39868b22c4030eb38bf3a5ed30f1b0e76fb348920be8570cc4"
+  }
+}

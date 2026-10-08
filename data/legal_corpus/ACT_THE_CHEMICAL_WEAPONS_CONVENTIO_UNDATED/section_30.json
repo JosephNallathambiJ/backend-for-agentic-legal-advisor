@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CHEMICAL_WEAPONS_CONVENTIO_UNDATED",
+  "act_title": "The Chemical Weapons Convention Act, 2000",
+  "section_id": "ACT_THE_CHEMICAL_WEAPONS_CONVENTIO_UNDATED_S30",
+  "section_number": "30",
+  "title": "Personnel and vehicles entering and personnel and personal passenger vehicles exiting the site are",
+  "text": "30. Personnel and vehicles entering and personnel and personal passenger vehicles exiting the site are\n\nnot subject to inspection.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1916/1/a2000__34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fd2666e43ee1c408016e18376339ff65a7e7a9abe4bb82eb2b7597393d143cc4"
+  }
+}

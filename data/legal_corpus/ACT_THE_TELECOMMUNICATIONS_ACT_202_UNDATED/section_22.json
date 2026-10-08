@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED",
+  "act_title": "The Telecommunications Act, 2023.",
+  "section_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED_S22",
+  "section_number": "22",
+  "title": "Protection of telecommunication network and telecommunication services",
+  "text": "22. Protection of telecommunication network and telecommunication services.—(1) The Central\nGovernment may by rules provide for the measures to protect and ensure cyber security of\ntelecommunication networks and telecommunication services.\n\n(2) The measures may include collection, analysis and dissemination of traffic data that is generated,\ntransmitted, received or stored in telecommunication networks.\n\n_Explanation.—For the purposes of this sub-section, the expression “traffic data” means any data_\ngenerated, transmitted, received or stored in telecommunication networks including data relating to the\ntype, routing, duration or time of a telecommunication.\n\n(3) The Central Government may, by notification in the Official Gazette, declare any\ntelecommunication network, or part thereof, as Critical Telecommunication Infrastructure, disruption of\nwhich shall have debilitating impact on national security, economy, public health or safety.\n\n(4) The Central Government may by rules provide for the standards, security practices, upgradation\nrequirements and procedures to be implemented for such Critical Telecommunication Infrastructure.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20101/1/A2023-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4cf7476df7d357959dcf053c165eb9859da1da75f02d2ed709013414fa1a53ef"
+  }
+}

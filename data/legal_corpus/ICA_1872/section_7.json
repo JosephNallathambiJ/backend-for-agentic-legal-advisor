@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S7",
+  "section_number": "7",
+  "title": "Acceptance must be absolute",
+  "text": "7. Acceptance must be absolute.—In order to convert a proposal into a promise, the acceptance\n\nmust—\n\n(1) be absolute and unqualified;\n\n(2) be expressed in some usual and reasonable manner, unless the proposal prescribes the manner\n\nin which it is to be accepted. If the proposal prescribes a manner in which it is to be accepted, and the\nacceptance is not made in such manner, the proposer may, within a reasonable time after the\nacceptance is communicated to him, insist that his proposal shall be accepted in the prescribed\nmanner, and not otherwise; but if he fails to do so, he accepts the acceptance.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d8f9fc5dd69d2e25049b6d063b01b6a1525872566e1aa5a6d9853f1e1f7bab28"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S9A",
+  "section_number": "9A",
+  "title": "1701 Raw sugar, white or refined sugar 20%",
+  "text": "9A. 1701 Raw sugar, white or refined sugar 20%",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "303aa1cfb5cc7417420c22c7aef082602f05640cb6c49a06c5a700b29880ab07"
+  }
+}

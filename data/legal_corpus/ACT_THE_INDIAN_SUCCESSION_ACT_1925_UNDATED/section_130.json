@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S130",
+  "section_number": "130",
+  "title": "When second bequest not to take effect on failure of first",
+  "text": "130. When second bequest not to take effect on failure of first.—Where the will shows anintention\n\nthat the second bequest shall take effect only in the event of the first bequest failing in a particular\nmanner, the second bequest shall not take effect, unless the prior bequest fails in that particular manner.\n\n_Illustration_\n\nA makes a bequest to his wife, but in case she should die in his lifetime, bequeaths to B that which he had\n\nbequeathed to her. A and his wife perish together, under circumstances which make it impossible to prove that she\ndied before him, the bequest to B does not take effect.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d6f8822fcc261e09cbfdf6518b84aeda256ae99027388dda5fefff948badee14"
+  }
+}

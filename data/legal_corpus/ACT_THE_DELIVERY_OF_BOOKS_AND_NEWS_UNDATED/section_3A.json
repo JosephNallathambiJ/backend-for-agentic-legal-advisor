@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELIVERY_OF_BOOKS_AND_NEWS_UNDATED",
+  "act_title": "The Delivery of Books and Newspapers (Public Libraries) Act, 1954",
+  "section_id": "ACT_THE_DELIVERY_OF_BOOKS_AND_NEWS_UNDATED_S3A",
+  "section_number": "3A",
+  "title": "Delivery of newspapers to public libraries.",
+  "text": "3A. Delivery of newspapers to public libraries.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1422/1/a1954-27.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d5d3afcebf5c2f9572f2adc4bd7698062e810ecb1dcc09a3ac4c58e831588030"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED",
+  "act_title": "The New Delhi Municipal Council Act, 1994",
+  "section_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED_S29",
+  "section_number": "29",
+  "title": "Dry leaves.",
+  "text": "29. Dry leaves.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1986/1/199444.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "dd0c03b6b078fad37b7318634dfb5088545d3f4bcba3afa1996a53da4232624e"
+  }
+}

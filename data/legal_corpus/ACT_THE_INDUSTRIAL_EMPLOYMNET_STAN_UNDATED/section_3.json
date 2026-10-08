@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIAL_EMPLOYMNET_STAN_UNDATED",
+  "act_title": "The Industrial Employmnet (Standing Orders) Act, 1946",
+  "section_id": "ACT_THE_INDUSTRIAL_EMPLOYMNET_STAN_UNDATED_S3",
+  "section_number": "3",
+  "title": "Shift working.",
+  "text": "3. Shift working.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2257/1/AAA1946Em__20.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "35b6085c6df085a2e08506658408fe82fff75bb2de3b99e5f175270474e4c7d6"
+  }
+}

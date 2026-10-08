@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED",
+  "act_title": "The Industries (Development and Regulation)  Act, 1951",
+  "section_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED_S7",
+  "section_number": "7",
+  "title": "TRANSPORTATION:",
+  "text": "7. TRANSPORTATION:\n\n(1) Aircraft.\n\n(2) Ships and other vessels drawn by power.\n\n(3) Railway locomotives.\n\n(4) Railway rolling stock.\n\n(5) Automobiles (motor cars, buses, trucks, motor cycles, scooters and the like).\n\n(6) Bicycles.\n\n(7) Others, such as fork lift trucks and the like.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2118/3/A1951-65.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8574ac60f10a36c7ba78ff18709ada510776cb2034786742f10e24ccda063df5"
+  }
+}

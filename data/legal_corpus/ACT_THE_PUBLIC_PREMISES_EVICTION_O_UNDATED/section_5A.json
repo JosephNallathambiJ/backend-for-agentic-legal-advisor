@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUBLIC_PREMISES_EVICTION_O_UNDATED",
+  "act_title": "The Public Premises (Eviction of Unauthorised Occupants) Act, 1971",
+  "section_id": "ACT_THE_PUBLIC_PREMISES_EVICTION_O_UNDATED_S5A",
+  "section_number": "5A",
+  "title": "Power to remove unauthorised constructions, etc.",
+  "text": "5A. Power to remove unauthorised constructions, etc.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1609/1/A1971-40%202.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "287bbc01baafe7f8b0cb8de5c03678cca17f10e1ed177ba73eb0aa0ccc523579"
+  }
+}

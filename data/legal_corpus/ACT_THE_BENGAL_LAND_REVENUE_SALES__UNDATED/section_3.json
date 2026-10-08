@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_BENGAL_LAND_REVENUE_SALES__UNDATED",
+  "act_title": "The Bengal Land Revenue Sales Act, 1859",
+  "section_id": "ACT_THE_BENGAL_LAND_REVENUE_SALES__UNDATED_S3",
+  "section_number": "3",
+  "title": "The name or names of the billage or villages whereof the land is composed, or wherein it is",
+  "text": "3. The name or names of the billage or villages whereof the land is composed, or wherein it is\nsituated.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19227/1/a1859-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "502ebd5540df3717d5542bf61e5ad1f4ae309aad661c2ff108d9899484088813"
+  }
+}

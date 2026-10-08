@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S130A",
+  "section_number": "130A",
+  "title": "Application to High Court.",
+  "text": "130A. Application to High Court.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7aca06a5b14d3f35d1353f4b18a2b7a2fb8dd9e898371743d290613759f8d5d8"
+  }
+}

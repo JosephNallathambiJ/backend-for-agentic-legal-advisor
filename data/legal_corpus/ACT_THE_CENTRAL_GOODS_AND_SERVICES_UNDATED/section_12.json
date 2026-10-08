@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED",
+  "act_title": "The Central Goods and Services Tax Act, 2017",
+  "section_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED_S12",
+  "section_number": "12",
+  "title": "Time of supply of goods",
+  "text": "12. Time of supply of goods.—(1) The liability to pay tax on goods shall arise at the time of supply,\n\nas determined in accordance with the provisions of this section.\n\n(2) The time of supply of goods shall be the earlier of the following dates, namely:—\n\n(a) the date of issue of invoice by the supplier or the last date on which he is required, under\n\n2 section 31, to issue the invoice with respect to the supply; or\n\n(b) the date on which the supplier receives the payment with respect to the supply:\n\nProvided that where the supplier of taxable goods receives an amount up to one thousand rupees in\n\nexcess of the amount indicated in the tax invoice, the time of supply to the extent of such excess amount\nshall, at the option of the said supplier, be the date of issue of invoice in respect of such excess amount.\n\n_Explanation 1.––For the purposes of clauses (a) and (b), “supply” shall be deemed to have been made_\n\nto the extent it is covered by the invoice or, as the case may be, the payment.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7bdae24fec500b06587bc79d13bd8be1a8aab3246b20b49723a6e8982c9f2294"
+  }
+}

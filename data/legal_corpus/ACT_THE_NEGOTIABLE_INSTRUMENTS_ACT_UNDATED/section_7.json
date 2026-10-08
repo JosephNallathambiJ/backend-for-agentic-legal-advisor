@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S7",
+  "section_number": "7",
+  "title": "“Drawer” “Drawee”",
+  "text": "7. “Drawer” “Drawee”.—The maker of a bill of exchange or cheque is called the “drawer”; the\n\nperson thereby directed to pay is called the “drawee”.\n\n“Drawee in case of need”.— When in the Bill or in any indorsement thereon the name of any person\n\nis given in addition to the drawee to be resorted to in case of need such person is called a “drawee in case\nof need.”\n\n“Acceptor”.—After the drawee of a bill has signed his assent upon the bill, or, if there are more parts\n\nthereof than one, upon one of such parts, and delivered the same, or given notice of such signing to the\nholder or to some person on his behalf, he is called the “acceptor”.\n\n“Acceptor for honour”.— [When a bill of exchange has been noted or protested for non-acceptance\n\nor for better security,] and any person accepts it supra protest for honour of the drawer or of any one of\nthe indorsers, such person is called an “acceptor for honour”.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "02454929312ac957184d4843fe95e1f79e34c962520bbd9eacc6ca50bcf7eff2"
+  }
+}

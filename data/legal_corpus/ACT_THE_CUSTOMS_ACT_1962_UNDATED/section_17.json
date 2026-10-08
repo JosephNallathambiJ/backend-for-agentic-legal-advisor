@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S17",
+  "section_number": "17",
+  "title": "Assessment of duty.",
+  "text": "17. Assessment of duty.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0075d4a934e7f0cd6cc7233f32a4a8dea6688a248c48ff318a52d51fdd36de83"
+  }
+}

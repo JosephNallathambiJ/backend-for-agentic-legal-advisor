@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_FOREIGN_MARRIAGE_ACT_1969_UNDATED",
+  "act_title": "The Foreign Marriage Act, 1969",
+  "section_id": "ACT_THE_FOREIGN_MARRIAGE_ACT_1969_UNDATED_S2",
+  "section_number": "2",
+  "title": "I have completed ....... years of age.",
+  "text": "2. I have completed ....... years of age.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1720/1/a1969-33.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a6a6e5527de6bdf386ce3d2e1c4573dc185a0f929ce3aa36ccc088532958c985"
+  }
+}

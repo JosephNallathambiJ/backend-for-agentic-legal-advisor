@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S43",
+  "section_number": "43",
+  "title": "Any one of joint promisors may be compelled to perform.",
+  "text": "43. Any one of joint promisors may be compelled to perform.\n\nEach promisor may compel contribution.\nSharing of loss by default in contribution.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2536c94b4c64ff0c701eddfe1c1bab3a95a16b1d962ead95d6d8ee9aa35abe5c"
+  }
+}

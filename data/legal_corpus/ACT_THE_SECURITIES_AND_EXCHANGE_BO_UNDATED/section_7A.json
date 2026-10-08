@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S7A",
+  "section_number": "7A",
+  "title": "Member not to participate in meetings in certain cases.",
+  "text": "7A. Member not to participate in meetings in certain cases.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8cb613ae82b1af541d94453e1a06e11a2e899f935a2f601a5867ad688bf87c6e"
+  }
+}

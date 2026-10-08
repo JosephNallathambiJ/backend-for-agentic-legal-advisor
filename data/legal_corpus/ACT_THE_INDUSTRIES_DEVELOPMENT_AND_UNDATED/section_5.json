@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED",
+  "act_title": "The Industries (Development and Regulation)  Act, 1951",
+  "section_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED_S5",
+  "section_number": "5",
+  "title": "ELECTRICAL EQUIPMENT:",
+  "text": "5. ELECTRICAL EQUIPMENT:\n\n(1) Equipment for generation, transmission and distribution of electricity including\n\ntransformers.\n\n(2) Electrical motors.\n\n(3) Electrical fans.\n\n(4) Electrical lamps.\n\n(5) Electrical furnaces.\n\n(6) Electrical cables and wires.\n\n(7) X-ray equipment.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2118/3/A1951-65.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "82b991301451cb600c7336987c97097f6786f2b03d500f282c3471ba8b00b4c8"
+  }
+}

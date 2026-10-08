@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S117F",
+  "section_number": "117F",
+  "title": "[Omitted.]",
+  "text": "117F. [Omitted.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a8eeeccc0f0edb891757ebd55e788344cae05a3b0649caa2b446d7fd8c40081c"
+  }
+}

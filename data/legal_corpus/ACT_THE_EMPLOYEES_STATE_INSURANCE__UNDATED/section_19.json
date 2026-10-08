@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S19",
+  "section_number": "19",
+  "title": "Diseases caused by flourine or its toxic compounds All work involving",
+  "text": "19. Diseases caused by flourine or its toxic compounds All work involving\n\nexposure to the risk\nconcerned.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "299d8db5d6cd8ea27cc1babb3ac4fdfb8c4af0507dd022f14148bc9e68471eda"
+  }
+}

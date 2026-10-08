@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S6",
+  "section_number": "6",
+  "title": "Certificate or receipt showing the weight or measurement of a consignment issued by the official",
+  "text": "6. Certificate or receipt showing the weight or measurement of a consignment issued by the official\n\nmeasurer of the Conference Lines, or by a sworn or licensed measurer, or by a recognised Chamber of\nCommerce.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "069e7f2a216b9bafcf8d394c145bb8a4cb8fab8de15e65a096e655ad96e2a698"
+  }
+}

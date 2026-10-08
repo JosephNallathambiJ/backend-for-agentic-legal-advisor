@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_LIMITATION_ACT_1963_UNDATED",
+  "act_title": "The Limitation Act, 1963",
+  "section_id": "ACT_THE_LIMITATION_ACT_1963_UNDATED_S32",
+  "section_number": "32",
+  "title": "On a bill of exchange payable at",
+  "text": "32. On a bill of exchange payable at\n\nsight, or after sight, but not at a\nfixed time.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1565/5/A1963-36.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ac50404b8072b79f9376c6722f507f725ea5b36dd6036037567a925c7232feef"
+  }
+}

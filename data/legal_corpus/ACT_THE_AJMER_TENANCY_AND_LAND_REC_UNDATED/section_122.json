@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AJMER_TENANCY_AND_LAND_REC_UNDATED",
+  "act_title": "The Ajmer Tenancy and Land Records Act, 1950",
+  "section_id": "ACT_THE_AJMER_TENANCY_AND_LAND_REC_UNDATED_S122",
+  "section_number": "122",
+  "title": "Void transactions",
+  "text": "122. Void transactions.—A transaction by which a grantee transfers or lets his holding or a portion\n\nthereof in contravention of the provisions of section 121 shall be void.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1796/3/A1950-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f4f91e3b0c484cfa36ad58bda228e101fe3675273d6f326d9c901f422013f5be"
+  }
+}

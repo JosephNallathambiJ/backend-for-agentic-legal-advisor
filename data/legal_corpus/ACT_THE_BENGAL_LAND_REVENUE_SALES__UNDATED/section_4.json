@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_BENGAL_LAND_REVENUE_SALES__UNDATED",
+  "act_title": "The Bengal Land Revenue Sales Act, 1859",
+  "section_id": "ACT_THE_BENGAL_LAND_REVENUE_SALES__UNDATED_S4",
+  "section_number": "4",
+  "title": "The area of the land comprised in the tenure, with its boundaries in complete detail.",
+  "text": "4. The area of the land comprised in the tenure, with its boundaries in complete detail.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19227/1/a1859-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e65eff7b6be9e21ed04a1151ba292303cd04d3c874b91aab940c31f45ca22893"
+  }
+}

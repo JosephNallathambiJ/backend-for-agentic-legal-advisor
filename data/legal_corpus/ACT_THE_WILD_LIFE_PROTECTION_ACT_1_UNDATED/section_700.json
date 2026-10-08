@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_WILD_LIFE_PROTECTION_ACT_1_UNDATED",
+  "act_title": "The Wild Life (Protection) Act, 1972",
+  "section_id": "ACT_THE_WILD_LIFE_PROTECTION_ACT_1_UNDATED_S700",
+  "section_number": "700",
+  "title": "Common Quail _Coturnix coturnix",
+  "text": "700. Common Quail _Coturnix coturnix_",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-53.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b1e16a6a8d5499d854324604c9c2e2a209cbb7d8a0c11707c4a2b798b5cfd349"
+  }
+}

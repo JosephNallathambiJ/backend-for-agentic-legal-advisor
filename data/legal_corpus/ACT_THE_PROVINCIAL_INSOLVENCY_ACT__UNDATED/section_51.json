@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S51",
+  "section_number": "51",
+  "title": "Restriction of rights of creditor under execution",
+  "text": "51. Restriction of rights of creditor under execution.—(1) Where execution of a decree has issued\n\nagainst the property of a debtor, no person shall be entitled to the benefit of the execution against the\nreceiver except in respect of assets realised in the course of the execution by sale or otherwise before the\ndate of the admission of the petition.\n\n(2) Nothing in this section shall affect the rights of a secured creditor in respect of the property\n\nagainst which the decree is executed.\n\n(3) A person who in good faith purchases the property of a debtor under a sale in execution shall in all\n\ncases acquire a good title to it against the receiver.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6b035f448d5108c302770935792d6637c7685a8f12d5d299e2485a39faa7585c"
+  }
+}

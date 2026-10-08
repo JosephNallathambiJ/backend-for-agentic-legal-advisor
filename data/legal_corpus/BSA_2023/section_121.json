@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S121",
+  "section_number": "121",
+  "title": "Estoppel",
+  "text": "121. Estoppel.—When one person has, by his declaration, act or omission, intentionally caused or\n\npermitted another person to believe a thing to be true and to act upon such belief, neither he nor his\nrepresentative shall be allowed, in any suit or proceeding between himself and such person or his\nrepresentative, to deny the truth of that thing.\n\n_Illustration._\n\nA intentionally and falsely leads B to believe that certain land belongs to A, and thereby induces B to\n\nbuy and pay for it. The land afterwards becomes the property of A, and A seeks to set aside the sale on\nthe ground that, at the time of the sale, he had no title. He must not be allowed to prove his want of title.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0003d9aab07c4ca77cabd48ace22d5659b8c274564f694ed6dee700cba641df9"
+  }
+}

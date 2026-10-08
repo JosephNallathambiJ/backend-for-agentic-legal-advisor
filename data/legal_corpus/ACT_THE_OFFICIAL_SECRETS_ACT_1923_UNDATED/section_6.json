@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_OFFICIAL_SECRETS_ACT_1923_UNDATED",
+  "act_title": "The Official Secrets Act, 1923",
+  "section_id": "ACT_THE_OFFICIAL_SECRETS_ACT_1923_UNDATED_S6",
+  "section_number": "6",
+  "title": "The words “the Local Government” omitted, ibid.",
+  "text": "6. The words “the Local Government” omitted, ibid.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2379/1/A1923-19.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3545941955086e11d968d84144ae0c35394e023d42415c690c8d6e47d13f3308"
+  }
+}

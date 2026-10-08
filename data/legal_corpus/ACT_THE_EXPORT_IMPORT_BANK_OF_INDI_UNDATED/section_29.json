@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EXPORT_IMPORT_BANK_OF_INDI_UNDATED",
+  "act_title": "The Export-Import Bank of India Act, 1981",
+  "section_id": "ACT_THE_EXPORT_IMPORT_BANK_OF_INDI_UNDATED_S29",
+  "section_number": "29",
+  "title": "Returns",
+  "text": "29. Returns.—The Exim Bank shall furnish, from time to time, to the Central Government such\n\nreturns as the Central Government may require.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1782/1/198128.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "98eccb334e282b14e4f5a265fef5608aea466a05a9ca8dea8b9672d04eb5bfd0"
+  }
+}

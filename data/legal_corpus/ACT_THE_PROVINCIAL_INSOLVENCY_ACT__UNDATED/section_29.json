@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S29",
+  "section_number": "29",
+  "title": "Stay of pending proceeding",
+  "text": "29. Stay of pending proceeding.—Any Court in which a suit or other proceeding is pending against\n\na debtor shall, on proof that an order of adjudication has been made against him under this Act, either stay\nthe proceeding, or allow it to continue on such terms as such Court may impose.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "56cbc4a47422fa6547bb2d9891a730f9198c7196502a060f61878b4db80af11a"
+  }
+}

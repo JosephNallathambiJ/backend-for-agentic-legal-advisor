@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED",
+  "act_title": "The Telecommunications Act, 2023.",
+  "section_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED_S6",
+  "section_number": "6",
+  "title": "Safety and operation of roads, railways, metro, regional rail, inland waterways, airports, ports,",
+  "text": "6. Safety and operation of roads, railways, metro, regional rail, inland waterways, airports, ports,\npipelines, shipping, and other transport systems.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20101/1/A2023-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a0c3f5097675a1939355fe4aca51d85c60befd412a944252dee8b66b38522d61"
+  }
+}

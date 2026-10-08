@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S28",
+  "section_number": "28",
+  "title": "Liability of agent signing",
+  "text": "28. Liability of agent signing.—An agent who signs his name to a promissory note, bill of exchange\n\nor cheque without indicating thereon that he signs as agent, or that he does not intend thereby to incur\npersonal responsibility, is liable personally on the instrument, except to those who induced him to sign\nupon the belief that the principal only would be held liable.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f8aa38d86454285d515aa17c6ae7dc83e66e25d6e039384334a9866bc0949c44"
+  }
+}

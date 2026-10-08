@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EXPORT_QUALITY_CONTROL_AND_UNDATED",
+  "act_title": "The Export (Quality Control and Inspection) Act, 1963",
+  "section_id": "ACT_THE_EXPORT_QUALITY_CONTROL_AND_UNDATED_S10A",
+  "section_number": "10A",
+  "title": "Power to enter and inspect.",
+  "text": "10A. Power to enter and inspect.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1591/4/A1963-22.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c8d67729165df1a5c9114e4812de966b56f3fd7c885d2df3bc13b88502288c88"
+  }
+}

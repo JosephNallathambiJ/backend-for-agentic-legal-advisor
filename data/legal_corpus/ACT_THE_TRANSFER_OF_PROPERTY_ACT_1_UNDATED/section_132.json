@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S132",
+  "section_number": "132",
+  "title": "Liability of transferee of actionable claim",
+  "text": "132. Liability of transferee of actionable claim.—The transferee of an actionable claim shall\n\ntake it subject to all the liabilities and equities to which the transferor was subject in respect\nthereof at the date of the transfer.\n\n_Illustrations_\n\n(i) A transfers to C a debt due to him by B, A being then indebted to B. C sues B for the debt\n\ndue by B to A. In such suit B is entitled to set off the debt due by A to him;\nalthough C was unaware of it at the date of such transfer.\n\n(ii) A executed a bond in favour of B under circumstances entitling the former to have it\n\ndelivered up and cancelled. B assigns the bond to C for value and without notice of such\ncircumstances. C cannot enforce the bond against A.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "95bfd879057f19cd0be059bdc2d80175935738230f5a2ae045ed7a15917b1afd"
+  }
+}

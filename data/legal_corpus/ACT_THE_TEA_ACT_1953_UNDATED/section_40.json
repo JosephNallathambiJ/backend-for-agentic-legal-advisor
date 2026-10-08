@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TEA_ACT_1953_UNDATED",
+  "act_title": "The Tea Act, 1953",
+  "section_id": "ACT_THE_TEA_ACT_1953_UNDATED_S40",
+  "section_number": "40",
+  "title": "[Omitted.].",
+  "text": "40. [Omitted.].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2175/5/A1953-29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6a77b1ebf20d08928a7c83e39583d78690ec7c136b3a1ccc4080767cb8774849"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S73C",
+  "section_number": "73C",
+  "title": "Collection of user charges",
+  "text": "73C. Collection of user charges.—The user charges collected from the other beneficiaries shall be\n\ndeemed to be the contribution and shall form part of the Employees’ State Insurance Fund.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b6b71e183feafa5dcff8ec9e3c4d3091f3542b1927918d58bbd8da8bba396bd9"
+  }
+}

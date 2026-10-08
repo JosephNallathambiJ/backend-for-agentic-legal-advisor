@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S65",
+  "section_number": "65",
+  "title": "Sale certificate",
+  "text": "65. Sale certificate.—(1) Where a sale of immovable property has become absolute, the Tax\n\nRecovery Officer shall grant a certificate specifying the property sold, and the name of the person who at\nthe time of sale is declared to be the purchaser.\n\n(2) Such certificate shall state the date on which the sale became absolute.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "99b360ec965ef23a8d41886c6e563d5f26c631b8e099951bb498921ca838797b"
+  }
+}

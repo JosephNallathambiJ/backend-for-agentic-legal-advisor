@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S68",
+  "section_number": "68",
+  "title": "Clearance of warehoused goods for home consumption.",
+  "text": "68. Clearance of warehoused goods for home consumption.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ace4ed973dfa967c25eec12a8a9595fe10b5cad79e54632d74c23201e9fa45a5"
+  }
+}

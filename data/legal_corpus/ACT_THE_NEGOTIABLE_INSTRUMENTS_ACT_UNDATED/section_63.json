@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S63",
+  "section_number": "63",
+  "title": "Drawee’s time for deliberation",
+  "text": "63. Drawee’s time for deliberation.—The holder must, if so required by the drawee of a bill of\n\nexchange presented to him for acceptance, allow the drawee [forty-eight] hours (exclusive of public\nholidays) to consider whether he will accept it.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "422d5921b89cb9b2aa85cb15471de752e067d1e26fa95f151bd6f6348eded6e2"
+  }
+}

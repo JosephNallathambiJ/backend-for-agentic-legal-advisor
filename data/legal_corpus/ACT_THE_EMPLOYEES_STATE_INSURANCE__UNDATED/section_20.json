@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S20",
+  "section_number": "20",
+  "title": "Diseases caused by nitro-glycerine or other nitroacid esters All work involving",
+  "text": "20. Diseases caused by nitro-glycerine or other nitroacid esters All work involving\n\nexposure to the risk\nconcerned.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e84113b1540eeb71f44b68b5fb0efac91be358cc09a66c2a470d900326f7ca67"
+  }
+}

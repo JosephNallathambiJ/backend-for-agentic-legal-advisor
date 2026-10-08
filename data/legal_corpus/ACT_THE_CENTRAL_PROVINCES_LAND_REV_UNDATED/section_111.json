@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S111",
+  "section_number": "111",
+  "title": "Application of proceeds of sale of immoveable property.",
+  "text": "111. Application of proceeds of sale of immoveable property.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "618cf4e383599d828e3f7e42e4bbc705c3199e3aa67a4e2d2d9503b31d45a7b6"
+  }
+}

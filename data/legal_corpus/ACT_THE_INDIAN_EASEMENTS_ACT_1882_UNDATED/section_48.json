@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED",
+  "act_title": "The Indian Easements Act, 1882",
+  "section_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED_S48",
+  "section_number": "48",
+  "title": "Extinction of accessory rights",
+  "text": "48. Extinction of accessory rights.—When an easement is extinguished, the rights (if any)\n\naccessory thereto are also extinguished.\n\n_Illustration_\n\nA has an easement to draw water from B’s well. As accessory thereto, he has a right of way over B’s land to\n\nand from the well. The easement to draw water is extinguished under section 47. The right of way is also\nextinguished.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2349/1/A1882-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "80be57f338986bac1b3c215d7a79a803064d7ebc2a41f2d6e7d7eee4835eb1b4"
+  }
+}

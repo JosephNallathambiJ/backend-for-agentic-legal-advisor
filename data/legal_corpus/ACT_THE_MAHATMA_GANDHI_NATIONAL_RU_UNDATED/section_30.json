@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED",
+  "act_title": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+  "section_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED_S30",
+  "section_number": "30",
+  "title": "The payment of wages shall, unless so exempted by the Central Government, be made",
+  "text": "30. The payment of wages shall, unless so exempted by the Central Government, be made\n\nthrough the individual savings accounts of the workers in the relevant Banks or Post Offices.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2014/5/a2005-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e802f3ae96e92b156c40e759edaf76e6c9a101f4c89ac04897d892902e569c8f"
+  }
+}

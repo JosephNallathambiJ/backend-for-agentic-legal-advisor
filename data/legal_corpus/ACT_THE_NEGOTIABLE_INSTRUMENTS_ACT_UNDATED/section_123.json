@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S123",
+  "section_number": "123",
+  "title": "Cheque crossed generally",
+  "text": "123. Cheque crossed generally.—Where a cheque bears across its face an addition of the words\n\n“and company” or any abbreviation thereof, between two parallel transverse lines, or of two parallel\ntransverse lines simply, either with or without the words “not negotiable,” that addition shall be deemed a\ncrossing, and the cheque shall be deemed to be crossed generally.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b825ffa1c61dd8b98afc73c9bee0d8ab4fb0c283aef8686a15319eb6fe4ed791"
+  }
+}

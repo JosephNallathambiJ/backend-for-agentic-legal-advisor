@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S43",
+  "section_number": "43",
+  "title": "Penalty and compensation for damage to computer, computer system, etc.",
+  "text": "43. Penalty and compensation for damage to computer, computer system, etc.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "140d84e5fcb82bae8a19c3a00e598f7a5ab39e16502ad0265df0c149cef6aeaf"
+  }
+}

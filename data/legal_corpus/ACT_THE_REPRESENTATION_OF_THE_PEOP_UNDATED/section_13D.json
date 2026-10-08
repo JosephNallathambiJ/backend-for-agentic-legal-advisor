@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_REPRESENTATION_OF_THE_PEOP_UNDATED",
+  "act_title": "The Representation of the People Act, 1950",
+  "section_id": "ACT_THE_REPRESENTATION_OF_THE_PEOP_UNDATED_S13D",
+  "section_number": "13D",
+  "title": "Electoral rolls for Parliamentary constituencies.",
+  "text": "13D. Electoral rolls for Parliamentary constituencies.\n\nPART III\n\nELECTORAL ROLLS FOR ASSEMBLY CONSTITUENCIES",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1663/5/a1950-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "83c34a4a0d229a5792c9174919cc66a38a8ca74cdf8f1d0d8cc0837e2fe3a3f5"
+  }
+}

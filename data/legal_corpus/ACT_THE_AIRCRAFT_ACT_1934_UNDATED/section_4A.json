@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AIRCRAFT_ACT_1934_UNDATED",
+  "act_title": "The Aircraft Act, 1934",
+  "section_id": "ACT_THE_AIRCRAFT_ACT_1934_UNDATED_S4A",
+  "section_number": "4A",
+  "title": "Directorate General of Civil Aviation.",
+  "text": "4A. Directorate General of Civil Aviation.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2400/1/AAA1934____22.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "74ba8180fa8afdc5a3702d6f1024debd808e9b2cc05ba5f5c45817994328502c"
+  }
+}

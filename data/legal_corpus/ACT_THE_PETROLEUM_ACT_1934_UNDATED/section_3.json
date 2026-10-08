@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PETROLEUM_ACT_1934_UNDATED",
+  "act_title": "The Petroleum Act, 1934",
+  "section_id": "ACT_THE_PETROLEUM_ACT_1934_UNDATED_S3",
+  "section_number": "3",
+  "title": "The words “and in the local Official Gazette” omitted, ibid.",
+  "text": "3. The words “and in the local Official Gazette” omitted, ibid.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2401/1/A1934-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8262cb3d11d176c871bf91f654837c2d8aea410ef44d3bf2e2d469366183e1d5"
+  }
+}

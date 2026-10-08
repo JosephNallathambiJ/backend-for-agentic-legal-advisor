@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENSUS_ACT_1948_UNDATED",
+  "act_title": "The Census Act, 1948",
+  "section_id": "ACT_THE_CENSUS_ACT_1948_UNDATED_S7A",
+  "section_number": "7A",
+  "title": "Requisitioning premises, of vehicles, etc., for taking of a census.",
+  "text": "7A. Requisitioning premises, of vehicles, etc., for taking of a census.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1519/1/AAA1948___37.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "50c4e501b1c7149f75efe16abff85a920115b881871a1ee8ac936e61efbe9c1c"
+  }
+}

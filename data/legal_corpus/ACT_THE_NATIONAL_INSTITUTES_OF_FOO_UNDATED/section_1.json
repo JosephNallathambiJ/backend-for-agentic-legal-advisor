@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NATIONAL_INSTITUTES_OF_FOO_UNDATED",
+  "act_title": "The National Institutes of Food Technology, Entrepreneurship and Management Act, 2021.",
+  "section_id": "ACT_THE_NATIONAL_INSTITUTES_OF_FOO_UNDATED_S1",
+  "section_number": "1",
+  "title": "National Institute of Food",
+  "text": "1. National Institute of Food\nTechnology Entrepreneurship and\nManagement (NIFTEM) Kundli,\nHaryana.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/16941/1/A202119.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "24b6e66727beb896afc9911336d27fae780e451ec204b6ea1b67c859366ea9ce"
+  }
+}

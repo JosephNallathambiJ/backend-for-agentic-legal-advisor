@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S24",
+  "section_number": "24",
+  "title": "Transfer to such of certain persons as survive at some period not specified",
+  "text": "24. Transfer to such of certain persons as survive at some period not specified.—Where, on\n\na transfer of property, an interest therein is to accrue to such of certain persons as shall be surviving\nat some period, but the exact period is not specified, the interest shall go to such of them as shall be\nalive when the intermediate or precedent interest ceases to exist, unless a contrary intention appears\nfrom the terms of the transfer.\n\n_Illustration_\n\nA transfers property to B for life, and after his death to C and D, equally to be divided between them, or to the\n\nsurvivor of them. C dies during the life of B. D survives B. At B's death the property passes to D.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "57f0d2190be72ed938c756f41e652ff809d3a47e5d198ed9123a373a36b83bf4"
+  }
+}

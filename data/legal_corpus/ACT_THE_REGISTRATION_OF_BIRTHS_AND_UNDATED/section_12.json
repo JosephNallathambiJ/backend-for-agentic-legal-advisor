@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_REGISTRATION_OF_BIRTHS_AND_UNDATED",
+  "act_title": "The Registration of Births and Deaths Act, 1969",
+  "section_id": "ACT_THE_REGISTRATION_OF_BIRTHS_AND_UNDATED_S12",
+  "section_number": "12",
+  "title": "Certificate of registration of births or deaths.",
+  "text": "12. Certificate of registration of births or deaths.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1682/3/A1969-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9258123c762605664f68a2bc27649d6b1883fc323c00a6b719526dfbd84f431f"
+  }
+}

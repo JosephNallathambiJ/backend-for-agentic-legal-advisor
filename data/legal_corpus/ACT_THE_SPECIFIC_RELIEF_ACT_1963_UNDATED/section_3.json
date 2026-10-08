@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SPECIFIC_RELIEF_ACT_1963_UNDATED",
+  "act_title": "The Specific Relief Act, 1963",
+  "section_id": "ACT_THE_SPECIFIC_RELIEF_ACT_1963_UNDATED_S3",
+  "section_number": "3",
+  "title": "Water and (a) Solid Waste Management",
+  "text": "3. Water and (a) Solid Waste Management\nSanitation\n\n(b) Water supply pipelines\n\n(c) Water treatment plants\n\n(d) Sewage collection, treatment and disposal system\n\n(e) Irrigation (dams, channels, embankments, etc.)\n\n(f) Storm Water Drainage System\n\n(g) Slurry pipelines",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1583/7/A1963-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f9fdb61b54f6e13ccaa417a4110d8f2ba98940aea73931216adaf82d88cd1a13"
+  }
+}

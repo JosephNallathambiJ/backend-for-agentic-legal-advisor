@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_WILD_LIFE_PROTECTION_ACT_1_UNDATED",
+  "act_title": "The Wild Life (Protection) Act, 1972",
+  "section_id": "ACT_THE_WILD_LIFE_PROTECTION_ACT_1_UNDATED_S300",
+  "section_number": "300",
+  "title": "Hawfinch _Coccothraustes coccothraustes",
+  "text": "300. Hawfinch _Coccothraustes coccothraustes_",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-53.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "485921d01aee468dd2d7fbc425c6afcdac11413d57be0983737ffe4e4429b846"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "jurisdiction": "UK",
+  "act_id": "UK_THEFT_1968",
+  "act_title": "Theft Act 1968 (c. 60)",
+  "section_id": "UK_THEFT_1968_S1",
+  "section_number": "1",
+  "title": "Basic definition of theft",
+  "text": "A person is guilty of theft if he dishonestly appropriates property belonging to another with the intention of permanently depriving the other of it; and 'thief' and 'steal' shall be construed accordingly.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.legislation.gov.uk/ukpga/1968/60/contents",
+    "version": "1968_official_edition",
+    "sha256": "036fea99665823ab3964cc51eaf7d17843ee9aa238d05a5d70f6a58cad4bb93b"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S62",
+  "section_number": "62",
+  "title": "Calculation of dividends",
+  "text": "62. Calculation of dividends.—(1) In the calculation of dividends, the receiver shall retain in his\n\nhands sufficient assets to meet—\n\n(a) debts provable under this Act and appearing, from the insolvent's statements or otherwise, to\n\nbe due to persons resident in places so distant that in the ordinary course of communication they have\nnot had sufficient time to tender their proofs;\n\n(b) debts provable under this Act, the subject of claims not yet determined;\n\n(c) disputed proofs or claims; and\n\n(d) the expenses necessary for the administration of the estate or otherwise.\n\n(2) Subject to the provisions of sub-section (1), all money in hand shall be distributed as dividends.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cf4077b9019c0e8a914cad63d4748e6ebac60deadeba3dc4cccc4b3d2d8d127a"
+  }
+}

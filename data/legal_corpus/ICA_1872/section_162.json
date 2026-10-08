@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S162",
+  "section_number": "162",
+  "title": "Termination of gratuitous bailment by death",
+  "text": "162. Termination of gratuitous bailment by death.—A gratuitous bailment is terminated by the\n\ndeath either of the bailor or of the bailee.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1842cde12a952fe547c56da78b1dc5806b5f0019448e1a1746d1e3c53136cc44"
+  }
+}

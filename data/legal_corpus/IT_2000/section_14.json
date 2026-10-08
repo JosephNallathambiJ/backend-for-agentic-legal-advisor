@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S14",
+  "section_number": "14",
+  "title": "Secure electronic record.–Where any security procedure has been applied to an electronic record",
+  "text": "14. Secure electronic record.–Where any security procedure has been applied to an electronic record\n\nat a specific point of time, then such record shall he deemed to be a secure electronic record from such\npoint of time to the time of verification.\n\n2[15. Secure electronic signature.– An electronic signature shall be deemed to be a secure electronic\n\nsignature if–\n\n(i) the signature creation data, at the time of affixing signature, was under the exclusive control of\n\nsignatory and no other person; and\n\n(ii) the signature creation data was stored and affixed in such exclusive manner as may be\n\nprescribed.\n_Explanation.–In case of digital signature, the “signature creation data” means the private key of the_\n\nsubscriber.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6e0123960c6a2b7b19d1d2fc9b87981af2a9272888e23ccff86bc5c59461dfdd"
+  }
+}

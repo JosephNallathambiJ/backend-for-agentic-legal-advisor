@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S12",
+  "section_number": "12",
+  "title": "Verification of petition",
+  "text": "12. Verification of petition.—Every insolvency petition shall be in writing and shall be signed and\n\nverified in the manner prescribed by the Code of Civil Procedure, 1908 (5 of 1908), for signing and\nverifying plaints.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "87d1970b002e3319a331f1f9ddea7fe80c6305c0c1253c0915bdbc2163a13264"
+  }
+}

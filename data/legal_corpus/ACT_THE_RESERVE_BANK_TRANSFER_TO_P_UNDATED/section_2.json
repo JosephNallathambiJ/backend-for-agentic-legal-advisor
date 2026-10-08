@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_RESERVE_BANK_TRANSFER_TO_P_UNDATED",
+  "act_title": "The Reserve Bank (Transfer to Public Ownership) Act, 1948",
+  "section_id": "ACT_THE_RESERVE_BANK_TRANSFER_TO_P_UNDATED_S2",
+  "section_number": "2",
+  "title": "Definitions",
+  "text": "2. Definitions.—In this Act,—\n\n(a) “appointed day” means such day as the Central Government may, by notification in the\n\nOfficial Gazette, appoint;\n\n(b) “Bank” means the Reserve Bank of India as constituted by the principal Act; and\n\n(c) “principal Act” means the Reserve Bank of India Act, 1934.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1408/1/A1948-62.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "94152484933c753b875dca7b718c778cb53eaac7d2fb7fa56165355489ff6992"
+  }
+}

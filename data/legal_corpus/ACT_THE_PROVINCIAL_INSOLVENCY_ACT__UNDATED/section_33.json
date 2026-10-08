@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S33",
+  "section_number": "33",
+  "title": "Schedule of creditors",
+  "text": "33. Schedule of creditors.—(1) When an order of adjudication has been made under this Act, all\n\npersons alleging themselves to be creditors of the insolvent in respect of debts provable under this Act\nshall tender proof of their respective debts by producing evidence of the amount and particulars thereof,\nand the Court shall, by order, determine the persons who have proved themselves to be creditors of the\ninsolvent in respect of such debts, and the amount of such debts, respectively, and shall frame a schedule\nof such persons and debts:\n\nProvided that, if, in the opinion of the Court, the value of any debt is incapable of being fairly\n\nestimated, the Court may make an order to that effect, and thereupon the debt shall not be included in the\nschedule.\n\n(2) A copy of every such schedule shall be posted in the Court-house.\n\n(3) Any creditor of the insolvent may, at any time before the discharge of the insolvent, tender proof\n\nof his debt and apply to the Court for an order directing his name to be entered in the schedule as a\ncreditor in respect of any debt provable under this Act, and not entered in the schedule, and the Court,\nafter causing notice to be served on the [receiver] and the other creditors who have proved their debts,\nand hearing their objections (if any), shall comply with or reject the application.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "966cc75ecb78c75bd8d0a798fdaa149964b6abeec5b99ef61c6f457544030184"
+  }
+}

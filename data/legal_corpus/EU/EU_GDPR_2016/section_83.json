@@ -1,0 +1,15 @@
+{
+  "jurisdiction": "EU",
+  "act_id": "EU_GDPR_2016",
+  "act_title": "Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)",
+  "section_id": "EU_GDPR_2016_S83",
+  "section_number": "83",
+  "title": "General conditions for imposing administrative fines",
+  "text": "Each supervisory authority shall ensure that the imposition of administrative fines pursuant to this Article in respect of infringements of this Regulation referred to in paragraphs 4, 5 and 6 shall in each individual case be effective, proportionate and dissuasive. Infringements shall be subject to administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+    "version": "2016_official_edition",
+    "sha256": "cea515149ff321c6bdc8d94634312ec792de4678803ada6a1323338bcad02c1f"
+  }
+}

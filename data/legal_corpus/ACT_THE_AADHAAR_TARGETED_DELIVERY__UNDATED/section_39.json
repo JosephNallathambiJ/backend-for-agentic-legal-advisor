@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AADHAAR_TARGETED_DELIVERY__UNDATED",
+  "act_title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016.",
+  "section_id": "ACT_THE_AADHAAR_TARGETED_DELIVERY__UNDATED_S39",
+  "section_number": "39",
+  "title": "Penalty for tampering with data in Central Identities Data Repository",
+  "text": "39. Penalty for tampering with data in Central Identities Data Repository.—Whoever, not being\n\nauthorised by the Authority, uses or tampers with the data in the Central Identities Data Repository or in\nany removable storage medium with the intent of modifying information relating to Aadhaar number\nholder or discovering any information thereof, shall be punishable with imprisonment for a term which\nmay extend to [ten years] and shall also be liable to a fine which may extend to ten thousand rupees.\n\n3[40. Penalty for unauthorised use by requesting entity or offline verification-seeking entity.—\n\nWhoever,—(a) being a requesting entity, uses the identity information of an individual in\n\ncontravention of sub-section (2) of section 8; or\n\n(b) being an offline verification-seeking entity, uses the identity information of an individual in\n\ncontravention of sub-section (2) of section 8A, shall be punishable with imprisonment which may\nextend to three years or with a fine which may extend to ten thousand rupees or, in the case of a\ncompany, with a fine which may extend to one lakh rupees or with both.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2160/5/A2016-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c6d1be29d64223a3ce069a1794a559c36768ca8ab973ce86f256615c8d68a3d1"
+  }
+}

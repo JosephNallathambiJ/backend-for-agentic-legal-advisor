@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S43A",
+  "section_number": "43A",
+  "title": "Compensation for failure to protect data.",
+  "text": "43A. Compensation for failure to protect data.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cbd39d57e02ec6715c6b6c51b11995a28eea4b84b0345bbdaf2441912eb9ddff"
+  }
+}

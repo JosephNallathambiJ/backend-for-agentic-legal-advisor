@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S8",
+  "section_number": "8",
+  "title": "Certificate of safety for flight signed by a licensed Ground Engineer.",
+  "text": "8. Certificate of safety for flight signed by a licensed Ground Engineer.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "23653e7bf111adff82828595ab5a21b02d6a0c9300e90ce4aeedd12f1f155438"
+  }
+}

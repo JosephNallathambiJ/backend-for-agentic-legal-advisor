@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S149",
+  "section_number": "149",
+  "title": "Time limit for notice",
+  "text": "149. Time limit for notice.—[(1) No notice under section 148 shall be issued for the relevant\n\nassessment year,—\n\n7[(a) if four years have elapsed from the end of the relevant assessment year, unless the case falls\n\nunder clause (b) [or clause (c)];\n\n(b) if four years, but not more than six years, have elapsed from the end of the relevant\n\nassessment year unless the income chargeable to tax which has escaped assessment amounts to or is\nlikely to amount to one lakh rupees or more for that year;]\n\n8[(c) if four years, but not more than sixteen years, have elapsed from the end of the relevant\n\nassessment year unless the income in relation to any asset (including financial interest in any entity)\nlocated outside India, chargeable to tax, has escaped assessment.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6337a174ae5716a5bf1ae311583ff0eaa2c66e74eec76d5930195a41c6f71d94"
+  }
+}

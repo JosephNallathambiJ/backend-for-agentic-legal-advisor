@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S71",
+  "section_number": "71",
+  "title": "Partial loss of goods, merchandise, etc",
+  "text": "71. Partial loss of goods, merchandise, etc.—Where there is a partial loss of goods, merchandise, or\n\nother movable, the measure of indemnity, subject to any express provision in the policy, is as follows:—\n\n(1) where part of the goods, merchandise or other movable insured by a valued policy is totally\n\nlost, the measure of indemnity is such proportion of the sum fixed by the policy as the insurable value\nof the part lost bears to the insurable value of the whole, ascertained as in the case of an unvalued\npolicy;\n\n(2) where part of the goods, merchandise or other movable insured by an unvalued policy is\n\ntotally lost, the measure of indemnity is the insurable value of the part lost, ascertained as in case of\ntotal loss;\n\n(3) where the whole or any part of the goods or merchandise insured has been delivered damaged\n\nat its destination, the measure of idemnity is such proportion of the sum fixed by the policy in the\ncase of a valued policy, or of the insurable value in the case of an unvalued policy, as the difference\nbetween the gross sound and damaged values at the place of arrival bears to the gross sound value;\n\n(4) “Gross value” means the wholesale price, or, if there be no such price, the estimated value,\n\nwith, in either case, freight, landing charges, and duty paid beforehand; provided that, in the case of\ngoods or merchandise customarily sold in bond, the bonded price is deemed to be the gross value.\n“Gross proceeds” means the actual price obtained at a sale where all charges on sale are paid by the\nsellers.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4285aa138c078ebdd9855ea448c1519445eb2c694b482ad1cec489655ced16f0"
+  }
+}

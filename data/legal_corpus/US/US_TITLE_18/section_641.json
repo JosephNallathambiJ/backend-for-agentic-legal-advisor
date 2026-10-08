@@ -1,0 +1,15 @@
+{
+  "jurisdiction": "US",
+  "act_id": "US_TITLE_18",
+  "act_title": "United States Code Title 18 — Crimes and Criminal Procedure",
+  "section_id": "US_TITLE_18_S641",
+  "section_number": "641",
+  "title": "Public money, property or records",
+  "text": "Whoever embezzles, steals, purloins, or knowingly converts to his use or the use of another, or without authority, sells, conveys or disposes of any record, voucher, money, or thing of value of the United States or of any department or agency thereof... Shall be fined under this title or imprisoned not more than ten years, or both.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title18&edition=prelim",
+    "version": "1948_official_edition",
+    "sha256": "66b87e027f108bc1430d83671c3b2df0a2ddb0423c2524e9570c2f5bad15ace8"
+  }
+}

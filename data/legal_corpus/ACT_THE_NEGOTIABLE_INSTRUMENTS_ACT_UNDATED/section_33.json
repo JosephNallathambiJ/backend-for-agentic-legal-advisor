@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S33",
+  "section_number": "33",
+  "title": "Only drawee can be acceptor except in need or for honour",
+  "text": "33. Only drawee can be acceptor except in need or for honour.—No person except the drawee of\n\na bill exchange, or all or some of several drawees, or a person named therein as a drawee in case of need,\nor an acceptor for honour, can bind himself by an acceptance.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "da12bb25b192bb0eb3630675604b32170301b3e17253b5e2d1b749d983738795"
+  }
+}

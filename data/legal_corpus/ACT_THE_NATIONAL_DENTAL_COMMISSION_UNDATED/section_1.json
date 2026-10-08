@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NATIONAL_DENTAL_COMMISSION_UNDATED",
+  "act_title": "The National Dental Commission Act, 2023",
+  "section_id": "ACT_THE_NATIONAL_DENTAL_COMMISSION_UNDATED_S1",
+  "section_number": "1",
+  "title": "All dental qualifications granted by All India Institutes of Medical Sciences.",
+  "text": "1. All dental qualifications granted by All India Institutes of Medical Sciences.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19795/1/A2023-21.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f28a1c2c8b15a4010b64666b6a7a887134e9fa9c39347e3f45e2182740fa6bc9"
+  }
+}

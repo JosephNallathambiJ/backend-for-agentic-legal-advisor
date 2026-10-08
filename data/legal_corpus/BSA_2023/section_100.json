@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S100",
+  "section_number": "100",
+  "title": "Evidence as to application of language to one of two sets of facts, to neither of which the",
+  "text": "100. Evidence as to application of language to one of two sets of facts, to neither of which the\n\nwhole correctly applies.—When the language used applies partly to one set of existing facts, and partly\nto another set of existing facts, but the whole of it does not apply correctly to either, evidence may be\ngiven to show to which of the two it was meant to apply.\n\n_Illustration._\n\nA agrees to sell to B “my land at X in the occupation of Y”. A has land at X, but not in the\n\noccupation of Y, and he has land in the occupation of Y but it is not at X. Evidence may be given of facts\nshowing which he meant to sell.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a60d89dd98aa27189d487b700beff08e9bf5ee4d69df69245670c5f1c659750d"
+  }
+}

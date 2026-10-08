@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S14",
+  "section_number": "14",
+  "title": "Hearing impairment caused by noise. All work involving exposure to the risk concerned.",
+  "text": "14. Hearing impairment caused by noise. All work involving exposure to the risk concerned.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5888e1da0603f12cff5da8907a486b9e4c60deedd17a08120ff53dbdc0e5f3e6"
+  }
+}

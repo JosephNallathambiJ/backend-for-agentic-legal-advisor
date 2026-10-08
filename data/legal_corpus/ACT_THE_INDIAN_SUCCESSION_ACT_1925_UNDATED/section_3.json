@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S3",
+  "section_number": "3",
+  "title": "Nothing therein contained shall affect any law of adoption or intestate succession,",
+  "text": "3. Nothing therein contained shall affect any law of adoption or intestate succession,",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "74421ff159ca97eaeb4ae67f11bd9fa06beb9926a3611db88a804ac75459235b"
+  }
+}

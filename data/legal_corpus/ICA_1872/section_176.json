@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S176",
+  "section_number": "176",
+  "title": "Pawnee’s right where pawnor makes default",
+  "text": "176. Pawnee’s right where pawnor makes default.—If the pawnor makes default in payment of the\n\ndebt, or performance, at the stipulated time of the promise, in respect of which the goods were pledged,\nthe pawnee may bring a suit against the pawnor upon the debt or promise, and retain the goods pledged as\na collateral security; or he may sell the thing pledged, on giving the pawnor reasonable notice of the sale.\n\nIf the proceeds of such sale are less than the amount due in respect of the debt or promise, the pawnor\n\nis still liable to pay the balance. If the proceeds of the sale are greater than the amount so due, the pawnee\nshall pay over the surplus to the pawnor.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "47786326c1749edd4fe78f15451bacf73d3b356da0a5e18e31b5d774f0a1d23d"
+  }
+}

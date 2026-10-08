@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S12",
+  "section_number": "12",
+  "title": "Condition and warranty",
+  "text": "12. Condition and warranty.—(1) A stipulation in a contract of sale with reference to goods which\n\nare the subject thereof may be a condition or a warranty.\n\n(2) A condition is a stipulation essential to the main purpose of the contract, the breach of which\n\ngives rise to a right to treat the contract as repudiated.\n\n(3) A warranty is a stipulation collateral to the main purpose of the contract, the breach of which\n\ngives rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated.\n\n(4) Whether a stipulation in a contract of sale is a condition or a warranty depends in each case on the\n\nconstruction of the contract. A stipulation may be a condition, though called a warranty in the contract.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2e8570197e037d4307795c8c00dd577fe37994035967ae0cd801859b8187f555"
+  }
+}

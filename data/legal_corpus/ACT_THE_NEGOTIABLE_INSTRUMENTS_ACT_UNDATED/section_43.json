@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S43",
+  "section_number": "43",
+  "title": "Negotiable instrument made, etc., without consideration",
+  "text": "43. Negotiable instrument made, etc., without consideration.—A negotiable instrument made,\n\ndrawn, accepted, indorsed or transferred without consideration, or for a consideration which fails, creates\nno obligation of payment between the parties to the transaction. But if any such party has transferred the\ninstrument with or without indorsement to a holder for consideration, such holder, and every subsequent\nholder deriving title from him, may recover the amount due on such instrument from the transferor for\nconsideration or any prior party thereto.\n\n_Exception_ I.—No party for whose accommodation a negotiable instrument has been made, drawn,\n\naccepted or indorsed can, if he have paid the amount thereof, recover thereon such amount from any\nperson who became a party to such instrument for his accommodation.\n\n_Exception II.—No party to the instrument who has induced any other party to make, draw, accept, indorse_\n\nor transfer the same to him for a consideration which he has failed to pay or perform in full shall recover\nthereon an amount exceeding the value of the consideration (if any) which he has actually paid or performed.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "80b4213cdadd5969183d31fb345c2d27c056512218887f3408cf19e237555830"
+  }
+}

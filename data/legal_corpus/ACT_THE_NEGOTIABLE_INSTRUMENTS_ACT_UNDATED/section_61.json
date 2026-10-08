@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S61",
+  "section_number": "61",
+  "title": "Presentment for acceptance",
+  "text": "61. Presentment for acceptance.—A bill of exchange payable after sight must, if no time or place is\n\nspecified therein for presentment, be presented to the drawee thereof for acceptance, if he can, after\nreasonable search, be found, by a person entitled to demand acceptance, within a reasonable time after it\nis drawn, and in business hours on a business day. In default of such presentment, no party thereto is\nliable thereon to the person making such default.\n\nIf the drawee cannot, after reasonable search, be found, the bill is dishonoured.\n\nIf the bill is directed to the drawee at a particular place, it must be presented at that place; and if at the\n\ndue date for presentment he cannot, after reasonable search, be found there, the till is dishonoured.\n\n1[Where authorized by agreement or usage, a presentment through the post office by means of a registered\n\nletter is sufficient.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7f8ebc046c917dca0ed65af743da90b56223f009152a573bf30346dc4ec8435b"
+  }
+}

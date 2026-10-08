@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S40",
+  "section_number": "40",
+  "title": "Generating key pair.–Where any Digital Signature Certificate the public key of which",
+  "text": "40. Generating key pair.–Where any Digital Signature Certificate the public key of which\n\ncorresponds to the private key of that subscriber which is to be listed in the Digital Signature Certificate\nhas been accepted by a subscriber, the subscriber shall generate [that key] pair by applying the\nsecurity procedure.\n\n3[40A. Duties of subscriber of Electronic Signature Certificate.–In respect of Electronic Signature\n\nCertificate the subscriber shall perform such duties as may be prescribed.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2d77e8729e1022755ae0792730b3d5360d4c6f0f4608dc6fff6f400f2dafec93"
+  }
+}

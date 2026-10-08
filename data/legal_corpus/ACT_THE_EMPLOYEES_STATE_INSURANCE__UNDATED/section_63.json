@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S63",
+  "section_number": "63",
+  "title": "Persons not entitled to receive benefit in certain cases.",
+  "text": "63. Persons not entitled to receive benefit in certain cases.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c9844e5b95f0540f8e377472da684b8f5ade42e79ea1305ba9f2de27b4898c46"
+  }
+}

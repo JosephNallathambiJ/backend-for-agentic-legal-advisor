@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED",
+  "act_title": "The New Delhi Municipal Council Act, 1994",
+  "section_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED_S101",
+  "section_number": "101",
+  "title": "Penalty in case of default of payment of taxes.",
+  "text": "101. Penalty in case of default of payment of taxes.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1986/1/199444.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9402e216fef8739cbcf161e1eb195eb1a45c964fd954614554bec3f277036c2a"
+  }
+}

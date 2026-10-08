@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S11A",
+  "section_number": "11A",
+  "title": "Board to regulate or prohibit issue of prospectus, offer document or advertisement soliciting",
+  "text": "11A. Board to regulate or prohibit issue of prospectus, offer document or advertisement soliciting\n\nmoney for issue of securities.\n\n11AA. Collective investment scheme.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d7afad4d8e085d376fd641115bce14cce69a5bce78d1a2631938795db2a81b07"
+  }
+}

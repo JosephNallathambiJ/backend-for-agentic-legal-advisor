@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DIPLOMATIC_RELATIONS_VIENN_UNDATED",
+  "act_title": "The Diplomatic Relations (Vienna Convention) Act, 1972",
+  "section_id": "ACT_THE_DIPLOMATIC_RELATIONS_VIENN_UNDATED_S8",
+  "section_number": "8",
+  "title": "Restrictions on entry into diplomatic premises",
+  "text": "8. Restrictions on entry into diplomatic premises.—No public servant or agent of the Central\n\nGovernment, a State Government or any public authority shall enter the premises of a diplomatic mission\nfor the purpose of serving legal process, except with the consent of the head of the mission. Such consent\nmay be obtained through the Ministry of External Affairs of the Government of India.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1721/3/A1972-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c15b127ecc5cbc2acd001063fb8ab4f7b05d585bbba8bc78a8adce80b4ae2b2e"
+  }
+}

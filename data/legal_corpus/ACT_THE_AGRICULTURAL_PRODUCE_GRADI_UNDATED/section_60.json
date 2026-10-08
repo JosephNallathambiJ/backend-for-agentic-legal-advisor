@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AGRICULTURAL_PRODUCE_GRADI_UNDATED",
+  "act_title": "The Agricultural Produce (Grading and Marking) Act, 1937",
+  "section_id": "ACT_THE_AGRICULTURAL_PRODUCE_GRADI_UNDATED_S60",
+  "section_number": "60",
+  "title": "Ragi (Eleusio coracana).",
+  "text": "60. Ragi (Eleusio coracana).",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2403/5/A1937-1.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "53ff4b1f852148202ddab40dc86110f08a5fe561576a9e0ddff3c9b3b70518ca"
+  }
+}

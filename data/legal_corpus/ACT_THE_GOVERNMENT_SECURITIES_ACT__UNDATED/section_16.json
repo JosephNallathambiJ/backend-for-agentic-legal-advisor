@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SECURITIES_ACT__UNDATED",
+  "act_title": "The Government Securities Act, 2006",
+  "section_id": "ACT_THE_GOVERNMENT_SECURITIES_ACT__UNDATED_S16",
+  "section_number": "16",
+  "title": "Publication of notices in Official Gazette",
+  "text": "16. Publication of notices in Official Gazette.—Any notice required to be given by the Bank under\n\nthis Act may be served by post, but every such notice shall also be published by the Bank in the Official\nGazette or the Official Gazette of a State, according as the notice relates to a Government security, issued\nby the Central Government or a State Government, and on such publication shall be deemed to have been\ndelivered to all persons for whom it is intended.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2059/4/a2006-38.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5858e79f8d5bb8f228a1c79e086fb2a59f213c6056534c728fa2eb512dc7d942"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S62",
+  "section_number": "62",
+  "title": "Presentment of promissory note for sight",
+  "text": "62. Presentment of promissory note for sight.—A promissory note, payable at a certain period after\n\nsight, must be presented to the maker thereof for sight (if he can after reasonable search be found) by a person\nentitled to demand payment, within a reasonable time after it is made and in business hours on a business day.\nIn default of such presentment, no party thereto is liable thereon to the person making such default.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5ad7f4271c8de28a3ed93e11fe3ca369c7df8a87130a53905f43d9c15772f169"
+  }
+}

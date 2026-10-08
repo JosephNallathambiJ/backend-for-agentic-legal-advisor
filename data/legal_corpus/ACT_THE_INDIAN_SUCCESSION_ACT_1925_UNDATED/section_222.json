@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S222",
+  "section_number": "222",
+  "title": "Probate only to appointed executor",
+  "text": "222. Probate only to appointed executor.—(1) Probate shall be granted only to an executor\n\nappointed by the will.\n\n(2) The appointment may be expressed or by necessary implication.\n\n_Illustrations_\n\n(i) A wills that C be his executor if B will not. B is appointed executor by implication.\n\n(ii) A gives a legacy to B and several legacies to other persons, among the rest to his daughter-in-law C, and\n\nadds “but should the within-named C be not living I do constitute and appoint B my whole and sole executrix”. C is\nappointed executrix by implication.\n\n(iii) A appoints several persons executors of his will and codicils’ and his nephew residuary legatee, and in\n\nanother codicil are these words,—“I appoint my nephew my residuary legatee to discharge all lawful demands\nagainst my will and codicils signed of different dates”. The nephew is appointed an executor by implication.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3e091b6e46c39330394f593c3376307f047aa4bbd7dd1373714b758fb3faaa30"
+  }
+}

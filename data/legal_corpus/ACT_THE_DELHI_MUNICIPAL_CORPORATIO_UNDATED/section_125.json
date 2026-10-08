@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S125",
+  "section_number": "125",
+  "title": "Assignment of property identification code.",
+  "text": "125. Assignment of property identification code.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3fbc511d3491a57275adc36be318bb003ec7b71a8c9f29be6008ffe8c4a948ea"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S13",
+  "section_number": "13",
+  "title": "When condition to be treated as warranty",
+  "text": "13. When condition to be treated as warranty.— (1) Where a contract of sale is subject to any\n\ncondition to be fulfilled by the seller, the buyer may waive the condition or elect to treat\nthe breach of the condition as a breach of warranty and not as a ground for treating the contract as\nrepudiated.\n\n(2) Where a contract of sale is not severable and the buyer has accepted the goods or part thereof,\n\n1 the breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty\nand not as a ground for rejecting the goods and treating the contract as .repudiated, unless there is a term\nof the contract, express or implied, to that effect.\n\n(3) Nothing in this section shall affect the case of any condition or warranty fulfilment of which is\n\nexcused by law by reason of impossibility or otherwise.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c6dc5c1d64e5fcdfd7bddcc40f892eb4303cbe601c81cea578e0a204b9c42388"
+  }
+}

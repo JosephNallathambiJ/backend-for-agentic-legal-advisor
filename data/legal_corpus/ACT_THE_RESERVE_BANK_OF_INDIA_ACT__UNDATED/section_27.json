@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_RESERVE_BANK_OF_INDIA_ACT__UNDATED",
+  "act_title": "The Reserve Bank of India Act, 1934",
+  "section_id": "ACT_THE_RESERVE_BANK_OF_INDIA_ACT__UNDATED_S27",
+  "section_number": "27",
+  "title": "Re-issue notes",
+  "text": "27. Re-issue notes.—The Bank shall not re-issue bank notes which are torn, defaced or excessively\n\nspoiled.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2398/1/a1934-2.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "44d5d44f1d181571575909352734ccdd9f44d8dc6322385cfdcb11a9159eb36f"
+  }
+}

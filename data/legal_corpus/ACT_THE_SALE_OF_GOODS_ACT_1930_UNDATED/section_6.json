@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S6",
+  "section_number": "6",
+  "title": "Existing or future goods",
+  "text": "6. Existing or future goods.—(1) The goods which form the subject of a contract of sale may be\n\neither existing goods, owned or possessed by the seller, or future goods.\n\n(2) There may be a contract for the sale of goods the acquisition of which by the seller depends upon\n\na contingency which may or may not happen.\n\n(3) Where by a contract of sale the seller purports to effect a present sale of future goods, the contract\n\noperates as an agreement to sell the goods.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5fdef7c69d7c4c485e5c324bb4a181670992f32760f44a8448499770f7cc6867"
+  }
+}

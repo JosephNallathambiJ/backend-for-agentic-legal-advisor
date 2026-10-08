@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUBLIC_PREMISES_EVICTION_O_UNDATED",
+  "act_title": "The Public Premises (Eviction of Unauthorised Occupants) Act, 1971",
+  "section_id": "ACT_THE_PUBLIC_PREMISES_EVICTION_O_UNDATED_S3A",
+  "section_number": "3A",
+  "title": "Eviction from temporary occupation.",
+  "text": "3A. Eviction from temporary occupation.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1609/1/A1971-40%202.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f5eb249e4e60eef3972552e76c7f583bedea784bdb2ef39e32e7515c449d81bc"
+  }
+}

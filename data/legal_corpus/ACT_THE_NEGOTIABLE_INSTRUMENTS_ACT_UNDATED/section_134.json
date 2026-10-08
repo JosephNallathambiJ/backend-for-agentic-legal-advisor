@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S134",
+  "section_number": "134",
+  "title": "Law governing liability of maker, acceptor or indorser of foreign instrument",
+  "text": "134. Law governing liability of maker, acceptor or indorser of foreign instrument.—In the absence\n\nof a contract to the contrary, the liability of the maker or drawer of a foreign promissory note, bill of\nexchange or cheque is regulated in all essential matters by the law of the place where he made the instrument,\nand the respective liabilities of the acceptor and indorser by the law of the place where the instrument is made\npayable.\n\n_Illustration_\n\nA bill of exchange was drawn by A in California, where the rate of interest is 25 per cent., and accepted by B, payable in\n\nWashington, where the rate of interest is 6 per cent. The bill is erdorsed in [India], and is dishonoured. An action on the bill is\nbrought against B in [India]. He is liable to pay interest at the rate of 6 per cent. only; but if A is charged as drawer, A is liable to\npay interest at the rate of 25 per cent.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "de7a31aa4794aca9c11c2f63d5d61008a075639779d2a50ecd047571e639bd58"
+  }
+}

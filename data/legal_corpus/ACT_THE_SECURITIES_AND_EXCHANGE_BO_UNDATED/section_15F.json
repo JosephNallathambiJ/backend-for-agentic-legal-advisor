@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S15F",
+  "section_number": "15F",
+  "title": "Penalty for default in case of stock brokers",
+  "text": "15F. Penalty for default in case of stock brokers.—If any person, who is registered as a stock\n\nbroker under this Act,—\n\n(a) fails to issue contract notes in the form and manner specified by the stock exchange of which\n\nsuch broker is a member, he shall be liable to [a penalty which shall not be less than one lakh rupees\nbut which may extend to [one crore rupees]] for which the contract note was required to be issued by\nthat broker;\n\n(b) fails to deliver any security or fails to make payment of the amount due to the investor in the\n\nmanner within the period specified in the regulations, he shall be liable to [a penalty\n\n7[which shall not be less than one lakh rupees but which may extend to one lakh rupees for each\n\nday during which [such failure continues] subject to a maximum of one crore rupees]];\n\n(c) charges an amount of brokerage which is in excess of the brokerage specified in the\n\nregulations, he shall be liable to [a penalty [[which shall not be less than one lakh rupees but which\nmay extend to five times the amount of brokerage]] charged in excess of the specified brokerage,\nwhichever is higher.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c920d871a50dada90bdb3211da2225c3bd161d65e6ecb02152e9504ccbf16d71"
+  }
+}

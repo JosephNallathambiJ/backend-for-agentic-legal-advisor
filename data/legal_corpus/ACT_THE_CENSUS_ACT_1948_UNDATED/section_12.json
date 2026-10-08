@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENSUS_ACT_1948_UNDATED",
+  "act_title": "The Census Act, 1948",
+  "section_id": "ACT_THE_CENSUS_ACT_1948_UNDATED_S12",
+  "section_number": "12",
+  "title": "Sanction required for prosecutions.",
+  "text": "12. Sanction required for prosecutions.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1519/1/AAA1948___37.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ed168448578b86f5616e7e19053233b1ce7a5ba6044fc61ab39c36d4bb9355cf"
+  }
+}

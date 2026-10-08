@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED",
+  "act_title": "The Insurance Act, 1938",
+  "section_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED_S3A",
+  "section_number": "3A",
+  "title": "Payment of annual fee by insurer.",
+  "text": "3A. Payment of annual fee by insurer.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "629f99456f52647b0ecef9c075c823b6926b09305938561db26181be360c0334"
+  }
+}

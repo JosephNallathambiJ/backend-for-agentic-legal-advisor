@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_LIMITATION_ACT_1963_UNDATED",
+  "act_title": "The Limitation Act, 1963",
+  "section_id": "ACT_THE_LIMITATION_ACT_1963_UNDATED_S21",
+  "section_number": "21",
+  "title": "For money lent under an agreement",
+  "text": "21. For money lent under an agreement\n\nthat it shall be payable on\ndemand.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1565/5/A1963-36.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9dcd40aa01aa44ee99f26965199a1b5a744f51823dad0760c72a974a3fafeca7"
+  }
+}

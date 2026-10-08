@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED",
+  "act_title": "The Indian Easements Act, 1882",
+  "section_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED_S18",
+  "section_number": "18",
+  "title": "Customary easement",
+  "text": "18. Customary easement.—An easement may be acquired in virtue of a local custom.\n\nSuch easements are called customary easements.\n\n_Illustrations_\n\n(a) By the custom of a certain village every cultivator of village land is entitled, as such, to graze\n\nhis cattle on the common pasture. A, having become the tenant of a plot of uncultivated land in the\nvillage, breaks up and cultivates that plot. He thereby acquires an easement to graze his cattle in\naccordance with the custom.\n\n(b) By the custom of a certain town no owner or occupier of a house can open a new window\n\ntherein so as substantially to invade his neighbour’s privacy. A builds a house in the town near B’s\nhouse. A thereupon acquires an easement that B shall not open new windows in his house so as to\ncommand a view of the portions of A’s house which are ordinarily excluded from observation, and B\nacquires a like easement with respect to A’s house.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2349/1/A1882-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c94c4150d6a0d19deb12e5ecdecc6b91329bb05d1c5f7510c72f532a2414d1c8"
+  }
+}

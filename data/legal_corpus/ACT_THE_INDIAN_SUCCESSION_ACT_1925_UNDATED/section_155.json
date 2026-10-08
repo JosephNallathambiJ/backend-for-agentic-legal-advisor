@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S155",
+  "section_number": "155",
+  "title": "Ademptionpro tanto by testator’s receipt of part of entire thing specifically bequeathed",
+  "text": "155. Ademptionpro tanto by testator’s receipt of part of entire thing specifically bequeathed.—\n\nThe receipt by the testator of a part of an entire thing specifically bequeathed shall operate as an\nademption of the legacy to the extent of the sum so received.\n\n_Illustration_\n\nA bequeaths to B “the debt due to me by C”. The debt amounts to 10,000 rupees. C pays to A 5,000 rupees the\n\none-half of the debt. The legacy is revoked by ademption, so far as regards the 5,000 rupees received by A.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "17226dbae6ff240a467b204a0ba66d3023fb5966e2e9b27eccfb1f7194a022f6"
+  }
+}

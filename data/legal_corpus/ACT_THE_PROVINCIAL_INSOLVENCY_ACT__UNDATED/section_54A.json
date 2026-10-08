@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S54A",
+  "section_number": "54A",
+  "title": "By whom petitions for annulment may be made",
+  "text": "54A. By whom petitions for annulment may be made.—[A petition for the annulment of any\n\ntransfer under section 53, or of any transfer, payment, obligation or judicial proceeding under section 54,\nmay be made by the receiver or, with the leave of the Court, by any creditor who has proved his debt and\nwho satisfies the Court that the receiver has been requested and has refused to make such petition.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1d90a2e30a0c9002e273d0577cae0e3acd8700b1763b2a8a4098ebbf72c00e3e"
+  }
+}

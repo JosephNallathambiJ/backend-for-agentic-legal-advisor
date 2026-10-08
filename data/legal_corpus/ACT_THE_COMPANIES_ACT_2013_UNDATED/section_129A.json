@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMPANIES_ACT_2013_UNDATED",
+  "act_title": "The Companies Act, 2013",
+  "section_id": "ACT_THE_COMPANIES_ACT_2013_UNDATED_S129A",
+  "section_number": "129A",
+  "title": "Periodical financial results.",
+  "text": "129A. Periodical financial results.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e21af9783633e0c678e5b1a491b14dd413024afebad1bfcae0ef93038fc62ecf"
+  }
+}

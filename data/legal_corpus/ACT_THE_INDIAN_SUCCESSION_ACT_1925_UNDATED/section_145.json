@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S145",
+  "section_number": "145",
+  "title": "Bequest of money where not payable until part of testator's property disposed of in certain",
+  "text": "145. Bequest of money where not payable until part of testator's property disposed of in certain\n\nway.—A money legacy is not specific merely because the will directs its payment to be postponed until\nsome part of the property of the testator has been reduced to a certain form, or remitted to a certain place.\n\n_Illustration_\n\nA bequeaths to B 10,000 rupees and directs that this legacy shall be paid as soon as A’s property in India shall\n\nbe realised in England. The legacy is not specific.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c031dac330b94e73ecd1ad8060d13efae2491bf104d885f88c40f6a51aa3ac03"
+  }
+}

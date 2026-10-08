@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_TRUST_ACT_1882_UNDATED",
+  "act_title": "The Indian Trust Act, 1882",
+  "section_id": "ACT_THE_INDIAN_TRUST_ACT_1882_UNDATED_S78",
+  "section_number": "78",
+  "title": "Revocation of trust",
+  "text": "78. Revocation of trust.—A trust created by will may be revoked at the pleasure of the testator.\n\nA trust otherwise created can be revoked only—\n\n(a) where all the beneficiaries are competent to contract—by their consent;\n\n(b) where the trust has been declared by a non-testamentary instrument or by word of\n\nmouth—in exercise of a power of revocation expressly reserved to the author of the trust; or\n\n(c) where the trust is for the payment of the debts of the author of the trust, and has not been\n\ncommunicated to the creditors—at the pleasure of the author of the trust.\n\n_Illustration_\n\nA conveys property to B in trust to sell the same and pay out of the proceeds the claims of A’s creditors. A\n\nreserves no power of revocation. If no communication has been made to the creditors, A may revoke the trust. But if\nthe creditors are parties to the arrangement, the trust cannot be revoked without their consent.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2327/3/A1882-02.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4cb4ac150fd01ce185960d18842223e06c67eee6eaf4f07980e52412d7d0b50e"
+  }
+}

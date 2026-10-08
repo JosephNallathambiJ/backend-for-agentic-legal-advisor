@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S41",
+  "section_number": "41",
+  "title": "Discharge",
+  "text": "41. Discharge.—(1) A debtor may, at any time after the order of adjudication and shall, within the\n\nperiod specified by the Court, apply to the Court for an order of discharge, and the Court shall fix a day,\nnotice whereof shall be given in such manner as may be prescribed, for hearing such application, and any\nobjections which may be made thereto.\n\n(2) Subject to the provisions of this section, the Court may, after considering the objections of any\n\ncreditor and, where a receiver has been appointed, the report of the receiver—\n\n(a) grant or refuse an absolute order of discharge; or\n\n(b) suspend the operation of the order for a specified time; or\n\n(c) grant an order of discharge subject to any conditions with respect to any earnings or income\n\nwhich may afterwards become due to the insolvent, or with respect to his after acquired property.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c797115e2f90f2e616fe6fb40756431d4f5b94111519c227ae551a130bf55376"
+  }
+}

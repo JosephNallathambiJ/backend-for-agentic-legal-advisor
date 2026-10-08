@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S10",
+  "section_number": "10",
+  "title": "Conditions on which debtor may petition.",
+  "text": "10. Conditions on which debtor may petition.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e601785bef247a2779de88153618f8084fb34f1ced17303929a314e163e4cffd"
+  }
+}

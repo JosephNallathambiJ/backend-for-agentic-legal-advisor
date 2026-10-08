@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_UNIVERSITY_ACT_1922_UNDATED",
+  "act_title": "The Delhi University Act, 1922",
+  "section_id": "ACT_THE_DELHI_UNIVERSITY_ACT_1922_UNDATED_S21",
+  "section_number": "21",
+  "title": "The Executive Council.",
+  "text": "21. The Executive Council.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2374/1/a1922-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "389dbb4e73f323f81066d18561275a33dacb6b83e67fd1a503d547abed286fdd"
+  }
+}

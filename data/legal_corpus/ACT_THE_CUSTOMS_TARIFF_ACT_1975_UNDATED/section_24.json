@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S24",
+  "section_number": "24",
+  "title": "Saffron 0.5%",
+  "text": "24. Saffron 0.5%",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "80b24479031e864db5067c8fc5633c4d5cf03f621ae5b7dac49c01734b6f9fac"
+  }
+}

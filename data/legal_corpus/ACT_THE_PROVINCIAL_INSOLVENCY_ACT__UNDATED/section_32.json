@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S32",
+  "section_number": "32",
+  "title": "Power to arrest after adjudication.",
+  "text": "32. Power to arrest after adjudication.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cf074c4ddd0973ee98e8ce5666945b7c36b4be742ceaf6bd3c24d008edc56478"
+  }
+}

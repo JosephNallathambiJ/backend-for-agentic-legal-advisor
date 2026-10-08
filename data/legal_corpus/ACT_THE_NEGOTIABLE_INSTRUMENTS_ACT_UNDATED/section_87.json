@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S87",
+  "section_number": "87",
+  "title": "Effect of material alteration",
+  "text": "87. Effect of material alteration.—Any material alteration of a negotiable instrument renders the\n\nsame void as against anyone who is a party thereto at the time of making such alteration and does not\nconsent thereto, unless it was made in order to carry out the common intention of the original parties;\n\nAlteration by indorsee.—And any such alteration, if made by an indorsee, discharges his indorser\n\nfrom all liability to him in respect of the consideration thereof.\n\nThe provisions of this section are subject to those of sections 20, 49, 86 and 125.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3853de2c3d9c077b97663b7db478ac794e4c0e764a07463f11c91bf577defc56"
+  }
+}

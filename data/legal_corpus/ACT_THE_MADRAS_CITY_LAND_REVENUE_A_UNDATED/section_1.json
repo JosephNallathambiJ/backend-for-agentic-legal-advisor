@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MADRAS_CITY_LAND_REVENUE_A_UNDATED",
+  "act_title": "The Madras City Land Revenue Act, 1851",
+  "section_id": "ACT_THE_MADRAS_CITY_LAND_REVENUE_A_UNDATED_S1",
+  "section_number": "1",
+  "title": "Assessable lands in Madras not assessed, to be assessed at customary rates.",
+  "text": "1. Assessable lands in Madras not assessed, to be assessed at customary rates.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19032/1/a1851-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "44783a730ff121cc4d349bc56f5e4bc8d7e579a31741b8ca9f753d8cfcfc878b"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S289",
+  "section_number": "289",
+  "title": "Receipt to be given",
+  "text": "289. Receipt to be given.—A receipt shall be given for any money paid or recovered under this Act.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "43a5981eed5e451fc1e3bd7b95c0a39fcb89ab6d8be86a0e2f6288ccc859820b"
+  }
+}

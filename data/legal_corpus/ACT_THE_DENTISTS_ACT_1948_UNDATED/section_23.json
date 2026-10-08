@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DENTISTS_ACT_1948_UNDATED",
+  "act_title": "The Dentists Act, 1948",
+  "section_id": "ACT_THE_DENTISTS_ACT_1948_UNDATED_S23",
+  "section_number": "23",
+  "title": "Indiana University, Indianapolis,",
+  "text": "23. Indiana University, Indianapolis,\n\nIndiana (U.S.A.)",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1463/1/AAAA1948____16.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "be9ffec6101f2506953c595c38f942dd944bf2414b8545932a418418afba5d23"
+  }
+}

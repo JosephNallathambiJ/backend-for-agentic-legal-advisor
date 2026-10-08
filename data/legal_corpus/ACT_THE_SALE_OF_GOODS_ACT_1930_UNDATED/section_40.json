@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S40",
+  "section_number": "40",
+  "title": "Risk where goods are delivered at distant place",
+  "text": "40. Risk where goods are delivered at distant place.—Where the seller of goods agrees to deliver\n\nthem at his own risk at a place other than that where they are when sold, the buyer shall, nevertheless,\nunless otherwise agreed, take any risk of deterioration in the goods necessarily incident to the course of\ntransit.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1e30634754dca8857566d8fc33e17f37273abc1a9ad07f45066c096750df6b2c"
+  }
+}

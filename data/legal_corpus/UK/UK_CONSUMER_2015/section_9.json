@@ -1,0 +1,15 @@
+{
+  "jurisdiction": "UK",
+  "act_id": "UK_CONSUMER_2015",
+  "act_title": "Consumer Rights Act 2015 (c. 15)",
+  "section_id": "UK_CONSUMER_2015_S9",
+  "section_number": "9",
+  "title": "Goods to be of satisfactory quality",
+  "text": "Every contract to supply goods is to be treated as including a term that the quality of the goods is satisfactory. The quality of goods is satisfactory if they meet the standard that a reasonable person would consider satisfactory, taking account of any description of the goods, the price, and all other relevant circumstances.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.legislation.gov.uk/ukpga/2015/15/contents",
+    "version": "2015_official_edition",
+    "sha256": "e117fc9efa166b0e78a5bfdc79ec3f58421111fd7c75c22df0dc7fa13c2c1ccc"
+  }
+}

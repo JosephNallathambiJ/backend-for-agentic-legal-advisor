@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_BENGAL_LAND_REVENUE_SALES__UNDATED",
+  "act_title": "The Bengal Land Revenue Sales Act, 1859",
+  "section_id": "ACT_THE_BENGAL_LAND_REVENUE_SALES__UNDATED_S7",
+  "section_number": "7",
+  "title": "The name of the proprietor who created the tenure.",
+  "text": "7. The name of the proprietor who created the tenure.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19227/1/a1859-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "93b35e2f7b10d3eee142d785653387c521ed460f163a0166e77356df7573d8a0"
+  }
+}

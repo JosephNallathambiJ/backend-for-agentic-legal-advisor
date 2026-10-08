@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MINES_ACT_1952_UNDATED",
+  "act_title": "The Mines Act, 1952",
+  "section_id": "ACT_THE_MINES_ACT_1952_UNDATED_S21",
+  "section_number": "21",
+  "title": "Medical appliances.",
+  "text": "21. Medical appliances.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2168/3/A1952-35.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6fdce66a16880ffc3c5077ad22312881a9c2c8d31d920d4c19b93ad9ea759d2a"
+  }
+}

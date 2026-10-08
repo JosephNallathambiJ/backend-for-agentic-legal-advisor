@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S47",
+  "section_number": "47",
+  "title": "Negotiation by delivery",
+  "text": "47. Negotiation by delivery.—Subject to the provisions of section 58, a promissory note, bill of\n\nexchange or cheque payable to bearer is negotiable by delivery thereof.\n\n_Exception.—A promissory note, bill of exchange or cheque delivered on condition that it is not to_\n\ntake effect except in a certain event is not negotiable (except in the hands of a holder for value without\nnotice of the condition) unless such event happens.\n\n_Illustrations_\n\n(a) A, the holder of a negotiable instrument payable to bearer, delivers it to B's agent to keep for B. The instrument has been\n\nnegotiated.\n\n(b) A, the holder of a negotiable instrument payable to bearer, which is in the hands of A's banker, who is at the time the\n\nbanker of B, directs the banker to transfer the instrument to B's credit in the banker's account with B. The banker does so, and\naccordingly now possesses the instrument as B's agent. The instrument has been negotiated, and B has become the holder of it.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6f058dc9a7fef5c57afd1ac5184529b12db775f1e7f1e5dd0c378b8307504ae1"
+  }
+}

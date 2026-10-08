@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S196A",
+  "section_number": "196A",
+  "title": "Income in respect of units of non-residents.",
+  "text": "196A. Income in respect of units of non-residents.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "59cd6da99f172e50907ecc766569fe525fab91d67013be51f1a6e572b576a4b9"
+  }
+}

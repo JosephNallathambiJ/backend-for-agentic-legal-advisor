@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S30",
+  "section_number": "30",
+  "title": "Unvalued policy",
+  "text": "30. Unvalued policy.—An unvalued policy is a policy which does not specify the value of the\n\nsubject-matter insured, but subject to the limit of the sum insured, leaves the insurable value to be\nsubsequently ascertained, in the manner hereinbefore explained.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "66abc1119d16c2547df693a0833c8d2d3b155c1f694d2b66913186d4d2448fa5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PHARMACY_ACT_1948_UNDATED",
+  "act_title": "The Pharmacy Act, 1948",
+  "section_id": "ACT_THE_PHARMACY_ACT_1948_UNDATED_S17A",
+  "section_number": "17A",
+  "title": "Accounts and audit.",
+  "text": "17A. Accounts and audit.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1364/1/1948-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "202366d7fab7885a29211ec2a8b91a46bfc2b11b3587d4d5dc388d7b5bb81dea"
+  }
+}

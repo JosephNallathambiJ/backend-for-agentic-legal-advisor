@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED",
+  "act_title": "The Delhi Sales Tax Act, 1975",
+  "section_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED_S6",
+  "section_number": "6",
+  "title": "Vegetables, green or dried (except when sold in sealed containers) and vegetables seeds.",
+  "text": "6. Vegetables, green or dried (except when sold in sealed containers) and vegetables seeds.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1637/1/197543.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "891baad0c876d67a7f643b5848c0039c5efd9bf40305f7e3a6d7da71f532de4e"
+  }
+}

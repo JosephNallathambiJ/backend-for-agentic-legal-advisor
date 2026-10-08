@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S38",
+  "section_number": "38",
+  "title": "Prior party a principal in respect of each subsequent party",
+  "text": "38. Prior party a principal in respect of each subsequent party.—As between the parties so liable\n\nas sureties, each prior party is, in the absence of a contract to the contrary, also liable thereon as a\nprincipal debtor in respect of each subsequent party.\n\n_Illustration_\n\nA draws a bill payable to his own order on B, who accepts. A afterwards indorses the bill to C, C to D, and D to E. As\n\nbetween E and B, B is the principal debtor, and A, C and D are his sureties. As between E and A, A is the principal debtor, and C\nand D are his sureties. As between E and C, C is the principal debtor and D is his surety.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0a94de58f043192af03db263c129f4b0937396c39b2bdb806b17653b83baed1d"
+  }
+}

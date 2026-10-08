@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_UNIVERSITY_ACT_1922_UNDATED",
+  "act_title": "The Delhi University Act, 1922",
+  "section_id": "ACT_THE_DELHI_UNIVERSITY_ACT_1922_UNDATED_S22",
+  "section_number": "22",
+  "title": "[Omitted.].",
+  "text": "22. [Omitted.].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2374/1/a1922-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e2b6443fc496c21c082aca3c48d71b06792a4ce1371e11c647c77c87639ca95d"
+  }
+}

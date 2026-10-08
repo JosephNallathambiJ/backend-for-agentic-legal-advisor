@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S10",
+  "section_number": "10",
+  "title": "Omit section 59A.",
+  "text": "10. Omit section 59A.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3d6aea94fa1649f3ce59a218136072f7b4bcfd21dd2efe89eb2118205499d313"
+  }
+}

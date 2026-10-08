@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GENERAL_INSURANCE_BUSINESS_UNDATED",
+  "act_title": "The General Insurance Business (Nationalisation) Act, 1972",
+  "section_id": "ACT_THE_GENERAL_INSURANCE_BUSINESS_UNDATED_S44",
+  "section_number": "44",
+  "title": "Switzerland General Insurance",
+  "text": "44. Switzerland General Insurance\nCompany Ltd.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1710/1/AA1972___57.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b00c187f7b083bcf48172e62f1db395cd0fbf744184a4b12c331c81ae04df1a9"
+  }
+}

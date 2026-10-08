@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_TRUST_ACT_1882_UNDATED",
+  "act_title": "The Indian Trust Act, 1882",
+  "section_id": "ACT_THE_INDIAN_TRUST_ACT_1882_UNDATED_S23",
+  "section_number": "23",
+  "title": "Liability for breach of trust",
+  "text": "23. Liability for breach of trust.—Where the trustee commits a breach of trust, he is liable to\n\nmake good the loss which the trust-property or the beneficiary has thereby sustained, unless the\nbeneficiary has by fraud induced the trustee to commit the breach, or the beneficiary, being\ncompetent to contract, has himself, without coercion or undue influence having been brought to bear\non him, concurred in the breach, or subsequently acquiesced therein, with full knowledge of the\nfacts of the case and of his rights as against the trustee.\n\nA trustee committing a breach of trust is not liable to pay interest except in the following cases:—\n\n(a) where he has actually received interest;\n\n(b) where the breach consists in unreasonable delay in paying trust-money to the beneficiary;\n\n(c) where the trustee ought to have received interest, but has not done so;\n\n(d) where he may be fairly presumed to have received interest;\n\nHe is liable, in case (a), to account for the interest actually received, and, in cases (b), (c) and\n\n(d), to account for simple interest at the rate of six per cent. per annum, unless the Court otherwise\ndirects.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2327/3/A1882-02.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3ead8215dd62c05ee8c6b66621b7bb12212a54a2370cfb174cf63cd6281facf3"
+  }
+}

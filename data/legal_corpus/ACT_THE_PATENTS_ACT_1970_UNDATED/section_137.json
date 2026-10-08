@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S137",
+  "section_number": "137",
+  "title": "Multiple priorities",
+  "text": "137. Multiple priorities.—(1) Where two or more applications for patents in respect of inventions\n\nhave been made in one or more convention countries and those inventions are so related as to constitute\none invention, one application may be made by any or all of the persons referred to in sub-section (1) of\nsection 135 within twelve months from the date on which the earlier or earliest of those applications was\nmade, in respect of the inventions disclosed in the specifications which accompanied the basic\napplications.\n\n(2) The priority date of a claim of the complete specification, being a claim based on matters\n\ndisclosed in one or more of the basic applications, is the date on which that matter was first so disclosed.\n\n(3) For the purposes of this Act, a matter shall be deemed to have been disclosed in a basic\n\napplication for protection in a convention country if it was claimed or disclosed (otherwise than by way of\ndisclaimer or acknowledgment of a prior art) in that application, or any documents submitted by the\napplicant for protection in support of and at the same time as that application, but no account shall be\ntaken of any disclosure effected by any such document unless a copy of the document is filed at the patent\noffice with the convention application or within such period as may be prescribed after the filing of that\napplication.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "322abeb7dab3f3ccd5a2f7b347f6cf4db1c1fbd798572e18171eca7546888e53"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_BENGAL_LAND_REVENUE_SALES__UNDATED",
+  "act_title": "The Bengal Land Revenue Sales Act, 1859",
+  "section_id": "ACT_THE_BENGAL_LAND_REVENUE_SALES__UNDATED_S6",
+  "section_number": "6",
+  "title": "The date of the deed constituting the tenure, or the date when the tenure was created.",
+  "text": "6. The date of the deed constituting the tenure, or the date when the tenure was created.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19227/1/a1859-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e9868979fb38b70086c58276c6ce175102c95dd23d5c4a66ea147ebc1d304712"
+  }
+}

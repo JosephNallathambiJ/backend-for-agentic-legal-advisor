@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S115",
+  "section_number": "115",
+  "title": "Drawee in case of need",
+  "text": "115. Drawee in case of need.—Where a drawee in case of need is named in a bill of exchange, or in\n\nany indorsement thereon, the bill is not dishonoured until it has been dishonoured by such drawee.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e95f04113b57cce669a9289f82c125c3f0c70a0918e992bedbc86bfa01e165cd"
+  }
+}

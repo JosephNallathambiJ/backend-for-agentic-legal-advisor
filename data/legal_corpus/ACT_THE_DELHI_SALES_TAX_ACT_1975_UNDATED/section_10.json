@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED",
+  "act_title": "The Delhi Sales Tax Act, 1975",
+  "section_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED_S10",
+  "section_number": "10",
+  "title": "Fresh milk (whole or separated) including boiled and sugared milk.",
+  "text": "10. Fresh milk (whole or separated) including boiled and sugared milk.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1637/1/197543.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6307158f3d8a20da791f1faf30feca15abc45748436156c1213b1fff4de17f1a"
+  }
+}

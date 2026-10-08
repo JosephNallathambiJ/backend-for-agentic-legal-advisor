@@ -1,0 +1,14 @@
+{
+  "act_id": "BNS_2023",
+  "act_title": "The Bharatiya Nyaya Sanhita, 2023",
+  "section_id": "BNS_2023_S104",
+  "section_number": "104",
+  "title": "Punishment for murder by life-convict",
+  "text": "104. Punishment for murder by life-convict.—Whoever, being under sentence of imprisonment for\n\nlife, commits murder, shall be punished with death or with imprisonment for life, which shall mean the\nremainder of that person’s natural life.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20062/1/a2023-45.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c2e6cca492a89236d21f775079d2c76f7a709727c30670ab819cd186429ac3f7"
+  }
+}

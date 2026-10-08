@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_JUTE_COMPANIES_NATIONALISA_UNDATED",
+  "act_title": "The Jute Companies (Nationalisation) Act, 1980",
+  "section_id": "ACT_THE_JUTE_COMPANIES_NATIONALISA_UNDATED_S18",
+  "section_number": "18",
+  "title": "Priority of Claims",
+  "text": "18. Priority of Claims.—The claims made under section 17 shall have priorities in accordance with\n\nthe following principles, namely:—\n\n(a) Category I shall have precedence over all other categories and Category II shall have\n\nprecedence over Category III, and so on;\n\n(b) the claims specified in each of the categories shall rank equally and be paid in full, but, if the\n\namount paid to the Commissioner under this Act is insufficient to meet such claims in full, they shall\nabate in equal proportions and be paid accordingly; and\n\n(c) the question of discharging any liability with regard to a matter specified in a lower category\n\nshall arise only if a surplus is left after meeting all the liabilities specified in the immediately higher\ncategory.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1756/1/198062.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b39f749f10323aaf58ba89e325480694e0e9a1297d6e11d87f365082bbaa9ea0"
+  }
+}

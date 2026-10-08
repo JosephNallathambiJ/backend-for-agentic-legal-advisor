@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S114",
+  "section_number": "114",
+  "title": "Right of payer for honour",
+  "text": "114. Right of payer for honour.—Any person so paying is entitled to all the rights in respect of the\n\nbill, of the holder at the time of such payment, and may recover from the party for whose honour he pays\nall sums so paid, with interest thereon and with all expenses properly incurred in making such payment.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d20f48e32b0cd99db5838823028a0072c762c663db3482675c4196a0a7c8e13f"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUBLIC_DEBT_ACT_1944_UNDATED",
+  "act_title": "The Public Debt Act, 1944",
+  "section_id": "ACT_THE_PUBLIC_DEBT_ACT_1944_UNDATED_S23",
+  "section_number": "23",
+  "title": "Discharge in respect of bearer bonds.",
+  "text": "23. Discharge in respect of bearer bonds.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2405/5/A1944-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "31140d58b7093bef690ba9d78a4b116af8cf4d7e23fd892f62a5483c5a18fd3b"
+  }
+}

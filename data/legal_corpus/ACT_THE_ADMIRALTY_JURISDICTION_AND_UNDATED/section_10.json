@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ADMIRALTY_JURISDICTION_AND_UNDATED",
+  "act_title": "The Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017",
+  "section_id": "ACT_THE_ADMIRALTY_JURISDICTION_AND_UNDATED_S10",
+  "section_number": "10",
+  "title": "Order of priority of maritime claims",
+  "text": "10. Order of priority of maritime claims.—(1) The order of maritime claims determining the\n\n_inter se priority in an admiralty proceeding shall be as follows:—_\n\n(a) a claim on the vessel where there is a maritime lien;\n\n(b) registered mortgages and charges of same nature on the vessel;\n\n(c) all other claims.\n\n(2) The following principles shall apply in determining the priority of claims inter se—\n\n(a) if there are more claims than one in any single category of priority, they shall rank equally;\n\n(b) claims for various salvages shall rank in inverse order of time when the claims thereto\n\naccrue.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2256/1/A2017-22.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7e83f3ae23f74090ecd2c0003535939493c81b429da1be7d51a6b4c8f7420278"
+  }
+}

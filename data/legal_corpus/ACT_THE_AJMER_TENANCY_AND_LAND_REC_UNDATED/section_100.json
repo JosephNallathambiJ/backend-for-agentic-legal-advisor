@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AJMER_TENANCY_AND_LAND_REC_UNDATED",
+  "act_title": "The Ajmer Tenancy and Land Records Act, 1950",
+  "section_id": "ACT_THE_AJMER_TENANCY_AND_LAND_REC_UNDATED_S100",
+  "section_number": "100",
+  "title": "Application for ejectment of non-occupancy tenant",
+  "text": "100. Application for ejectment of non-occupancy tenant.—A landholder who desires to eject a\n\nnon-occupancy tenant to whom section 97 applies may, in the month of May, make an application in\nduplicate to the tahsildar stating the following particulars:—\n\n(a) the name, description and place of residence of the landholder;\n\n(b) the name, description and place of residence of the tenant;\n\n(c) a description of the holding, specifying the name of the village, the rent payable, and, unless\n\nthe holding can be otherwise adequately described, the khasra number and area of each field; and\n\n(d) the ground on which ejectment is applied for.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1796/3/A1950-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "837de1935eafba012c23be7702ecd9372ba3d0df666595e37fdc0fa70e829a78"
+  }
+}

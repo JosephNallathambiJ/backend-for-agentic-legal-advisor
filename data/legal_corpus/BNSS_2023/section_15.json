@@ -1,0 +1,14 @@
+{
+  "act_id": "BNSS_2023",
+  "act_title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+  "section_id": "BNSS_2023_S15",
+  "section_number": "15",
+  "title": "Special Executive Magistrates.",
+  "text": "15. Special Executive Magistrates.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20099/3/A2023-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b55885e95102a1abe9db528cd7a323cdf963de5c2c3f556f22651755a4a06bfe"
+  }
+}

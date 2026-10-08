@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S75A",
+  "section_number": "75A",
+  "title": "Interest on drawback.",
+  "text": "75A. Interest on drawback.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3e21125b05f4f95a4c8a688e736ccf22fbdec9fa67c01f49fc3f7e2ca5f9125f"
+  }
+}

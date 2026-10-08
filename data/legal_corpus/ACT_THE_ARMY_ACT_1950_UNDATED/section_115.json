@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S115",
+  "section_number": "115",
+  "title": "Composition of summary general court-martial",
+  "text": "115. Composition of summary general court-martial.—A summary general court-martial shall\n\nconsist of not less than three officers.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b1e91f85c736a93cd92afc4d6099b0e09a0b7568984bf68dc4cf8b81b24d85d1"
+  }
+}

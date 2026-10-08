@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S65",
+  "section_number": "65",
+  "title": "Obligation of person who has received advantage under void agreement, or contract that",
+  "text": "65. Obligation of person who has received advantage under void agreement, or contract that\n\nbecomes void.—When an agreement is discovered to be void, or when a contract becomes void, any\nperson who has received any advantage under such agreement or contract is bound to restore it, or to\nmake compensation for it to the person from whom he received it.\n\n_Illustrations_\n\n(a) A pays B 1,000 rupees in consideration of B’s promising to marry C, A’s daughter. C is dead at the time of the promise.\n\nThe agreement is void, but B must repay A the 1,000 rupees.\n\n(b) A contracts with B to deliver to him 250 maunds of rice before the first of May. A delivers 130 maunds only before that\n\nday, and none after. B retains the 130 maunds after the first of May. He is bound to pay A for them.\n\n(c) A, a singer, contracts with B, the manager of a theatre, to sing at his theatre for two nights in every week during the next\n\ntwo months, and B engages to pay her a hundred rupees for each night’s performance. On the sixth night, A wilfully absents\nherself from the theatre, and B, in consequence, rescinds the contract. B must pay A for the five nights on which she had sung.\n\n(d) A contracts to sing for B at a concert for 1,000 rupees, which are paid in advance. A is too ill to sing. A is not bound to\n\nmake compensation to B for the loss of the profits which B would have made if A had been able to sing, but must refund to B the\n1,000 rupees paid in advance.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "088494c0e8bb428a612e32d9f34dd4f4ab9433aff142e57660ea980337376d22"
+  }
+}

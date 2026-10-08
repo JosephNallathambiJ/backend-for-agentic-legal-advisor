@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED",
+  "act_title": "The Telecommunications Act, 2023.",
+  "section_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED_S12",
+  "section_number": "12",
+  "title": "Radio backhaul for telecommunication services.",
+  "text": "12. Radio backhaul for telecommunication services.\n\n_Explanation.—The term \"radio backhaul\" shall mean the use of radio frequency only to_\n_interconnect telecommunication equipment, other than the customer equipment in telecommunication_\n_networks._",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20101/1/A2023-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "edb54bb37f267aacc4fbc1a51646fb9017224a17d6abcdd6b750f10b3ff32ce0"
+  }
+}

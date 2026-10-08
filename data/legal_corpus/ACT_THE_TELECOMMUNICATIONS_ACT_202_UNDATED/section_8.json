@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED",
+  "act_title": "The Telecommunications Act, 2023.",
+  "section_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED_S8",
+  "section_number": "8",
+  "title": "Meteorological department and weather forecasting.",
+  "text": "8. Meteorological department and weather forecasting.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20101/1/A2023-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5252ecb25739083a308248c05756aff9193e1cb37668174a4f87c3e3e93ce136"
+  }
+}

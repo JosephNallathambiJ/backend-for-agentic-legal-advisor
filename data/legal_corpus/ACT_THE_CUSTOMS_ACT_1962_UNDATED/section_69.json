@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S69",
+  "section_number": "69",
+  "title": "Clearance of warehoused goods for export.",
+  "text": "69. Clearance of warehoused goods for export.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1e1f7f48fd0d7866b6c56b07286dab177641cb6c1ee12df38de2540119ff4443"
+  }
+}

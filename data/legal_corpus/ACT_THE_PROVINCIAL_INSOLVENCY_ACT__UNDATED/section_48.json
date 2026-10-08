@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S48",
+  "section_number": "48",
+  "title": "Interest",
+  "text": "48. Interest.—(1) On any debt or sum certain whereon interest is not reserved or agreed for, and\n\nwhich is overdue when the debtor is adjudged an insolvent, and which is provable under this Act, the\ncreditor may prove for interest at a rate not exceeding six per centum per annum—\n\n(a) if the debt or sum is payable by virtue of a written instrument at a certain time, from the time\n\nwhen such debt or sum was payable to the date of such adjudication; or,\n\n(b) if the debt or sum is payable otherwise, from the time when a demand in writing has been\n\nmade giving the debtor notice that interest will be claimed from the date of the demand until the time\nof payment to the date of such adjudication.\n\n(2) Where a debt which has been proved under this Act includes interest or any pecuniary\n\nconsideration in lieu of interest, the interest or consideration shall, for the purposes of dividend, be\ncalculated at a rate not exceeding six per centum per annum, without prejudice to the right of a creditor to\nreceive out of the debtor's estate any higher rate of interest to which he may be entitled after all the debts\nproved have been paid in full.\n\n49. Mode of proof.—(1) A debt may be proved under this Act by delivering, or sending by post in a\n\nregistered letter, to the Court an affidavit verifying the debt.\n\n(2) The affidavit shall contain or refer to a statement of account showing the particulars of the debt,\n\nand shall specify the vouchers (if any) by which the same can be substantiated. The Court may at any\ntime call for the production of the vouchers.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4db2576a71abb449ca88cac426253dfe840b889b78cd4b61d0b18e8c491ea7f7"
+  }
+}

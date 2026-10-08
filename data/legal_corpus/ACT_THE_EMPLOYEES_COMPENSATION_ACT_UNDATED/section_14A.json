@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S14A",
+  "section_number": "14A",
+  "title": "Compensation to be first charge on assets transferred by employer.",
+  "text": "14A. Compensation to be first charge on assets transferred by employer.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "66207492b83843d3d29c7b34ccbf437fb37a4525c5cad0e2c4978ccf728471b6"
+  }
+}

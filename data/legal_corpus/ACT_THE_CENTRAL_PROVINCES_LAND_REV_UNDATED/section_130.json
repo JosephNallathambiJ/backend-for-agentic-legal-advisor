@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S130",
+  "section_number": "130",
+  "title": "Annual enquiry regarding land held free from revenue",
+  "text": "130. Annual enquiry regarding land held free from revenue.—The Deputy Commissioner shall in\n\neach year make enquiry regarding all cases in which land has been granted by Government, conditionally\nor for a time, free, wholly or in part, from the payment of revenue.\n\nProcedure on breach of conditions of grant.—If it appears to the Deputy Commissioner that the\n\nconditions of any grant have been broken by the grantee, he shall report the case through the Commissioner\nof the division for the orders of the Chief Commissioner, who may direct that the land be assessed, or may\npass such other order as he thinks fit.\n\nProcedure on expiry of term of grant.—If it appears to the Deputy Commissioner that the term of\n\nany such grant has expired, or (when the grant is for a life or lives) if the person last entitled to hold the\nland comprised in the grant, free from revenue, or at less than full revenue-rates, has died, he shall assess\nthe same, and shall report his proceedings through the Commissioner of the division for the sanction of the\nChief Commissioner.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b6bfea77e14f70e8b7a6733fcdcb7e77de09a90d2f0b6ac8072d8d85ddd27ba4"
+  }
+}

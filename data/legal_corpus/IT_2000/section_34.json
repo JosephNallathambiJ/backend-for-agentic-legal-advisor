@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S34",
+  "section_number": "34",
+  "title": "Disclosure.–(1) Every Certifying Authority shall disclose in the manner specified by regulations–",
+  "text": "34. Disclosure.–(1) Every Certifying Authority shall disclose in the manner specified by regulations–\n\n(a) its [electronic signature] Certificate ;\n\n(b) any certification practice statement relevant thereto;\n\n(c) notice of the revocation or suspension of its Certifying Authority certificate, if any; and\n\n(d) any other fact that materially and adversely affects either the reliability of a [electronic signature]\n\nCertificate, which that Authority has issued, or the Authority's ability to perform its services.\n\n(2) Where in the opinion of the Certifying Authority any event has occurred or any situation has\n\narisen which may materially and adversely affect the integrity of its computer system or the conditions\nsubject to which a [electronic signature] Certificate was granted, then, the Certifying Authority shall–\n\n(a) use reasonable efforts to notify any person who is likely to be affected by that occurrence; or\n\n(b) act in accordance with the procedure specified in its certification practice statement to deal\n\nwith such event or situation.\n\nCHAPTERVII\n\n2[ELECTRONIC SIGNATURE] CERTIFICATES",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bcfdd773d0f23d640a00dcf087c003e830c498131a62d62f4e1b6ac9d873db2d"
+  }
+}

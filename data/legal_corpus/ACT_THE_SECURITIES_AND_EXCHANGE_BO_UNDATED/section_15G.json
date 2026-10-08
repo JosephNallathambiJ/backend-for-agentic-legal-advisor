@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S15G",
+  "section_number": "15G",
+  "title": "Penalty for insider trading",
+  "text": "15G. Penalty for insider trading.—If any insider who,—\n\n(i) either on his own behalf or on behalf of any other person, deals in securities of a body\n\ncorporate listed on any stock exchange on the basis of any unpublished price sensitive information; or\n\n(ii) communicates any unpublished price sensitive information to any person, with or without his\n\nrequest for such information except as required in the ordinary course of business or under any law;\nor\n\n(iii) counsels, or procures for any other person to deal in any securities of any body corporate on\n\nthe basis of unpublished price sensitive information,\n\nshall be liable to a penalty [which shall not be less than ten lakh rupees but which may extend to\ntwenty-five crore rupees or three times the amount of profits made out of insider trading, whichever is\nhigher].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "de0a629e00ac6b7861d4c45ae683dc70f1a218a536fcadf97c8c4b260a8dc729"
+  }
+}

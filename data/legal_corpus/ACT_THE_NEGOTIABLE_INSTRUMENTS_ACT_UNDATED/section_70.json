@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S70",
+  "section_number": "70",
+  "title": "Presentment where no exclusive place specified",
+  "text": "70. Presentment where no exclusive place specified.—A promissory note or bill of exchange, not\n\nmade payable as mentioned in sections 68 and 69, must be presented for payment at the place of business\n(if any), or at the usual residence, of the maker, drawee or acceptor thereof, as the case may be.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2a9b55538ea75ef350aad2fe8532be2aba26fc79758b7232c5c1153e93878a8f"
+  }
+}

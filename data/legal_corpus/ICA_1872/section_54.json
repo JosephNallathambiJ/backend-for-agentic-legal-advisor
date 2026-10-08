@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S54",
+  "section_number": "54",
+  "title": "Effect of default as to that promise which should be first performed, in contract consisting",
+  "text": "54. Effect of default as to that promise which should be first performed, in contract consisting\n\nof reciprocal promises.—When a contract consists of reciprocal promises, such that one of them cannot\nbe performed, or that its performance cannot be claimed till the other has been performed, and the\npromisor of the promise last mentioned fails to perform it, such promisor cannot claim the performance of\nthe reciprocal promise, and must make compensation to the other party to the contract for any loss which\nsuch other party may sustain by the non-performance of the contract.\n\n_Illustrations_\n\n(a) A hires B’s ship to take in and convey, from Calcutta to the Mauritius, a cargo to be provided by A, B receiving a certain\n\nfreight for its conveyance. A does not provide any cargo for the ship. A cannot claim the performance of B’s promise, and must\nmake compensation to B for the loss which B sustains by the non-performance of the contract.\n\n(b) A contracts with B to execute certain builder’s work for a fixed price, B supplying the scaffolding and timber necessary\n\nfor the work. B refuses to furnish any scaffolding or timber, and the work cannot be executed. A need not execute the work, and\nB is bound to make compensation to A for any loss caused to him by the non-performance of the contract.\n\n(c) A contracts with B to deliver to him, at a specified price, certain merchandise on board a ship which cannot arrive for a\n\nmonth, and B engages to pay for the merchandise within a week from the date of the contract. B does not pay within the week.\nA’s promise to deliver need not be performed, and B must make compensation.\n\n(d) A promises B to sell him one hundred bales of merchandise, to be delivered next day, and B promises A to pay for them\n\nwithin a month. A does not deliver according to his promise. B’s promise to pay need not be performed, and A must make\ncompensation.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ee8966c8f6d2811d4d681c9845399ea1b74648330a42f812cce6b5d0f59928e1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "CONSUMER_2019",
+  "act_title": "The Consumer Protection Act, 2019",
+  "section_id": "CONSUMER_2019_S86",
+  "section_number": "86",
+  "title": "Liability of product sellers",
+  "text": "86. Liability of product sellers.—A product seller who is not a product manufacturer shall be liable\n\nin a product liability action, if—\n\n(a) he has exercised substantial control over the designing, testing, manufacturing, packaging or\n\nlabelling of a product that caused harm; or\n\n(b) he has altered or modified the product and such alteration or modification was the substantial\n\nfactor in causing the harm; or\n\n(c) he has made an express warranty of a product independent of any express warranty made by a\n\nmanufacturer and such product failed to conform to the express warranty made by the product seller\nwhich caused the harm; or\n\n(d) the product has been sold by him and the identity of product manufacturer of such product is\n\nnot known, or if known, the service of notice or process or warrant cannot be effected on him or he is\nnot subject to the law which is in force in India or the order, if any, passed or to be passed cannot be\nenforced against him; or\n\n(e) he failed to exercise reasonable care in assembling, inspecting or maintaining such product or\n\nhe did not pass on the warnings or instructions of the product manufacturer regarding the dangers\ninvolved or proper usage of the product while selling such product and such failure was the proximate\ncause of the harm.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15256/5/A2019-35.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2fcec9b4628633ab04f4b6cc67359d4f8acd4d93b30541419d5161cbd767e4cb"
+  }
+}

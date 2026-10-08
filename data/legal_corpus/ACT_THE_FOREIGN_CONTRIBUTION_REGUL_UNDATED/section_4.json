@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_FOREIGN_CONTRIBUTION_REGUL_UNDATED",
+  "act_title": "The Foreign Contribution (Regulation) Act, 2010",
+  "section_id": "ACT_THE_FOREIGN_CONTRIBUTION_REGUL_UNDATED_S4",
+  "section_number": "4",
+  "title": "Persons to whom section 3 shall not apply",
+  "text": "4. Persons to whom section 3 shall not apply.—Nothing contained in section 3 shall apply to the\n\nacceptance, by any person specified in that section, of any foreign contribution where such contribution is\naccepted by him, subject to the provisions of section 10,—\n\n(a) by way of salary, wages or other remuneration due to him or to any group of persons working\n\nunder him, from any foreign source or by way of payment in the ordinary course of business\ntransacted in India by such foreign source; or",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2098/1/a2010-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fa2e5873d2f0f2a9b9dba6add8c00104c28cf9edacb8fe625b8823965bc14988"
+  }
+}

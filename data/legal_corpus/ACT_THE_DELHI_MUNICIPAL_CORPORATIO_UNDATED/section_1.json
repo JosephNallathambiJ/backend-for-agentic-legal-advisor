@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S1",
+  "section_number": "1",
+  "title": "North Delhi Municipal 1. Narela",
+  "text": "1. North Delhi Municipal 1. Narela\n\nCorporation",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bd426389cfd243ebd8d20048d96be95d404adf374d1cc3de9a2573e5546fa9f2"
+  }
+}

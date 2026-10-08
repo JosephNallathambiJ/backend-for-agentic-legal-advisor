@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S53",
+  "section_number": "53",
+  "title": "Liability of party preventing event on which the contract is to take effect",
+  "text": "53. Liability of party preventing event on which the contract is to take effect.—When a contract\n\ncontains reciprocal promises, and one party to the contract prevents the other from performing his\npromise, the contract becomes voidable at the option of the party so prevented; and he is entitled to\ncompensation from the other party for any loss which he may sustain in consequence of the nonperformance of the contract.\n\n_Illustration_\n\nA and B contract that B shall execute certain work for A for a thousand rupees. B is ready and willing to execute the work\n\naccordingly, but A prevents him from doing so. The contract is voidable at the option of B; and, if he elects to rescind it, he is\nentitled to recover from A compensation for any loss which he has incurred by its non-performance.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1dd0d7c5d138bf929b5c245c3714b42392b2589e4982d25c17b22f1f262ef49e"
+  }
+}

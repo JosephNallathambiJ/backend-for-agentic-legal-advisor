@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S32",
+  "section_number": "32",
+  "title": "Liability of maker of note and acceptor of bill",
+  "text": "32. Liability of maker of note and acceptor of bill.—In the absence of a contract to the contrary, the\n\nmaker of a promissory note and the acceptor before maturity of a bill of exchange are bound to pay the\namount thereof at maturity according to the apparent tenor of the note or acceptance respectively, and the\nacceptor of a bill of exchange at or after maturity is bound to pay the amount thereof to the holder on demand.\n\nIn default of such payment as aforesaid, such maker or acceptor is bound to compensate any party to\n\nthe note or bill for any loss or damage sustained by him and caused by such default.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "58ecfcc9eb99de2ea84314eeb57e8024e46636590bd4e3bcd51ed48575880789"
+  }
+}

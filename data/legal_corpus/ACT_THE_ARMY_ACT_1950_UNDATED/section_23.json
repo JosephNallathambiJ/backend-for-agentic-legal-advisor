@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S23",
+  "section_number": "23",
+  "title": "Certificate on termination of service",
+  "text": "23. Certificate on termination of service.—Every junior commissioned officer, warrant officer, or\n\nenrolled person who is dismissed, removed, discharged, retired or released from the service shall be\nfurnished by his commanding officer with a certificate, in the language which is the mother tongue of\nsuch person and also in the English language setting forth—\n\n(a) the authority terminating his service;\n\n(b) the cause for such termination ; and\n\n(c) the full period of his service in the regular Army.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0a94403962e16c3e573735340bf9e2e679360125fffba02151d4d582c0026a07"
+  }
+}

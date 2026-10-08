@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED",
+  "act_title": "The Securities and Exchange Board of India Act, 1992",
+  "section_id": "ACT_THE_SECURITIES_AND_EXCHANGE_BO_UNDATED_S19",
+  "section_number": "19",
+  "title": "Delegation",
+  "text": "19. Delegation.—The Board may, by general or special order in writing delegate to any member,\n\nofficer of the Board or any other person subject to such conditions, if any, as may be specified in the\norder, such of its powers and functions under this Act (except the powers under section 29) as it may\ndeem necessary.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1890/1/AA1992__15secu.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9d251220d2aedf55a4f58228d495006e6ed973805a251cdbc94bfb5567eab5c5"
+  }
+}

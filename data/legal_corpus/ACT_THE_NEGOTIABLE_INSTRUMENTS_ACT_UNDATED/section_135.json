@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S135",
+  "section_number": "135",
+  "title": "Law of place of payment governs dishonour",
+  "text": "135. Law of place of payment governs dishonour.—Where a promissory note, bill of exchange or\n\ncheque is made payable in a different place from that in which it is made or indorsed, the law of the place\nwhere it is made payable determines what constitutes dishonour and what notice of dishonour is\nsufficient.\n\n_Illustration_\n\nA bill of exchange drawn and indorsed in [India], but accepted payable in France, is dishonoured. The indorsee causes it to\n\nbe protested for such dishonour, and gives notice thereof in accordance with the law of France, though not in accordance with the\nrules herein contained in respect of bills which are not foreign. The notice is sufficient.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5f4f464282dd65f628ab5a0ba144eee6ae497e42cfa7de43d872476cbaecf4e1"
+  }
+}

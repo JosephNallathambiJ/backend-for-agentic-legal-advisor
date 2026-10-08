@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S73",
+  "section_number": "73",
+  "title": "General average contributions and salvage charges",
+  "text": "73. General average contributions and salvage charges.—(1) Subject to any express provision in\n\nthe policy, where the assured has paid, or is liable for, any general average contribution, the measure of\nindemnity is the full amount of such contribution if the subject-matter liable to contribution is insured for\nits full contributory value; but, if such subject-matter be not insured for its full contributory value, or if\nonly part of it be insured, the indemnity payable by the insurer must be reduced in proportion to the\nunder-insurance, and where there has been a particular average loss which constitutes a deduction from\nthe contributory value, and for which the insurer is liable, that amount must be deducted from the insured\nvalue in order to ascertain what the insurer is liable to contribute.\n\n(2) Where the insurer is liable for salvage charges the extent of his liabilities must be determined on\n\nthe like principle.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bf73d49a9a329c867734c928db3e65b45551b6237cc37849e182de8162bad133"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S40",
+  "section_number": "40",
+  "title": "Marjoram 0.5%",
+  "text": "40. Marjoram 0.5%",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "18d6bbac36468a7e55b514b0cc1f45a243ce6ee6cf6f3aeb640f004bd64f73ff"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S25",
+  "section_number": "25",
+  "title": "Conditional transfer",
+  "text": "25. Conditional transfer.—An interest created on a transfer of property and dependent upon a\n\ncondition fails if the fulfilment of the condition is impossible, or is forbidden by law, or is of such a\nnature that, if permitted, it would defeat the provisions of any law, or is fraudulent, or involves or\nimplies injury to the person or property of another, or the Court regards it as immoral or opposed to\npublic policy.\n\n_Illustrations_\n\n(a) A lets a farm to B on condition that he shall walk a hundred miles in an hour. The lease is void.\n\n(b) A gives Rs. 500 to B on condition that he shall marry A's daughter C. At the date of the transfer C was dead. The\n\ntransfer is void.\n\n(c) A transfers Rs. 500 to B or condition that she shall murder C. The transfer is void.\n\n(d) A transfers Rs. 500 to his niece C if she will desert her husband. The transfer is void.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c18faab86a8298b4fa86dbe83b72a44b77a4282310ff67a25a6e3d4097733674"
+  }
+}

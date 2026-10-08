@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GENERAL_INSURANCE_BUSINESS_UNDATED",
+  "act_title": "The General Insurance Business (Nationalisation) Act, 1972",
+  "section_id": "ACT_THE_GENERAL_INSURANCE_BUSINESS_UNDATED_S30",
+  "section_number": "30",
+  "title": "National Employers’ Mutual",
+  "text": "30. National Employers’ Mutual\nGeneral Insurance Association Ltd.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1710/1/AA1972___57.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4173f3c10fcf1be2ff2d457f2a2fc288cecaa871a88b51cda6e96d4623316b34"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED",
+  "act_title": "The Oilfields (Regulation and Development) Act, 1948",
+  "section_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED_S11",
+  "section_number": "11",
+  "title": "Cuddapah Basin",
+  "text": "11. Cuddapah Basin",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1397/3/1948-53.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f8b1962ceb2a22a9b820779fc455f6acbcb4eff89603fa1090a19a29c5d6942a"
+  }
+}

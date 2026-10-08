@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S41",
+  "section_number": "41",
+  "title": "Acceptance of Digital Signature Certificate.–(1) A subscriber shall be deemed to have accepted",
+  "text": "41. Acceptance of Digital Signature Certificate.–(1) A subscriber shall be deemed to have accepted\n\na Digital Signature Certificate if he publishes or authorises the publication of a Digital Signature\nCertificate–\n\n(a) to one or more persons;\n\n(b) in a repository; or\n\notherwise demonstrates his approval of the Digital Signature Certificate in any manner.\n\n(2) By accepting a Digital Signature Certificate the subscriber certifies to all who reasonably rely on\n\nthe information contained in the Digital Signature Certificate that–\n\n(a) the subscriber holds the private key corresponding to the public key listed in the Digital\n\nSignature Certificate and is entitled to hold the same;\n\n(b) all representations made by the subscriber to the Certifying Authority and all material relevant\n\nto the information contained in the Digital Signature Certificate are true;\n\n(c) all information in the Digital Signature Certificate that is within the knowledge of the\n\nsubscriber is true.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fb961f2a7c2e3ffc62a42ca04e22dbaf108d5f749571ae373a4108c00807cb74"
+  }
+}

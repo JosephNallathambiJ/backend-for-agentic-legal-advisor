@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S53",
+  "section_number": "53",
+  "title": "Transit of certain goods without payment of duty.",
+  "text": "53. Transit of certain goods without payment of duty.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "354f75898a31d75fd09b0678746960d731cc7daaa47b73ecc334ab064cd20dc9"
+  }
+}

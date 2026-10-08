@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED",
+  "act_title": "The Sale of Goods Act, 1930",
+  "section_id": "ACT_THE_SALE_OF_GOODS_ACT_1930_UNDATED_S15",
+  "section_number": "15",
+  "title": "Sale by description",
+  "text": "15. Sale by description.—Where there is a contract for the sale of goods by description, there is an\n\nimplied condition that the goods shall correspond with the description; and, if the sale is by sample as\nwell as by description, it is not sufficient that the bulk of the goods corresponds with the sample if the\ngoods do not also correspond with the description.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2390/1/193003.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "61a6a7187cc879e1df458bf2ff3467ac2bf6d8e3892f83832f0f47b9a59c632e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "jurisdiction": "EU",
+  "act_id": "EU_AI_ACT_2024",
+  "act_title": "Regulation (EU) 2024/1689 — Artificial Intelligence Act (EU AI Act)",
+  "section_id": "EU_AI_ACT_2024_S5",
+  "section_number": "5",
+  "title": "Prohibited Artificial Intelligence Practices",
+  "text": "The following AI practices shall be prohibited: (a) the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person's consciousness or purposefully manipulative or deceptive techniques; (b) the placing on the market, the putting into service or the use of an AI system that exploits any of the vulnerabilities of a person or a specific group of persons; (c) social scoring systems.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+    "version": "2024_official_edition",
+    "sha256": "1444666390ee6a90abc44d0fa936dd2013954232f8073a959180b17ffbfe9808"
+  }
+}

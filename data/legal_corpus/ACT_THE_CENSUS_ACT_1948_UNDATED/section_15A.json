@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENSUS_ACT_1948_UNDATED",
+  "act_title": "The Census Act, 1948",
+  "section_id": "ACT_THE_CENSUS_ACT_1948_UNDATED_S15A",
+  "section_number": "15A",
+  "title": "Protection of service interests of members of census staff.",
+  "text": "15A. Protection of service interests of members of census staff.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1519/1/AAA1948___37.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7945c8ae0f286625bd28d80a75bc9f5758b7b005a31271ed11133df51e3447c1"
+  }
+}

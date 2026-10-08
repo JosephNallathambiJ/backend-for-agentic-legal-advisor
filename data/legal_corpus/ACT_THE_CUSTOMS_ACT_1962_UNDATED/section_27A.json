@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S27A",
+  "section_number": "27A",
+  "title": "Interest on delayed refunds.",
+  "text": "27A. Interest on delayed refunds.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c0c06f6c12be627a04b3de37333da63585e6b4db67c17b5d42352f42c1f455b4"
+  }
+}

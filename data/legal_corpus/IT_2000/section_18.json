@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S18",
+  "section_number": "18",
+  "title": "Functions of Controller.–The Controller may perform all or any of the following functions,",
+  "text": "18. Functions of Controller.–The Controller may perform all or any of the following functions,\n\nnamely:–\n\n(a) exercising supervision over the activities of the Certifying Authorities;\n\n(b) certifying public keys of the Certifying Authorities;\n\n(c) laying down the standards to be maintained by the Certifying Authorities;\n\n(d) specifying the qualifications and experience which employees of the Certifying Authority\n\nshould possess;\n\n(e) specifying the conditions subject to which the Certifying Authorities shall conduct their\n\nbusiness;\n\n(f) specifying the contents of written, printed or visual materials and advertisements that may be\n\ndistributed or used in respect of a [electronic signature] Certificate and the public key;\n\n(g) specifying the form and content of a [electronic signature] Certificate and the key;\n\n(h) specifying the form and manner in which accounts shall be maintained by the Certifying\n\nAuthorities;\n\n(i) specifying the terms and conditions subject to which auditors may be appointed and the\n\nremuneration to be paid to them;\n\n(j) facilitating the establishment of any electronic system by a Certifying Authority either solely\n\nor jointly with other Certifying Authorities and regulation of such systems;\n\n(k) specifying the manner in which the Certifying Authorities shall conduct their dealings with the\n\nsubscribers;\n\n(l) resolving any conflict of interests between the Certifying Authorities and the subscribers;\n\n(m) laying down the duties of the Certifying Authorities;\n\n(n) maintaining a data base containing the disclosure record of every Certifying Authority\n\ncontaining such particulars as may be specified by regulations, which shall be accessible to public.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2a19ed289bbd3387ac6d465d05dce5943d4a328f544daddae5adf30c67c7f100"
+  }
+}

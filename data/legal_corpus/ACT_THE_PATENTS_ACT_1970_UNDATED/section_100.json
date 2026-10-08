@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S100",
+  "section_number": "100",
+  "title": "Power of Central Government to use inventions for purposes of Government.",
+  "text": "100. Power of Central Government to use inventions for purposes of Government.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cf36d0056e8aa25c93c2497018ab88f3649e944b2e579688526ee14ee8d63d5c"
+  }
+}

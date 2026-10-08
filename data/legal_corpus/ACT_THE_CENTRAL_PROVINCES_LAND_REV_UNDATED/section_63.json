@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S63",
+  "section_number": "63",
+  "title": "Aggregate amount of allowance granted to, and deduction from rent allowed to, excluded",
+  "text": "63. Aggregate amount of allowance granted to, and deduction from rent allowed to, excluded\n\nproprietor.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "dc5951ca36db2aef1348828af406901cd0a47648b74fce04388dd2bdb90d8841"
+  }
+}

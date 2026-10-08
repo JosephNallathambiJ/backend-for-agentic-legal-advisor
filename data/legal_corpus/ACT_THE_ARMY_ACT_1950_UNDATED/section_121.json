@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ARMY_ACT_1950_UNDATED",
+  "act_title": "The Army Act, 1950",
+  "section_id": "ACT_THE_ARMY_ACT_1950_UNDATED_S121",
+  "section_number": "121",
+  "title": "Prohibition of second trial",
+  "text": "121. Prohibition of second trial.—When any person subject to this Act has been acquitted or\n\nconvicted of an offence by a court-martial or by a criminal court, or has been dealt with under any of the\nsections 80, 83, 84 and 85, he shall not be liable to be tried again for the same offence by a court-martial\nor dealt with under the said sections.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1930/5/A1950-46.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e0fd7829d1c24b1d258265c4f0f2032f08db8f4fb74d709c391b2ee46f45a0ea"
+  }
+}

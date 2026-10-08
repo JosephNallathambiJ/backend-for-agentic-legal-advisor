@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S245K",
+  "section_number": "245K",
+  "title": "Bar on subsequent application for settlement.",
+  "text": "245K. Bar on subsequent application for settlement.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "95cd9a9567213e103754430a7a331159e0aba08a57bd0cb8c1de6fc1c55b1202"
+  }
+}

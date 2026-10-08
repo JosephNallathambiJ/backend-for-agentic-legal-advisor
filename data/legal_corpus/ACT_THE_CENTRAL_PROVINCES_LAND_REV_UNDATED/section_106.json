@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S106",
+  "section_number": "106",
+  "title": "Effect of Annulment of settlement",
+  "text": "106. Effect of Annulment of settlement.—No leases, liens or other incumbrances created by the\n\ndefaulters, or by any person through or under whom they claim, of, or upon any land managed or let in farm\nunder this Act, shall, during such management or farm, be binding upon the Deputy Commissioner or\nSettlement-officer, his agent or lessee.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "77dd65f8883ca6064a168ff8d90085dc47804a29e2ceea429dab44a33841f6a4"
+  }
+}

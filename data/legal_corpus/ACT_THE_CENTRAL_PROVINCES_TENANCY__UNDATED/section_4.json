@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED",
+  "act_title": "The Central Provinces Tenancy Act, 1898",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED_S4",
+  "section_number": "4",
+  "title": "Presumption as to amount of rent payable",
+  "text": "4. Presumption as to amount of rent payable.—In all suits and proceedings between landlord and\ntenant, the rent payable for any agricultural year by a tenant in respect of his holding shall be resumed,\nuntil the contrary is proved, to be the rent payable in respect of the holding in the agricultural year\nimmediately preceding that year.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19250/1/A1898-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5d8bd4ad02cfdfbcc7fbe6e6572f2fc0a0c283890332de58f6dfa39527122919"
+  }
+}

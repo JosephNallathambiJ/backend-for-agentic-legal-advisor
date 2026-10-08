@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S12",
+  "section_number": "12",
+  "title": "Air consignment note and baggage check, issued by an air transport company in respect of goods",
+  "text": "12. Air consignment note and baggage check, issued by an air transport company in respect of goods\n\ncarried by air, and the counterfoil or duplicate thereof retained by the carrier.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ec7707fe41a059cf35f8fb4b23f67b46cb51da56f2d30f3f1fcb706abecb2474"
+  }
+}

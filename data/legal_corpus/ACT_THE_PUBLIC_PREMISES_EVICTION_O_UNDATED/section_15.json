@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUBLIC_PREMISES_EVICTION_O_UNDATED",
+  "act_title": "The Public Premises (Eviction of Unauthorised Occupants) Act, 1971",
+  "section_id": "ACT_THE_PUBLIC_PREMISES_EVICTION_O_UNDATED_S15",
+  "section_number": "15",
+  "title": "Bar of jurisdiction.",
+  "text": "15. Bar of jurisdiction.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1609/1/A1971-40%202.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b071b4e4b433fd00c82d03fa40be028f4c2fda40834bd86a9214320c129563bc"
+  }
+}

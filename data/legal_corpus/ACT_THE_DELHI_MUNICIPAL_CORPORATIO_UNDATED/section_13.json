@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S13",
+  "section_number": "13",
+  "title": "Chemicals, liquid.",
+  "text": "13. Chemicals, liquid.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4fe767e247f69a26a7bee241a32b941ca07ddc3c9d27a1c7e3e14a7b9b28d92f"
+  }
+}

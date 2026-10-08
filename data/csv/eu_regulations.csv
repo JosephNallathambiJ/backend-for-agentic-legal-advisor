@@ -1,0 +1,3 @@
+jurisdiction,act_id,act_title,short_title,year,act_number,enactment_date,official_url,sha256
+EU,EU_GDPR_2016,Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR),EU GDPR,2016,N/A,2016,https://eur-lex.europa.eu/eli/reg/2016/679/oj,ef73112fade2ea18891be263317ca09c2f3e075f1b26ed335a45264b8b347815
+EU,EU_AI_ACT_2024,Regulation (EU) 2024/1689 — Artificial Intelligence Act (EU AI Act),EU AI Act,2024,N/A,2024,https://eur-lex.europa.eu/eli/reg/2024/1689/oj,68df81070b9e48dd18f7b60e9f2d6e221e763136f7890044cf7228d5668979f6

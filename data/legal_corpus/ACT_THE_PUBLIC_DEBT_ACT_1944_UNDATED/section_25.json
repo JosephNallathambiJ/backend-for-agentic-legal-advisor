@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUBLIC_DEBT_ACT_1944_UNDATED",
+  "act_title": "The Public Debt Act, 1944",
+  "section_id": "ACT_THE_PUBLIC_DEBT_ACT_1944_UNDATED_S25",
+  "section_number": "25",
+  "title": "Inspection of documents.",
+  "text": "25. Inspection of documents.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2405/5/A1944-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6f306e67dbae0640ff48827cd934a739e8ab877042e796130fabe4d8c079ca7b"
+  }
+}

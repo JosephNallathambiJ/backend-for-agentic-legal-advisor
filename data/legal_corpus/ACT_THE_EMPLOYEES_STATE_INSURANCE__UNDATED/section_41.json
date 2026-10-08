@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S41",
+  "section_number": "41",
+  "title": "Whole.        .       .         .     .    .      .        . 7",
+  "text": "41. Whole. . . . . . . . 7",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d32ad67d9d4e18dc8026260bcda28d9e85daf38f7fcb273ad576a7e02615101c"
+  }
+}

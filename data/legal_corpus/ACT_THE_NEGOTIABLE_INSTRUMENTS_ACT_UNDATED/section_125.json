@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S125",
+  "section_number": "125",
+  "title": "Crossing after issue",
+  "text": "125. Crossing after issue.—Where a cheque is uncrossed, the holder may cross it generally or\n\nspecially.\n\nWhere a cheque is crossed generally, the holder may cross it specially.\n\nWhere a cheque is crossed generally, or specially, the holder may add the words “not negotiable”.\n\nWhere a cheque is crossed specially, the banker to whom it is crossed may again cross it specially to\n\nanother banker, his agent, for collection.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "4e52c17cb9b5a25d6bdb8f4d79258327476e1c323ac6bac73f80ff93a415ad35"
+  }
+}

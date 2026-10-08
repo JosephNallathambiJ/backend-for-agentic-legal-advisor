@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S158",
+  "section_number": "158",
+  "title": "Ademption where stock, specifically bequeathed, does not exist at testator’s death",
+  "text": "158. Ademption where stock, specifically bequeathed, does not exist at testator’s death.—Where\n\nstock which has been specifically bequeathed does not exist at the testator's death, the legacy is adeemed.\n\n_Illustration_\n\nA bequeaths to B—\n\n“my capital stock of 1,000£ in East India Stock”:\n\n“my promissory notes of the Central Government for 10,000 rupees in their 4 per cent. loan.”\n\nA sells the stock and the notes. The legacies are adeemed.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "afc447fdb835ad2860cf61199ea7c16bd1ef20fe0eab239a352db73ed6f26a81"
+  }
+}

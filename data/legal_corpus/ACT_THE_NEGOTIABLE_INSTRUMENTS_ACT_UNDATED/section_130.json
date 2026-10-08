@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S130",
+  "section_number": "130",
+  "title": "Cheque bearing “not negotiable”",
+  "text": "130. Cheque bearing “not negotiable”.—A person taking a cheque crossed generally or specially,\n\nbearing in either case the words “not negotiable,” shall not have, and shall not be capable of giving, a\nbetter title to the cheque than that which the person from whom he took it had.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7361bb9d921ce9e1e520a16f8ba2c16c2f5193f3a3c83f992d73afdf47aa6632"
+  }
+}

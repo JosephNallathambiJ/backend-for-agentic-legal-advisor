@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_UNIVERSITY_ACT_1922_UNDATED",
+  "act_title": "The Delhi University Act, 1922",
+  "section_id": "ACT_THE_DELHI_UNIVERSITY_ACT_1922_UNDATED_S30",
+  "section_number": "30",
+  "title": "Ordinances.",
+  "text": "30. Ordinances.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2374/1/a1922-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d006c79e0d70577f996475a4cc6579edd4e5e723fee99fdc16041f69fa9763c5"
+  }
+}

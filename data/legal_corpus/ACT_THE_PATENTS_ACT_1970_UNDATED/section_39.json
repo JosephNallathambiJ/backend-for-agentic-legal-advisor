@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S39",
+  "section_number": "39",
+  "title": "Residents not to apply for patents outside India without prior permission.",
+  "text": "39. Residents not to apply for patents outside India without prior permission.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d80efde95869c1367d4c6423294eee5684345523cdb2e073704ef5a1c0274f40"
+  }
+}

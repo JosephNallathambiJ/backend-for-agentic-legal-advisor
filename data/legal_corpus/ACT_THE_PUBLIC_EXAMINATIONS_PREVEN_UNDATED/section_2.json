@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUBLIC_EXAMINATIONS_PREVEN_UNDATED",
+  "act_title": "The Public Examinations (Prevention of Unfair Means) Act, 2024",
+  "section_id": "ACT_THE_PUBLIC_EXAMINATIONS_PREVEN_UNDATED_S2",
+  "section_number": "2",
+  "title": "Staff Selection Commission.",
+  "text": "2. Staff Selection Commission.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20100/1/a2024-01.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d0e8bd0d25813f813fd1eab993f80db9737d69b4d245fa8642bc6eff729daaf7"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PRESIDENCY_TOWNS_INSOLVENC_UNDATED",
+  "act_title": "The Presidency-Towns Insolvency Act, 1909",
+  "section_id": "ACT_THE_PRESIDENCY_TOWNS_INSOLVENC_UNDATED_S84",
+  "section_number": "84",
+  "title": "Office vacated by insolvency.",
+  "text": "84. Office vacated by insolvency.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19722/1/a1909-03.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e654ed28a5df2a042e51a276ce791a1f70bc47cf8cf4be6bff0503efcf84fb0a"
+  }
+}

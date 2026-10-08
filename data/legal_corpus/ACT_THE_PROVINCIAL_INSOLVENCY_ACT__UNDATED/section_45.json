@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S45",
+  "section_number": "45",
+  "title": "Debt payable at a future time.",
+  "text": "45. Debt payable at a future time.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c23063f5fd2a4e83504c4097761709ef54656be9e7e2932f86db4cef8c346f9b"
+  }
+}

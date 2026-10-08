@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DEPOSIT_INSURANCE_AND_CRED_UNDATED",
+  "act_title": "The Deposit Insurance and Credit Guarantee Corporation Act, 1961",
+  "section_id": "ACT_THE_DEPOSIT_INSURANCE_AND_CRED_UNDATED_S19",
+  "section_number": "19",
+  "title": "Discharge of the liability of Corporation",
+  "text": "19. Discharge of the liability of Corporation.—Any amount paid by the Corporation under section\n\n17 or section 18 [or section 18A] in respect of a deposit shall, to the extent of the amount paid, discharge\nthe Corporation from its liability in respect of that deposit.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1655/5/a1961-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "380532628075b5660efa04469c4dda4f6d78973f7c12263f188e2fc7c0c55216"
+  }
+}

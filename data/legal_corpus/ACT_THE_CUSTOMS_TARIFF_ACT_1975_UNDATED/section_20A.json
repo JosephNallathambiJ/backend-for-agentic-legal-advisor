@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S20A",
+  "section_number": "20A",
+  "title": "2601 11 21, All Goods Nil",
+  "text": "20A. 2601 11 21, All Goods Nil\n\n2601 11 22,\n2601 11 41,\n2601 11 42\n\n20B Omitted\n\n20C 2601 11 All Goods other than goods mentioned in S.no. 20A 30%\n\n20D 2601 12 All Goods other than iron ore pellets 30%\n\n21 Omitted",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "41518297d12f7d289483c66ce5e0a14579a5b72826308143b9c9e624201286d6"
+  }
+}

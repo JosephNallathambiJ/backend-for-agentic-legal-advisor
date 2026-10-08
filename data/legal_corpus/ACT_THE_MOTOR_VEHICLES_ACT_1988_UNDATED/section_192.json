@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MOTOR_VEHICLES_ACT_1988_UNDATED",
+  "act_title": "The Motor Vehicles Act, 1988",
+  "section_id": "ACT_THE_MOTOR_VEHICLES_ACT_1988_UNDATED_S192",
+  "section_number": "192",
+  "title": "Using vehicle without registration.",
+  "text": "192. Using vehicle without registration.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1798/1/198859.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1ef89e87f0f1a915bc97dd5b3b2a53754605afe44322c7fb8aa55f804246a009"
+  }
+}

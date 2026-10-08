@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S36",
+  "section_number": "36",
+  "title": "Liability of prior parties to holder in due course",
+  "text": "36. Liability of prior parties to holder in due course.—Every prior party to a negotiable instrument\n\nis liable thereon to a holder in due course until the instrument is duly satisfied.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "36f2ef16d9bc83bf71b5cc7174a0bc6f317598d1f13955bea8a4c77b92f356e5"
+  }
+}

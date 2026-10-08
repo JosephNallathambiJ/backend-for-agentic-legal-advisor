@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NATIONAL_MEDICAL_COMMISSIO_UNDATED",
+  "act_title": "The National Medical Commission Act, 2019",
+  "section_id": "ACT_THE_NATIONAL_MEDICAL_COMMISSIO_UNDATED_S2",
+  "section_number": "2",
+  "title": "All medical qualifications granted by All India Institutes of Medical Sciences.",
+  "text": "2. All medical qualifications granted by All India Institutes of Medical Sciences.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/11820/1/A2019_30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5740f2c16d0db0e7bf95e7c423c9a82c1ca8e415b48a7a8ed89548ff373522f3"
+  }
+}

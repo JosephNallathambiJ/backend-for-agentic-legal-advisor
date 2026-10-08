@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S65",
+  "section_number": "65",
+  "title": "Revocation of patent or amendment of complete specification on directions from Government in",
+  "text": "65. Revocation of patent or amendment of complete specification on directions from Government in\n\ncases relating to atomic energy.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9e96e30b763bfc20a6e3d75b06f558a82d967dcbbc5f3ca568a4a788e4efc1af"
+  }
+}

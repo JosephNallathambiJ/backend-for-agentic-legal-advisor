@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PUNJAB_TENANCY_ACT_1887_UNDATED",
+  "act_title": "The Punjab Tenancy Act, 1887.",
+  "section_id": "ACT_THE_PUNJAB_TENANCY_ACT_1887_UNDATED_S42",
+  "section_number": "42",
+  "title": "Restriction on ejectment",
+  "text": "42. Restriction on ejectment.—A tenant shall not be ejected otherwise than in execution of a decree\nfor ejectment except in the following cases, namely:—\n\n(a) when a decree for an arrear of rent in respect of his tenancy has been passed against him and\nremains unsatisfied;\n\n(b) when the tenant has not a right of occupancy and does not hold for a fixed term under a contract\nor a decree or order of competent authority.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19230/1/a1887-16.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6e19139585d9051fceac930bb9c65d60eaef97246d9f0e7e16d8941c01259a30"
+  }
+}

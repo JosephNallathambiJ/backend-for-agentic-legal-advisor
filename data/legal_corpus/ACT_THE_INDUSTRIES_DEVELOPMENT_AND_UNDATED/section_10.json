@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED",
+  "act_title": "The Industries (Development and Regulation)  Act, 1951",
+  "section_id": "ACT_THE_INDUSTRIES_DEVELOPMENT_AND_UNDATED_S10",
+  "section_number": "10",
+  "title": "AGRICULTURAL MACHINERY:",
+  "text": "10. AGRICULTURAL MACHINERY:\n\n(1) Tractors, harvesters and the like.\n\n(2) Agricultural implements.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2118/3/A1951-65.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "088b63a885421b565c720d0e77d521873059b7e9f1ad9d201297a5416fd73d7e"
+  }
+}

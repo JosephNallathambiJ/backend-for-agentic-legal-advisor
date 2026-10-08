@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S129",
+  "section_number": "129",
+  "title": "Bequest to A and on failure of prior bequest to B",
+  "text": "129. Bequest to A and on failure of prior bequest to B.—Where there is a bequest to one person\n\nand a bequest of the same thing to another, if the prior bequest shall fail, the second bequest shall take\neffect upon the failure of the prior bequest although the failure may not have occurred in the manner\ncontemplated by the testator.\n\n_Illustrations_\n\n(i) A bequeaths a sum of money to his own children surviving him, and, if they all die under 18, to B. A dies\n\nwithout having ever had a child. The bequest to B takes effect.\n\n(ii) A bequeaths a sum of money to B, on condition that he shall execute a certain document within three\n\nmonths after A’s death, and, if he should neglect to do so, to C. B dies in the testator’s lifetime. The bequest to C\ntakes effect.\n\n-----",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "40ab21e3ccaec03f1ff537e54c495c7a0643e5d0bb100742fc4239ff2d073d3c"
+  }
+}

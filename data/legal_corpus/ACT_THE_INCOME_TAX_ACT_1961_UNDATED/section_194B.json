@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S194B",
+  "section_number": "194B",
+  "title": "Winnings from lottery or crossword puzzle.",
+  "text": "194B. Winnings from lottery or crossword puzzle.\n\n194BB.Winnings from horse race.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a5c75e531b58c026c52420e85d69a63e91c4636dc942dbb10d3dba505d34e1c6"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S104",
+  "section_number": "104",
+  "title": "Jurisdiction",
+  "text": "104. Jurisdiction.—No suit for a declaration under section 105 or for any relief under section 106 or\n\nfor infringement of a patent shall be instituted in any court inferior to a district court having jurisdiction to\ntry the suit:\n\nProvided that where a counter-claim for revocation of the patent is made by the defendant, the suit,\n\nalong with the counter-claim, shall be transferred to the High Court for decision.\n\n1[104A. Burden of proof in case of suits concerning infringement.—(1) In any suit for\n\ninfringement of a patent, where the subject matter of patent is a process for obtaining a product, the court\nmay direct the defendant to prove that the process used by him to obtain the product, identical to the\nproduct of the patented process, is different from the patented process if,—\n\n(a) the subject matter of the patent is a process for obtaining a new product; or\n\n(b) there is a substantial likelihood that the identical product is made by the process, and the\n\npatentee or a person deriving title or interest in the patent from him, has been unable through\nreasonable efforts to determine the process actually used:\n\nProvided that the patentee or a person deriving title or interest in the patent from him, first proves that\n\nthe product is identical to the product directly obtained by the patented process.\n\n(2) In considering whether a party has discharged the burden imposed upon him by sub-section (1),\n\nthe court shall not require him to disclose any manufacturing or commercial secrets, if it appears to the\ncourt that it would be unreasonable to do so.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "514edc289db5ab69bac60002dafd534a2c1a5f3c62f2ceb9e359b79ad3ef79b5"
+  }
+}

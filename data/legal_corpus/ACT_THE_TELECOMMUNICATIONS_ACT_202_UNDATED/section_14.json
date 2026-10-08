@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED",
+  "act_title": "The Telecommunications Act, 2023.",
+  "section_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED_S14",
+  "section_number": "14",
+  "title": "In-flight and maritime connectivity.",
+  "text": "14. In-flight and maritime connectivity.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20101/1/A2023-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d1379045169f9d988dbee338321f0a454156a4680bbde4dddd972ca2c153afdc"
+  }
+}

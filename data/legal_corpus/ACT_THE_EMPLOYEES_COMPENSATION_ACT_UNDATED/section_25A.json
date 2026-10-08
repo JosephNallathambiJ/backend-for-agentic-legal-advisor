@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S25A",
+  "section_number": "25A",
+  "title": "Time limit of disposal of cases relating to compensation.",
+  "text": "25A. Time limit of disposal of cases relating to compensation.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a1f2bf7e289fb6686794ecb729f4abd55b03df2920ccdf30402e0e8f6ef3e389"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S6A",
+  "section_number": "6A",
+  "title": "Delivery of services by service provider.",
+  "text": "6A. Delivery of services by service provider.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "451353993281674d8a06a979e7aefb8e2c8c1bcb6db9b2dbb412c12d9d444669"
+  }
+}

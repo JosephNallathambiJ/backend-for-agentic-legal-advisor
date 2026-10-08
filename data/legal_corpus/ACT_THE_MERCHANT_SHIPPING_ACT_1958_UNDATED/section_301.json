@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S301",
+  "section_number": "301",
+  "title": "Cargo ship safety radio certificate and qualified cargo ship safety radio certificate etc.",
+  "text": "301. Cargo ship safety radio certificate and qualified cargo ship safety radio certificate etc.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9a470e2be265111ea37a99faa5e4682c861b94c3f4743863c530943e968a2355"
+  }
+}

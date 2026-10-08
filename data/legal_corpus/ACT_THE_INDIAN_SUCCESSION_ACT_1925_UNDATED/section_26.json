@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S26",
+  "section_number": "26",
+  "title": "Collateral consanguinity",
+  "text": "26. Collateral consanguinity.—(1) Collateral consanguinity is that which subsists between two\n\npersons who are decended from the same stock or ancestor, but neither of whom is descended in a direct\nline from the other.\n\n(2) For the purpose of ascertaining in what degree of kindred any collateral relative stands to a person\n\ndeceased, it is necessary to reckon upwards from the person deceased to the common stock and then\ndownwards to the collateral relative, a degree being allowed for each person, both ascending and\ndescending.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "0bbc7471f485b0e03339032f8b62e940efcd2a6e3ea02b6fcede00ad59535501"
+  }
+}

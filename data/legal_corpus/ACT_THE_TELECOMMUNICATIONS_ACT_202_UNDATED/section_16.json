@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED",
+  "act_title": "The Telecommunications Act, 2023.",
+  "section_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED_S16",
+  "section_number": "16",
+  "title": "Certain satellite-based services such as: Teleports, Television channels, Direct To Home,",
+  "text": "16. Certain satellite-based services such as: Teleports, Television channels, Direct To Home,\nHeadend In The Sky, Digital Satellite News Gathering, Very Small Aperture Terminal, Global\nMobile Personal Communication by Satellites, National Long Distance, International Long\nDistance, Mobile Satellite Service in L and S bands.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20101/1/A2023-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "8e39742cfe3c4bd1830121403b67996d469748f099134cf84b36fcc082215aa1"
+  }
+}

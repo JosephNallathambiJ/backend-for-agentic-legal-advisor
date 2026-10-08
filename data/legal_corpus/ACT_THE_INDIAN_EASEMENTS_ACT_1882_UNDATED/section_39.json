@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED",
+  "act_title": "The Indian Easements Act, 1882",
+  "section_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED_S39",
+  "section_number": "39",
+  "title": "Extinction by revocation",
+  "text": "39. Extinction by revocation.—An easement is extinguished when the servient owner, in exercise\n\nof a power reserved in this behalf, revokes the easement.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2349/1/A1882-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d892e61e1a8845e5fd203579bc0c141687cb3843331be99054314540db97e15c"
+  }
+}

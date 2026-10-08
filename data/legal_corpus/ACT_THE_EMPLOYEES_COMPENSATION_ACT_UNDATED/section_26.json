@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S26",
+  "section_number": "26",
+  "title": "Disease due to effect of heat in extreme hot",
+  "text": "26. Disease due to effect of heat in extreme hot\nclimate.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e7b1903faa8ccc60e967f08d759d0f9232061a8a2f853cb0961eed10b85404b9"
+  }
+}

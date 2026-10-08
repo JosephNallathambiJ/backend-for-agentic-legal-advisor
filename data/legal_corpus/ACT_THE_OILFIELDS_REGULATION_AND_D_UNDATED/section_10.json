@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED",
+  "act_title": "The Oilfields (Regulation and Development) Act, 1948",
+  "section_id": "ACT_THE_OILFIELDS_REGULATION_AND_D_UNDATED_S10",
+  "section_number": "10",
+  "title": "Deccan Syneclise Basin",
+  "text": "10. Deccan Syneclise Basin",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1397/3/1948-53.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cb4763e6a3429d661a4d5f8c8e213033ecc2d09a188fba6a805c8ac8a30a8c6c"
+  }
+}

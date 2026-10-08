@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED",
+  "act_title": "The Indian Easements Act, 1882",
+  "section_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED_S37",
+  "section_number": "37",
+  "title": "Extinction by dissolution of right of servient owner",
+  "text": "37. Extinction by dissolution of right of servient owner.—When, from a cause which preceded\n\nthe imposition of an easement, the person by whom it was imposed ceases to have any right in the\nservient heritage, the easement is extinguished.\n\n_Exception.—Nothing in this section applies to an easement lawfully imposed by a mortgagor in_\n\naccordance with section 10.\n\n_Illustrations_\n\n(a) A transfers Sultanpur to B on condition that he does not marry C. B imposes an easement on Sultanpur.\n\nThen B marries C. B’s interest in Sultanpur ends, and with it the easement is extinguished.\n\n(b) A, in 1860, let Sultanpur to B for thirty years from the date of the lease. B, in 1861, imposes an easement\n\non the land in favour of C, who enjoys the easement peaceably and openly as an easement without interruption\nfor twenty-nine years. B’s interest in Sultanpur then ends, and with it C’s easement.\n\n(c) A and B, tenants of C, have permanent transferable interests in their respective holdings. A imposes on\n\nhis holding an easement to draw water from a tank for the purpose of irrigating B’s land. B enjoys the easement\nfor twenty years. Then A’s rent falls into arrear and his interest is sold. B’s easement is extinguished.\n\n(d) A mortgages Sultanpur to B, and lawfully imposes an easement on the land in favour of C in accordance\n\nwith the provisions of section 10. The land is sold to D in satisfaction of the mortgage-debt. The easement is not\nthereby extinguished.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2349/1/A1882-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "714a6887e765653d12f79bc72eaa077c5b961a7324bc818d420a9267d3d3ef48"
+  }
+}

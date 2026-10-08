@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED",
+  "act_title": "The Telecommunications Act, 2023.",
+  "section_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED_S28",
+  "section_number": "28",
+  "title": "Measures for users",
+  "text": "28. Measures for users.—(1) For the purposes of this section, “specified message” means any\nmessage offering, advertising or promoting goods, services, interest in property, business opportunity,\nemployment opportunity or investment opportunity, whether or not—\n\n(a) the goods, services, interest, or opportunity are real; or\n\n(b) it is lawful to acquire such goods, services, property, interest or take up the opportunity.\n\n(2) The Central Government may by rules provide for measures for protection of users, in consonance\nwith any regulations notified by the Telecom Regulatory Authority of India from time to time, including\nmeasures such as—\n\n(a) the prior consent of users for receiving certain specified messages or class of specified\nmessages;\n\n(b) the preparation and maintenance of one or more registers, to be called as “Do Not Disturb”\nregister, to ensure that users do not receive specified messages or class of specified messages without\nprior consent; or\n\n(c) the mechanism to enable users to report any malware or specified messages received in\ncontravention of this section.\n\n(3) An authorised entity providing telecommunication services shall establish an online mechanism to\nenable users to register any grievance pertaining to the telecommunication service, and redressal of such\ngrievances, in such manner as may be prescribed.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20101/1/A2023-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "07a48341299aa71cb8f1e7eadb6290f44e981bf5dde322d8dbab311a7f9f3e6b"
+  }
+}

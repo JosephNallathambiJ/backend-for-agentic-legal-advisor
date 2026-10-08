@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MOTOR_VEHICLES_ACT_1988_UNDATED",
+  "act_title": "The Motor Vehicles Act, 1988",
+  "section_id": "ACT_THE_MOTOR_VEHICLES_ACT_1988_UNDATED_S110A",
+  "section_number": "110A",
+  "title": "Recall of motor vehicles.",
+  "text": "110A. Recall of motor vehicles.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1798/1/198859.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "2594f5be877a8b4e0555acd901cc8e7e01ccf4753f85cfdbba778fc48156f0b0"
+  }
+}

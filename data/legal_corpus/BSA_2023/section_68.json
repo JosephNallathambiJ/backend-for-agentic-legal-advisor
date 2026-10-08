@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S68",
+  "section_number": "68",
+  "title": "Proof where no attesting witness found",
+  "text": "68. Proof where no attesting witness found.—If no such attesting witness can be found, it must be\n\nproved that the attestation of one attesting witness at least is in his handwriting, and that the signature of\nthe person executing the document is in the handwriting of that person.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c337bc94474d4cd530722f45d13f2df03a9bc1794105c8c8dd731b6faf37544e"
+  }
+}

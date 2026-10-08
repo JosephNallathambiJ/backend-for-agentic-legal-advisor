@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED",
+  "act_title": "The Central Goods and Services Tax Act, 2017",
+  "section_id": "ACT_THE_CENTRAL_GOODS_AND_SERVICES_UNDATED_S52",
+  "section_number": "52",
+  "title": "Collection of tax at source",
+  "text": "52. Collection of tax at source.—(1) Notwithstanding anything to the contrary contained in this Act,\n\nevery electronic commerce operator (hereafter in this section referred to as the “operator”), not being an\nagent, shall collect an amount calculated at such rate not exceeding one per cent., as may be notified by\nthe Government on the recommendations of the Council, of the net value of taxable supplies made\nthrough it by other suppliers where the consideration with respect to such supplies is to be collected by\nthe operator.\n\n_Explanation.––For the purposes of this sub-section, the expression “net value of taxable supplies”_\n\nshall mean the aggregate value of taxable supplies of goods or services or both, other than services\nnotified under sub-section (5) of section 9, made during any month by all registered persons through the\noperator reduced by the aggregate value of taxable supplies returned to the suppliers during the said\nmonth.\n\n(2) The power to collect the amount specified in sub-section (1) shall be without prejudice to any\n\nother mode of recovery from the operator.\n\n(3) The amount collected under sub-section (1) shall be paid to the Government by the operator\n\nwithin ten days after the end of the month in which such collection is made, in such manner as may be\nprescribed.\n\n(4) Every operator who collects the amount specified in sub-section (1) shall furnish a statement,\n\nelectronically, containing the details of outward supplies of goods or services or both effected through it,\nincluding the supplies of goods or services or both returned through it, and the amount collected under",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "508fb0a13ad1bbd7fbbb265672e937e1bea91334a618addac8185c0913e570d3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED",
+  "act_title": "The Insurance Act, 1938",
+  "section_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED_S32B",
+  "section_number": "32B",
+  "title": "Insurance business in rural and social sectors.",
+  "text": "32B. Insurance business in rural and social sectors.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "262aa8ef50bfd7906c178967eeee5084e672861c7aa82a4f8ca82a02e3969eff"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "CPC_1908",
+  "act_title": "The Code of Civil Procedure, 1908",
+  "section_id": "CPC_1908_S1",
+  "section_number": "1",
+  "title": "I am the party in the above suit and competent to swear this affidavit.",
+  "text": "1. I am the party in the above suit and competent to swear this affidavit.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2191/1/A1908-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5c1aa61883c139e702c0fff26a117d2843efbd4e5c7f2dd2899fdf45c56fbfd2"
+  }
+}

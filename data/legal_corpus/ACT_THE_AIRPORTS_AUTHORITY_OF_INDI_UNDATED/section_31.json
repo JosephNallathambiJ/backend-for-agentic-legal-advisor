@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AIRPORTS_AUTHORITY_OF_INDI_UNDATED",
+  "act_title": "The Airports Authority of India Act, 1994",
+  "section_id": "ACT_THE_AIRPORTS_AUTHORITY_OF_INDI_UNDATED_S31",
+  "section_number": "31",
+  "title": "Authentication of orders and other instruments of the Authority",
+  "text": "31. Authentication of orders and other instruments of the Authority.—All orders and decisions\n\nof the Authority shall be authenticated by the signature of the Chairperson or any other member\nauthorised by the Authority in this behalf and all other instruments executed by the Authority shall be\nauthenticated by the signature of an officer of the Authority authorised by it in this behalf.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1979/1/AAairpoert1994__55.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "83a5a36af1805c0c9b658c5667956c7bf34978ce953104dee4f9e78aca88b47e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED",
+  "act_title": "The Government Savings Promotion Act, 1873",
+  "section_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED_S30",
+  "section_number": "30",
+  "title": "5-Year National Development Bonds",
+  "text": "30. 5-Year National Development Bonds",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2281/1/A1873_05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "763ade88b74d5eb694342f4546bd102c65587f12eefd1f3bec3bf68005d2ad74"
+  }
+}

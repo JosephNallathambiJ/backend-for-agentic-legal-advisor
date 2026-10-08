@@ -1,0 +1,14 @@
+{
+  "act_id": "BSA_2023",
+  "act_title": "The Bharatiya Sakshya Adhiniyam, 2023",
+  "section_id": "BSA_2023_S86",
+  "section_number": "86",
+  "title": "Presumption as to electronic records and electronic signatures",
+  "text": "86. Presumption as to electronic records and electronic signatures.—(1) In any proceeding\n\ninvolving a secure electronic record, the Court shall presume unless contrary is proved, that the secure\nelectronic record has not been altered since the specific point of time to which the secure status relates.\n\n(2) In any proceeding, involving secure electronic signature, the Court shall presume unless the\n\ncontrary is proved that—\n\n(a) the secure electronic signature is affixed by subscriber with the intention of signing or\n\napproving the electronic record;\n\n(b) except in the case of a secure electronic record or a secure electronic signature, nothing in this\n\nsection shall create any presumption, relating to authenticity and integrity of the electronic record or\nany electronic signature.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "96c33a2daa90a33ef9a813437ede708641091ae8ee05a9e0896eb976385ed8ac"
+  }
+}

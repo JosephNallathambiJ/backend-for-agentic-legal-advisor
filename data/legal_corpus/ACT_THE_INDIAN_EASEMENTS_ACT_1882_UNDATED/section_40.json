@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED",
+  "act_title": "The Indian Easements Act, 1882",
+  "section_id": "ACT_THE_INDIAN_EASEMENTS_ACT_1882_UNDATED_S40",
+  "section_number": "40",
+  "title": "Extinction on expiration of limited period or happening of dissolving condition",
+  "text": "40. Extinction on expiration of limited period or happening of dissolving condition.—An\n\neasement is extinguished where it has been imposed for a limited period, or acquired on condition that\nit shall become void on the performance or non-performance of a specified act, and the period expires\nor the condition is fulfilled.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2349/1/A1882-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "bce406e9b5005805d8f8363af6d29a5047e85bacdcfae175bb9d5dee5542530a"
+  }
+}

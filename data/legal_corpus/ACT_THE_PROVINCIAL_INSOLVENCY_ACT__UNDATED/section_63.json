@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S63",
+  "section_number": "63",
+  "title": "Right of creditor who has not proved debt before declaration of a dividend",
+  "text": "63. Right of creditor who has not proved debt before declaration of a dividend.—Any creditor\n\nwho has not proved his debt before the declaration of any dividend or dividends shall be entitled to be\npaid, out of debt any money for the time being in the hands of the receiver, any of dividend or dividends\nwhich he may have failed to receive before at money is applied to the payment of any future dividend or\ndividends; but he shall not be entitled to disturb the distribution of any dividend declared before his debt\nwas proved by reason that he as not participated therein.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7b26c2ae3ccfc3664de67260d250af821b40cb97223a7a776dc5f10f6a461017"
+  }
+}

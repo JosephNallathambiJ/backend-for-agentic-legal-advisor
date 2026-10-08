@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S79",
+  "section_number": "79",
+  "title": "When part of description may not be rejected as erroneous",
+  "text": "79. When part of description may not be rejected as erroneous.—If a will mentions several\n\ncircumstances as descriptive of the thing which the testator intends to bequeath, and there is any property\nof his in respect of which all those circumstances exist, the bequest shall be considered as limited to such\nproperty, and it shall not be lawful to reject any part of the description as erroneous, because the testator\nhad other property to which such part of the description does not apply.\n\n_Explanation.—In judging whether a case falls within the meaning of this section, any words which_\n\nwould be liable to rejection under section 78 shall be deemed to have been struck out of the will.\n\n_Illustrations_\n\n(i) A bequeaths to B “my marsh-lands lying in L and in the occupation of X”. The testator had marsh-lands\n\nlying in L, some of which were in the occupation of X, and some not in the occupation of X. The bequest will be\nconsidered as limited to such of the testator's marsh-lands in L as were in the occupation of X.\n\n(ii) A bequeaths to B “my marsh-lands lying in L and in the occupation of X, comprising 1,000 bighas of\n\nlands”. The testator had marshlands lying in L some of which were in the occupation of X and some not in the\noccupation of X. The measurement is wholly inapplicable to the marsh-lands of either class, or to the whole taken\ntogether. The measurement will be considered as struck out of the will, and such of the testator's marsh-lands lying\nin L as were in the occupation of X shall alone pass by the bequest.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c7b12439d926cc0b7d79b062fc5df1446da7ac4ddce1093737dd9b512dc07bac"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S38",
+  "section_number": "38",
+  "title": "Revocation of Digital Signature Certificate.–(1) A Certifying Authority may revoke a Digital",
+  "text": "38. Revocation of Digital Signature Certificate.–(1) A Certifying Authority may revoke a Digital\n\nSignature Certificate issued by it–\n\n(a) where the subscriber or any other person authorised by him makes a request to that effect; or\n\n(b) upon the death of the subscriber; or\n\n(c) upon the dissolution of the firm or winding up of the company where the subscriber is a firm\n\nor a company.\n\n(2) Subject to the provisions of sub-section (3) and without prejudice to the provisions of\n\nsub-section (1), a Certifying Authority may revoke a Digital Signature Certificate which has been issued\nby it at any time, if it is of opinion that–\n\n(a) a material fact represented in the Digital Signature Certificate is false or has been concealed;\n\n(b) a requirement for issuance of the Digital Signature Certificate was not satisfied;\n\n(c) the Certifying Authority's private key or security system was compromised in a manner\n\nmaterially affecting the Digital Signature Certificate's reliability;\n\n(d) the subscriber has been declared insolvent or dead or where a subscriber is a firm or a\n\ncompany, which has been dissolved, wound-up or otherwise ceased to exist.\n\n(3) A Digital Signature Certificate shall not be revoked unless the subscriber has been given an\n\nopportunity of being heard in the matter.\n\n(4) On revocation of a Digital Signature Certificate under this section, the Certifying Authority shall\n\ncommunicate the same to the subscriber.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fceb9854a9fe10d8fef6d0f244d0486d7a19094726f02de028ca35c9c8232635"
+  }
+}

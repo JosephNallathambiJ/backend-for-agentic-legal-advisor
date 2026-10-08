@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED",
+  "act_title": "The Delhi Sales Tax Act, 1975",
+  "section_id": "ACT_THE_DELHI_SALES_TAX_ACT_1975_UNDATED_S3",
+  "section_number": "3",
+  "title": "Chapaties, paranthas, stuffed paranthas, puries, stuffed puries, kulchas, nans and bhaturas and",
+  "text": "3. Chapaties, paranthas, stuffed paranthas, puries, stuffed puries, kulchas, nans and bhaturas and\n\nbread (double roti).",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1637/1/197543.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ac31a00fde03f0a27617391630a6d64a09bdaf66d47f4df3aeb5bac85bd16642"
+  }
+}

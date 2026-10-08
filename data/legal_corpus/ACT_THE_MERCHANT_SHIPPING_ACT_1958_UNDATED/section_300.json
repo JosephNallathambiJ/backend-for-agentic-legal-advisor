@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S300",
+  "section_number": "300",
+  "title": "Cargo ship safety equipment and cargo ship equipment certificates for ships other than",
+  "text": "300. Cargo ship safety equipment and cargo ship equipment certificates for ships other than\n\npassenger ships.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "65cabe1850497c3478cf2f18800956f736404958851d0dde9b7f970ce95c8cc3"
+  }
+}

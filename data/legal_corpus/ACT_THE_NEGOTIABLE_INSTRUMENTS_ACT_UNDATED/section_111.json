@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S111",
+  "section_number": "111",
+  "title": "Liability of acceptor for honour",
+  "text": "111. Liability of acceptor for honour.—An acceptor for honour binds himself to all parties\n\nsubsequent to the party for whose honour he accepts to pay the amount of the bill if the drawee do not;\nand such party and all prior parties are liable in their respective capacities to compensate the acceptor for\nhonour for all loss or damage sustained by him in consequence of such acceptance.\n\nBut an acceptor for honour is not liable to the holder of the bill unless it is presented, or (in case the\n\naddress given by such acceptor on the bill is a place other than the place where the bill is made payable)\nforwarded for presentment, not later than the day next after the day of its maturity.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cf85658c6624e97a1b01389b42260c4e334e57977cc7f650156f81d46a7ff3f9"
+  }
+}

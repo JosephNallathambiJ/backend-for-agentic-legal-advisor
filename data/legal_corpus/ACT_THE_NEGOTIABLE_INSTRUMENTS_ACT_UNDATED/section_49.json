@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S49",
+  "section_number": "49",
+  "title": "Conversion of indorsement in blank into indorsement in full",
+  "text": "49. Conversion of indorsement in blank into indorsement in full.—The holder of a negotiable\n\ninstrument indorsed in blank may, without signing his own name, by writing above the indorser’s\nsignature a direction to pay to any other person as indorsee, convert the indorsement in blank into an\nindorsement in full; and the holder does not thereby incur the responsibility of an indorser.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3a93087ade5a55d7fb46a3fb256f9030d612631990229b2382f4a0786bf020ce"
+  }
+}

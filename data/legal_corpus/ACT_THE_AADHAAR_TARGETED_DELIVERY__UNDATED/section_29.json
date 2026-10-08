@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AADHAAR_TARGETED_DELIVERY__UNDATED",
+  "act_title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016.",
+  "section_id": "ACT_THE_AADHAAR_TARGETED_DELIVERY__UNDATED_S29",
+  "section_number": "29",
+  "title": "Restriction on sharing information",
+  "text": "29. Restriction on sharing information.—(1) No core biometric information, collected or created\n\nunder this Act, shall be—\n\n(a) shared with anyone for any reason whatsoever; or\n\n(b) used for any purpose other than generation of Aadhaar numbers and authentication under this\n\nAct.\n\n(2) The identity information, other than core biometric information, collected or created under this\n\nAct may be shared only in accordance with the provisions of this Act and in such manner as may be\nspecified by regulations.\n\n1[(3) No identity information available with a requesting entity or offline verification-seeking entity\n\nshall be—\n\n(a) used for any purpose, other than the purposes informed in writing to the individual at the time\n\nof submitting any information for authentication or offline verification; or\n\n(b) disclosed for any purpose, other than purposes informed in writing to the individual at the time\n\nof submitting any information for authentication or offline verification:\n\nProvided that the purposes under clauses (a) and (b) shall be in clear and precise language\n\nunderstandable to the individual.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2160/5/A2016-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "260df635660959a454cecf1901b059a64f7131f7f1a7fc1442ecb514083a4f4f"
+  }
+}

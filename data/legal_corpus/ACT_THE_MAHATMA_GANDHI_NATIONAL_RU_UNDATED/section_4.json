@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED",
+  "act_title": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+  "section_id": "ACT_THE_MAHATMA_GANDHI_NATIONAL_RU_UNDATED_S4",
+  "section_number": "4",
+  "title": "No job card can be cancelled except where it is found to be a duplicate, or if the entire household",
+  "text": "4. No job card can be cancelled except where it is found to be a duplicate, or if the entire household\n\nhas permanently migrated to a place outside the Gram Panchayat and no longer lives in the village.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2014/5/a2005-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "33964a68a378fec45786646e5e776cffeadbfda6822831493d73d698f4a22026"
+  }
+}

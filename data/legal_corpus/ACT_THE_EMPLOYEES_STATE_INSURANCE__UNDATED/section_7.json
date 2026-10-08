@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S7",
+  "section_number": "7",
+  "title": "Diseases caused by radioactive substances and ionising radiations All work involving",
+  "text": "7. Diseases caused by radioactive substances and ionising radiations All work involving\n\nexposure to the action\nof radioactive\n\nsubstances or ionising\nradiations.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a0320dcd38224abab336ae2f742d1624184106fd4fa1b14c4c1d443320d88d66"
+  }
+}

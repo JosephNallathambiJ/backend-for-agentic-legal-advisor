@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S100",
+  "section_number": "100",
+  "title": "Municipal Fund to be kept in the State Bank of India.",
+  "text": "100. Municipal Fund to be kept in the State Bank of India.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7840223392de4c5c9fd57fe90257baf2c811de9b6cc370efd2fed07580e73b12"
+  }
+}

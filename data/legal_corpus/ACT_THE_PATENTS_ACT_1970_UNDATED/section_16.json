@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PATENTS_ACT_1970_UNDATED",
+  "act_title": "The Patents Act, 1970",
+  "section_id": "ACT_THE_PATENTS_ACT_1970_UNDATED_S16",
+  "section_number": "16",
+  "title": "Section 67",
+  "text": "16. Section 67—Omit “for a patent, or for amendment of an application or of a specification, or”.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/3/A1970-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7a81bf4a506f876931a2b3030b39bd16c263fa725d68918102a40953a352ccd2"
+  }
+}

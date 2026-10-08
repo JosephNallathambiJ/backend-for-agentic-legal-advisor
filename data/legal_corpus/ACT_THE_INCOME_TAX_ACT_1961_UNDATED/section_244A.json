@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S244A",
+  "section_number": "244A",
+  "title": "Interest on refunds.",
+  "text": "244A. Interest on refunds.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "918b3ebe3b42a82af7390be16808a0ac610a21d19072e82f4280ab84fadebf32"
+  }
+}

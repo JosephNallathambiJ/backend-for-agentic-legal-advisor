@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S103",
+  "section_number": "103",
+  "title": "Protest for non-payment after dishonour by non-acceptance",
+  "text": "103. Protest for non-payment after dishonour by non-acceptance.—All bills of exchange drawn\n\npayable at some other place than the place mentioned as the residence of the drawee, and which are\ndishonoured by non-acceptance, may, without further presentment to the drawee, be protested for nonpayment, in the place specified for payment, unless paid before or at maturity.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "827c8e68388d0e9799bf9dc29471359beffb0e6baf3e35c2bbd7664636304948"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "BNS_2023",
+  "act_title": "The Bharatiya Nyaya Sanhita, 2023",
+  "section_id": "BNS_2023_S9",
+  "section_number": "9",
+  "title": "Limit of punishment of offence made up of several offences",
+  "text": "9. Limit of punishment of offence made up of several offences.—(1) Where anything which is an\n\noffence is made up of parts, any of which parts is itself an offence, the offender shall not be punished\nwith the punishment of more than one of such his offences, unless it be so expressly provided.\n\n(2) Where—\n\n(a) anything is an offence falling within two or more separate definitions of any law in force for\n\nthe time being by which offences are defined or punished; or\n\n(b) several acts, of which one or more than one would by itself or themselves constitute an\n\noffence, constitute, when combined, a different offence,\n\nthe offender shall not be punished with a more severe punishment than the Court which tries him could\naward for any one of such offences.\n\n_Illustrations._\n\n(a) A gives Z fifty strokes with a stick. Here A may have committed the offence of voluntarily\n\ncausing hurt to Z by the whole beating, and also by each of the blows which make up the whole beating.\nIf A were liable to punishment for every blow, he might be imprisoned for fifty years, one for each blow.\nBut he is liable only to one punishment for the whole beating.\n\n(b) But, if, while A is beating Z, Y interferes, and A intentionally strikes Y, here, as the blow given to\n\nY is no part of the act whereby A voluntarily causes hurt to Z, A is liable to one punishment for\nvoluntarily causing hurt to Z, and to another for the blow given to Y.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20062/1/a2023-45.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "372e4c0a756b99f0c2f74c1afe261857261af03bd0221c447ff3f5b4d7c67e28"
+  }
+}

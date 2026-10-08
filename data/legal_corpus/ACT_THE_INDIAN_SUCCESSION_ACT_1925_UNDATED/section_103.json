@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S103",
+  "section_number": "103",
+  "title": "Property to which residuary legatee entitled",
+  "text": "103. Property to which residuary legatee entitled.—Under a residuary bequest, the legatee is\n\nentitled to all property belonging to the testator at the time of his death, of which he has not made any\nother testamentary disposition which is capable of taking effect.\n\n_Illustration_\n\nA by his will bequeaths certain legacies, of which one is void under section 118, and another lapses by the death\n\nof the legatee. He bequeaths the residue of his property to B. After the date of his will A purchases a zamindari,\nwhich belongs to him at the time of his death. B is entitled to the two legacies and the zamindari as part of the\nresidue.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3c275baeb384d1c6f6263643358ab5c15fe0a6a962f86877d327008adbb42735"
+  }
+}

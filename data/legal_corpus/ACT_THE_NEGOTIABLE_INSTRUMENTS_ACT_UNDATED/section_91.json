@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S91",
+  "section_number": "91",
+  "title": "Dishonour by non-acceptance",
+  "text": "91. Dishonour by non-acceptance.—A bill of exchange is said to be dishonoured by non-acceptance\n\nwhen the drawee, or one of several drawees not being partners, makes default in acceptance upon being\nduly required to accept the bill, or where presentment is excused and the bill is not accepted.\n\nWhere the drawee is incompetent to contract, or the acceptance is qualified the bill may be treated as\n\ndishonoured.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ad2abbcfd7abbf93659ea5437bb0dfdef90644909c3c12fc18cb30e9a0ffc345"
+  }
+}

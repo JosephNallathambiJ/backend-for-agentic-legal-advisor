@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S41A",
+  "section_number": "41A",
+  "title": "Passenger and crew departure manifest and passenger name record information.",
+  "text": "41A. Passenger and crew departure manifest and passenger name record information.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "576e0a3eae3e73f93c187f3929ff53fcbdddb974587a5c46e72aaba68059496c"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S92",
+  "section_number": "92",
+  "title": "Dishonour by non-payment",
+  "text": "92. Dishonour by non-payment.—A promissory note, bill of exchange or cheque is said to be\n\ndishonoured by non-payment when the maker of the note, acceptor of the bill or drawee of the cheque\nmakes default in payment upon being duly required to pay the same.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6d27e938df1eed31255fb9fbc66c31e38f02ca871d2bf28fba274da90562e18e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S43",
+  "section_number": "43",
+  "title": "Transfer by unauthorised person who subsequently acquires interest in property",
+  "text": "43. Transfer by unauthorised person who subsequently acquires interest in property\n\ntransferred.—Where a person [fraudulently or] erroneously represents that he is authorised to transfer\ncertain immovable property and professes to transfer such property for consideration, such transfer shall,\nat the option of the transferee, operate on any interest which the transferor may acquire in such property at\nany time during which the contract of transfer subsists.\n\nNothing in this section shall impair the right of transferees in good faith for consideration without\n\nnotice of the existence of the said option.\n\n_Illustration_\n\nA, a Hindu who has separated from his father B, sells to C three fields, X, Y and Z, representing that A is authorised to\n\ntransfer the same. Of these fields Z does not belong to A, it having been retained by B on the partition; but on B's dying A as heir\nobtains Z.C, not having rescinded the contract of sale, may require A to deliver Z to him .",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "dab009547417885b1faf0c87ea4c176ff162f8f0a6ac4d88accbb389f41f73c1"
+  }
+}

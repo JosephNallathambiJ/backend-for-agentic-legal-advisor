@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED",
+  "act_title": "The Provincial Insolvency Act, 1920",
+  "section_id": "ACT_THE_PROVINCIAL_INSOLVENCY_ACT__UNDATED_S53",
+  "section_number": "53",
+  "title": "Avoidance of voluntary transfer",
+  "text": "53. Avoidance of voluntary transfer.—Any transfer of property not being a transfer made before\n\nand in consideration of marriage or made in favour of a purchaser or incumbrancer in good faith and for\nvaluable consideration shall, if the transferor is adjudged insolvent [on a petition presented] within two\nyears after the date of the transfer, be void able as against the receiver and may be annulled by the Court.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19723/1/a1920-05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "86e136603b0c0b7de7cdad8cab746b31bad19e3bd5a63bb395c203dbeb4a70ee"
+  }
+}

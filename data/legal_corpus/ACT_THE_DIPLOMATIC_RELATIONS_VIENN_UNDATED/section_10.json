@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DIPLOMATIC_RELATIONS_VIENN_UNDATED",
+  "act_title": "The Diplomatic Relations (Vienna Convention) Act, 1972",
+  "section_id": "ACT_THE_DIPLOMATIC_RELATIONS_VIENN_UNDATED_S10",
+  "section_number": "10",
+  "title": "Power to make rules",
+  "text": "10. Power to make rules.—The Central Government may [by notification in the Official Gazette,]\n\nmake rules for carrying out the purposes of this Act.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1721/3/A1972-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "022cd0db2706268f140169633a36419b3f27e6581df541ab5bd70e5e365d5bc0"
+  }
+}

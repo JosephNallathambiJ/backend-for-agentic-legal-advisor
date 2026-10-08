@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S100",
+  "section_number": "100",
+  "title": "Protest",
+  "text": "100. Protest.—When a promissory note or bill of exchange has been dishonoured by non-acceptance\n\nor non-payment, the holder may, within a reasonable time, cause such dishonour to be noted and certified\nby a notary public. Such certificate is called a protest.\n\nProtest for better security.—When the acceptor of a bill of exchange has become insolvent, or\n\nhis credit has been publicly impeached, before the maturity of the bill, the holder may, within a\nreasonable time, cause a notary public to demand better security of the acceptor, and on its being\n\n-----\n\nrefused may, within a reasonable time, cause such facts to be noted and certified as aforesaid. Such\ncertificate is called a protest for better security.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6cf485b3e409508fd03a6a62a07ca48648c6fa76c3ac7bf9ff7265870176e88e"
+  }
+}

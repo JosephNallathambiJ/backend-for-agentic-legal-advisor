@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED",
+  "act_title": "The Central Provinces Land-Revenue Act, 1881",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_LAND_REV_UNDATED_S18",
+  "section_number": "18",
+  "title": "Power of Revenue-officers to enter on land, &c",
+  "text": "18. Power of Revenue-officers to enter on land, &c.—All Revenue-officers and persons acting under\n\ntheir orders may, in the performance of any duty under this Act, enter upon and survey land, and demarcate\nboundaries, and do all other acts necessary to the business in which they are engaged.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19215/1/A1881-18.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c43996cf446bf6fb793d7567c88b48518f1ba319f77382926b9f2fdb5ce7291d"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED",
+  "act_title": "The Indian Succession Act, 1925",
+  "section_id": "ACT_THE_INDIAN_SUCCESSION_ACT_1925_UNDATED_S127",
+  "section_number": "127",
+  "title": "Bequest upon illegal or immoral condition",
+  "text": "127. Bequest upon illegal or immoral condition.—A bequest upon a condition, the fulfilment of\n\nwhich would be contrary to law or to morality is void.\n\n_Illustrations_\n\n(i) A bequeaths 500 rupees to B on condition that he shall murder C. The bequest is void.\n\n(ii) A bequeaths 5,000 rupees to his niece if she will desert her husband. The bequest is void.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2385/1/a1925-39.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "3d08992953edbae7632c6855c45d8d345abf81cb7d264775119c686679ff1fa3"
+  }
+}

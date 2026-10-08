@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S36",
+  "section_number": "36",
+  "title": "Representations upon issuance of Digital Signature Certificate.–A Certifying Authority while",
+  "text": "36. Representations upon issuance of Digital Signature Certificate.–A Certifying Authority while\n\nissuing a Digital Signature Certificate shall certify that–\n\n(a) it has complied with the provisions of this Act and the rules and regulations made thereunder;\n\n(b) it has published the Digital Signature Certificate or otherwise made it available to such person\n\nrelying on it and the subscriber has accepted it;",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "a69ceb6dc05d952f19fc526546849b3aa7420d0d770bc615c41a172f7d85a737"
+  }
+}

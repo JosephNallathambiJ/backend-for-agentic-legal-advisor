@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED",
+  "act_title": "The New Delhi Municipal Council Act, 1994",
+  "section_id": "ACT_THE_NEW_DELHI_MUNICIPAL_COUNCI_UNDATED_S14",
+  "section_number": "14",
+  "title": "Chemicals, non-liquid.",
+  "text": "14. Chemicals, non-liquid.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1986/1/199444.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "f58010f50fb914a4a818278a0a3fa9dc9a68e692b6501a5d0784aa444c30ef64"
+  }
+}

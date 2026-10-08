@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S24",
+  "section_number": "24",
+  "title": "Contract must be embodied in policy",
+  "text": "24. Contract must be embodied in policy.—A contract of marine insurance shall not be admitted in\n\nevidence unless it is embodied in a marine policy in accordance with this Act. The policy may be\nexecuted and issued either at the time when the contract is concluded, or afterwards.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "40e7e1b79f0dcd02940485f61713818367276d7548cb4e26484e54cc888fcef7"
+  }
+}

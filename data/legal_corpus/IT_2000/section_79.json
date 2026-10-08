@@ -1,0 +1,14 @@
+{
+  "act_id": "IT_2000",
+  "act_title": "The Information Technology Act, 2000",
+  "section_id": "IT_2000_S79",
+  "section_number": "79",
+  "title": "Exemption from liability of intermediary in certain cases.–(1) Notwithstanding anything",
+  "text": "79. Exemption from liability of intermediary in certain cases.–(1) Notwithstanding anything\n\ncontained in any law for the time being in force but subject to the provisions of sub-sections (2) and (3),\nan intermediary shall not be liable for any third party information, data, or communication link made\navailable or hosted by him.\n\n(2) The provisions of sub-section (1) shall apply if–\n\n(a) the function of the intermediary is limited to providing access to a communication system\n\nover which information made available by third parties is transmitted or temporarily stored or hosted;\nor\n\n(b) the intermediary does not–\n\n(i) initiate the transmission,\n\n(ii) select the receiver of the transmission, and\n\n(iii) select or modify the information contained in the transmission;\n\n(c) the intermediary observes due diligence while discharging his duties under this Act and also\n\nobserves such other guidelines as the Central Government may prescribe in this behalf.\n\n(3) The provisions of sub-section (1) shall not apply if–\n\n(a) the intermediary has conspired or abetted or aided or induced, whether by threats or promise\n\nor otherwise in the commission of the unlawful act;\n\n(b) upon receiving actual knowledge, or on being notified by the appropriate Government or its\n\nagency that any information, data or communication link residing in or connected to a computer\nresource controlled by the intermediary is being used to commit the unlawful act, the intermediary\nfails to expeditiously remove or disable access to that material on that resource without vitiating the\nevidence in any manner.\n\n_Explanation.–For the purposes of this section, the expression “third party information” means any_\n\ninformation dealt with by an intermediary in his capacity as an intermediary.\n\nCHAPTER XIIA\n\nEXAMINER OF ELECTRONIC EVIDENCE",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000-21%20%281%29.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "63b852207700c5d79273d9b2ebad989c58b6eb35b0fbc66dbcbd6cde6fbdbf45"
+  }
+}

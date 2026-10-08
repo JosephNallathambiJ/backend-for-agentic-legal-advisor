@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S237",
+  "section_number": "237",
+  "title": "Refunds",
+  "text": "237. Refunds.—If any person satisfies the [AssessingOfficer] that the amount of tax paid by him or\n\non his behalf or treated as paid by him or on his behalf for any assessment year exceeds the amount with\nwhich he is properly chargeable under this Act for that year, he shall be entitled to a refund of the excess.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cea65387cc71b33ed5425df50a14f3a0ac98b6f747d62613b2c454ebb4171f85"
+  }
+}

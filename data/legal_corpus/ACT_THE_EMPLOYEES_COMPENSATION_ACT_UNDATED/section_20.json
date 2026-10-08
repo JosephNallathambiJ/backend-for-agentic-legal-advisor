@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S20",
+  "section_number": "20",
+  "title": "Diseases caused by nitroglycerine or other All work involving exposure to the risk concerned.",
+  "text": "20. Diseases caused by nitroglycerine or other All work involving exposure to the risk concerned.\nnitroacid esters.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c1ccfebb5a1182b600fed7740f26e8778ebd88fef23df61c8ada891f32ebb0f0"
+  }
+}

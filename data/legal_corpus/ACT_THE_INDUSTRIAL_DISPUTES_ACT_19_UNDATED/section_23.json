@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDUSTRIAL_DISPUTES_ACT_19_UNDATED",
+  "act_title": "The Industrial Disputes Act, 1947",
+  "section_id": "ACT_THE_INDUSTRIAL_DISPUTES_ACT_19_UNDATED_S23",
+  "section_number": "23",
+  "title": "General prohibition of strikes and lock-outs",
+  "text": "23. General prohibition of strikes and lock-outs.—No workman who is employed in any industrial\n\nestablishment shall go on strike in breach of contract and no employer of any such workman shall declare\na lock-out—\n\n(a) during the pendency of conciliation proceedings before a Board and seven days after the\n\nconclusion of such proceedings;\n\n(b) during the pendency of proceedings before [a Labour Court, Tribunal or National Tribunal]\n\nand two months after the conclusion of such proceedings; \n\n3[(bb) during the pendency of arbitration proceedings before an arbitrator and two months after\n\nthe conclusion of such proceedings, where a notification has been issued under sub-section (3A) of\nsection 10A; or]\n\n(c) during any period in which a settlement or award is in operation, in respect of any of the\n\nmatters covered by the settlement or award.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15191/1/A1947-14.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "77141c1a7c7724e0258c372ba04a82f34b6d3139d45099e3a9066f2f9e90fe6c"
+  }
+}

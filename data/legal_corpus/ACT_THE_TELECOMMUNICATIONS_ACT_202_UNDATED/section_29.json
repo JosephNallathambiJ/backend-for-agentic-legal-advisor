@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED",
+  "act_title": "The Telecommunications Act, 2023.",
+  "section_id": "ACT_THE_TELECOMMUNICATIONS_ACT_202_UNDATED_S29",
+  "section_number": "29",
+  "title": "Duty of users",
+  "text": "29. Duty of users.—No user shall—\n\n(a) furnish any false particulars, suppress any material information, or impersonate another\nperson, while establishing his identity for availing of telecommunication services; or\n\n(b) fail to share information as required under this Act.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/20101/1/A2023-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6940ca81f80d4ef957dd3e3ad5ef154d5dcdf1c294c9c7cef67fa1df17f7ccae"
+  }
+}

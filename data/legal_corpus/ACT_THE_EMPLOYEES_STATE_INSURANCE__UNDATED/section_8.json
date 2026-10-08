@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S8",
+  "section_number": "8",
+  "title": "Primary epithelomatous cancer of the skin caused by tar, pitch,",
+  "text": "8. Primary epithelomatous cancer of the skin caused by tar, pitch,\nbitumen, mineral oil, anthracene, or the compounds, products of\nresidues of these substances",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "852105bbc0d1e506f6e6fec3bf4ce5378f0675da2535bd0fb024e56883f418f5"
+  }
+}

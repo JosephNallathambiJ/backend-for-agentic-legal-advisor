@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CO_OPERATIVE_SOCIETIES_ACT_UNDATED",
+  "act_title": "The Co-operative Societies Act, 1912",
+  "section_id": "ACT_THE_CO_OPERATIVE_SOCIETIES_ACT_UNDATED_S27",
+  "section_number": "27",
+  "title": "Exemption from compulsory registration of instruments relating to shares and debentures",
+  "text": "27. Exemption from compulsory registration of instruments relating to shares and debentures\n\nof registered society.—Nothing in section 17, sub-section (1), clauses (b) and (c) of the Indian\nRegistration Act, 1908 (16 of 1908), shall apply to—\n\n(1) any instrument relating to shares in a registered society, notwithstanding that the assets of such\n\nsociety consist in whole or in part of immoveable property; or\n\n(2) any debenture issued by any such society and not creating, declaring, assigning, limiting or\n\nextinguishing any right, title or interest to or in immoveable property except in so far as it entitles the\nholder to the security afforded by a registered instrument whereby the society has mortgaged,\nconveyed or otherwise transferred the whole or part of its immoveable property or any interest\ntherein to trustees upon trust for the benefit of the holders of such debentures; or\n\n(3) any endorsement upon or transfer of any debenture issued by any such society.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19226/1/a1912-2.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "04d8aa67524963698be7d2be7170c1d30b42f9cb5df11329f5d33e0e889170ee"
+  }
+}

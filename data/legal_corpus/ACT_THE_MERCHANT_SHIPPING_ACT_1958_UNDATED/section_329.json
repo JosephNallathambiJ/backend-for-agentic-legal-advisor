@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED",
+  "act_title": "The Merchant Shipping Act, 1958",
+  "section_id": "ACT_THE_MERCHANT_SHIPPING_ACT_1958_UNDATED_S329",
+  "section_number": "329",
+  "title": "Certificates to be produced to customs by ships other than Indian ships registered in",
+  "text": "329. Certificates to be produced to customs by ships other than Indian ships registered in\n\nnon-Convention countries.―The master of every ship registered in a country to which the Load\nLine Convention does not apply shall produce to the customs collector from whom a port clearance\nfor the ship from any port in India is demanded, either an Indian load line certificate or a certificate\nhaving effect under this Act as such a certificate, being a certificate for the time being in force in\nrespect of the ship, and the port clearance shall not be granted and the ship may be detained until the\ncertificate required by this section is so produced.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1562/1/aa1958-44.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "aca83c51e4ba055fe322804e4a280801686eb7bb10ba9b8ba3e77d388c199352"
+  }
+}

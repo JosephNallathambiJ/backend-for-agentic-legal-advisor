@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S17",
+  "section_number": "17",
+  "title": "Ambiguous instruments",
+  "text": "17. Ambiguous instruments.—Where an instrument may be construed either as a promissory note or\n\nbill of exchange, the holder may at his election treat it as either, and the instrument shall be thenceforward\ntreated accordingly.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "28d3b842acd1cec37a87ef38ebd3bbe97f3fcb3e74d1c79bb12e134a43877c7d"
+  }
+}

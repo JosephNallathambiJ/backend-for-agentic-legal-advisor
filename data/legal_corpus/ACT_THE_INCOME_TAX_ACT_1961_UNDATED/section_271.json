@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S271",
+  "section_number": "271",
+  "title": "Failure to furnish returns, comply with notices, concealment of income, etc.",
+  "text": "271. Failure to furnish returns, comply with notices, concealment of income, etc.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b1e03a7f5bc535d955890853f369aa350161028561fdc6485e4fafd8f4b83fd3"
+  }
+}

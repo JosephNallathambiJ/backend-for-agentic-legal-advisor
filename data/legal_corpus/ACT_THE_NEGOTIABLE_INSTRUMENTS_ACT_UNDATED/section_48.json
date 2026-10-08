@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S48",
+  "section_number": "48",
+  "title": "Negotiation by indorsement",
+  "text": "48. Negotiation by indorsement.—Subject to the provisions of section 58, a promissory note, bill of\n\nexchange or cheque [payable to order], is negotiable by the holder by indorsement and delivery thereof.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e06a84d093424e31772434e8491218cf9c330ec68d94d3c0e2e87285e7cb9457"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INDIAN_MUSEUM_ACT_1910_UNDATED",
+  "act_title": "The Indian Museum Act, 1910",
+  "section_id": "ACT_THE_INDIAN_MUSEUM_ACT_1910_UNDATED_S15A",
+  "section_number": "15A",
+  "title": "Power to make rules.",
+  "text": "15A. Power to make rules.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2350/1/A1910-10.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "45785825d4c3b19420712cee615fcd3b14905b5ecd6fa149bfc9074561c20957"
+  }
+}

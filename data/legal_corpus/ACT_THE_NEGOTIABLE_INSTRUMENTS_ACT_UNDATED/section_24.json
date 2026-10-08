@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S24",
+  "section_number": "24",
+  "title": "Calculating maturity of bill or note payable so many days after date or sight",
+  "text": "24. Calculating maturity of bill or note payable so many days after date or sight.—In calculating\n\nthe date at which a promissory note or bill of exchange made payable a certain number of days after date\nor after sight or after a certain event is at maturity, the day of the date, or of presentment for acceptance or\nsight, or of protest for non-acceptance, or on which the event happens, shall be excluded.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ccbd61ffd239cd438796301922aa2f341ee60bdff4673b9c843ca4057b4f25c0"
+  }
+}

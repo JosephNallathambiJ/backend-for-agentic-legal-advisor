@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S70",
+  "section_number": "70",
+  "title": "Partial loss of freight",
+  "text": "70. Partial loss of freight.—Subject to any express provision in the policy, where there is a partial\n\nloss of freight, the measure of indemnity is such proportion of the sum fixed by the policy in the case of a\nvalued policy or of the insurable value in the case of an unvalued policy, as the proportion of freight lost\nby the assured bears to the whole freight at the risk of the assured under the policy.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d15d578e38ca95b6dc846f2da5c5da12eaf3cc5112592e58617109786fa22a3b"
+  }
+}

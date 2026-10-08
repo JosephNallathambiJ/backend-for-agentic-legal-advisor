@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_ENERGY_CONSERVATION_ACT_20_UNDATED",
+  "act_title": "The Energy Conservation Act, 2001",
+  "section_id": "ACT_THE_ENERGY_CONSERVATION_ACT_20_UNDATED_S3",
+  "section_number": "3",
+  "title": "Iron and Steel;",
+  "text": "3. Iron and Steel;",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2003/1/A2001-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b69291b5d79bd9842e6c1005a14350add411890b385acc891de58cd09496ed5d"
+  }
+}

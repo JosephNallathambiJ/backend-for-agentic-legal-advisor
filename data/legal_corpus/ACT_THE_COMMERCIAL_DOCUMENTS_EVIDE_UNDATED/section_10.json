@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S10",
+  "section_number": "10",
+  "title": "Passenger list or manifest of goods carried in public transport aircraft.",
+  "text": "10. Passenger list or manifest of goods carried in public transport aircraft.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "aa025a07ceea1a2fd9bcd369d6f20b72179ab8aa1f99e4647c533ce08276c282"
+  }
+}

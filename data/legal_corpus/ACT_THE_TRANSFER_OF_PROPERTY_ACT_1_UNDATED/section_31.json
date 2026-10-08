@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED",
+  "act_title": "The Transfer of Property Act, 1882",
+  "section_id": "ACT_THE_TRANSFER_OF_PROPERTY_ACT_1_UNDATED_S31",
+  "section_number": "31",
+  "title": "Condition that transfer shall cease to have effect in case specified uncertain event happens",
+  "text": "31. Condition that transfer shall cease to have effect in case specified uncertain event happens\n\nor does not happen.—Subject to the provisions of section 12, on a transfer of property an interest therein\nmay be created with the condition superadded that it shall cease to exist in case a specified uncertain\nevent shall happen, or in case a specified uncertain event shall not happen.\n\n_Illustrations_\n\n(a) A transfers a farm to B for his life, with a proviso that, in case B cuts down a certain wood, the transfer shall cease\n\nto have any effect. B cuts down the wood. He loses his life-interest in the farm.\n\n(b) A transfers a farm to B, provided that, if B shall not go to England within three years after the date of the transfer,\n\nhis interest in the farm shall cease. B does not go to England within the term prescribed. His interest in the farm ceases.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "67cbf18dd8dc7f16fea620e2a5ec38c7412c3bc21f8dfd8192c017379cb65233"
+  }
+}

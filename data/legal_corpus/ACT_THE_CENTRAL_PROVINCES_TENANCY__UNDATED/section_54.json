@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED",
+  "act_title": "The Central Provinces Tenancy Act, 1898",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED_S54",
+  "section_number": "54",
+  "title": "Tenant changing land in other cases",
+  "text": "54. Tenant changing land in other cases.—If a tenant having a right of occupancy in any land ceases\nto hold that land, and thereupon commence to hold other land of the same landlord under circumstances\nfrom which it may be inferred that the tenant has accepted that other land in lieu of, and on the same\nconditions as, the land which he has ceased to hold, he shall, in the absence of a written agreement to the\ncontrary, be deemed to have a right of occupancy in the land which he so commences to hold.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19250/1/A1898-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "91a702b5cef42fe7414ad0d7fe59a3293d14dad1d19871cc8b97d9e376edf3d1"
+  }
+}

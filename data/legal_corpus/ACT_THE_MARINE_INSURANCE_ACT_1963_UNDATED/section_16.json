@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED",
+  "act_title": "The Marine Insurance Act, 1963",
+  "section_id": "ACT_THE_MARINE_INSURANCE_ACT_1963_UNDATED_S16",
+  "section_number": "16",
+  "title": "Freight",
+  "text": "16. Freight.—The term “freight” includes the profit derivable by a ship-owner from the employment\n\nof his ship to carry his own goods or movables as well as freight payable by a third party, but does not\ninclude passage money.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1520/5/A1963-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "dad178637db98763cbcd54face8fdb3c2409221b6e5b4cadaddde98edfa68ee4"
+  }
+}

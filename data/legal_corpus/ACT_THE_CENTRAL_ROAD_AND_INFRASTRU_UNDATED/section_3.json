@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_ROAD_AND_INFRASTRU_UNDATED",
+  "act_title": "The Central Road and Infrastructure Fund Act, 2000",
+  "section_id": "ACT_THE_CENTRAL_ROAD_AND_INFRASTRU_UNDATED_S3",
+  "section_number": "3",
+  "title": "(a) Solid Waste Management;",
+  "text": "3. (a) Solid Waste Management;\n\n(b) Water supply pipelines;\n\n(c) Water treatment plants;\n\n(d) Sewage collection, treatment\n\nand disposal system;\n\n(e) Irrigation (dams, channels,\n\nembankments, etc.);\n\n(f) Storm Water Drainage\n\nSystem;\n\n(g) Slurry pipelines.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1931/1/A2000-54.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "d2f3677f322eeaa20b80b3ea65c3763052cf43640200c05d78abd6d6edb2b952"
+  }
+}

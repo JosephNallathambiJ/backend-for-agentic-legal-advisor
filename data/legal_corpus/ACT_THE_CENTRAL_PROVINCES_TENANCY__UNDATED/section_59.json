@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED",
+  "act_title": "The Central Provinces Tenancy Act, 1898",
+  "section_id": "ACT_THE_CENTRAL_PROVINCES_TENANCY__UNDATED_S59",
+  "section_number": "59",
+  "title": "Definition of sub-tenant",
+  "text": "59. Definition of sub-tenant.—A tenant who is not an absolute occupancy-tenant or an occupancy-\ntenant and who holds land from another tenant, or from a malik-makbuza, or from the holder of a surveynumber, is a sub-tenant of that land.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19250/1/A1898-11.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fb304836334972e8d9c065f61962ef8bfd259b2b8afd1acffa216b2d1a9a3fff"
+  }
+}

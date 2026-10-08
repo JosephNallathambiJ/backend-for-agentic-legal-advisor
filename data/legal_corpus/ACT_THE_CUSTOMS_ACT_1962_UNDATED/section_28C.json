@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S28C",
+  "section_number": "28C",
+  "title": "Price of goods to indicate the amount of duty paid thereon.",
+  "text": "28C. Price of goods to indicate the amount of duty paid thereon.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6d033206b9f85fc33eb87cda3f0afa39897864be39cd2a0200a183769ab0faa9"
+  }
+}

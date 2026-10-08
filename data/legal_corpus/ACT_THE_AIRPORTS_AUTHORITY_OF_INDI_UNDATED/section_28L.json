@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_AIRPORTS_AUTHORITY_OF_INDI_UNDATED",
+  "act_title": "The Airports Authority of India Act, 1994",
+  "section_id": "ACT_THE_AIRPORTS_AUTHORITY_OF_INDI_UNDATED_S28L",
+  "section_number": "28L",
+  "title": "[Omitted.]",
+  "text": "28L. [Omitted.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1979/1/AAairpoert1994__55.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "fedd8804dc3cfcfac8dd3085fff2d694a69f695ebb1f28044e6149caaf3dd28f"
+  }
+}

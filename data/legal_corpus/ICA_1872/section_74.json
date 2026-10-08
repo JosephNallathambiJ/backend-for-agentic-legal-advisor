@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S74",
+  "section_number": "74",
+  "title": "Compensation for breach of contract where penalty stipulated for",
+  "text": "74. Compensation for breach of contract where penalty stipulated for.—[When a contract has\n\nbeen broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the\ncontract contains any other stipulation by way of penalty, the party complaining of the breach is entitled,\nwhether or not actual damage or loss is proved to have been caused thereby, to receive from the party who\nhas broken the contract reasonable compensation not exceeding the amount so named or, as the case may\nbe, the penalty stipulated for.\n\n_Explanation.—A stipulation for increased interest from the date of default may be a stipulation by_\n\nway of penalty.]\n\n_Exception.—When any person enters into any bail-bond, recognizance or other instrument of the_\n\nsame nature, or, under the provisions of any law, or under the orders of the [Central Government] or of\nany [State Government], gives any bond for the performance of any public duty or act in which the\npublic are interested, he shall be liable, upon breach of the condition of any such instrument, to pay the\nwhole sum mentioned therein.\n\n_Explanation.—A person who enters into a contract with Government does not necessarily thereby_\n\nundertake any public duty, or promise to do an act in which the public are interested.\n\n_Illustrations_\n\n(a)A contracts with B to pay B Rs. 1,000, if he fails to pay B Rs. 500 on a given day. A fails to pay B Rs. 500 on that day. B\n\nis entitled to recover from A such compensation, not exceeding Rs. 1,000, as the Court considers reasonable.\n\n(b)A contracts with B that, if Apractises as a surgeon within Calcutta, he will pay B Rs. 5,000. A practises as a surgeon in\n\nCalcutta. B is entitled to such compensation; not exceeding Rs. 5,000, as the Court considers reasonable.\n\n(c)A gives a recognizance binding him in a penalty of Rs. 500 to appear in Court on a certain day. He forfeits his\n\nrecognizance. He is liable to pay the whole penalty.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "9219d2ff6a235a3d4ab2c6f41b7b161228aa672418738ba4a1e448f0536c075d"
+  }
+}

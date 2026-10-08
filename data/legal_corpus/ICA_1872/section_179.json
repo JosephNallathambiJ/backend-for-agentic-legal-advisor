@@ -1,0 +1,14 @@
+{
+  "act_id": "ICA_1872",
+  "act_title": "The Indian Contract Act, 1872",
+  "section_id": "ICA_1872_S179",
+  "section_number": "179",
+  "title": "Pledge where pawnor has only a limited interest",
+  "text": "179. Pledge where pawnor has only a limited interest.—Where a person pledges goods in which\n\nhe has only a limited interest, the pledge is valid to the extent of that interest.\n\n_Suits by bailees or bailors against wrong-doers_\n\n180.Suit by bailor or bailee against wrong-doer.—If a third person wrongfully deprives the bailee\n\nof the use or possession of the goods bailed, or does them any injury, the bailee is entitled to use such\nremedies as the owner might have used in the like case if no bailment had been made; and either the\nbailor or the bailee may bring a suit against a third person for such deprivation or injury.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "47dd3712a8521802dfaa0c962dffa66538d185588159a42cb9e6617174d686d4"
+  }
+}

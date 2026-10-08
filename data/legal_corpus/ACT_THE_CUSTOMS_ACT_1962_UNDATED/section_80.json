@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S80",
+  "section_number": "80",
+  "title": "Temporary detention of baggage",
+  "text": "80. Temporary detention of baggage.—Where the baggage of a passenger contains any article which\n\nis dutiable or the import of which is prohibited and in respect of which a true declaration has been made\nunder section 77, the proper officer may, at the request of the passenger, detain such article for the purpose\nof being returned to him on his leaving India [and if for any reason, the passenger is not able to collect the\narticle at the time of his leaving India, the article may be returned to him through any other\npassenger authorised by him and leaving India or as cargo consigned in his name].",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "450d884d2d2297fae39234191eccea73bf2803b792bf45810d6d466a02d8580c"
+  }
+}

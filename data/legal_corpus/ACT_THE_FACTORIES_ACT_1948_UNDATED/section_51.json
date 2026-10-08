@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_FACTORIES_ACT_1948_UNDATED",
+  "act_title": "The Factories Act, 1948",
+  "section_id": "ACT_THE_FACTORIES_ACT_1948_UNDATED_S51",
+  "section_number": "51",
+  "title": "Weekly hours",
+  "text": "51. Weekly hours.—No adult worker shall be required or allowed to work in a factory for more than\n\nforty-eight hours in any week.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1530/1/A1948-63.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "1100828200cca9817f4aa6db77777b7b38915d093c9f801bb53e9ceb3a176ba7"
+  }
+}

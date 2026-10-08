@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED",
+  "act_title": "The Income-tax Act, 1961",
+  "section_id": "ACT_THE_INCOME_TAX_ACT_1961_UNDATED_S74A",
+  "section_number": "74A",
+  "title": "Losses from certain specified sources falling under the head “Income from other sources”.",
+  "text": "74A. Losses from certain specified sources falling under the head “Income from other sources”.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2435/1/a1961-43.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "746d3517cd5285b5d130f8b529de2d15015478df3a619bc3dbacc3aed350f0dd"
+  }
+}

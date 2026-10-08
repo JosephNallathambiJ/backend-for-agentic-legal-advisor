@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED",
+  "act_title": "The Customs Tariff Act, 1975",
+  "section_id": "ACT_THE_CUSTOMS_TARIFF_ACT_1975_UNDATED_S6B",
+  "section_number": "6B",
+  "title": "1006 20 Husked (brown) rice 20%",
+  "text": "6B. 1006 20 Husked (brown) rice 20%",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/8774/1/a197551.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "c4eeec97d611d2b2970c5388d48e9901885238f34608190e9c33cb8ce820e6f0"
+  }
+}

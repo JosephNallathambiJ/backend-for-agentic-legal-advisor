@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S105",
+  "section_number": "105",
+  "title": "Reasonable time",
+  "text": "105. Reasonable time.—In determining what is a reasonable time for presentment for acceptance or\n\npayment, for giving notice of dishonour and for noting, regard shall be had to the nature of the instrument\nand the usual course of dealing with respect to similar instruments; and, in calculating such time, public\nholidays shall be excluded.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "5deac6d5c0af60d01d8233d33100a158076f7e78a2e66f2c59cffbfa6219911a"
+  }
+}

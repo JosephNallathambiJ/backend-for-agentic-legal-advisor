@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED",
+  "act_title": "The Insurance Act, 1938",
+  "section_id": "ACT_THE_INSURANCE_ACT_1938_UNDATED_S113",
+  "section_number": "113",
+  "title": "Acquisition of surrender value by policy.",
+  "text": "113. Acquisition of surrender value by policy.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-04.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "6fbdf76f8e21337a8bc671b65355904f90fa01ecd79a2c34ad8e70487f1a780f"
+  }
+}

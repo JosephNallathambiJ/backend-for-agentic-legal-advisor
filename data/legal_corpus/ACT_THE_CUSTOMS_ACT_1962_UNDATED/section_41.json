@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED",
+  "act_title": "The Customs Act,1962",
+  "section_id": "ACT_THE_CUSTOMS_ACT_1962_UNDATED_S41",
+  "section_number": "41",
+  "title": "Delivery of departure manifest or export manifest or export report.",
+  "text": "41. Delivery of departure manifest or export manifest or export report.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2475/5/A1962-52.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "63cb694783905e66331782420e147931625b3f74c3409382db6a035e7785af09"
+  }
+}

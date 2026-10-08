@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED",
+  "act_title": "The Employees Compensation Act, 1923",
+  "section_id": "ACT_THE_EMPLOYEES_COMPENSATION_ACT_UNDATED_S9",
+  "section_number": "9",
+  "title": "Diseases caused by the toxic halogen All work involving exposure to the risk concerned.",
+  "text": "9. Diseases caused by the toxic halogen All work involving exposure to the risk concerned.\nderivatives of hydrocarbons (of the\naliphatic and aromatic series).",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/19236/1/a1923-08.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "eb44f8e5aaaf1503a56413d18905bb5e3185932fb3a074d565550c4b261f0334"
+  }
+}

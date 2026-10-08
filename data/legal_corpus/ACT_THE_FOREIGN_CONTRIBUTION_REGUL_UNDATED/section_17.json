@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_FOREIGN_CONTRIBUTION_REGUL_UNDATED",
+  "act_title": "The Foreign Contribution (Regulation) Act, 2010",
+  "section_id": "ACT_THE_FOREIGN_CONTRIBUTION_REGUL_UNDATED_S17",
+  "section_number": "17",
+  "title": "Foreign contribution through scheduled bank.",
+  "text": "17. Foreign contribution through scheduled bank.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2098/1/a2010-42.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "19796ddb11fd47e7033c485981522c7b0baf679ca91ff865d5e36faadce457b4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED",
+  "act_title": "The Delhi Municipal Corporation Act, 1957",
+  "section_id": "ACT_THE_DELHI_MUNICIPAL_CORPORATIO_UNDATED_S345A",
+  "section_number": "345A",
+  "title": "Power to seal unauthorised constructions.",
+  "text": "345A. Power to seal unauthorised constructions.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1410/1/a1957-66.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "76c9adfe89e8a9a249a1a341a0d41643e033e3fe86780986f92d7203ee5c4198"
+  }
+}

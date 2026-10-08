@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED",
+  "act_title": "The Payment and Settlement Systems Act, 2007",
+  "section_id": "ACT_THE_PAYMENT_AND_SETTLEMENT_SYS_UNDATED_S11",
+  "section_number": "11",
+  "title": "Notice of change in the payment system",
+  "text": "11. Notice of change in the payment system.—(1) No system provider shall cause any change in the\n\nsystem which would affect the structure or the operation of the payment system without—\n\n(a) the prior approval of the Reserve Bank; and\n\n(b) giving notice of not less than thirty days to the system participants after the approval of the\n\nReserve Bank:\n\nProvided that in the interest of monetary policy of the country or in public interest, the Reserve\n\nBank may permit the system provider to make any changes in a payment system without giving\nnotice to the system participants under clause (b) or requiring the system provider to give notice for a\nperiod longer than thirty days.\n\n(2) Where the Reserve Bank has any objection, to the proposed change for any reason, it shall\n\ncommunicate such objection to the systems provider within two weeks of receipt of the intimation of the\nproposed changes from the system provider.\n\n(3) The system provider shall, within a period of two weeks of the receipt of the objections from the\n\nReserve Bank forward his comments to the Reserve Bank and the proposed changes may be effected only\nafter the receipt of approval from the Reserve Bank.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2082/4/a2007-51.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "dee715db2bb4d191c72c682656272d287cb32beec1a35a0b79527327f5e77ca6"
+  }
+}

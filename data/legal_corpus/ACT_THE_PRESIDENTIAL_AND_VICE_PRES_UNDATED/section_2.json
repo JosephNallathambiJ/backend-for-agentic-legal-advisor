@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_PRESIDENTIAL_AND_VICE_PRES_UNDATED",
+  "act_title": "The Presidential and Vice-Presidential Elections Act, 1952",
+  "section_id": "ACT_THE_PRESIDENTIAL_AND_VICE_PRES_UNDATED_S2",
+  "section_number": "2",
+  "title": "Every ballot paper represents at each count",
+  "text": "2. Every ballot paper represents at each count—\n\n(a) in a Presidential election, the number of votes as determined under rule 30; and\n\n(b) in a Vice-Presidential election, one vote.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2167/1/195231.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "e6dcb8172ffe1f2e6ff38675ddaa6815f3a13e5fef39ccc1123a7b90900a8e80"
+  }
+}

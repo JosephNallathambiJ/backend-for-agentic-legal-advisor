@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED",
+  "act_title": "The Government Savings Promotion Act, 1873",
+  "section_id": "ACT_THE_GOVERNMENT_SAVINGS_PROMOTI_UNDATED_S15",
+  "section_number": "15",
+  "title": "5-Year National Savings Certificates",
+  "text": "15. 5-Year National Savings Certificates",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2281/1/A1873_05.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "12bc3e3f4252623ec9f2ba4e2e1992568c8c5dc1df4aca4b917702eecaaa03cd"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED",
+  "act_title": "The Commercial Documents Evidence Act, 1939",
+  "section_id": "ACT_THE_COMMERCIAL_DOCUMENTS_EVIDE_UNDATED_S4",
+  "section_number": "4",
+  "title": "Certificate issued by a port, dock, harbour, wharfage or other authority having control of",
+  "text": "4. Certificate issued by a port, dock, harbour, wharfage or other authority having control of\n\nacceptance of goods for shipping, transport or delivery, relating to the date or time of shipment of goods,\narrival of goods for acceptance, arrival of vessels or acceptance or delivery of goods, or to the allocation\nof berthing accommodation to vessels.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2408/1/a1939-30.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "ffdfa4ca3d1ad2d081b7505bf27808e368666c6bea08a8ebb9d63e6c5aded7d4"
+  }
+}

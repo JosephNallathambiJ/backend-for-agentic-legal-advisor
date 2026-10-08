@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED",
+  "act_title": "The Negotiable Instruments Act, 1881",
+  "section_id": "ACT_THE_NEGOTIABLE_INSTRUMENTS_ACT_UNDATED_S131",
+  "section_number": "131",
+  "title": "Non-liability of banker receiving payment of cheque",
+  "text": "131. Non-liability of banker receiving payment of cheque.—A banker who has in good faith and\n\nwithout negligence received payment for a customer of a cheque crossed generally or specially to himself\nshall not, in case the title to the cheque proves defective, incur any liability to the true owner of the\ncheque by reason only of having received such payment.\n\n1[Explanation 2[(I)].— A banker receives payment of a crossed cheque for a customer within the\n\nmeaning of this section notwithstanding that he credits his customer’s account with the amount of the\ncheque before receiving payment thereof.]",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "cd6930081b27ab898349820215a08bed8f232b14ac2056c038839dcc03355a02"
+  }
+}

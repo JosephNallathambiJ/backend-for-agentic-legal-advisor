@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_DELHI_POLICE_ACT_1978_UNDATED",
+  "act_title": "The Delhi Police Act, 1978",
+  "section_id": "ACT_THE_DELHI_POLICE_ACT_1978_UNDATED_S1",
+  "section_number": "1",
+  "title": "Inspector General of Police. Commissioner of Police.",
+  "text": "1. Inspector General of Police. Commissioner of Police.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1742/1/197834.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "7bd5c93be28a8cb8b7c72facc6b058fdcd12cf5fec7087332f58a53ecd7acee3"
+  }
+}

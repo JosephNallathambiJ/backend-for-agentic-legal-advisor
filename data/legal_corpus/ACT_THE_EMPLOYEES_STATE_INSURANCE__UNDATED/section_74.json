@@ -1,0 +1,14 @@
+{
+  "act_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED",
+  "act_title": "The Employees State Insurance Act, 1948",
+  "section_id": "ACT_THE_EMPLOYEES_STATE_INSURANCE__UNDATED_S74",
+  "section_number": "74",
+  "title": "Constitution of Employees’ Insurance Court",
+  "text": "74. Constitution of Employees’ Insurance Court.—(1) The State Government shall, by notification\n\nin the Official Gazette, constitute an Employees’ Insurance Court for such local area as may be specified\nin the notification.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/1441/6/a1948-34.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "863e9a5b1f25c546132df71ebd9a200a7c9b1710f5084bc08786ae7dae09dc2a"
+  }
+}

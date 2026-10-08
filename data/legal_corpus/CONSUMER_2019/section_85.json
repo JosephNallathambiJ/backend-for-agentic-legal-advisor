@@ -1,0 +1,14 @@
+{
+  "act_id": "CONSUMER_2019",
+  "act_title": "The Consumer Protection Act, 2019",
+  "section_id": "CONSUMER_2019_S85",
+  "section_number": "85",
+  "title": "Liability of product service provider",
+  "text": "85. Liability of product service provider.—A product service provider shall be liable in a product\n\nliability action, if—\n\n(a) the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or\n\nmanner of performance which is required to be provided by or under any law for the time being in force,\nor pursuant to any contract or otherwise; or\n\n(b) there was an act of omission or commission or negligence or conscious withholding any\n\ninformation which caused harm; or\n\n(c) the service provider did not issue adequate instructions or warnings to prevent any harm; or\n\n(d) the service did not conform to express warranty or the terms and conditions of the contract.",
+  "source": {
+    "type": "official_local_snapshot",
+    "official_url": "https://www.indiacode.nic.in/bitstream/123456789/15256/5/A2019-35.pdf",
+    "version": "official_gazette_2023",
+    "sha256": "b065edc1f2639f66a807a43382d1a75e3bfef792ef7eceb72f154cbac6229148"
+  }
+}
