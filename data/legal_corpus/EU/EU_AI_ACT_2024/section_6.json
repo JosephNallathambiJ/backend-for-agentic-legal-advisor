@@ -1,0 +1,9 @@
+{
+  "act_id": "EU_AI_ACT_2024",
+  "section_number": "6",
+  "title": "Classification rules for high-risk AI systems",
+  "text": "Irrespective of whether an AI system is placed on the market or put into service independently from the products referred to in points (a) and (b), that AI system shall be considered high-risk where both of the following conditions are fulfilled: the AI system is intended to be used as a safety component of a product, or the AI system is itself a product covered by the Union harmonisation legislation listed in Annex I.",
+  "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
+  "sha256": "44ab0cb17af22e33902723ec02e5c3d0cc2ec4065ef796125f03e4f35135cd78",
+  "jurisdiction": "EU"
+}

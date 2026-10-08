@@ -1,15 +1,9 @@
 {
-  "jurisdiction": "US",
   "act_id": "US_TITLE_18",
-  "act_title": "United States Code Title 18 — Crimes and Criminal Procedure",
-  "section_id": "US_TITLE_18_S1001",
   "section_number": "1001",
-  "title": "Statements or entries generally",
-  "text": "Except as otherwise provided in this section, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact; makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry; shall be fined under this title, imprisoned not more than 5 years.",
-  "source": {
-    "type": "official_local_snapshot",
-    "official_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title18&edition=prelim",
-    "version": "1948_official_edition",
-    "sha256": "805dece894407d2790976e4d2a13db19cec5a676f3335b56cb5b69569a301ee8"
-  }
+  "title": "Statements or entries generally (False Statements to Federal Agencies)",
+  "text": "Except as otherwise provided in this section, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact or makes any materially false, fictitious, or fraudulent statement or representation shall be fined under this title, imprisoned not more than 5 years.",
+  "source_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title18&edition=prelim",
+  "sha256": "88b5cb4fb3bc33f6489f7b9afd54844e46652a661d5ffa027e1d36a4c45f613c",
+  "jurisdiction": "US"
 }

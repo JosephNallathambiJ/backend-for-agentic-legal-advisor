@@ -1,15 +1,9 @@
 {
-  "jurisdiction": "US",
   "act_id": "US_UCC_ART_2",
-  "act_title": "Uniform Commercial Code — Article 2: Sales",
-  "section_id": "US_UCC_ART_2_S2-719",
   "section_number": "2-719",
   "title": "Contractual Modification or Limitation of Remedy",
   "text": "The agreement may provide for remedies in addition to or in substitution for those provided in this Article and may limit or alter the measure of damages recoverable under this Article, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of non-conforming goods or parts.",
-  "source": {
-    "type": "official_local_snapshot",
-    "official_url": "https://www.law.cornell.edu/ucc/2",
-    "version": "1951_official_edition",
-    "sha256": "3f123b576dc16b4f48869ee3cba7caafb6a1a38ba1b783976da3a80819d17589"
-  }
+  "source_url": "https://www.law.cornell.edu/ucc/2",
+  "sha256": "3f123b576dc16b4f48869ee3cba7caafb6a1a38ba1b783976da3a80819d17589",
+  "jurisdiction": "US"
 }

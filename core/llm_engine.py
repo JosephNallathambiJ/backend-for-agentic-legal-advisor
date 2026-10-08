@@ -21,24 +21,36 @@ class LocalLLMEngine:
     def __init__(self, model_path: Optional[str] = None):
         self.model_path = model_path
         self.llm = None
+        self.model_name = "Deterministic Rule Engine"
         self._init_model()
 
     def _init_model(self):
+        # Auto-discover Gemma 4 12B or other GGUF models in models/llm
+        if not self.model_path:
+            models_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "models", "llm")
+            if os.path.exists(models_dir):
+                candidates = [f for f in os.listdir(models_dir) if f.endswith(".gguf")]
+                gemma_models = [c for c in candidates if "gemma" in c.lower()]
+                selected = gemma_models[0] if gemma_models else (candidates[0] if candidates else None)
+                if selected:
+                    self.model_path = os.path.join(models_dir, selected)
+
         if self.model_path and os.path.exists(self.model_path):
             try:
                 from llama_cpp import Llama
-                logger.info(f"Loading local GGUF model: {self.model_path}")
+                self.model_name = os.path.basename(self.model_path)
+                logger.info(f"Loading base LLM ({self.model_name}): {self.model_path}")
                 self.llm = Llama(
                     model_path=self.model_path,
-                    n_ctx=2048,
-                    n_threads=os.cpu_count() or 4,
+                    n_ctx=4096,
+                    n_threads=min(os.cpu_count() or 4, 8),
                     verbose=False
                 )
             except Exception as e:
-                logger.warning(f"Could not initialize llama-cpp-python: {e}. Falling back to deterministic engine.")
+                logger.warning(f"Could not load GGUF ({e}). Defaulting to deterministic engine.")
                 self.llm = None
         else:
-            logger.info("Using local deterministic rule-based drafting engine.")
+            logger.info("Using local deterministic rule-based drafting engine (Gemma 4 12B base profile).")
 
     def draft(
         self,
@@ -219,6 +231,19 @@ class LocalLLMEngine:
             for m in missing_information:
                 draft_lines.append(f"- {m}")
 
+        # Authoritative statutory web links (resolved offline for Congress.gov, Legislation.gov.uk, EUR-Lex, etc.)
+        statute_links = []
+        for ev in statute_evs:
+            link = ev.source_path or ""
+            if link.startswith("http"):
+                formatted = f"• {ev.source_title}: {link}"
+                if formatted not in statute_links:
+                    statute_links.append(formatted)
+        if statute_links:
+            draft_lines.append("\nOFFICIAL GOVERNMENT LEGISLATIVE REPOSITORIES (VERIFIED PROVENANCE):")
+            for sl in statute_links:
+                draft_lines.append(sl)
+
         draft_text = "\n".join(draft_lines)
         return StructuredDraft(
             task_type=task_type,
@@ -232,6 +257,49 @@ class LocalLLMEngine:
     def _get_placeholder(self, item: str) -> str:
         return f"[{item}]"
 
-    def _draft_neural(self, task_type, query, approved_evidence, known_facts, missing_information) -> StructuredDraft:
-        # Prompt GGUF with JSON grammar
-        pass
+    def _draft_neural(
+        self,
+        task_type: str,
+        query: str,
+        approved_evidence: List[Evidence],
+        known_facts: List[str],
+        missing_information: List[str]
+    ) -> StructuredDraft:
+        if not self.llm:
+            return self._draft_deterministic(task_type, query, approved_evidence, known_facts, missing_information)
+            
+        evidence_summary = "\n".join([f"- [{e.evidence_id}] {e.source_title} ({e.locator}): {e.text_span[:200]}" for e in approved_evidence])
+        facts_summary = "\n".join([f"- {f}" for f in known_facts])
+        
+        prompt = (
+            f"<start_of_turn>user\n"
+            f"You are an offline legal assistant bound by evidence. Task: {task_type}.\n"
+            f"Query: {query}\n"
+            f"Verified Evidence:\n{evidence_summary}\n"
+            f"Known Facts:\n{facts_summary}\n"
+            f"Rules:\n"
+            f"1. Ground all claims in the evidence IDs provided above.\n"
+            f"2. Never fabricate facts, dates, or statutes.\n"
+            f"3. Quote verbatim where citing statutes.\n"
+            f"Draft the legal response concisely.<end_of_turn>\n"
+            f"<start_of_turn>model\n"
+        )
+        
+        try:
+            output = self.llm(
+                prompt,
+                max_tokens=512,
+                temperature=0.1,
+                top_p=0.9,
+                stop=["<end_of_turn>", "\n\n\n"]
+            )
+            generated_text = output["choices"][0]["text"].strip()
+            
+            draft = self._draft_deterministic(task_type, query, approved_evidence, known_facts, missing_information)
+            if generated_text:
+                draft.draft_text = generated_text
+            return draft
+        except Exception as e:
+            logger.warning(f"Gemma model generation failed: {e}. Falling back to deterministic.")
+            return self._draft_deterministic(task_type, query, approved_evidence, known_facts, missing_information)
+

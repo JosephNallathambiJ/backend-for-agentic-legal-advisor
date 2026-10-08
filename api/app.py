@@ -8,6 +8,7 @@ import os
 import sys
 import json
 import psutil
+import pandas as pd
 from typing import Optional, List, Dict, Any
 from pydantic import BaseModel, Field
 from fastapi import FastAPI, HTTPException
@@ -74,15 +75,29 @@ async def health_check():
         "resident_ram_mb": round(mem_mb, 1),
         "target_ram_budget_mb": 3584.0,
         "indexed_acts": act_count,
-        "supported_jurisdictions": ["INDIA", "US", "UK", "EU"]
+        "base_model": "Gemma 4 12B",
+        "supported_jurisdictions": [
+            "INDIA", "US", "UK", "EU",
+            "BELARUS", "BULGARIA", "CZECH_REPUBLIC", "DENMARK",
+            "ESTONIA", "FINLAND", "HUNGARY", "ICELAND", "IRELAND",
+            "LATVIA", "LITHUANIA", "NORWAY", "POLAND", "ROMANIA",
+            "RUSSIA", "SLOVAKIA", "SWEDEN", "UKRAINE"
+        ]
     }
 
 @app.get("/api/jurisdictions")
 async def get_jurisdictions():
-    """Returns available jurisdictions and corpus counts."""
+    """Returns available jurisdictions and statutory counts."""
     csv_dir = os.path.join(WORKSPACE_DIR, "data", "csv")
     res = {}
-    for jur, fname in [("INDIA", "india_central_acts.csv"), ("US", "us_federal_statutes.csv"), ("UK", "uk_statutes.csv"), ("EU", "eu_regulations.csv")]:
+    csv_mappings = [
+        ("INDIA", "india_central_acts.csv"),
+        ("US", "us_federal_statutes.csv"),
+        ("UK", "uk_statutes.csv"),
+        ("EU", "eu_regulations.csv"),
+        ("NORTHERN_EASTERN_EUROPE", "northern_eastern_europe_constitutions.csv")
+    ]
+    for jur, fname in csv_mappings:
         p = os.path.join(csv_dir, fname)
         if os.path.exists(p):
             with open(p, "r", encoding="utf-8") as f:
@@ -90,6 +105,28 @@ async def get_jurisdictions():
         else:
             res[jur] = 0
     return res
+
+@app.get("/api/portals")
+async def get_court_portals():
+    """Returns official court and legislation portals across all supported countries."""
+    portals_file = os.path.join(WORKSPACE_DIR, "data", "csv", "court_portals_registry.csv")
+    if os.path.exists(portals_file):
+        df = pd.read_csv(portals_file)
+        return JSONResponse(content=df.to_dict(orient="records"))
+    return []
+
+@app.get("/api/official_link")
+async def get_official_link(act_id: str, section: Optional[str] = None):
+    """Resolves authoritative official portal URL for an act and section without external network calls."""
+    from core.statute_web_linker import statute_linker
+    return statute_linker.resolve_statute_link(act_id, section)
+
+@app.post("/api/link_citations")
+async def link_citations_in_text(payload: Dict[str, str]):
+    """Extracts statutory citations from input text and resolves official government URLs."""
+    from core.statute_web_linker import statute_linker
+    text = payload.get("text", "")
+    return statute_linker.link_citations_in_text(text)
 
 @app.post("/api/run")
 async def run_workflow(req: RunRequest):

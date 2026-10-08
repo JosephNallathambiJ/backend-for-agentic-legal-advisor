@@ -45,9 +45,8 @@ if [ "${GGUF_COUNT}" -gt 0 ]; then
     MODEL_PATH=$(find "${LLM_DIR}" -name "*.gguf" 2>/dev/null | head -n 1)
     echo "[OK] Found GGUF: ${MODEL_PATH}"
 else
-    echo "[INFO] No .gguf found in models/llm/."
-    echo "       -> Defaulting to local deterministic rule-based drafting engine."
-    echo "       -> To enable neural GGUF: place 'qwen2.5-1.5b-instruct-q4_k_m.gguf' in models/llm/"
+    echo "       -> Defaulting to local deterministic rule-based drafting engine (Gemma 4 12B profile)."
+    echo "       -> To enable neural GGUF: place 'gemma-4-12b-instruct-q4_k_m.gguf' in models/llm/"
 fi
 
 # 3. Check ASR

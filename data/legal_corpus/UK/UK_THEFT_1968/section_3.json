@@ -1,15 +1,9 @@
 {
-  "jurisdiction": "UK",
   "act_id": "UK_THEFT_1968",
-  "act_title": "Theft Act 1968 (c. 60)",
-  "section_id": "UK_THEFT_1968_S3",
   "section_number": "3",
-  "title": "Appropriates",
+  "title": "'Appropriates'",
   "text": "Any assumption by a person of the rights of an owner amounts to an appropriation, and this includes, where he has come by the property (innocently or not) without stealing it, any later assumption of a right to it by keeping or dealing with it as owner.",
-  "source": {
-    "type": "official_local_snapshot",
-    "official_url": "https://www.legislation.gov.uk/ukpga/1968/60/contents",
-    "version": "1968_official_edition",
-    "sha256": "2ea4a225489d72eca5ca1830893d4f8728e91e750f57ef5123ba1861ccdc2599"
-  }
+  "source_url": "https://www.legislation.gov.uk/ukpga/1968/60/contents",
+  "sha256": "2ea4a225489d72eca5ca1830893d4f8728e91e750f57ef5123ba1861ccdc2599",
+  "jurisdiction": "UK"
 }

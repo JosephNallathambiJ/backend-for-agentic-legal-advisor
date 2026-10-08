@@ -17,7 +17,7 @@ DATE_EXTRACTION = re.compile(
 
 # Currency / amount regex
 AMOUNT_EXTRACTION = re.compile(
-    r"(?:Rs\.?|INR|₹)\s*([\d,]+(?:\.\d{2})?)",
+    r"(?:Rs\.?|INR|₹|\$|USD|£|GBP|€|EUR)\s*([\d,]+(?:\.\d{2})?)",
     re.IGNORECASE
 )
 

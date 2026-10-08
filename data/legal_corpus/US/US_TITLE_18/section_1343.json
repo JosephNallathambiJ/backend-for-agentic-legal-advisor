@@ -1,15 +1,9 @@
 {
-  "jurisdiction": "US",
   "act_id": "US_TITLE_18",
-  "act_title": "United States Code Title 18 — Crimes and Criminal Procedure",
-  "section_id": "US_TITLE_18_S1343",
   "section_number": "1343",
-  "title": "Fraud by wire, radio, or television",
-  "text": "Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, transmits or causes to be transmitted by means of wire, radio, or television communication in interstate or foreign commerce, any writings, signs, signals, pictures, or sounds for the purpose of executing such scheme or artifice, shall be fined under this title or imprisoned not more than 20 years, or both.",
-  "source": {
-    "type": "official_local_snapshot",
-    "official_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title18&edition=prelim",
-    "version": "1948_official_edition",
-    "sha256": "dbfff2cce3a5944c6fcad293943340c994cf145c4e50dc03d63fdaead442ddce"
-  }
+  "title": "Fraud by wire, radio, or television (Wire Fraud)",
+  "text": "Whoever, having devised or intending to devise any scheme or artifice to defraud, transmits or causes to be transmitted by means of wire, radio, or television communication in interstate or foreign commerce, any writings, signs, signals, pictures, or sounds for the purpose of executing such scheme or artifice, shall be fined under this title or imprisoned not more than 20 years, or both.",
+  "source_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title18&edition=prelim",
+  "sha256": "eca30377eb21d4467580d5b557b944bdabeac2d3851352d8070914e556941f2e",
+  "jurisdiction": "US"
 }

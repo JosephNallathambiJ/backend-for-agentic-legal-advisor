@@ -8,6 +8,7 @@ import os
 import sys
 import argparse
 import json
+import re
 
 WORKSPACE_DIR = os.path.dirname(os.path.abspath(__file__))
 if WORKSPACE_DIR not in sys.path:
@@ -72,6 +73,38 @@ SCENARIO_MAP = {
         "contract_case_review",
         "Assess compliance under Article 5 of the EU AI Act",
         "Vendor proposes deploying real-time biometric and subliminal emotion-manipulating software in commercial workplaces."
+    ),
+
+    # NORTHERN & EASTERN EUROPE
+    "belarus_const": (
+        "legal_research",
+        "Evaluate personal liberty under Article 25 of Belarus Constitution",
+        "Detained citizen challenges unlawful multi-day detention without judicial order in Minsk (+375)."
+    ),
+    "bulgaria_const": (
+        "legal_research",
+        "Evaluate presumption of innocence under Article 31 of Bulgarian Constitution",
+        "Defendant in Sofia (+359) was subjected to coercive confession prior to presentation before a magistrate."
+    ),
+    "poland_const": (
+        "legal_research",
+        "Analyze penal legality principle under Article 42 of Polish Constitution",
+        "Petitioner in Warsaw (+48) was charged under retroactive penal regulation not in force at time of occurrence."
+    ),
+    "sweden_const": (
+        "legal_research",
+        "Review fair trial rights under Chapter 2 Section 11 of Swedish Constitution",
+        "Appellant in Stockholm (+46) asserts closed-door proceeding breached constitutional public trial mandates."
+    ),
+    "ukraine_const": (
+        "legal_research",
+        "Review rule of law and constitutional supremacy under Article 8 of Ukrainian Constitution",
+        "Petitioner in Kyiv (+380) challenges subordinate administrative regulation contradicting supreme constitutional force."
+    ),
+    "us_constitution": (
+        "legal_research",
+        "Assess Fourth Amendment protections under Constitution of the United States",
+        "Federal agents conducted warrantless search and seizure of private records without probable cause or warrant."
     )
 }
 
@@ -82,9 +115,56 @@ def main():
     parser.add_argument("--file", type=str, help="Path to input case PDF, TXT, or MD")
     parser.add_argument("--text", type=str, help="Inline raw text dossier")
     parser.add_argument("--scenario", choices=list(SCENARIO_MAP.keys()), help="Run pre-configured benchmark scenario")
+    parser.add_argument("--portals", action="store_true", help="Display official court and legislation portals by country")
+    parser.add_argument("--link", type=str, help="Resolve official government portal URL for any statute or citation (US Congress.gov, UK Legislation.gov.uk, EUR-Lex, etc.)")
     parser.add_argument("--json", action="store_true", help="Output full JSON result instead of formatted terminal summary")
 
     args = parser.parse_args()
+
+    if args.link:
+        from core.statute_web_linker import statute_linker
+        from core.legal_router import LegalRouter
+        router = LegalRouter()
+        jurisdiction, act_ids = router.route_query(args.link)
+        act_id = act_ids[0] if act_ids else "US_CONST_1787"
+        sec_match = re.search(r"\b(?:section|sec\.?|s\.|article|art\.?)\s*([0-9]+[A-Z0-9\-_.:]*)", args.link, re.IGNORECASE)
+        sec_num = sec_match.group(1) if sec_match else None
+        info = statute_linker.resolve_statute_link(act_id, sec_num)
+        if args.json:
+            print(json.dumps(info, indent=2))
+        else:
+            print("\n" + "=" * 75)
+            print("OFFICIAL GOVERNMENT LEGISLATIVE REPOSITORY RESOLVER (AIR-GAPPED)")
+            print("=" * 75)
+            print(f"Query / Citation:     {args.link}")
+            print(f"Jurisdiction:         {info['jurisdiction']}")
+            print(f"Statutory Act:        {info['act_title']}")
+            if info['section_number']:
+                print(f"Section / Article:    {info['section_number']}")
+            print(f"Authoritative Portal: {info['portal_name']}")
+            print(f"Managing Authority:   {info['managing_authority']}")
+            print(f"Official Act URL:     {info['official_act_url']}")
+            print(f"Official Section URL: {info['official_section_url']}")
+            print("=" * 75 + "\n")
+        return
+
+    if args.portals:
+        portals_csv = os.path.join(WORKSPACE_DIR, "data", "csv", "court_portals_registry.csv")
+        if os.path.exists(portals_csv):
+            import pandas as pd
+            df = pd.read_csv(portals_csv)
+            if args.json:
+                print(json.dumps(df.to_dict(orient="records"), indent=2))
+            else:
+                print("\n" + "=" * 95)
+                print(f"{'COUNTRY':<18} {'DIAL':<6} {'LEGISLATION PORTAL':<32} {'COURT PORTAL'}")
+                print("=" * 95)
+                for _, r in df.iterrows():
+                    print(f"{r['country']:<18} {r['dial_code']:<6} {str(r['legislation_portal_url']):<32} {str(r['supreme_court_portal_url'])}")
+                print("=" * 95 + "\n")
+        else:
+            print("Portals registry not found.")
+        return
 
     workflow = args.workflow
     query = args.query

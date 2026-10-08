@@ -1,15 +1,9 @@
 {
-  "jurisdiction": "US",
   "act_id": "US_UCC_ART_2",
-  "act_title": "Uniform Commercial Code — Article 2: Sales",
-  "section_id": "US_UCC_ART_2_S2-201",
   "section_number": "2-201",
   "title": "Formal Requirements; Statute of Frauds",
   "text": "Except as otherwise provided in this section a contract for the sale of goods for the price of $500 or more is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought or by his authorized agent or broker.",
-  "source": {
-    "type": "official_local_snapshot",
-    "official_url": "https://www.law.cornell.edu/ucc/2",
-    "version": "1951_official_edition",
-    "sha256": "239a381cf35402f91c1faee3c9783e32fc77e6f9b0a1edfcda7624901fe6e2f3"
-  }
+  "source_url": "https://www.law.cornell.edu/ucc/2",
+  "sha256": "239a381cf35402f91c1faee3c9783e32fc77e6f9b0a1edfcda7624901fe6e2f3",
+  "jurisdiction": "US"
 }

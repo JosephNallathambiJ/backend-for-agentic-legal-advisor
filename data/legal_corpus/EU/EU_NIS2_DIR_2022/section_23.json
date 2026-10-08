@@ -1,0 +1,9 @@
+{
+  "act_id": "EU_NIS2_DIR_2022",
+  "section_number": "23",
+  "title": "Reporting obligations for significant incidents",
+  "text": "Each Member State shall ensure that essential and important entities notify, without undue delay, its CSIRT or competent authority of any significant incident. An incident shall be considered to be significant if it has caused or is capable of causing severe operational disruption of the services or financial loss.",
+  "source_url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+  "sha256": "963a7e72bf71beca65e772fc32d57814e783163f2acebca77c22d2163b8b4d0c",
+  "jurisdiction": "EU"
+}

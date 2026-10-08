@@ -39,12 +39,12 @@ class LocalLegalRetriever:
         conn = sqlite3.connect(self.db_path)
         cur = conn.cursor()
         
-        # Query section with act info
+        # Query section with act info (using LEFT JOIN so sections always resolve even if act metadata table is sparse)
         cur.execute("""
-            SELECT s.section_id, s.act_id, a.act_title, s.section_number, s.title, s.text, s.source_url, s.sha256, COALESCE(s.jurisdiction, a.jurisdiction, 'INDIA')
+            SELECT s.section_id, s.act_id, COALESCE(a.act_title, s.title, s.act_id), s.section_number, s.title, s.text, s.source_url, s.sha256, COALESCE(s.jurisdiction, a.jurisdiction, 'INDIA')
             FROM sections s
-            JOIN acts a ON s.act_id = a.act_id
-            WHERE s.act_id = ? AND s.section_number = ?
+            LEFT JOIN acts a ON s.act_id = a.act_id
+            WHERE s.act_id = ? AND UPPER(s.section_number) = ?
             LIMIT 1
         """, (act_id, clean_sec))
         
@@ -56,10 +56,12 @@ class LocalLegalRetriever:
 
         sec_id, aid, act_title, sec_num, sec_title, sec_text, source_url, sec_hash, jur = row
         
+        full_title = f"{act_title} - {sec_title}" if sec_title and sec_title not in act_title else act_title
+
         # Register in EvidenceLedger
         evidence = self.ledger.add_statute_evidence(
             act_id=aid,
-            act_title=act_title,
+            act_title=full_title,
             section_number=sec_num,
             text=sec_text,
             source_url=source_url or "https://indiacode.nic.in",

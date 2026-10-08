@@ -1,15 +1,9 @@
 {
-  "jurisdiction": "UK",
   "act_id": "UK_THEFT_1968",
-  "act_title": "Theft Act 1968 (c. 60)",
-  "section_id": "UK_THEFT_1968_S2",
   "section_number": "2",
-  "title": "Dishonesty",
-  "text": "A person's appropriation of property belonging to another is not to be regarded as dishonest if he appropriates the property in the belief that he has in law the right to deprive the other of it, on behalf of himself or of a third person; or if he appropriates the property in the belief that he would have the other's consent if the other knew of the appropriation and the circumstances of it.",
-  "source": {
-    "type": "official_local_snapshot",
-    "official_url": "https://www.legislation.gov.uk/ukpga/1968/60/contents",
-    "version": "1968_official_edition",
-    "sha256": "fcac9234f0b29ba32a353484738a028c8f40f8d20b5185ddcb1792ffabdc9475"
-  }
+  "title": "'Dishonestly'",
+  "text": "A person's appropriation of property belonging to another is not to be regarded as dishonest if he appropriates the property in the belief that he has in law the right to deprive the other of it, or in the belief that he would have the other's consent if the other knew of the appropriation and the circumstances of it.",
+  "source_url": "https://www.legislation.gov.uk/ukpga/1968/60/contents",
+  "sha256": "333745d34e9be05c05da464a363982afa9b4abb25e38b6a5fbc6fd57303419a3",
+  "jurisdiction": "UK"
 }

@@ -62,9 +62,9 @@ class NLIVerifier:
             diff = hyp_numbers - prem_numbers
             return "UNCERTAIN", 0.4, f"Hypothesis contains numbers/dates not present in evidence or metadata: {diff}"
 
-        # 4. Content Word Coverage with Stemming (Jaccard / Substring overlap)
+        # 4. Content Word Coverage with Stemming & Morphological Alignment
         def _stem(w: str) -> str:
-            for suff in ["ing", "es", "ed", "s"]:
+            for suff in ["tion", "sion", "ence", "ance", "ity", "ing", "es", "ed", "al", "ic", "s"]:
                 if w.endswith(suff) and len(w) > len(suff) + 2:
                     return w[:-len(suff)]
             return w
@@ -82,7 +82,20 @@ class NLIVerifier:
         prem_words = set(re.findall(r"\b[a-z]{3,}\b", f"{premise_clean} {meta_clean}"))
         prem_stems = {_stem(w) for w in prem_words}
         
-        matched = {w for w in meaningful_hyp_words if _stem(w) in prem_stems or w in prem_words}
+        def _is_matched(w: str) -> bool:
+            if w in prem_words or _stem(w) in prem_stems or _stem(w) in prem_words:
+                return True
+            if len(w) >= 5:
+                w_pfx = w[:5]
+                for pw in prem_words:
+                    if pw.startswith(w_pfx):
+                        return True
+                for ps in prem_stems:
+                    if ps.startswith(w_pfx):
+                        return True
+            return False
+
+        matched = {w for w in meaningful_hyp_words if _is_matched(w)}
         overlap_ratio = len(matched) / len(meaningful_hyp_words)
 
         if overlap_ratio >= 0.40:

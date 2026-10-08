@@ -15,9 +15,11 @@ legal_corpus:
 
 llm:
   engine: "local"
-  model_path: "./models/llm/qwen2.5-1.5b-instruct-q4_k_m.gguf"
-  context_size: 2048
-  max_tokens: 256
+  model_name: "gemma-4-12b"
+  model_path: "./models/llm/gemma-4-12b-instruct-q4_k_m.gguf"
+  architecture: "gemma"
+  context_size: 4096
+  max_tokens: 512
   temperature: 0.1
   top_p: 0.9
 

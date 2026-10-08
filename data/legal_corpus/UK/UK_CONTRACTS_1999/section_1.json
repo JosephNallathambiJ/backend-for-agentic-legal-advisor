@@ -1,15 +1,9 @@
 {
-  "jurisdiction": "UK",
   "act_id": "UK_CONTRACTS_1999",
-  "act_title": "Contracts (Rights of Third Parties) Act 1999 (c. 31)",
-  "section_id": "UK_CONTRACTS_1999_S1",
   "section_number": "1",
   "title": "Right of third party to enforce contractual term",
   "text": "Subject to the provisions of this Act, a person who is not a party to a contract (a 'third party') may in his own right enforce a term of the contract if the contract expressly provides that he may, or subject to subsection (2), the term purports to confer a benefit on him.",
-  "source": {
-    "type": "official_local_snapshot",
-    "official_url": "https://www.legislation.gov.uk/ukpga/1999/31/contents",
-    "version": "1999_official_edition",
-    "sha256": "e315df934b1fa1bd5461f87575796bbda8a700d0708ebecdf8463300b657e345"
-  }
+  "source_url": "https://www.legislation.gov.uk/ukpga/1999/31/contents",
+  "sha256": "e315df934b1fa1bd5461f87575796bbda8a700d0708ebecdf8463300b657e345",
+  "jurisdiction": "UK"
 }

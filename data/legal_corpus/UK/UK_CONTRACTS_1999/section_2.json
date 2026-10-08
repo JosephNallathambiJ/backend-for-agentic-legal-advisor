@@ -1,15 +1,9 @@
 {
-  "jurisdiction": "UK",
   "act_id": "UK_CONTRACTS_1999",
-  "act_title": "Contracts (Rights of Third Parties) Act 1999 (c. 31)",
-  "section_id": "UK_CONTRACTS_1999_S2",
   "section_number": "2",
   "title": "Variation and rescission of contract",
   "text": "Subject to this section, where a third party has a right under section 1 to enforce a term of the contract, the parties to the contract may not, by agreement, rescind the contract, or vary it in such a way as to extinguish or alter his entitlement under that right, without his consent.",
-  "source": {
-    "type": "official_local_snapshot",
-    "official_url": "https://www.legislation.gov.uk/ukpga/1999/31/contents",
-    "version": "1999_official_edition",
-    "sha256": "1214505b883b723d6080fcd2204363e0dfacd8a0dfa4c203d2bb1c9edc2882bb"
-  }
+  "source_url": "https://www.legislation.gov.uk/ukpga/1999/31/contents",
+  "sha256": "1214505b883b723d6080fcd2204363e0dfacd8a0dfa4c203d2bb1c9edc2882bb",
+  "jurisdiction": "UK"
 }

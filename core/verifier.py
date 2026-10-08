@@ -108,21 +108,26 @@ class DeterministicVerifier:
                     if not matched:
                         citation_issues.append(f"UNVERIFIED_CITATION:{cite_id}")
 
-            sec_mentions = re.findall(r"\b(?:section|article|sec\.?|art\.?)\s*([0-9]+[A-Z0-9\-_]*)\b", claim.text, re.IGNORECASE)
+            sec_mentions = re.findall(r"\b(?:section|article|sec\.?|art\.?)\s*([0-9]+[A-Z0-9\-:_]*)\b", claim.text, re.IGNORECASE)
             for sm in sec_mentions:
                 is_citing_statute = (
                     claim.claim_type == "statutory" or
                     any(term in claim.text.lower() for term in [
                         "bns", "bnss", "bsa", "act", "sanhita", "code", "adhiniyam",
-                        "gdpr", "ucc", "usc", "regulation", "title", "theft act"
+                        "gdpr", "ucc", "usc", "regulation", "title", "theft act", "constitution"
                     ])
                 )
                 if is_citing_statute:
                     statute_found = False
                     for ev in self.ledger.list_evidence():
                         if ev.evidence_type == "statute":
-                            # Check exact section or Act title naming
-                            if ev.section == sm or (ev.source_title and f"Article {sm}" in ev.source_title):
+                            ev_sec = (ev.section or "").strip()
+                            if (
+                                ev_sec == sm or
+                                (":" in ev_sec and (ev_sec.endswith(f":{sm}") or ev_sec.split(":")[-1] == sm)) or
+                                (ev.source_title and (f"Article {sm}" in ev.source_title or f"Section {sm}" in ev.source_title)) or
+                                (ev.locator and (f"Sec{sm}" in ev.locator or ev.locator.endswith(f":{sm}")))
+                            ):
                                 statute_found = True
                                 break
                     if not statute_found:
